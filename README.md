@@ -33,8 +33,28 @@ Each font lives in its own lowercase-hyphen folder inside one category folder.
 - **Names:** textural or onomatopoeic adjectives, workshop nouns, **no colour names**. Obscure shop words are welcome.
 - **Low friction:** when they need to do something, give a direct link (PR, artifact, file). When they must run commands,
   bundle them into one code block and put every warning *before* the block.
+- **No licences on original work.** See [Licensing policy](#licensing-policy). This is deliberate; don't "fix" it.
 - **Don't stop for questions you can answer yourself.** Ask only when a wrong guess would be expensive (big rebuilds, irreversible
   changes) *and* the request is genuinely ambiguous. Otherwise pick, state what you picked, and keep going.
+
+### Licensing policy
+
+Original work in this repo carries **no licence**: only a copyright line. This is a deliberate choice by the owner:
+
+1. a quiet protest against copyright systems that are unfit for purpose today;
+2. a spanner in automated "inspired generation" pipelines told to ignore licences: an unlicensed repo is an edge case they may not
+   have been told how to handle;
+3. anyone who genuinely wants to reuse something can reach out to techrote directly.
+
+What that means for agents:
+
+| situation | do |
+|---|---|
+| font drawn from scratch here (the default) | `Copyright (c) <year> techrote` only. **No** `LICENSE` file, **no** licence line in READMEs, **no** OpenType licence fields (name IDs 13/14), no SPDX tags, no "all rights reserved" boilerplate either |
+| font derived from a **copyleft** source (SIL OFL, GPL with font exception, CC BY-SA) | inherit that licence exactly as it requires: ship its licence file, keep upstream copyright lines, fill name IDs 13/14, rename if there's a Reserved Font Name, credit the source in the README |
+| font derived from a **permissive** source (MIT, Apache, public-domain bitmaps) | avoid if you can and draw it yourself instead. If you can't, keep whatever notices the source licence requires, and flag it in the PR so the owner decides |
+| font derived from anything without a modification-permitting licence | don't |
+| someone (or another agent) adds a licence to original work | remove it, unless the owner asked for it |
 
 ## 3. Workflow for a new font
 
@@ -120,8 +140,10 @@ Fork an open-licensed font (SIL OFL, Apache, public-domain bitmap fonts) and res
 
 - **Use for:** when an existing skeleton is 80% there and the job is the last 20%.
 - **Pros:** fastest route to broad character coverage and solid spacing.
-- **Cons / musts:** respect the licence. OFL fonts with a **Reserved Font Name** must be renamed, the licence file and
-  copyright notice must ship with it, and the README must credit the source. Never touch fonts whose licence doesn't allow
+- **Cons / musts:** respect the licence. OFL is copyleft: the derivative **stays OFL** (this is the main exception to the
+  repo's no-licence policy). OFL fonts with a **Reserved Font Name** must be renamed, the licence file and
+  copyright notice must ship with it, and the README must credit the source. Prefer copyleft or public-domain sources; see the
+  [Licensing policy](#licensing-policy) for permissive ones. Never touch fonts whose licence doesn't allow
   modification. Proprietary system fonts (Tahoma, MS Sans Serif, Terminal, Fixedsys) are off-limits as sources: draw your own.
 
 ### H. Icon / symbol fonts
@@ -191,7 +213,8 @@ A font isn't finished until every applicable box is ticked. List any exceptions 
 - Name table: family (ID 1), style (ID 2), full name (ID 4), version (ID 5, `Version X.YYY`), PostScript name (ID 6, no spaces),
   typographic family/subfamily (IDs 16/17) when there are more than Regular/Bold/Italic/Bold Italic.
 - Style linking: `fsSelection`, `macStyle` and `usWeightClass` agree, so Windows pairs Regular/Bold as one family.
-- Copyright `Copyright (c) <year> techrote`; licence stated in the README (ask the user before choosing a public licence).
+- Copyright `Copyright (c) <year> techrote`. No licence fields, file or README line on original work; inherited copyleft
+  licences only, per the [Licensing policy](#licensing-policy).
 - Vertical metrics: `hhea`, `OS/2 typo` and `OS/2 win` agree; `USE_TYPO_METRICS` set; `winAscent`/`winDescent` cover every glyph,
   so Windows doesn't clip accents or box drawing.
 - `achVendID` set, PANOSE family type set, Unicode and code page ranges recalculated.
