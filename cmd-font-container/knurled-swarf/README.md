@@ -61,3 +61,21 @@ python build.py && python verify.py && python specimen.py && python make_tester.
 ```
 
 Copyright (c) 2026 techrote. Version 1.000.
+
+## Ratings
+
+Scored with [docs/rating-system.md](../../docs/rating-system.md). The request targets were inferred from the original brief
+("system/MS-DOS style pixel font that works at 6–16px").
+
+| dial   | requested | achieved | note |
+|--------|-----------|----------|------|
+| cool   | 7 | 7 | Bold at 11px and 16px is the showpiece; Regular at 16px is a little thin |
+| cringe | 0 | 1 | bold at 6–9px is chunky |
+| work   | 9 | 9 | proportional system-font workhorse |
+| cyber  | 8 | 7 | DOS/Win3.x DNA, box drawing and blocks; proportional rather than terminal-mono |
+| wrap   | 5 | 6 | rounded-top A and slashed zero give it a recognisable face |
+| watch  | 0 | 0 | |
+
+**Name:** Knurled Swarf: `cool 8 · cringe 1 · uninsp 2 · cyber 4 · wrap 8 · watch 2` (total 25)
+Filters: folder ✓ · texture ✓ · collision ✓ · length ✓ ("Knurled Swarf 16px Bold" = 23 chars)
+Runner-up names: Chattered Swarf, Snarled Swarf. Former name: Blued Swarf (dropped: colour name).

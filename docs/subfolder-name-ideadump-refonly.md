@@ -1,5 +1,7 @@
 > ## Ratings key (Claude, 2026-10-12; second pass)
 >
+> *Historical first use. The maintained version of this scale (for requesting and naming fonts) is [rating-system.md](rating-system.md).*
+>
 > Every name in the visible lists carries a tag like `cool 7 · cringe 3 · uninsp 2 · cyber 8 ┊ wrap 6 · watch 4 ┊ folder ✓`.
 > Numbers are **0–10** (or **11** when a name nails a metric) and measure *how strongly the name matches the metric*, not how good it is.
 > A name keeps the same scores everywhere it reappears. Names that only appear inside Haiku's hidden reasoning blocks are rated in the appendix at the bottom.
