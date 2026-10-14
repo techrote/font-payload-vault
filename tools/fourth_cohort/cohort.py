@@ -19,7 +19,7 @@ ROOT = HERE.parents[1]
 sys.path.insert(0, str(ROOT / 'tools' / 'original_trio'))
 
 import build as trio  # noqa: E402  (original_trio serializer, used read-only)
-from geometry import svg_path, translate  # noqa: E402
+from geometry import svg_path, translate, scale, merge, Polygon  # noqa: E402
 from repertoire import extend  # noqa: E402
 
 FAMILIES = (
@@ -35,11 +35,24 @@ INK, PAPER, MUTED = '#15171a', '#f7f5ef', '#5d6168'
 SAMPLES = ['ABCDEFGHIJKLMNOPQRSTUVWXYZ', 'abcdefghijklmnopqrstuvwxyz', '0123456789 !?&@#%$*+=-/()']
 
 
+def keep_areas(g):
+    # Boolean ops on snapped or sliced outlines can leave stray lines or points.
+    if g.is_empty or g.geom_type in ('Polygon', 'MultiPolygon'):
+        return g
+    if hasattr(g, 'geoms'):
+        return merge(*[keep_areas(p) for p in g.geoms])
+    return Polygon()
+
+
 def lift_into_metrics(g):
+    g = keep_areas(g)
     # Shared composites (for example a cedilla under a heavy C) can drop past the
     # declared -250 descender; lift them the minimum distance back inside.
     if not g.is_empty and g.bounds[1] < -250:
         g = translate(g, yoff=-250 - g.bounds[1])
+    if not g.is_empty and g.bounds[3] > 1000:
+        # Tall capitals with a tilde or ring can pass the 1000 ascender; squash to fit.
+        g = scale(g, xfact=1, yfact=1000 / g.bounds[3], origin=(0, 0))
     return g
 
 

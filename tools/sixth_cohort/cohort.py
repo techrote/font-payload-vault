@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Sixth Cohort: build six families (two lineages x three treatments) and proofs.
+"""Sixth Cohort: build six families (three lineages, many treatments) and proofs.
 
 Reuses the Fourth Cohort build/proof code and the Original Trio serializer.
 Run from the repository root:  python tools/sixth_cohort/cohort.py
@@ -24,6 +24,18 @@ base.FAMILIES = (
     'hot-font-box/cleat-inline',
     'cachemonic/slip-echo',
     'cachemonic/fault-line',
+    'cmd-font-container/skiff-slant',
+    'cmd-font-container/pebble-bold',
+    'cmd-font-container/gantry-light',
+    'cmd-font-container/girder-mono',
+    'hot-font-box/bobbin-outline',
+    'hot-font-box/ingot-shadow',
+    'hot-font-box/slab-brick',
+    'cachemonic/raster-slit',
+    'cachemonic/band-slip',
+    'cachemonic/punch-card',
+    'cachemonic/quantum-step',
+    'cachemonic/hatch-block',
 )
 base.VERSION = '1.000'
 base.trio.VERSION = base.VERSION

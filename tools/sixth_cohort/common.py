@@ -1,9 +1,18 @@
 """Shared helpers for the Sixth Cohort treatments (stroking, dots, ink-fitting).
 Copyright (c) 2026 techrote. SIL Open Font License 1.1.
 """
-from geometry import path, merge, box, disc, translate, Polygon
+from geometry import path, merge, box, disc, translate, scale, Polygon
 
 DIGITS = '0123456789'
+
+
+def areas(g):
+    """Keep only polygonal parts (boolean ops can leave stray lines or points)."""
+    if g.is_empty or g.geom_type in ('Polygon', 'MultiPolygon'):
+        return g
+    if hasattr(g, 'geoms'):
+        return merge(*[areas(p) for p in g.geoms])
+    return Polygon()
 
 
 def stroked(spec, width, cap='flat', join='round', dot='square'):
@@ -25,15 +34,19 @@ def stroked(spec, width, cap='flat', join='round', dot='square'):
     return merge(*out)
 
 
-def fit_all(shapes, sb, space, cell=None):
-    """Ink-fit spacing: sb bearings, optional tabular digit cell, fixed space."""
+def fit_all(shapes, sb, space, cell=None, mono=False):
+    """Ink-fit spacing: sb bearings, optional tabular digit cell (or all-glyph cell
+    when mono), fixed space. Glyphs that sink below -250 are compressed vertically."""
     out = {}
     for c, g in shapes.items():
+        g = areas(g)
         if c == ' ':
-            out[c] = (Polygon(), space)
+            out[c] = (Polygon(), cell if mono else space)
             continue
+        if g.bounds[1] < -248:
+            g = scale(g, xfact=1, yfact=248 / -g.bounds[1], origin=(0, 0))
         x0, _, x1, _ = g.bounds
-        if cell and c in DIGITS:
+        if cell and (mono or c in DIGITS):
             out[c] = (translate(g, (cell - (x0 + x1)) / 2), cell)
         else:
             out[c] = (translate(g, sb - x0), int(round(x1 - x0)) + 2 * sb)

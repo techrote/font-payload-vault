@@ -1,22 +1,21 @@
 # Font Payload Vault
 
-## Sixth Cohort / 06 — six new fonts
+## Sixth Cohort / 06 — eighteen new fonts
 
-![Sixth Cohort render](docs/sixth-cohort-render.png)
+![Sixth Cohort render, first six](docs/sixth-cohort-render.png)
+![Sixth Cohort render, twelve additions](docs/sixth-cohort-render-2.png)
 
-| Family | Skeleton | Treatment |
-|---|---|---|
-| [Lathe Round](cmd-font-container/lathe-round/) | Round | Thin monoline, round caps |
-| [Rivet Condensed](cmd-font-container/rivet-condensed/) | Condensed | Bold, flat-ended |
-| [Spindle Stencil](hot-font-box/spindle-stencil/) | Round | Heavy, with stencil bridge cuts |
-| [Cleat Inline](hot-font-box/cleat-inline/) | Condensed | Heavy, with an engraved inline |
-| [Slip Echo](cachemonic/slip-echo/) | Round | Thin, with an offset hollow echo |
-| [Fault Line](cachemonic/fault-line/) | Condensed | Sheared along a diagonal seam |
+| Compartment | Families |
+|---|---|
+| [cmd-font-container](cmd-font-container/) | [Lathe Round](cmd-font-container/lathe-round/), [Rivet Condensed](cmd-font-container/rivet-condensed/), [Skiff Slant](cmd-font-container/skiff-slant/), [Pebble Bold](cmd-font-container/pebble-bold/), [Gantry Light](cmd-font-container/gantry-light/), [Girder Mono](cmd-font-container/girder-mono/) |
+| [hot-font-box](hot-font-box/) | [Spindle Stencil](hot-font-box/spindle-stencil/), [Cleat Inline](hot-font-box/cleat-inline/), [Bobbin Outline](hot-font-box/bobbin-outline/), [Ingot Shadow](hot-font-box/ingot-shadow/), [Slab Brick](hot-font-box/slab-brick/) |
+| [cachemonic](cachemonic/) | [Slip Echo](cachemonic/slip-echo/), [Fault Line](cachemonic/fault-line/), [Raster Slit](cachemonic/raster-slit/), [Band Slip](cachemonic/band-slip/), [Punch Card](cachemonic/punch-card/), [Quantum Step](cachemonic/quantum-step/), [Hatch Block](cachemonic/hatch-block/) |
 
-Two new skeleton alphabets, each in three construction treatments; siblings share
-letter structure. TTF + WOFF2, 254 characters, source, specimen, character map and
-offline tester per family, SIL OFL 1.1. Build with `python tools/sixth_cohort/cohort.py`,
-render with `python tools/sixth_cohort/render.py`. Outline proofs only: no hinting,
+Three new skeleton alphabets (round, condensed, rectilinear block) in many construction
+treatments; siblings on the same skeleton share letter structure. TTF + WOFF2, 254
+characters, source, specimen, character map and offline tester per family, SIL OFL 1.1.
+Build with `python tools/sixth_cohort/cohort.py`; render with
+`python tools/sixth_cohort/render.py [--extra]`. Outline proofs only: no hinting,
 Windows acceptance or readability study.
 
 ## Fourth Cohort / 04 — three new fonts (1.100 remastered)
