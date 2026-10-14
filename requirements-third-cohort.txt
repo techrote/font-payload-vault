@@ -1,0 +1,2 @@
+# Reuse pinned tools already qualified by the earlier two cohorts.
+-r requirements-workshop-six.txt

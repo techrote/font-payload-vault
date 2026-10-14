@@ -1,0 +1,1017 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1450" height="1924" viewBox="0 0 1450 1924" role="img"><title>Tracebar Mono complete glyph repertoire</title>
+<rect width="1450" height="1924" fill="#f5f3ed"/>
+<text x="35" y="38" font-family="sans-serif" font-size="23" fill="#53616d">Tracebar Mono / all 254 mapped characters</text>
+<rect x="25" y="70" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="30" y="90" font-family="sans-serif" font-size="13" fill="#53616d">0020</text>
+
+<rect x="113" y="70" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="118" y="90" font-family="sans-serif" font-size="13" fill="#53616d">0021</text>
+<defs><path id="TracebarMono-Regular_uni0021" d="M400 29 398 24 395 19 391 15 386 12 381 10 376 8H370H364L359 10L354 12L349 15L345 19L342 24L340 29L338 34V40V46L340 51L342 56L345 61L349 65L354 68L359 70L364 72H370H376L381 70L386 68L391 65L395 61L398 56L400 51L402 46V40V34ZM345 715H395V218H345Z"/></defs>
+<use href="#TracebarMono-Regular_uni0021" transform="translate(119.00 161) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="201" y="70" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="206" y="90" font-family="sans-serif" font-size="13" fill="#53616d">0022</text>
+<defs><path id="TracebarMono-Regular_uni0022" d="M275 716 325 714 317 552 267 554ZM415 717 465 713 455 551 405 555Z"/></defs>
+<use href="#TracebarMono-Regular_uni0022" transform="translate(207.00 161) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="289" y="70" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="294" y="90" font-family="sans-serif" font-size="13" fill="#53616d">0023</text>
+<defs><path id="TracebarMono-Regular_uni0023" d="M457 -2 407 2 420 215H259L244 -2L194 2L208 215H89V265H211L226 485H89V535H229L243 742L293 738L280 535H441L455 742L505 738L492 535H651V485H489L475 265H651V215H471ZM424 265 438 485H277L262 265Z"/></defs>
+<use href="#TracebarMono-Regular_uni0023" transform="translate(295.00 161) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="377" y="70" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="382" y="90" font-family="sans-serif" font-size="13" fill="#53616d">0024</text>
+<defs><path id="TracebarMono-Regular_uni0024" d="M395 713 568 675 557 625 395 661V391L609 227L479 -31L395 -5V-110H345V10L126 76L141 124L345 63V365L82 566L235 748L345 724V810H395ZM453 31 545 213 395 327V48ZM254 692 155 574 345 430V672Z"/></defs>
+<use href="#TracebarMono-Regular_uni0024" transform="translate(383.00 161) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="465" y="70" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="470" y="90" font-family="sans-serif" font-size="13" fill="#53616d">0025</text>
+<defs><path id="TracebarMono-Regular_uni0025" d="M148 33 555 718 599 692 192 7ZM224 589 220 585 216 582 211 580 205 578H200H194L189 580L184 582L179 585L175 589L172 594L170 599L168 604V610V616L170 621L172 626L175 631L179 635L184 638L189 640L194 642H200H205L211 640L216 638L220 635L224 631L228 626L230 621L231 616L232 610L231 604L230 599L228 594ZM212 620 210 622 208 624 205 625 203 626H200H197L194 625L192 624L190 622L188 620L186 618L185 615L184 613V610V607L185 605L186 602L188 600L190 598L192 596L194 595L197 594H200H203L205 595L208 596L210 598L212 600L214 602L215 605L216 607V610V613L215 615L214 618ZM561 109 557 104 553 100 549 97 544 95 538 93H533H527L522 95L517 97L512 100L508 104L505 109L503 114L501 119V125V131L503 136L505 141L508 146L512 150L517 153L522 155L527 157H533H538L544 155L549 153L553 150L557 146L561 141L563 136L564 131L565 125L564 119L563 114ZM547 133 545 135 543 137 541 139 538 140 536 141H533H530L527 140L525 139L523 137L521 135L519 133L518 130L517 128V125V122L518 120L519 117L521 115L523 113L525 111L527 110L530 109H533H536L538 110L541 111L543 113L545 115L547 117L548 120L549 122V125V128L548 130Z"/></defs>
+<use href="#TracebarMono-Regular_uni0025" transform="translate(471.00 161) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="553" y="70" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="558" y="90" font-family="sans-serif" font-size="13" fill="#53616d">0026</text>
+<defs><path id="TracebarMono-Regular_uni0026" d="M147 664 398 790 482 583 351 470 383 425 557 183 582 267 631 253 594 130 605 115 585 100 559 15H123V342L282 478ZM173 318V65H521L538 121L342 395L312 437ZM421 597 372 720 223 646 321 511Z"/></defs>
+<use href="#TracebarMono-Regular_uni0026" transform="translate(559.00 161) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="641" y="70" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="646" y="90" font-family="sans-serif" font-size="13" fill="#53616d">0027</text>
+<defs><path id="TracebarMono-Regular_uni0027" d="M333 554 356 719 406 711 383 546Z"/></defs>
+<use href="#TracebarMono-Regular_uni0027" transform="translate(647.00 161) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="729" y="70" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="734" y="90" font-family="sans-serif" font-size="13" fill="#53616d">0028</text>
+<defs><path id="TracebarMono-Regular_uni0028" d="M210 93 503 -109 474 -151 160 67V697L478 838L499 792L210 663Z"/></defs>
+<use href="#TracebarMono-Regular_uni0028" transform="translate(735.00 161) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="817" y="70" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="822" y="90" font-family="sans-serif" font-size="13" fill="#53616d">0029</text>
+<defs><path id="TracebarMono-Regular_uni0029" d="M580 67 266 -151 237 -109 530 93V663L241 792L262 838L580 697Z"/></defs>
+<use href="#TracebarMono-Regular_uni0029" transform="translate(823.00 161) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="905" y="70" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="910" y="90" font-family="sans-serif" font-size="13" fill="#53616d">002A</text>
+<defs><path id="TracebarMono-Regular_uni002A" d="M395 497 539 610 571 570 411 445 571 320 539 280 395 393V215H345V393L201 280L169 320L329 445L169 570L201 610L345 497V665H395Z"/></defs>
+<use href="#TracebarMono-Regular_uni002A" transform="translate(911.00 161) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="993" y="70" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="998" y="90" font-family="sans-serif" font-size="13" fill="#53616d">002B</text>
+<defs><path id="TracebarMono-Regular_uni002B" d="M395 327V125H345V327H118V377H345V580H395V377H622V327Z"/></defs>
+<use href="#TracebarMono-Regular_uni002B" transform="translate(999.00 161) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1081" y="70" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1086" y="90" font-family="sans-serif" font-size="13" fill="#53616d">002C</text>
+<defs><path id="TracebarMono-Regular_uni002C" d="M329 -67 360 80 410 70 379 -77Z"/></defs>
+<use href="#TracebarMono-Regular_uni002C" transform="translate(1087.00 161) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1169" y="70" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1174" y="90" font-family="sans-serif" font-size="13" fill="#53616d">002D</text>
+<defs><path id="TracebarMono-Regular_uni002D" d="M622 315H118V365H622Z"/></defs>
+<use href="#TracebarMono-Regular_uni002D" transform="translate(1175.00 161) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1257" y="70" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1262" y="90" font-family="sans-serif" font-size="13" fill="#53616d">002E</text>
+<defs><path id="TracebarMono-Regular_uni002E" d="M402 49 400 44 398 39 395 34 391 30 386 27 381 25 376 23H370H364L359 25L354 27L349 30L345 34L342 39L340 44L338 49V55V61L340 66L342 71L345 76L349 80L354 83L359 85L364 87H370H376L381 85L386 83L391 80L395 76L398 71L400 66L402 61V55Z"/></defs>
+<use href="#TracebarMono-Regular_uni002E" transform="translate(1263.00 161) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1345" y="70" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1350" y="90" font-family="sans-serif" font-size="13" fill="#53616d">002F</text>
+<defs><path id="TracebarMono-Regular_uni002F" d="M651 752 133 -103 89 -77 607 778Z"/></defs>
+<use href="#TracebarMono-Regular_uni002F" transform="translate(1351.00 161) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="25" y="184" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="30" y="204" font-family="sans-serif" font-size="13" fill="#53616d">0030</text>
+<defs><path id="TracebarMono-Regular_uni0030" d="M114 614 207 722H533L626 614V74L533 -34H207L114 74ZM558 98V582L225 48L237 34H503ZM237 654 182 590V106L515 640L503 654Z"/></defs>
+<use href="#TracebarMono-Regular_uni0030" transform="translate(31.00 275) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="113" y="184" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="118" y="204" font-family="sans-serif" font-size="13" fill="#53616d">0031</text>
+<defs><path id="TracebarMono-Regular_uni0031" d="M158 -34V34H347V620L179 490L138 542L414 756V34H602V-34Z"/></defs>
+<use href="#TracebarMono-Regular_uni0031" transform="translate(119.00 275) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="201" y="184" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="206" y="204" font-family="sans-serif" font-size="13" fill="#53616d">0032</text>
+<defs><path id="TracebarMono-Regular_uni0032" d="M563 722 648 523V416L253 34H614V-34H94L92 -29L581 444V509L518 654H267L201 503L140 529L222 722Z"/></defs>
+<use href="#TracebarMono-Regular_uni0032" transform="translate(207.00 275) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="289" y="184" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="294" y="204" font-family="sans-serif" font-size="13" fill="#53616d">0033</text>
+<defs><path id="TracebarMono-Regular_uni0033" d="M517 -34H131V34H486L542 98V239L418 310H279V378H418L542 449V590L486 654H131V722H517L609 614V411L494 344L609 277V74Z"/></defs>
+<use href="#TracebarMono-Regular_uni0033" transform="translate(295.00 275) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="377" y="184" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="382" y="204" font-family="sans-serif" font-size="13" fill="#53616d">0034</text>
+<defs><path id="TracebarMono-Regular_uni0034" d="M604 0H537V224H136L469 707L524 669L264 292H537V688H604Z"/></defs>
+<use href="#TracebarMono-Regular_uni0034" transform="translate(383.00 275) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="465" y="184" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="470" y="204" font-family="sans-serif" font-size="13" fill="#53616d">0035</text>
+<defs><path id="TracebarMono-Regular_uni0035" d="M193 378H537L629 270V74L537 -34H152V34H507L562 98V246L507 310H111L199 722H596V654H253Z"/></defs>
+<use href="#TracebarMono-Regular_uni0035" transform="translate(471.00 275) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="553" y="184" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="558" y="204" font-family="sans-serif" font-size="13" fill="#53616d">0036</text>
+<defs><path id="TracebarMono-Regular_uni0036" d="M533 378 626 270V74L533 -34H207L114 74V523L200 722H533L617 624L567 580L503 654H244L182 509V378ZM182 98 237 34H503L558 98V246L503 310H182Z"/></defs>
+<use href="#TracebarMono-Regular_uni0036" transform="translate(559.00 275) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="641" y="184" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="646" y="204" font-family="sans-serif" font-size="13" fill="#53616d">0037</text>
+<defs><path id="TracebarMono-Regular_uni0037" d="M301 -13 240 13 516 654H123V722H617Z"/></defs>
+<use href="#TracebarMono-Regular_uni0037" transform="translate(647.00 275) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="729" y="184" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="734" y="204" font-family="sans-serif" font-size="13" fill="#53616d">0038</text>
+<defs><path id="TracebarMono-Regular_uni0038" d="M114 614 207 722H533L626 614V418L562 344L626 270V74L533 -34H207L114 74V270L178 344L114 418ZM237 310 182 246V98L237 34H503L558 98V246L503 310ZM503 378 558 442V590L503 654H237L182 590V442L237 378Z"/></defs>
+<use href="#TracebarMono-Regular_uni0038" transform="translate(735.00 275) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="817" y="184" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="822" y="204" font-family="sans-serif" font-size="13" fill="#53616d">0039</text>
+<defs><path id="TracebarMono-Regular_uni0039" d="M114 418V614L207 722H533L626 614V165L540 -34H222V34H496L558 179V310H207ZM558 590 503 654H237L182 590V442L237 378H558Z"/></defs>
+<use href="#TracebarMono-Regular_uni0039" transform="translate(823.00 275) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="905" y="184" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="910" y="204" font-family="sans-serif" font-size="13" fill="#53616d">003A</text>
+<defs><path id="TracebarMono-Regular_uni003A" d="M400 54 398 49 395 44 391 40 386 37 381 35 376 33H370H364L359 35L354 37L349 40L345 44L342 49L340 54L338 59V65V71L340 76L342 81L345 86L349 90L354 93L359 95L364 97H370H376L381 95L386 93L391 90L395 86L398 81L400 76L402 71V65V59ZM400 429 398 424 395 419 391 415 386 412 381 410 376 408H370H364L359 410L354 412L349 415L345 419L342 424L340 429L338 434V440V446L340 451L342 456L345 461L349 465L354 468L359 470L364 472H370H376L381 470L386 468L391 465L395 461L398 456L400 451L402 446V440V434Z"/></defs>
+<use href="#TracebarMono-Regular_uni003A" transform="translate(911.00 275) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="993" y="184" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="998" y="204" font-family="sans-serif" font-size="13" fill="#53616d">003B</text>
+<defs><path id="TracebarMono-Regular_uni003B" d="M360 85 410 75 383 -70 333 -60ZM400 424 398 419 395 414 391 410 386 407 381 405 376 403H370H364L359 405L354 407L349 410L345 414L342 419L340 424L338 429V435V441L340 446L342 451L345 456L349 460L354 463L359 465L364 467H370H376L381 465L386 463L391 460L395 456L398 451L400 446L402 441V435V429Z"/></defs>
+<use href="#TracebarMono-Regular_uni003B" transform="translate(999.00 275) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1081" y="184" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1086" y="204" font-family="sans-serif" font-size="13" fill="#53616d">003C</text>
+<defs><path id="TracebarMono-Regular_uni003C" d="M571 55 539 15 107 360 539 705 571 665 189 360Z"/></defs>
+<use href="#TracebarMono-Regular_uni003C" transform="translate(1087.00 275) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1169" y="184" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1174" y="204" font-family="sans-serif" font-size="13" fill="#53616d">003D</text>
+<defs><path id="TracebarMono-Regular_uni003D" d="M126 225V275H614V225ZM126 435V485H614V435Z"/></defs>
+<use href="#TracebarMono-Regular_uni003D" transform="translate(1175.00 275) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1257" y="184" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1262" y="204" font-family="sans-serif" font-size="13" fill="#53616d">003E</text>
+<defs><path id="TracebarMono-Regular_uni003E" d="M201 15 169 55 551 360 169 665 201 705 633 360Z"/></defs>
+<use href="#TracebarMono-Regular_uni003E" transform="translate(1263.00 275) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1345" y="184" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1350" y="204" font-family="sans-serif" font-size="13" fill="#53616d">003F</text>
+<defs><path id="TracebarMono-Regular_uni003F" d="M609 553 395 378V225H345V402L545 567L487 685H227L187 534L138 546L188 735H519ZM400 28 398 23 395 18 391 14 386 11 381 9 376 7H370H364L359 9L354 11L349 14L345 18L342 23L340 28L338 33V39V45L340 50L342 55L345 60L349 64L354 67L359 69L364 71H370H376L381 69L386 67L391 64L395 60L398 55L400 50L402 45V39V33Z"/></defs>
+<use href="#TracebarMono-Regular_uni003F" transform="translate(1351.00 275) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="25" y="298" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="30" y="318" font-family="sans-serif" font-size="13" fill="#53616d">0040</text>
+<defs><path id="TracebarMono-Regular_uni0040" d="M653 294 649 275 644 257 637 239 629 222 620 206 610 189 599 174 587 159 574 146 561 133 546 121 531 110 514 100 498 91 481 83 463 76 445 71 426 67 408 63 389 62 370 61 351 62 332 63 314 67 295 71 277 76 259 83 242 91 226 100 209 110 194 121 179 133 166 146 153 159 141 174 130 189 120 205 111 222 103 239 96 257 91 275 87 294 83 312 82 331 81 350 82 369 83 388 87 406 91 425 96 443 103 461 111 478 120 494 130 511 141 526 153 541 166 554 179 567 194 579 209 590 225 600 242 609 259 617 277 624 295 629 314 633 332 637 351 638 370 639 389 638 408 637 426 633 445 629 463 624 481 617 498 609 514 600 531 590 546 579 561 567 574 554 587 541 599 526 610 511 620 495 629 478 637 461 644 443 649 425 653 406 657 388 658 369 659 350 658 331 657 312ZM611 398 608 414 603 429 597 444 591 459 583 473 575 487 565 500 555 512 551 517V335L604 384L615 372L614 382ZM464 577 449 583 434 588 418 591 402 594 386 595 370 596 354 595 338 594 322 591 306 588 291 583 276 577 261 571 247 563 233 555 220 545 208 535 196 524 185 512 175 500 165 487 157 473 149 459 143 444 137 429 132 414 129 398 126 382 125 366 124 350 125 334 126 318 129 302 132 286 137 271 143 256 149 241 157 227 165 213 175 200 185 188 196 176 208 165 220 155 233 145 247 137 261 129 276 123 291 117 306 112 322 109 338 106 354 105 370 104 386 105 402 106 418 109 434 112 449 117 464 123 479 129 493 137 507 145 520 155 532 165 544 176 555 188 565 200 575 213 583 227 591 241 597 256 603 271 608 286 611 302 614 318V324L528 244L317 247L230 431L311 576L485 568L479 571ZM340 524 288 429 349 297 500 296V516Z"/></defs>
+<use href="#TracebarMono-Regular_uni0040" transform="translate(31.00 389) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="113" y="298" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="118" y="318" font-family="sans-serif" font-size="13" fill="#53616d">0041</text>
+<defs><path id="TracebarMono-Regular_uni0041" d="M180 -10 116 10 362 772H378L624 10L560 -10L484 224H256ZM370 579 277 292H463Z"/></defs>
+<use href="#TracebarMono-Regular_uni0041" transform="translate(119.00 389) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="201" y="298" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="206" y="318" font-family="sans-serif" font-size="13" fill="#53616d">0042</text>
+<defs><path id="TracebarMono-Regular_uni0042" d="M453 -34H148V0H114V722H453L626 621V411L511 344L626 277V67ZM558 105V239L435 310H182V34H435ZM558 449V583L435 654H182V378H435Z"/></defs>
+<use href="#TracebarMono-Regular_uni0042" transform="translate(207.00 389) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="289" y="298" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="294" y="318" font-family="sans-serif" font-size="13" fill="#53616d">0043</text>
+<defs><path id="TracebarMono-Regular_uni0043" d="M246 654 190 590V98L246 34H443L584 115L617 57L461 -34H215L123 74V614L215 722H461L617 631L584 573L443 654Z"/></defs>
+<use href="#TracebarMono-Regular_uni0043" transform="translate(295.00 389) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="377" y="298" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="382" y="318" font-family="sans-serif" font-size="13" fill="#53616d">0044</text>
+<defs><path id="TracebarMono-Regular_uni0044" d="M114 722H381L626 532V156L381 -34H114ZM359 34 558 188V500L359 654H182V34Z"/></defs>
+<use href="#TracebarMono-Regular_uni0044" transform="translate(383.00 389) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="465" y="298" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="470" y="318" font-family="sans-serif" font-size="13" fill="#53616d">0045</text>
+<defs><path id="TracebarMono-Regular_uni0045" d="M198 310V34H609V-34H131V722H609V654H198V378H535V310Z"/></defs>
+<use href="#TracebarMono-Regular_uni0045" transform="translate(471.00 389) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="553" y="298" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="558" y="318" font-family="sans-serif" font-size="13" fill="#53616d">0046</text>
+<defs><path id="TracebarMono-Regular_uni0046" d="M198 310V0H131V722H609V654H198V378H535V310Z"/></defs>
+<use href="#TracebarMono-Regular_uni0046" transform="translate(559.00 389) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="641" y="298" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="646" y="318" font-family="sans-serif" font-size="13" fill="#53616d">0047</text>
+<defs><path id="TracebarMono-Regular_uni0047" d="M237 654 182 590V98L237 34H503L558 98V310H370V378H626V74L533 -34H207L114 74V614L207 722H453L609 631L575 573L435 654Z"/></defs>
+<use href="#TracebarMono-Regular_uni0047" transform="translate(647.00 389) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="729" y="298" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="734" y="318" font-family="sans-serif" font-size="13" fill="#53616d">0048</text>
+<defs><path id="TracebarMono-Regular_uni0048" d="M114 688H182V378H558V688H626V0H558V310H182V0H114Z"/></defs>
+<use href="#TracebarMono-Regular_uni0048" transform="translate(735.00 389) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="817" y="298" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="822" y="318" font-family="sans-serif" font-size="13" fill="#53616d">0049</text>
+<defs><path id="TracebarMono-Regular_uni0049" d="M148 -34V34H336V654H148V722H592V654H404V34H592V-34Z"/></defs>
+<use href="#TracebarMono-Regular_uni0049" transform="translate(823.00 389) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="905" y="298" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="910" y="318" font-family="sans-serif" font-size="13" fill="#53616d">004A</text>
+<defs><path id="TracebarMono-Regular_uni004A" d="M237 34H429L558 184V688H626V160L459 -34H207L114 74V172H182V98Z"/></defs>
+<use href="#TracebarMono-Regular_uni004A" transform="translate(911.00 389) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="993" y="298" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="998" y="318" font-family="sans-serif" font-size="13" fill="#53616d">004B</text>
+<defs><path id="TracebarMono-Regular_uni004B" d="M591 -29 197 200V0H130V239L109 251L130 272V688H197V337L585 712L631 664L219 265L625 29Z"/></defs>
+<use href="#TracebarMono-Regular_uni004B" transform="translate(999.00 389) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1081" y="298" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1086" y="318" font-family="sans-serif" font-size="13" fill="#53616d">004C</text>
+<defs><path id="TracebarMono-Regular_uni004C" d="M609 34V-34H131V688H198V34Z"/></defs>
+<use href="#TracebarMono-Regular_uni004C" transform="translate(1087.00 389) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1169" y="298" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1174" y="318" font-family="sans-serif" font-size="13" fill="#53616d">004D</text>
+<defs><path id="TracebarMono-Regular_uni004D" d="M134 771 370 406 606 771 626 765V0H558V574L370 282L182 574V0H114V765Z"/></defs>
+<use href="#TracebarMono-Regular_uni004D" transform="translate(1175.00 389) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1257" y="298" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1262" y="318" font-family="sans-serif" font-size="13" fill="#53616d">004E</text>
+<defs><path id="TracebarMono-Regular_uni004E" d="M134 771 558 114V688H626V-77L606 -83L182 574V0H114V765Z"/></defs>
+<use href="#TracebarMono-Regular_uni004E" transform="translate(1263.00 389) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1345" y="298" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1350" y="318" font-family="sans-serif" font-size="13" fill="#53616d">004F</text>
+<defs><path id="TracebarMono-Regular_uni004F" d="M114 74V614L207 722H533L626 614V74L533 -34H207ZM503 34 558 98V590L503 654H237L182 590V98L237 34Z"/></defs>
+<use href="#TracebarMono-Regular_uni004F" transform="translate(1351.00 389) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="25" y="412" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="30" y="432" font-family="sans-serif" font-size="13" fill="#53616d">0050</text>
+<defs><path id="TracebarMono-Regular_uni0050" d="M453 722 626 621V411L453 310H182V0H114V722ZM435 378 558 449V583L435 654H182V378Z"/></defs>
+<use href="#TracebarMono-Regular_uni0050" transform="translate(31.00 503) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="113" y="412" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="118" y="432" font-family="sans-serif" font-size="13" fill="#53616d">0051</text>
+<defs><path id="TracebarMono-Regular_uni0051" d="M522 -8 500 -34H174L82 74V614L174 722H500L593 614V74L566 43L658 -64L608 -108ZM436 194 522 94 526 98V590L470 654H204L149 590V98L204 34H470L478 43L386 150Z"/></defs>
+<use href="#TracebarMono-Regular_uni0051" transform="translate(119.00 503) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="201" y="412" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="206" y="432" font-family="sans-serif" font-size="13" fill="#53616d">0052</text>
+<defs><path id="TracebarMono-Regular_uni0052" d="M352 310H182V0H114V722H453L626 621V411L453 310H431L620 18L564 -18ZM558 449V583L435 654H182V378H435Z"/></defs>
+<use href="#TracebarMono-Regular_uni0052" transform="translate(207.00 503) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="289" y="412" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="294" y="432" font-family="sans-serif" font-size="13" fill="#53616d">0053</text>
+<defs><path id="TracebarMono-Regular_uni0053" d="M244 654 187 522 244 456 540 284 631 178 540 -34H207L123 64L173 108L237 34H496L553 166L496 232L200 404L109 510L200 722H453L609 631L575 573L435 654Z"/></defs>
+<use href="#TracebarMono-Regular_uni0053" transform="translate(295.00 503) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="377" y="412" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="382" y="432" font-family="sans-serif" font-size="13" fill="#53616d">0054</text>
+<defs><path id="TracebarMono-Regular_uni0054" d="M336 654H148V722H592V654H404V0H336Z"/></defs>
+<use href="#TracebarMono-Regular_uni0054" transform="translate(383.00 503) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="465" y="412" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="470" y="432" font-family="sans-serif" font-size="13" fill="#53616d">0055</text>
+<defs><path id="TracebarMono-Regular_uni0055" d="M244 34H496L558 179V688H626V165L540 -34H200L114 165V688H182V179Z"/></defs>
+<use href="#TracebarMono-Regular_uni0055" transform="translate(471.00 503) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="553" y="412" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="558" y="432" font-family="sans-serif" font-size="13" fill="#53616d">0056</text>
+<defs><path id="TracebarMono-Regular_uni0056" d="M560 698 624 678 378 -84H362L116 678L180 698L370 109Z"/></defs>
+<use href="#TracebarMono-Regular_uni0056" transform="translate(559.00 503) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="641" y="412" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="646" y="432" font-family="sans-serif" font-size="13" fill="#53616d">0057</text>
+<defs><path id="TracebarMono-Regular_uni0057" d="M370 428 498 130 559 692 625 684 543 -81 518 -85 370 259 222 -85 197 -81 115 684 181 692 242 130Z"/></defs>
+<use href="#TracebarMono-Regular_uni0057" transform="translate(647.00 503) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="729" y="412" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="734" y="432" font-family="sans-serif" font-size="13" fill="#53616d">0058</text>
+<defs><path id="TracebarMono-Regular_uni0058" d="M370 282 176 -18 120 18 330 344 120 670 176 706 370 406 564 706 620 670 410 344 620 18 564 -18Z"/></defs>
+<use href="#TracebarMono-Regular_uni0058" transform="translate(735.00 503) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="817" y="412" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="822" y="432" font-family="sans-serif" font-size="13" fill="#53616d">0059</text>
+<defs><path id="TracebarMono-Regular_uni0059" d="M336 334 120 670 176 706 370 406 564 706 620 670 404 334V0H336Z"/></defs>
+<use href="#TracebarMono-Regular_uni0059" transform="translate(823.00 503) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="905" y="412" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="910" y="432" font-family="sans-serif" font-size="13" fill="#53616d">005A</text>
+<defs><path id="TracebarMono-Regular_uni005A" d="M209 34H592V-34H87L531 654H148V722H653Z"/></defs>
+<use href="#TracebarMono-Regular_uni005A" transform="translate(911.00 503) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="993" y="412" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="998" y="432" font-family="sans-serif" font-size="13" fill="#53616d">005B</text>
+<defs><path id="TracebarMono-Regular_uni005B" d="M203 -75H392V-125H152V835H392V785H203Z"/></defs>
+<use href="#TracebarMono-Regular_uni005B" transform="translate(999.00 503) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1081" y="412" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1086" y="432" font-family="sans-serif" font-size="13" fill="#53616d">005C</text>
+<defs><path id="TracebarMono-Regular_uni005C" d="M133 778 651 -77 607 -103 89 752Z"/></defs>
+<use href="#TracebarMono-Regular_uni005C" transform="translate(1087.00 503) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1169" y="412" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1174" y="432" font-family="sans-serif" font-size="13" fill="#53616d">005D</text>
+<defs><path id="TracebarMono-Regular_uni005D" d="M588 -125H348V-75H537V785H348V835H588Z"/></defs>
+<use href="#TracebarMono-Regular_uni005D" transform="translate(1175.00 503) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1257" y="412" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1262" y="432" font-family="sans-serif" font-size="13" fill="#53616d">005E</text>
+<defs><path id="TracebarMono-Regular_uni005E" d="M635 445 594 415 370 714 146 415 105 445 370 798Z"/></defs>
+<use href="#TracebarMono-Regular_uni005E" transform="translate(1263.00 503) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1345" y="412" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1350" y="432" font-family="sans-serif" font-size="13" fill="#53616d">005F</text>
+<defs><path id="TracebarMono-Regular_uni005F" d="M622 -25H118V25H622Z"/></defs>
+<use href="#TracebarMono-Regular_uni005F" transform="translate(1351.00 503) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="25" y="526" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="30" y="546" font-family="sans-serif" font-size="13" fill="#53616d">0060</text>
+<defs><path id="TracebarMono-Regular_uni0060" d="M333 554 356 719 406 711 383 546Z"/></defs>
+<use href="#TracebarMono-Regular_uni0060" transform="translate(31.00 617) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="113" y="526" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="118" y="546" font-family="sans-serif" font-size="13" fill="#53616d">0061</text>
+<defs><path id="TracebarMono-Regular_uni0061" d="M244 -34 152 74V356L244 464H496L525 430H588V0H555V-34ZM218 332V98L274 34H522V332L466 396H274Z"/></defs>
+<use href="#TracebarMono-Regular_uni0061" transform="translate(119.00 617) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="201" y="526" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="206" y="546" font-family="sans-serif" font-size="13" fill="#53616d">0062</text>
+<defs><path id="TracebarMono-Regular_uni0062" d="M626 356V74L533 -34H287L182 28V0H114V688H182V402L287 464H533ZM503 34 558 98V332L503 396H305L182 325V105L305 34Z"/></defs>
+<use href="#TracebarMono-Regular_uni0062" transform="translate(207.00 617) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="289" y="526" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="294" y="546" font-family="sans-serif" font-size="13" fill="#53616d">0063</text>
+<defs><path id="TracebarMono-Regular_uni0063" d="M241 396 186 332V98L241 34H507L571 108L621 64L537 -34H211L119 74V356L211 464H537L621 366L571 322L507 396Z"/></defs>
+<use href="#TracebarMono-Regular_uni0063" transform="translate(295.00 617) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="377" y="526" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="382" y="546" font-family="sans-serif" font-size="13" fill="#53616d">0064</text>
+<defs><path id="TracebarMono-Regular_uni0064" d="M207 -34 114 74V356L207 464H453L558 402V688H626V0H558V28L453 -34ZM182 332V98L237 34H435L558 105V325L435 396H237Z"/></defs>
+<use href="#TracebarMono-Regular_uni0064" transform="translate(383.00 617) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="465" y="526" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="470" y="546" font-family="sans-serif" font-size="13" fill="#53616d">0065</text>
+<defs><path id="TracebarMono-Regular_uni0065" d="M182 98 237 34H503L567 108L617 64L533 -34H207L114 74V356L207 464H533L626 356V138H182ZM558 206V332L503 396H237L182 332V206Z"/></defs>
+<use href="#TracebarMono-Regular_uni0065" transform="translate(471.00 617) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="553" y="526" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="558" y="546" font-family="sans-serif" font-size="13" fill="#53616d">0066</text>
+<defs><path id="TracebarMono-Regular_uni0066" d="M555 722V654H355L292 509V464H555V396H292V0H226V396H185V464H226V523L311 722Z"/></defs>
+<use href="#TracebarMono-Regular_uni0066" transform="translate(559.00 617) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="641" y="526" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="646" y="546" font-family="sans-serif" font-size="13" fill="#53616d">0067</text>
+<defs><path id="TracebarMono-Regular_uni0067" d="M222 -206V-138H503L558 -74V28L453 -34H207L114 74V356L207 464H453L558 402V430H626V-98L533 -206ZM435 396H237L182 332V98L237 34H435L558 105V325Z"/></defs>
+<use href="#TracebarMono-Regular_uni0067" transform="translate(647.00 617) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="729" y="526" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="734" y="546" font-family="sans-serif" font-size="13" fill="#53616d">0068</text>
+<defs><path id="TracebarMono-Regular_uni0068" d="M626 356V0H558V332L503 396H305L182 325V0H114V688H182V402L287 464H533Z"/></defs>
+<use href="#TracebarMono-Regular_uni0068" transform="translate(735.00 617) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="817" y="526" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="822" y="546" font-family="sans-serif" font-size="13" fill="#53616d">0069</text>
+<defs><path id="TracebarMono-Regular_uni0069" d="M222 -34V34H336V430H404V34H518V-34ZM336 688V705H404V688Z"/></defs>
+<use href="#TracebarMono-Regular_uni0069" transform="translate(823.00 617) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="905" y="526" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="910" y="546" font-family="sans-serif" font-size="13" fill="#53616d">006A</text>
+<defs><path id="TracebarMono-Regular_uni006A" d="M242 -206V-138H375L431 -74V430H498V-98L406 -206ZM498 688H431V705H498Z"/></defs>
+<use href="#TracebarMono-Regular_uni006A" transform="translate(911.00 617) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="993" y="526" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="998" y="546" font-family="sans-serif" font-size="13" fill="#53616d">006B</text>
+<defs><path id="TracebarMono-Regular_uni006B" d="M610 -31 212 123V0H145V149L101 166L145 191V688H212V230L605 459L639 401L255 178L634 31Z"/></defs>
+<use href="#TracebarMono-Regular_uni006B" transform="translate(999.00 617) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1081" y="526" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1086" y="546" font-family="sans-serif" font-size="13" fill="#53616d">006C</text>
+<defs><path id="TracebarMono-Regular_uni006C" d="M365 34H498V-34H334L242 74V688H309V98Z"/></defs>
+<use href="#TracebarMono-Regular_uni006C" transform="translate(1087.00 617) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1169" y="526" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1174" y="546" font-family="sans-serif" font-size="13" fill="#53616d">006D</text>
+<defs><path id="TracebarMono-Regular_uni006D" d="M207 464H311L370 395L429 464H533L626 356V0H558V332L503 396H459L404 332V0H336V332L281 396H237L182 332V0H114V430H178Z"/></defs>
+<use href="#TracebarMono-Regular_uni006D" transform="translate(1175.00 617) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1257" y="526" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1262" y="546" font-family="sans-serif" font-size="13" fill="#53616d">006E</text>
+<defs><path id="TracebarMono-Regular_uni006E" d="M182 402 287 464H533L626 356V0H558V332L503 396H305L182 325V0H114V430H182Z"/></defs>
+<use href="#TracebarMono-Regular_uni006E" transform="translate(1263.00 617) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1345" y="526" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1350" y="546" font-family="sans-serif" font-size="13" fill="#53616d">006F</text>
+<defs><path id="TracebarMono-Regular_uni006F" d="M114 74V356L207 464H533L626 356V74L533 -34H207ZM503 34 558 98V332L503 396H237L182 332V98L237 34Z"/></defs>
+<use href="#TracebarMono-Regular_uni006F" transform="translate(1351.00 617) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="25" y="640" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="30" y="660" font-family="sans-serif" font-size="13" fill="#53616d">0070</text>
+<defs><path id="TracebarMono-Regular_uni0070" d="M182 402 287 464H533L626 356V74L533 -34H287L182 28V-172H114V430H182ZM305 34H503L558 98V332L503 396H305L182 325V105Z"/></defs>
+<use href="#TracebarMono-Regular_uni0070" transform="translate(31.00 731) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="113" y="640" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="118" y="660" font-family="sans-serif" font-size="13" fill="#53616d">0071</text>
+<defs><path id="TracebarMono-Regular_uni0071" d="M626 -172H558V28L453 -34H207L114 74V356L207 464H453L558 402V430H626ZM435 396H237L182 332V98L237 34H435L558 105V325Z"/></defs>
+<use href="#TracebarMono-Regular_uni0071" transform="translate(119.00 731) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="201" y="640" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="206" y="660" font-family="sans-serif" font-size="13" fill="#53616d">0072</text>
+<defs><path id="TracebarMono-Regular_uni0072" d="M235 402 341 464H572V396H359L235 325V0H168V430H235Z"/></defs>
+<use href="#TracebarMono-Regular_uni0072" transform="translate(207.00 731) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="289" y="640" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="294" y="660" font-family="sans-serif" font-size="13" fill="#53616d">0073</text>
+<defs><path id="TracebarMono-Regular_uni0073" d="M237 396 192 344 241 287 537 201 636 86 533 -34H207L123 64L173 108L237 34H503L548 86L499 143L203 229L104 344L207 464H533L617 366L567 322L503 396Z"/></defs>
+<use href="#TracebarMono-Regular_uni0073" transform="translate(295.00 731) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="377" y="640" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="382" y="660" font-family="sans-serif" font-size="13" fill="#53616d">0074</text>
+<defs><path id="TracebarMono-Regular_uni0074" d="M592 34V-34H355L262 74V396H148V464H262V602H330V464H518V396H330V98L385 34Z"/></defs>
+<use href="#TracebarMono-Regular_uni0074" transform="translate(383.00 731) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="465" y="640" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="470" y="660" font-family="sans-serif" font-size="13" fill="#53616d">0075</text>
+<defs><path id="TracebarMono-Regular_uni0075" d="M429 34 558 184V430H626V0H558V82L459 -34H207L114 74V430H182V98L237 34Z"/></defs>
+<use href="#TracebarMono-Regular_uni0075" transform="translate(471.00 731) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="553" y="640" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="558" y="660" font-family="sans-serif" font-size="13" fill="#53616d">0076</text>
+<defs><path id="TracebarMono-Regular_uni0076" d="M562 445 622 415 370 -73 118 415 178 445 370 73Z"/></defs>
+<use href="#TracebarMono-Regular_uni0076" transform="translate(559.00 731) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="641" y="640" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="646" y="660" font-family="sans-serif" font-size="13" fill="#53616d">0077</text>
+<defs><path id="TracebarMono-Regular_uni0077" d="M370 325 501 97 559 436 625 424 538 -82 527 -83 370 191 213 -83 202 -82 115 424 181 436 239 97Z"/></defs>
+<use href="#TracebarMono-Regular_uni0077" transform="translate(647.00 731) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="729" y="640" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="734" y="660" font-family="sans-serif" font-size="13" fill="#53616d">0078</text>
+<defs><path id="TracebarMono-Regular_uni0078" d="M370 168 171 -24 125 24 322 215 125 406 171 454 370 262 569 454 615 406 418 215 615 24 569 -24Z"/></defs>
+<use href="#TracebarMono-Regular_uni0078" transform="translate(735.00 731) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="817" y="640" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="822" y="660" font-family="sans-serif" font-size="13" fill="#53616d">0079</text>
+<defs><path id="TracebarMono-Regular_uni0079" d="M148 -138H274L333 -1L118 415L178 445L370 73L562 445L622 415L400 -14L318 -206H148Z"/></defs>
+<use href="#TracebarMono-Regular_uni0079" transform="translate(823.00 731) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="905" y="640" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="910" y="660" font-family="sans-serif" font-size="13" fill="#53616d">007A</text>
+<defs><path id="TracebarMono-Regular_uni007A" d="M670 459 231 34H592V-34H71L70 -29L509 396H148V464H669Z"/></defs>
+<use href="#TracebarMono-Regular_uni007A" transform="translate(911.00 731) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="993" y="640" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="998" y="660" font-family="sans-serif" font-size="13" fill="#53616d">007B</text>
+<defs><path id="TracebarMono-Regular_uni007B" d="M366 482 521 361 366 228V-32L490 -76L472 -124L315 -68V252L441 359L315 458V769L474 814L488 766L366 731Z"/></defs>
+<use href="#TracebarMono-Regular_uni007B" transform="translate(999.00 731) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1081" y="640" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1086" y="660" font-family="sans-serif" font-size="13" fill="#53616d">007C</text>
+<defs><path id="TracebarMono-Regular_uni007C" d="M395 825V-160H345V825Z"/></defs>
+<use href="#TracebarMono-Regular_uni007C" transform="translate(1087.00 731) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1169" y="640" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1174" y="660" font-family="sans-serif" font-size="13" fill="#53616d">007D</text>
+<defs><path id="TracebarMono-Regular_uni007D" d="M425 458 299 359 425 252V-68L268 -124L250 -76L374 -32V228L219 361L374 482V731L252 766L266 814L425 769Z"/></defs>
+<use href="#TracebarMono-Regular_uni007D" transform="translate(1175.00 731) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1257" y="640" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1262" y="660" font-family="sans-serif" font-size="13" fill="#53616d">007E</text>
+<defs><path id="TracebarMono-Regular_uni007E" d="M475 364 611 428 632 382 473 306 258 426 129 367 108 413 260 484Z"/></defs>
+<use href="#TracebarMono-Regular_uni007E" transform="translate(1263.00 731) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1345" y="640" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1350" y="660" font-family="sans-serif" font-size="13" fill="#53616d">00A0</text>
+
+<rect x="25" y="754" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="30" y="774" font-family="sans-serif" font-size="13" fill="#53616d">00A1</text>
+<defs><path id="TracebarMono-Regular_uni00A1" d="M345 681 349 685 354 688 359 690 364 692H370H376L381 690L386 688L391 685L395 681L398 676L400 671L402 666V660V654L400 649L398 644L395 639L391 635L386 632L381 630L376 628H370H364L359 630L354 632L349 635L345 639L342 644L340 649L338 654V660V666L340 671L342 676ZM345 482H395V-15H345Z"/></defs>
+<use href="#TracebarMono-Regular_uni00A1" transform="translate(31.00 845) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="113" y="754" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="118" y="774" font-family="sans-serif" font-size="13" fill="#53616d">00A2</text>
+<defs><path id="TracebarMono-Regular_uni00A2" d="M241 34H507L571 108L621 64L537 -34H211L119 74V356L211 464H348V690H392V464H537L621 366L571 322L507 396H392V85H348V396H241L186 332V98Z"/></defs>
+<use href="#TracebarMono-Regular_uni00A2" transform="translate(119.00 845) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="201" y="754" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="206" y="774" font-family="sans-serif" font-size="13" fill="#53616d">00A3</text>
+<defs><path id="TracebarMono-Regular_uni00A3" d="M202 240V34H612V-34H135V240H100V275H135V722H612V654H202V378H538V310H202V275H640V240Z"/></defs>
+<use href="#TracebarMono-Regular_uni00A3" transform="translate(207.00 845) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="289" y="754" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="294" y="774" font-family="sans-serif" font-size="13" fill="#53616d">00A4</text>
+<defs><path id="TracebarMono-Regular_uni00A4" d="M556 252 535 222 508 195 478 174 444 158 407 148 370 145 333 148 296 158 263 174 232 195 205 222 184 252 168 286 158 323 155 360 158 397 168 434 184 467 205 498 232 525 240 530 177 580 193 600 262 546 296 562 333 572 357 574V665H383V574L407 572L444 562L478 546L547 600L563 580L500 530L508 525L535 498L556 468L572 434L582 397L585 360L582 323L572 286ZM483 425 470 444 454 460 435 473 430 475 392 445 500 360 498 383 492 404ZM414 238 435 247 454 260 470 276 483 295 492 316 496 329 383 418V231L393 232ZM383 489V472L401 486L393 488ZM257 295 270 276 286 260 305 247 326 238 347 232 357 231V418L244 329L248 316ZM339 486 357 472V489L347 488ZM286 460 270 444 257 425 248 404 242 383 240 360 348 445 310 475 305 473Z"/></defs>
+<use href="#TracebarMono-Regular_uni00A4" transform="translate(295.00 845) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="377" y="754" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="382" y="774" font-family="sans-serif" font-size="13" fill="#53616d">00A5</text>
+<defs><path id="TracebarMono-Regular_uni00A5" d="M344 334 340 340H111V376H317L127 670L184 706L377 406L571 706L628 670L438 376H629V340H415L411 334V266H629V230H411V0H344V230H111V266H344Z"/></defs>
+<use href="#TracebarMono-Regular_uni00A5" transform="translate(383.00 845) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="465" y="754" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="470" y="774" font-family="sans-serif" font-size="13" fill="#53616d">00A6</text>
+<defs><path id="TracebarMono-Regular_uni00A6" d="M348 260H392V0H348ZM348 780H392V500H348Z"/></defs>
+<use href="#TracebarMono-Regular_uni00A6" transform="translate(471.00 845) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="553" y="754" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="558" y="774" font-family="sans-serif" font-size="13" fill="#53616d">00A7</text>
+<defs><path id="TracebarMono-Regular_uni00A7" d="M391 790 475 583 344 470 376 425 550 183 576 267 624 253 587 130 598 115 578 100 552 15H116V342L275 478L140 664ZM167 65H514L531 121L335 395L305 437L167 318ZM365 720 216 646 314 511 414 597Z"/></defs>
+<use href="#TracebarMono-Regular_uni00A7" transform="translate(559.00 845) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="641" y="754" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="646" y="774" font-family="sans-serif" font-size="13" fill="#53616d">00A8</text>
+<defs><path id="TracebarMono-Regular_uni00A8" d="M329 439 327 435 324 431 321 428 317 425 313 423 308 421H303H298L293 423L289 425L285 428L282 431L279 435L277 439L275 444V449V454L277 459L279 463L282 467L285 470L289 473L293 475L298 477H303H308L313 475L317 473L321 470L324 467L327 463L329 459L331 454V449V444ZM463 439 461 435 458 431 455 428 451 425 447 423 442 421H437H432L427 423L423 425L419 428L416 431L413 435L411 439L409 444V449V454L411 459L413 463L416 467L419 470L423 473L427 475L432 477H437H442L447 475L451 473L455 470L458 467L461 463L463 459L465 454V449V444Z"/></defs>
+<use href="#TracebarMono-Regular_uni00A8" transform="translate(647.00 845) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="729" y="754" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="734" y="774" font-family="sans-serif" font-size="13" fill="#53616d">00A9</text>
+<defs><path id="TracebarMono-Regular_uni00A9" d="M596 180 560 144 518 115 471 93 421 79 370 75 319 79 269 93 223 115 180 144 144 180 115 223 93 269 79 319 75 370 79 421 93 471 115 517 144 560 180 596 222 625 269 647 319 661 370 665 421 661 471 647 518 625 560 596 596 560 625 518 647 471 661 421 665 370 661 319 647 269 625 223ZM572 540 540 572 502 599 460 618 458 619 528 574 509 537 427 589H313L280 547V233L313 191H427L509 244L528 207L438 149H295L241 217V563L285 620L280 618L238 599L200 572L168 540L141 502L122 460L110 416L106 370L110 324L122 280L141 238L168 200L200 168L238 141L280 122L324 110L370 106L416 110L460 122L502 141L540 168L572 200L599 238L618 280L630 324L634 370L630 416L618 460L599 502ZM396 632 370 634 344 632Z"/></defs>
+<use href="#TracebarMono-Regular_uni00A9" transform="translate(735.00 845) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="817" y="754" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="822" y="774" font-family="sans-serif" font-size="13" fill="#53616d">00AA</text>
+<defs><path id="TracebarMono-Regular_uni00AA" d="M228 465 288 536H452L471 514H512V230H490V208H288L228 279ZM308 252H468V449L432 492H308L272 449V295Z"/></defs>
+<use href="#TracebarMono-Regular_uni00AA" transform="translate(823.00 845) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="905" y="754" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="910" y="774" font-family="sans-serif" font-size="13" fill="#53616d">00AB</text>
+<defs><path id="TracebarMono-Regular_uni00AB" d="M534 21 110 360 534 699 557 671 167 360 557 49ZM611 23 189 360 611 697 630 673 238 360 630 47Z"/></defs>
+<use href="#TracebarMono-Regular_uni00AB" transform="translate(911.00 845) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="993" y="754" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="998" y="774" font-family="sans-serif" font-size="13" fill="#53616d">00AC</text>
+<defs><path id="TracebarMono-Regular_uni00AC" d="M610 250V365H93V405H610H648V365V250Z"/></defs>
+<use href="#TracebarMono-Regular_uni00AC" transform="translate(999.00 845) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1081" y="754" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1086" y="774" font-family="sans-serif" font-size="13" fill="#53616d">00AD</text>
+
+<rect x="1169" y="754" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1174" y="774" font-family="sans-serif" font-size="13" fill="#53616d">00AE</text>
+<defs><path id="TracebarMono-Regular_uni00AE" d="M596 180 560 144 518 115 471 93 421 79 370 75 319 79 269 93 223 115 180 144 144 180 115 223 93 269 79 319 75 370 79 421 93 471 115 517 144 560 180 596 222 625 269 647 319 661 370 665 421 661 471 647 518 625 560 596 596 560 625 518 647 471 661 421 665 370 661 319 647 269 625 223ZM572 540 540 572 502 599 460 618 450 621 533 568V433L433 369H420L530 182L497 158L374 369H275V170H237V598L200 572L168 540L141 502L122 460L110 416L106 370L110 324L122 280L141 238L168 200L200 168L238 141L280 122L324 110L370 106L416 110L460 122L502 141L540 168L572 200L599 238L618 280L630 324L634 370L630 416L618 460L599 502ZM275 589V412H422L494 458V543L422 589ZM396 632 370 634 344 632Z"/></defs>
+<use href="#TracebarMono-Regular_uni00AE" transform="translate(1175.00 845) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1257" y="754" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1262" y="774" font-family="sans-serif" font-size="13" fill="#53616d">00AF</text>
+<defs><path id="TracebarMono-Regular_uni00AF" d="M453 421H287V477H453Z"/></defs>
+<use href="#TracebarMono-Regular_uni00AF" transform="translate(1263.00 845) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1345" y="754" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1350" y="774" font-family="sans-serif" font-size="13" fill="#53616d">00B0</text>
+<defs><path id="TracebarMono-Regular_uni00B0" d="M467 590 459 574 449 559 436 546 422 536 405 528 388 524 370 522 352 524 335 528 318 536 304 546 291 559 281 574 273 590 269 607 267 625 269 643 273 660 281 676 291 691 304 704 318 714 335 722 352 726 370 728 388 726 405 722 422 714 436 704 449 691 459 676 467 660 471 643 473 625 471 607ZM430 647 425 657 419 666 411 674 402 680 392 685 381 688 370 689 359 688 348 685 338 680 329 674 321 666 315 657 310 647 307 636 306 625 307 614 310 603 315 593 321 584 329 576 338 570 348 565 359 562 370 561 381 562 392 565 402 570 411 576 419 584 425 593 430 603 433 614 434 625 433 636Z"/></defs>
+<use href="#TracebarMono-Regular_uni00B0" transform="translate(1351.00 845) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="25" y="868" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="30" y="888" font-family="sans-serif" font-size="13" fill="#53616d">00B1</text>
+<defs><path id="TracebarMono-Regular_uni00B1" d="M395 125H345V327H118V377H345V580H395V377H622V327H395ZM133 110H607V80H133Z"/></defs>
+<use href="#TracebarMono-Regular_uni00B1" transform="translate(31.00 959) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="113" y="868" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="118" y="888" font-family="sans-serif" font-size="13" fill="#53616d">00B2</text>
+<defs><path id="TracebarMono-Regular_uni00B2" d="M520 625 307 418H502V382H221L220 384L484 640V675L450 753H314L279 671L246 686L290 790H474L520 682Z"/></defs>
+<use href="#TracebarMono-Regular_uni00B2" transform="translate(119.00 959) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="201" y="868" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="206" y="888" font-family="sans-serif" font-size="13" fill="#53616d">00B3</text>
+<defs><path id="TracebarMono-Regular_uni00B3" d="M241 418H433L463 453V529L396 568H321V604H396L463 643V718L433 753H241V790H449L499 732V622L437 586L499 550V440L449 382H241Z"/></defs>
+<use href="#TracebarMono-Regular_uni00B3" transform="translate(207.00 959) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="289" y="868" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="294" y="888" font-family="sans-serif" font-size="13" fill="#53616d">00B4</text>
+<defs><path id="TracebarMono-Regular_uni00B4" d="M423 481 361 403 317 437 379 515Z"/></defs>
+<use href="#TracebarMono-Regular_uni00B4" transform="translate(295.00 959) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="377" y="868" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="382" y="888" font-family="sans-serif" font-size="13" fill="#53616d">00B5</text>
+<defs><path id="TracebarMono-Regular_uni00B5" d="M102 145H127V430H194V98L250 34H441L571 184V430H638V0H571V82L472 -34H219L161 35V-172H102Z"/></defs>
+<use href="#TracebarMono-Regular_uni00B5" transform="translate(383.00 959) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="465" y="868" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="470" y="888" font-family="sans-serif" font-size="13" fill="#53616d">00B6</text>
+<defs><path id="TracebarMono-Regular_uni00B6" d="M407 2 420 215H259L244 -2L194 2L208 215H89V265H211L226 485H89V535H229L243 742L293 738L280 535H441L455 742L505 738L492 535H651V485H489L475 265H651V215H471L457 -2ZM438 485H277L262 265H424Z"/></defs>
+<use href="#TracebarMono-Regular_uni00B6" transform="translate(471.00 959) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="553" y="868" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="558" y="888" font-family="sans-serif" font-size="13" fill="#53616d">00B7</text>
+<defs><path id="TracebarMono-Regular_uni00B7" d="M389 484 543 605 567 575 401 445 567 315 543 285 389 406V215H351V406L197 285L173 315L339 445L173 575L197 605L351 484V665H389Z"/></defs>
+<use href="#TracebarMono-Regular_uni00B7" transform="translate(559.00 959) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="641" y="868" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="646" y="888" font-family="sans-serif" font-size="13" fill="#53616d">00B8</text>
+<defs><path id="TracebarMono-Regular_uni00B8" d="M453 386H287V442H453Z"/></defs>
+<use href="#TracebarMono-Regular_uni00B8" transform="translate(647.00 959) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="729" y="868" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="734" y="888" font-family="sans-serif" font-size="13" fill="#53616d">00B9</text>
+<defs><path id="TracebarMono-Regular_uni00B9" d="M357 418V735L267 664L245 693L394 808V418H495V382H256V418Z"/></defs>
+<use href="#TracebarMono-Regular_uni00B9" transform="translate(735.00 959) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="817" y="868" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="822" y="888" font-family="sans-serif" font-size="13" fill="#53616d">00BA</text>
+<defs><path id="TracebarMono-Regular_uni00BA" d="M264 536H476L536 465V279L476 208H264L204 279V465ZM493 449 456 492H284L247 449V295L284 252H456L493 295Z"/></defs>
+<use href="#TracebarMono-Regular_uni00BA" transform="translate(823.00 959) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="905" y="868" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="910" y="888" font-family="sans-serif" font-size="13" fill="#53616d">00BB</text>
+<defs><path id="TracebarMono-Regular_uni00BB" d="M111 49 501 360 111 671 133 699 558 360 133 21ZM188 47 580 360 188 673 207 697 629 360 207 23Z"/></defs>
+<use href="#TracebarMono-Regular_uni00BB" transform="translate(911.00 959) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="993" y="868" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="998" y="888" font-family="sans-serif" font-size="13" fill="#53616d">00BC</text>
+<defs><path id="TracebarMono-Regular_uni00BC" d="M98 546 80 567 199 653V363H280V337H89V363H170V598ZM470 637 509 623 309 78 270 92ZM459 90 602 283 626 268 514 117H631V275H660V0H631V90Z"/></defs>
+<use href="#TracebarMono-Regular_uni00BC" transform="translate(999.00 959) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1081" y="868" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1086" y="888" font-family="sans-serif" font-size="13" fill="#53616d">00BD</text>
+<defs><path id="TracebarMono-Regular_uni00BD" d="M88 546 70 567 189 653V363H270V337H79V363H160V598ZM460 637 499 623 300 78 260 92ZM500 13H655V-13H431V-12L641 178V204L614 262H506L478 201L451 212L487 289H633L670 209V166Z"/></defs>
+<use href="#TracebarMono-Regular_uni00BD" transform="translate(1087.00 959) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1169" y="868" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1174" y="888" font-family="sans-serif" font-size="13" fill="#53616d">00BE</text>
+<defs><path id="TracebarMono-Regular_uni00BE" d="M255 389V445L202 474H142V501H202L255 530V586L231 612H79V639H244L284 596V514L234 488L284 461V379L244 337H79V363H231ZM471 637 510 623 311 78 271 92ZM461 90 603 283 627 268 515 117H633V275H661V0H633V90Z"/></defs>
+<use href="#TracebarMono-Regular_uni00BE" transform="translate(1175.00 959) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1257" y="868" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1262" y="888" font-family="sans-serif" font-size="13" fill="#53616d">00BF</text>
+<defs><path id="TracebarMono-Regular_uni00BF" d="M348 475H399V298L198 133L256 15H517L556 166L605 154L556 -35H225L135 147L348 322ZM349 682 353 686 357 689 363 691 368 693H374H379L385 691L390 689L394 686L398 682L401 677L404 672L405 667L406 661L405 655L404 650L401 645L398 640L394 636L390 633L385 631L379 629H374H368L363 631L357 633L353 636L349 640L346 645L343 650L342 655L341 661L342 667L343 672L346 677Z"/></defs>
+<use href="#TracebarMono-Regular_uni00BF" transform="translate(1263.00 959) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1345" y="868" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1350" y="888" font-family="sans-serif" font-size="13" fill="#53616d">00C0</text>
+<defs><path id="TracebarMono-Regular_uni00C0" d="M378 772 624 10 560 -10 484 224H256L180 -10L116 10L362 772ZM370 579 277 292H463ZM363 846 301 924 345 959 407 881Z"/></defs>
+<use href="#TracebarMono-Regular_uni00C0" transform="translate(1351.00 959) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="25" y="982" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="30" y="1002" font-family="sans-serif" font-size="13" fill="#53616d">00C1</text>
+<defs><path id="TracebarMono-Regular_uni00C1" d="M378 772 624 10 560 -10 484 224H256L180 -10L116 10L362 772ZM370 579 277 292H463ZM333 881 395 959 439 924 377 846Z"/></defs>
+<use href="#TracebarMono-Regular_uni00C1" transform="translate(31.00 1073) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="113" y="982" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="118" y="1002" font-family="sans-serif" font-size="13" fill="#53616d">00C2</text>
+<defs><path id="TracebarMono-Regular_uni00C2" d="M378 772 624 10 560 -10 484 224H256L180 -10L116 10L362 772ZM370 579 277 292H463ZM370 898 302 833 264 874 370 975 476 874 438 833Z"/></defs>
+<use href="#TracebarMono-Regular_uni00C2" transform="translate(119.00 1073) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="201" y="982" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="206" y="1002" font-family="sans-serif" font-size="13" fill="#53616d">00C3</text>
+<defs><path id="TracebarMono-Regular_uni00C3" d="M378 772 624 10 560 -10 484 224H256L180 -10L116 10L362 772ZM370 579 277 292H463ZM463 884 387 844 335 875 306 856 274 902 333 942 389 908 437 933Z"/></defs>
+<use href="#TracebarMono-Regular_uni00C3" transform="translate(207.00 1073) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="289" y="982" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="294" y="1002" font-family="sans-serif" font-size="13" fill="#53616d">00C4</text>
+<defs><path id="TracebarMono-Regular_uni00C4" d="M378 772 624 10 560 -10 484 224H256L180 -10L116 10L362 772ZM370 579 277 292H463ZM321 871 317 869 313 866 308 865H303H298L293 866L289 869L285 871L282 875L279 879L277 883L275 888V893V898L277 902L279 907L282 911L285 914L289 917L293 919L298 920L303 921L308 920L313 919L317 917L321 914L324 911L327 907L329 902L331 898V893V888L329 883L327 879L324 875ZM455 871 451 869 447 866 442 865H437H432L427 866L423 869L419 871L416 875L413 879L411 883L409 888V893V898L411 902L413 907L416 911L419 914L423 917L427 919L432 920L437 921L442 920L447 919L451 917L455 914L458 911L461 907L463 902L465 898V893V888L463 883L461 879L458 875Z"/></defs>
+<use href="#TracebarMono-Regular_uni00C4" transform="translate(295.00 1073) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="377" y="982" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="382" y="1002" font-family="sans-serif" font-size="13" fill="#53616d">00C5</text>
+<defs><path id="TracebarMono-Regular_uni00C5" d="M378 772 624 10 560 -10 484 224H256L180 -10L116 10L362 772ZM370 579 277 292H463ZM421 847 412 839 403 833 393 828 381 825 370 824 359 825 347 828 337 833 328 839 319 847 313 857 308 867 305 878 304 890 305 901 308 912 313 923 319 932 328 940 337 947 347 952 359 955 370 956 381 955 393 952 403 947 412 940 421 932 427 923 432 912 435 901 436 890 435 878 432 867 427 857ZM398 914 394 918 388 922 383 925 376 926 370 927 364 926 357 925 352 922 346 918 342 914 338 908 335 902 334 896 333 890 334 883 335 877 338 871 342 866 346 861 352 858 357 855 364 853H370H376L383 855L388 858L394 861L398 866L402 871L405 877L406 883L407 890L406 896L405 902L402 908Z"/></defs>
+<use href="#TracebarMono-Regular_uni00C5" transform="translate(383.00 1073) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="465" y="982" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="470" y="1002" font-family="sans-serif" font-size="13" fill="#53616d">00C6</text>
+<defs><path id="TracebarMono-Regular_uni00C6" d="M664 -34H368V-6L360 -10L311 224H165L116 -10L76 10L233 772H243L368 166V722H664V654H410V378H619V310H410V34H664ZM238 579 179 292H297Z"/></defs>
+<use href="#TracebarMono-Regular_uni00C6" transform="translate(471.00 1073) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="553" y="982" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="558" y="1002" font-family="sans-serif" font-size="13" fill="#53616d">00C7</text>
+<defs><path id="TracebarMono-Regular_uni00C7" d="M415 -106V-108V-110V-112V-115L414 -117L413 -119L412 -121L411 -123L410 -124L344 -200L308 -170L365 -105L336 -39L349 -34H215L123 74V614L215 722H461L617 631L584 573L443 654H246L190 590V98L246 34H443L584 115L617 57L461 -34H384L413 -100L414 -102L415 -104Z"/></defs>
+<use href="#TracebarMono-Regular_uni00C7" transform="translate(559.00 1073) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="641" y="982" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="646" y="1002" font-family="sans-serif" font-size="13" fill="#53616d">00C8</text>
+<defs><path id="TracebarMono-Regular_uni00C8" d="M609 -34H131V722H609V654H198V378H535V310H198V34H609ZM363 796 301 874 345 909 407 831Z"/></defs>
+<use href="#TracebarMono-Regular_uni00C8" transform="translate(647.00 1073) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="729" y="982" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="734" y="1002" font-family="sans-serif" font-size="13" fill="#53616d">00C9</text>
+<defs><path id="TracebarMono-Regular_uni00C9" d="M609 -34H131V722H609V654H198V378H535V310H198V34H609ZM333 831 395 909 439 874 377 796Z"/></defs>
+<use href="#TracebarMono-Regular_uni00C9" transform="translate(735.00 1073) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="817" y="982" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="822" y="1002" font-family="sans-serif" font-size="13" fill="#53616d">00CA</text>
+<defs><path id="TracebarMono-Regular_uni00CA" d="M609 -34H131V722H609V654H198V378H535V310H198V34H609ZM370 848 302 783 264 824 370 925 476 824 438 783Z"/></defs>
+<use href="#TracebarMono-Regular_uni00CA" transform="translate(823.00 1073) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="905" y="982" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="910" y="1002" font-family="sans-serif" font-size="13" fill="#53616d">00CB</text>
+<defs><path id="TracebarMono-Regular_uni00CB" d="M609 -34H131V722H609V654H198V378H535V310H198V34H609ZM321 821 317 818 313 816 308 815 303 814 298 815 293 816 289 818 285 821 282 825 279 828 277 833 275 838V842V847L277 852L279 856L282 860L285 864L289 867L293 869L298 870H303H308L313 869L317 867L321 864L324 860L327 856L329 852L331 847V842V838L329 833L327 828L324 825ZM455 821 451 818 447 816 442 815 437 814 432 815 427 816 423 818 419 821 416 825 413 828 411 833 409 838V842V847L411 852L413 856L416 860L419 864L423 867L427 869L432 870H437H442L447 869L451 867L455 864L458 860L461 856L463 852L465 847V842V838L463 833L461 828L458 825Z"/></defs>
+<use href="#TracebarMono-Regular_uni00CB" transform="translate(911.00 1073) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="993" y="982" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="998" y="1002" font-family="sans-serif" font-size="13" fill="#53616d">00CC</text>
+<defs><path id="TracebarMono-Regular_uni00CC" d="M336 654H148V722H592V654H404V34H592V-34H148V34H336ZM363 796 301 874 345 909 407 831Z"/></defs>
+<use href="#TracebarMono-Regular_uni00CC" transform="translate(999.00 1073) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1081" y="982" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1086" y="1002" font-family="sans-serif" font-size="13" fill="#53616d">00CD</text>
+<defs><path id="TracebarMono-Regular_uni00CD" d="M336 654H148V722H592V654H404V34H592V-34H148V34H336ZM333 831 395 909 439 874 377 796Z"/></defs>
+<use href="#TracebarMono-Regular_uni00CD" transform="translate(1087.00 1073) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1169" y="982" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1174" y="1002" font-family="sans-serif" font-size="13" fill="#53616d">00CE</text>
+<defs><path id="TracebarMono-Regular_uni00CE" d="M336 654H148V722H592V654H404V34H592V-34H148V34H336ZM370 848 302 783 264 824 370 925 476 824 438 783Z"/></defs>
+<use href="#TracebarMono-Regular_uni00CE" transform="translate(1175.00 1073) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1257" y="982" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1262" y="1002" font-family="sans-serif" font-size="13" fill="#53616d">00CF</text>
+<defs><path id="TracebarMono-Regular_uni00CF" d="M336 654H148V722H592V654H404V34H592V-34H148V34H336ZM321 821 317 818 313 816 308 815 303 814 298 815 293 816 289 818 285 821 282 825 279 828 277 833 275 838V842V847L277 852L279 856L282 860L285 864L289 867L293 869L298 870H303H308L313 869L317 867L321 864L324 860L327 856L329 852L331 847V842V838L329 833L327 828L324 825ZM455 821 451 818 447 816 442 815 437 814 432 815 427 816 423 818 419 821 416 825 413 828 411 833 409 838V842V847L411 852L413 856L416 860L419 864L423 867L427 869L432 870H437H442L447 869L451 867L455 864L458 860L461 856L463 852L465 847V842V838L463 833L461 828L458 825Z"/></defs>
+<use href="#TracebarMono-Regular_uni00CF" transform="translate(1263.00 1073) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1345" y="982" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1350" y="1002" font-family="sans-serif" font-size="13" fill="#53616d">00D0</text>
+<defs><path id="TracebarMono-Regular_uni00D0" d="M633 398H659V360H633V156L389 -34H122V360H81V398H122V722H389L633 532ZM189 360V34H366L566 188V360ZM189 654V398H566V500L366 654Z"/></defs>
+<use href="#TracebarMono-Regular_uni00D0" transform="translate(1351.00 1073) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="25" y="1096" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="30" y="1116" font-family="sans-serif" font-size="13" fill="#53616d">00D1</text>
+<defs><path id="TracebarMono-Regular_uni00D1" d="M626 688V-77L606 -83L182 574V0H114V765L134 771L558 114V688ZM463 884 387 843 335 875 306 855 274 901 333 942 389 907 437 933Z"/></defs>
+<use href="#TracebarMono-Regular_uni00D1" transform="translate(31.00 1187) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="113" y="1096" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="118" y="1116" font-family="sans-serif" font-size="13" fill="#53616d">00D2</text>
+<defs><path id="TracebarMono-Regular_uni00D2" d="M533 722 626 614V74L533 -34H207L114 74V614L207 722ZM503 654H237L182 590V98L237 34H503L558 98V590ZM363 796 301 874 345 909 407 831Z"/></defs>
+<use href="#TracebarMono-Regular_uni00D2" transform="translate(119.00 1187) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="201" y="1096" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="206" y="1116" font-family="sans-serif" font-size="13" fill="#53616d">00D3</text>
+<defs><path id="TracebarMono-Regular_uni00D3" d="M533 722 626 614V74L533 -34H207L114 74V614L207 722ZM503 654H237L182 590V98L237 34H503L558 98V590ZM333 831 395 909 439 874 377 796Z"/></defs>
+<use href="#TracebarMono-Regular_uni00D3" transform="translate(207.00 1187) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="289" y="1096" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="294" y="1116" font-family="sans-serif" font-size="13" fill="#53616d">00D4</text>
+<defs><path id="TracebarMono-Regular_uni00D4" d="M533 722 626 614V74L533 -34H207L114 74V614L207 722ZM503 654H237L182 590V98L237 34H503L558 98V590ZM370 848 302 783 264 824 370 925 476 824 438 783Z"/></defs>
+<use href="#TracebarMono-Regular_uni00D4" transform="translate(295.00 1187) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="377" y="1096" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="382" y="1116" font-family="sans-serif" font-size="13" fill="#53616d">00D5</text>
+<defs><path id="TracebarMono-Regular_uni00D5" d="M533 722 626 614V74L533 -34H207L114 74V614L207 722ZM503 654H237L182 590V98L237 34H503L558 98V590ZM463 834 387 793 335 825 306 805 274 852 333 892 389 858 437 883Z"/></defs>
+<use href="#TracebarMono-Regular_uni00D5" transform="translate(383.00 1187) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="465" y="1096" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="470" y="1116" font-family="sans-serif" font-size="13" fill="#53616d">00D6</text>
+<defs><path id="TracebarMono-Regular_uni00D6" d="M533 722 626 614V74L533 -34H207L114 74V614L207 722ZM503 654H237L182 590V98L237 34H503L558 98V590ZM321 821 317 818 313 816 308 815 303 814 298 815 293 816 289 818 285 821 282 825 279 828 277 833 275 838V842V847L277 852L279 856L282 860L285 864L289 867L293 869L298 870H303H308L313 869L317 867L321 864L324 860L327 856L329 852L331 847V842V838L329 833L327 828L324 825ZM455 821 451 818 447 816 442 815 437 814 432 815 427 816 423 818 419 821 416 825 413 828 411 833 409 838V842V847L411 852L413 856L416 860L419 864L423 867L427 869L432 870H437H442L447 869L451 867L455 864L458 860L461 856L463 852L465 847V842V838L463 833L461 828L458 825Z"/></defs>
+<use href="#TracebarMono-Regular_uni00D6" transform="translate(471.00 1187) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="553" y="1096" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="558" y="1116" font-family="sans-serif" font-size="13" fill="#53616d">00D7</text>
+<defs><path id="TracebarMono-Regular_uni00D7" d="M395 497 539 610 571 570 411 445 571 320 539 280 395 393V215H345V393L201 280L169 320L329 445L169 570L201 610L345 497V665H395Z"/></defs>
+<use href="#TracebarMono-Regular_uni00D7" transform="translate(559.00 1187) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="641" y="1096" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="646" y="1116" font-family="sans-serif" font-size="13" fill="#53616d">00D8</text>
+<defs><path id="TracebarMono-Regular_uni00D8" d="M533 722 626 614V74L533 -34H207L114 74V614L207 722ZM542 609 215 59 237 34H503L558 98V590ZM182 590V98L188 91L514 641L503 654H237Z"/></defs>
+<use href="#TracebarMono-Regular_uni00D8" transform="translate(647.00 1187) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="729" y="1096" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="734" y="1116" font-family="sans-serif" font-size="13" fill="#53616d">00D9</text>
+<defs><path id="TracebarMono-Regular_uni00D9" d="M558 688H626V165L540 -34H200L114 165V688H182V179L244 34H496L558 179ZM363 763 301 841 345 875 407 797Z"/></defs>
+<use href="#TracebarMono-Regular_uni00D9" transform="translate(735.00 1187) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="817" y="1096" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="822" y="1116" font-family="sans-serif" font-size="13" fill="#53616d">00DA</text>
+<defs><path id="TracebarMono-Regular_uni00DA" d="M558 688H626V165L540 -34H200L114 165V688H182V179L244 34H496L558 179ZM333 797 395 875 439 841 377 763Z"/></defs>
+<use href="#TracebarMono-Regular_uni00DA" transform="translate(823.00 1187) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="905" y="1096" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="910" y="1116" font-family="sans-serif" font-size="13" fill="#53616d">00DB</text>
+<defs><path id="TracebarMono-Regular_uni00DB" d="M558 688H626V165L540 -34H200L114 165V688H182V179L244 34H496L558 179ZM370 814 302 750 264 790 370 892 476 790 438 750Z"/></defs>
+<use href="#TracebarMono-Regular_uni00DB" transform="translate(911.00 1187) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="993" y="1096" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="998" y="1116" font-family="sans-serif" font-size="13" fill="#53616d">00DC</text>
+<defs><path id="TracebarMono-Regular_uni00DC" d="M558 688H626V165L540 -34H200L114 165V688H182V179L244 34H496L558 179ZM321 788 317 785 313 783 308 781H303H298L293 783L289 785L285 788L282 791L279 795L277 799L275 804V809V814L277 819L279 823L282 827L285 830L289 833L293 835L298 837H303H308L313 835L317 833L321 830L324 827L327 823L329 819L331 814V809V804L329 799L327 795L324 791ZM455 788 451 785 447 783 442 781H437H432L427 783L423 785L419 788L416 791L413 795L411 799L409 804V809V814L411 819L413 823L416 827L419 830L423 833L427 835L432 837H437H442L447 835L451 833L455 830L458 827L461 823L463 819L465 814V809V804L463 799L461 795L458 791Z"/></defs>
+<use href="#TracebarMono-Regular_uni00DC" transform="translate(999.00 1187) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1081" y="1096" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1086" y="1116" font-family="sans-serif" font-size="13" fill="#53616d">00DD</text>
+<defs><path id="TracebarMono-Regular_uni00DD" d="M370 406 564 706 620 670 404 334V0H336V334L120 670L176 706ZM333 816 395 894 439 859 377 781Z"/></defs>
+<use href="#TracebarMono-Regular_uni00DD" transform="translate(1087.00 1187) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1169" y="1096" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1174" y="1116" font-family="sans-serif" font-size="13" fill="#53616d">00DE</text>
+<defs><path id="TracebarMono-Regular_uni00DE" d="M626 411 453 310H182V0H114V722H453L626 621ZM558 583 435 654H182V378H435L558 449Z"/></defs>
+<use href="#TracebarMono-Regular_uni00DE" transform="translate(1175.00 1187) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1257" y="1096" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1262" y="1116" font-family="sans-serif" font-size="13" fill="#53616d">00DF</text>
+<defs><path id="TracebarMono-Regular_uni00DF" d="M453 -34H148V0H114V722H453L626 621V411L511 344L626 277V67L548 22L518 -20H476ZM182 654V378H435L558 449V583L435 654ZM520 121 539 94 558 105V218L535 193L503 238H370L348 206L372 172ZM538 251 558 222V239ZM361 34H435L508 76L501 86L353 137L304 206L355 278H491L435 310H182V34H316L313 38L338 65Z"/></defs>
+<use href="#TracebarMono-Regular_uni00DF" transform="translate(1263.00 1187) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1345" y="1096" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1350" y="1116" font-family="sans-serif" font-size="13" fill="#53616d">00E0</text>
+<defs><path id="TracebarMono-Regular_uni00E0" d="M244 464H496L525 430H588V0H555V-34H244L152 74V356ZM522 34V332L466 396H274L218 332V98L274 34ZM363 538 301 616 345 651 407 573Z"/></defs>
+<use href="#TracebarMono-Regular_uni00E0" transform="translate(1351.00 1187) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="25" y="1210" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="30" y="1230" font-family="sans-serif" font-size="13" fill="#53616d">00E1</text>
+<defs><path id="TracebarMono-Regular_uni00E1" d="M244 464H496L525 430H588V0H555V-34H244L152 74V356ZM522 34V332L466 396H274L218 332V98L274 34ZM333 573 395 651 439 616 377 538Z"/></defs>
+<use href="#TracebarMono-Regular_uni00E1" transform="translate(31.00 1301) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="113" y="1210" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="118" y="1230" font-family="sans-serif" font-size="13" fill="#53616d">00E2</text>
+<defs><path id="TracebarMono-Regular_uni00E2" d="M244 464H496L525 430H588V0H555V-34H244L152 74V356ZM522 34V332L466 396H274L218 332V98L274 34ZM370 590 302 525 264 566 370 667 476 566 438 525Z"/></defs>
+<use href="#TracebarMono-Regular_uni00E2" transform="translate(119.00 1301) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="201" y="1210" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="206" y="1230" font-family="sans-serif" font-size="13" fill="#53616d">00E3</text>
+<defs><path id="TracebarMono-Regular_uni00E3" d="M244 464H496L525 430H588V0H555V-34H244L152 74V356ZM522 34V332L466 396H274L218 332V98L274 34ZM463 576 387 535 335 567 306 547 274 594 333 634 389 600 437 625Z"/></defs>
+<use href="#TracebarMono-Regular_uni00E3" transform="translate(207.00 1301) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="289" y="1210" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="294" y="1230" font-family="sans-serif" font-size="13" fill="#53616d">00E4</text>
+<defs><path id="TracebarMono-Regular_uni00E4" d="M244 464H496L525 430H588V0H555V-34H244L152 74V356ZM522 34V332L466 396H274L218 332V98L274 34ZM321 563 317 560 313 558 308 557 303 556 298 557 293 558 289 560 285 563 282 567 279 570 277 575 275 580V584V589L277 594L279 598L282 602L285 606L289 609L293 611L298 612H303H308L313 611L317 609L321 606L324 602L327 598L329 594L331 589V584V580L329 575L327 570L324 567ZM455 563 451 560 447 558 442 557 437 556 432 557 427 558 423 560 419 563 416 567 413 570 411 575 409 580V584V589L411 594L413 598L416 602L419 606L423 609L427 611L432 612H437H442L447 611L451 609L455 606L458 602L461 598L463 594L465 589V584V580L463 575L461 570L458 567Z"/></defs>
+<use href="#TracebarMono-Regular_uni00E4" transform="translate(295.00 1301) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="377" y="1210" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="382" y="1230" font-family="sans-serif" font-size="13" fill="#53616d">00E5</text>
+<defs><path id="TracebarMono-Regular_uni00E5" d="M244 464H496L525 430H588V0H555V-34H244L152 74V356ZM522 34V332L466 396H274L218 332V98L274 34ZM421 539 412 531 403 524 393 519 381 517 370 516 359 517 347 519 337 524 328 531 319 539 313 548 308 559 305 570 304 582 305 593 308 604 313 614 319 624 328 632 337 639 347 644 359 646 370 648 381 646 393 644 403 639 412 632 421 624 427 614 432 604 435 593 436 582 435 570 432 559 427 548ZM398 605 394 610 388 614 383 616 376 618H370H364L357 616L352 614L346 610L342 605L338 600L335 594L334 588L333 582L334 575L335 569L338 563L342 558L346 553L352 549L357 547L364 545L370 544L376 545L383 547L388 549L394 553L398 558L402 563L405 569L406 575L407 582L406 588L405 594L402 600Z"/></defs>
+<use href="#TracebarMono-Regular_uni00E5" transform="translate(383.00 1301) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="465" y="1210" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="470" y="1230" font-family="sans-serif" font-size="13" fill="#53616d">00E6</text>
+<defs><path id="TracebarMono-Regular_uni00E6" d="M141 464H302L321 430H361V394L399 464H601L658 356V138H383V98L418 34H582L622 108L653 64L601 -34H399L361 36V0H340V-34H141L82 74V356ZM418 396 383 332V206H617V332L582 396ZM318 34V332L283 396H160L125 332V98L160 34Z"/></defs>
+<use href="#TracebarMono-Regular_uni00E6" transform="translate(471.00 1301) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="553" y="1210" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="558" y="1230" font-family="sans-serif" font-size="13" fill="#53616d">00E7</text>
+<defs><path id="TracebarMono-Regular_uni00E7" d="M415 -106V-108V-110V-112V-115L414 -117L413 -119L412 -121L411 -123L410 -124L344 -200L308 -170L365 -105L336 -39L349 -34H211L119 74V356L211 464H537L621 366L571 322L507 396H241L186 332V98L241 34H507L571 108L621 64L537 -34H384L413 -100L414 -102L415 -104Z"/></defs>
+<use href="#TracebarMono-Regular_uni00E7" transform="translate(559.00 1301) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="641" y="1210" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="646" y="1230" font-family="sans-serif" font-size="13" fill="#53616d">00E8</text>
+<defs><path id="TracebarMono-Regular_uni00E8" d="M567 108 617 64 533 -34H207L114 74V356L207 464H533L626 356V138H182V98L237 34H503ZM237 396 182 332V206H558V332L503 396ZM363 538 301 616 345 651 407 573Z"/></defs>
+<use href="#TracebarMono-Regular_uni00E8" transform="translate(647.00 1301) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="729" y="1210" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="734" y="1230" font-family="sans-serif" font-size="13" fill="#53616d">00E9</text>
+<defs><path id="TracebarMono-Regular_uni00E9" d="M567 108 617 64 533 -34H207L114 74V356L207 464H533L626 356V138H182V98L237 34H503ZM237 396 182 332V206H558V332L503 396ZM333 573 395 651 439 616 377 538Z"/></defs>
+<use href="#TracebarMono-Regular_uni00E9" transform="translate(735.00 1301) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="817" y="1210" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="822" y="1230" font-family="sans-serif" font-size="13" fill="#53616d">00EA</text>
+<defs><path id="TracebarMono-Regular_uni00EA" d="M567 108 617 64 533 -34H207L114 74V356L207 464H533L626 356V138H182V98L237 34H503ZM237 396 182 332V206H558V332L503 396ZM370 590 302 525 264 566 370 667 476 566 438 525Z"/></defs>
+<use href="#TracebarMono-Regular_uni00EA" transform="translate(823.00 1301) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="905" y="1210" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="910" y="1230" font-family="sans-serif" font-size="13" fill="#53616d">00EB</text>
+<defs><path id="TracebarMono-Regular_uni00EB" d="M567 108 617 64 533 -34H207L114 74V356L207 464H533L626 356V138H182V98L237 34H503ZM237 396 182 332V206H558V332L503 396ZM321 563 317 560 313 558 308 557 303 556 298 557 293 558 289 560 285 563 282 567 279 570 277 575 275 580V584V589L277 594L279 598L282 602L285 606L289 609L293 611L298 612H303H308L313 611L317 609L321 606L324 602L327 598L329 594L331 589V584V580L329 575L327 570L324 567ZM455 563 451 560 447 558 442 557 437 556 432 557 427 558 423 560 419 563 416 567 413 570 411 575 409 580V584V589L411 594L413 598L416 602L419 606L423 609L427 611L432 612H437H442L447 611L451 609L455 606L458 602L461 598L463 594L465 589V584V580L463 575L461 570L458 567Z"/></defs>
+<use href="#TracebarMono-Regular_uni00EB" transform="translate(911.00 1301) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="993" y="1210" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="998" y="1230" font-family="sans-serif" font-size="13" fill="#53616d">00EC</text>
+<defs><path id="TracebarMono-Regular_uni00EC" d="M404 430V34H518V-34H222V34H336V430ZM363 505 301 583 345 617 407 539Z"/></defs>
+<use href="#TracebarMono-Regular_uni00EC" transform="translate(999.00 1301) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1081" y="1210" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1086" y="1230" font-family="sans-serif" font-size="13" fill="#53616d">00ED</text>
+<defs><path id="TracebarMono-Regular_uni00ED" d="M404 430V34H518V-34H222V34H336V430ZM333 539 395 617 439 583 377 505Z"/></defs>
+<use href="#TracebarMono-Regular_uni00ED" transform="translate(1087.00 1301) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1169" y="1210" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1174" y="1230" font-family="sans-serif" font-size="13" fill="#53616d">00EE</text>
+<defs><path id="TracebarMono-Regular_uni00EE" d="M404 430V34H518V-34H222V34H336V430ZM370 556 302 492 264 532 370 634 476 532 438 492Z"/></defs>
+<use href="#TracebarMono-Regular_uni00EE" transform="translate(1175.00 1301) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1257" y="1210" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1262" y="1230" font-family="sans-serif" font-size="13" fill="#53616d">00EF</text>
+<defs><path id="TracebarMono-Regular_uni00EF" d="M404 430V34H518V-34H222V34H336V430ZM321 530 317 527 313 525 308 523H303H298L293 525L289 527L285 530L282 533L279 537L277 541L275 546V551V556L277 561L279 565L282 569L285 572L289 575L293 577L298 579H303H308L313 577L317 575L321 572L324 569L327 565L329 561L331 556V551V546L329 541L327 537L324 533ZM455 530 451 527 447 525 442 523H437H432L427 525L423 527L419 530L416 533L413 537L411 541L409 546V551V556L411 561L413 565L416 569L419 572L423 575L427 577L432 579H437H442L447 577L451 575L455 572L458 569L461 565L463 561L465 556V551V546L463 541L461 537L458 533Z"/></defs>
+<use href="#TracebarMono-Regular_uni00EF" transform="translate(1263.00 1301) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1345" y="1210" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1350" y="1230" font-family="sans-serif" font-size="13" fill="#53616d">00F0</text>
+<defs><path id="TracebarMono-Regular_uni00F0" d="M125 360H81V398H158L214 464H460L566 402V688H633V398H659V360H633V0H566V28L460 -34H214L122 74V356ZM442 34 566 105V325L505 360H213L189 332V98L245 34Z"/></defs>
+<use href="#TracebarMono-Regular_uni00F0" transform="translate(1351.00 1301) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="25" y="1324" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="30" y="1344" font-family="sans-serif" font-size="13" fill="#53616d">00F1</text>
+<defs><path id="TracebarMono-Regular_uni00F1" d="M626 356V0H558V332L503 396H305L182 325V0H114V430H182V402L287 464H533ZM463 576 387 535 335 567 306 547 274 594 333 634 389 600 437 625Z"/></defs>
+<use href="#TracebarMono-Regular_uni00F1" transform="translate(31.00 1415) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="113" y="1324" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="118" y="1344" font-family="sans-serif" font-size="13" fill="#53616d">00F2</text>
+<defs><path id="TracebarMono-Regular_uni00F2" d="M533 464 626 356V74L533 -34H207L114 74V356L207 464ZM503 396H237L182 332V98L237 34H503L558 98V332ZM363 538 301 616 345 651 407 573Z"/></defs>
+<use href="#TracebarMono-Regular_uni00F2" transform="translate(119.00 1415) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="201" y="1324" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="206" y="1344" font-family="sans-serif" font-size="13" fill="#53616d">00F3</text>
+<defs><path id="TracebarMono-Regular_uni00F3" d="M533 464 626 356V74L533 -34H207L114 74V356L207 464ZM503 396H237L182 332V98L237 34H503L558 98V332ZM333 573 395 651 439 616 377 538Z"/></defs>
+<use href="#TracebarMono-Regular_uni00F3" transform="translate(207.00 1415) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="289" y="1324" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="294" y="1344" font-family="sans-serif" font-size="13" fill="#53616d">00F4</text>
+<defs><path id="TracebarMono-Regular_uni00F4" d="M533 464 626 356V74L533 -34H207L114 74V356L207 464ZM503 396H237L182 332V98L237 34H503L558 98V332ZM370 590 302 525 264 566 370 667 476 566 438 525Z"/></defs>
+<use href="#TracebarMono-Regular_uni00F4" transform="translate(295.00 1415) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="377" y="1324" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="382" y="1344" font-family="sans-serif" font-size="13" fill="#53616d">00F5</text>
+<defs><path id="TracebarMono-Regular_uni00F5" d="M533 464 626 356V74L533 -34H207L114 74V356L207 464ZM503 396H237L182 332V98L237 34H503L558 98V332ZM463 576 387 535 335 567 306 547 274 594 333 634 389 600 437 625Z"/></defs>
+<use href="#TracebarMono-Regular_uni00F5" transform="translate(383.00 1415) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="465" y="1324" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="470" y="1344" font-family="sans-serif" font-size="13" fill="#53616d">00F6</text>
+<defs><path id="TracebarMono-Regular_uni00F6" d="M533 464 626 356V74L533 -34H207L114 74V356L207 464ZM503 396H237L182 332V98L237 34H503L558 98V332ZM321 563 317 560 313 558 308 557 303 556 298 557 293 558 289 560 285 563 282 567 279 570 277 575 275 580V584V589L277 594L279 598L282 602L285 606L289 609L293 611L298 612H303H308L313 611L317 609L321 606L324 602L327 598L329 594L331 589V584V580L329 575L327 570L324 567ZM455 563 451 560 447 558 442 557 437 556 432 557 427 558 423 560 419 563 416 567 413 570 411 575 409 580V584V589L411 594L413 598L416 602L419 606L423 609L427 611L432 612H437H442L447 611L451 609L455 606L458 602L461 598L463 594L465 589V584V580L463 575L461 570L458 567Z"/></defs>
+<use href="#TracebarMono-Regular_uni00F6" transform="translate(471.00 1415) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="553" y="1324" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="558" y="1344" font-family="sans-serif" font-size="13" fill="#53616d">00F7</text>
+<defs><path id="TracebarMono-Regular_uni00F7" d="M592 356V320H148V356ZM401 154 399 148 395 144 391 140 386 136 381 134 376 133 370 132 364 133 359 134 354 136 349 140 345 144 341 148 339 154 338 159 337 165 338 171 339 176 341 182 345 186 349 190 354 194 359 196 364 197 370 198 376 197 381 196 386 194 391 190 395 186 399 182 401 176 402 171 403 165 402 159ZM399 494 395 489 391 485 386 481 381 479 376 478 370 477 364 478 359 479 354 481 349 485 345 489 341 494 339 499 338 504 337 510 338 516 339 521 341 526 345 531 349 535 354 539 359 541 364 542 370 543 376 542 381 541 386 539 391 535 395 531 399 526 401 521 402 516 403 510 402 504 401 499Z"/></defs>
+<use href="#TracebarMono-Regular_uni00F7" transform="translate(559.00 1415) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="641" y="1324" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="646" y="1344" font-family="sans-serif" font-size="13" fill="#53616d">00F8</text>
+<defs><path id="TracebarMono-Regular_uni00F8" d="M533 464 547 448 570 426 567 424 626 356V74L533 -34H207L114 74V356L207 464ZM521 375 217 57 237 34H503L558 98V332ZM182 98 191 88 486 396H237L182 332Z"/></defs>
+<use href="#TracebarMono-Regular_uni00F8" transform="translate(647.00 1415) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="729" y="1324" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="734" y="1344" font-family="sans-serif" font-size="13" fill="#53616d">00F9</text>
+<defs><path id="TracebarMono-Regular_uni00F9" d="M626 430V0H558V82L459 -34H207L114 74V430H182V98L237 34H429L558 184V430ZM363 505 301 583 345 617 407 539Z"/></defs>
+<use href="#TracebarMono-Regular_uni00F9" transform="translate(735.00 1415) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="817" y="1324" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="822" y="1344" font-family="sans-serif" font-size="13" fill="#53616d">00FA</text>
+<defs><path id="TracebarMono-Regular_uni00FA" d="M626 430V0H558V82L459 -34H207L114 74V430H182V98L237 34H429L558 184V430ZM333 539 395 617 439 583 377 505Z"/></defs>
+<use href="#TracebarMono-Regular_uni00FA" transform="translate(823.00 1415) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="905" y="1324" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="910" y="1344" font-family="sans-serif" font-size="13" fill="#53616d">00FB</text>
+<defs><path id="TracebarMono-Regular_uni00FB" d="M626 430V0H558V82L459 -34H207L114 74V430H182V98L237 34H429L558 184V430ZM370 556 302 492 264 532 370 634 476 532 438 492Z"/></defs>
+<use href="#TracebarMono-Regular_uni00FB" transform="translate(911.00 1415) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="993" y="1324" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="998" y="1344" font-family="sans-serif" font-size="13" fill="#53616d">00FC</text>
+<defs><path id="TracebarMono-Regular_uni00FC" d="M626 430V0H558V82L459 -34H207L114 74V430H182V98L237 34H429L558 184V430ZM321 530 317 527 313 525 308 523H303H298L293 525L289 527L285 530L282 533L279 537L277 541L275 546V551V556L277 561L279 565L282 569L285 572L289 575L293 577L298 579H303H308L313 577L317 575L321 572L324 569L327 565L329 561L331 556V551V546L329 541L327 537L324 533ZM455 530 451 527 447 525 442 523H437H432L427 525L423 527L419 530L416 533L413 537L411 541L409 546V551V556L411 561L413 565L416 569L419 572L423 575L427 577L432 579H437H442L447 577L451 575L455 572L458 569L461 565L463 561L465 556V551V546L463 541L461 537L458 533Z"/></defs>
+<use href="#TracebarMono-Regular_uni00FC" transform="translate(999.00 1415) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1081" y="1324" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1086" y="1344" font-family="sans-serif" font-size="13" fill="#53616d">00FD</text>
+<defs><path id="TracebarMono-Regular_uni00FD" d="M118 415 178 445 370 73 562 445 622 415 400 -14 318 -206H148V-138H274L333 -1ZM333 555 395 633 439 598 377 520Z"/></defs>
+<use href="#TracebarMono-Regular_uni00FD" transform="translate(1087.00 1415) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1169" y="1324" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1174" y="1344" font-family="sans-serif" font-size="13" fill="#53616d">00FE</text>
+<defs><path id="TracebarMono-Regular_uni00FE" d="M533 464 626 356V74L533 -34H287L182 28V-172H114V430H182V402L287 464ZM558 98V332L503 396H305L182 325V105L305 34H503Z"/></defs>
+<use href="#TracebarMono-Regular_uni00FE" transform="translate(1175.00 1415) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1257" y="1324" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1262" y="1344" font-family="sans-serif" font-size="13" fill="#53616d">00FF</text>
+<defs><path id="TracebarMono-Regular_uni00FF" d="M118 415 178 445 370 73 562 445 622 415 400 -14 318 -206H148V-138H274L333 -1ZM321 545 317 542 313 540 308 539 303 538 298 539 293 540 289 542 285 545 282 548 279 552 277 557 275 562V566V571L277 576L279 580L282 584L285 588L289 591L293 593L298 594H303H308L313 593L317 591L321 588L324 584L327 580L329 576L331 571V566V562L329 557L327 552L324 548ZM455 545 451 542 447 540 442 539 437 538 432 539 427 540 423 542 419 545 416 548 413 552 411 557 409 562V566V571L411 576L413 580L416 584L419 588L423 591L427 593L432 594H437H442L447 593L451 591L455 588L458 584L461 580L463 576L465 571V566V562L463 557L461 552L458 548Z"/></defs>
+<use href="#TracebarMono-Regular_uni00FF" transform="translate(1263.00 1415) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1345" y="1324" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1350" y="1344" font-family="sans-serif" font-size="13" fill="#53616d">0152</text>
+<defs><path id="TracebarMono-Regular_uni0152" d="M343 722 369 675V722H665V654H410V378H619V310H410V34H665V-34H369V13L343 -34H134L75 74V614L134 722ZM323 654H154L118 590V98L154 34H323L359 98V590Z"/></defs>
+<use href="#TracebarMono-Regular_uni0152" transform="translate(1351.00 1415) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="25" y="1438" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="30" y="1458" font-family="sans-serif" font-size="13" fill="#53616d">0153</text>
+<defs><path id="TracebarMono-Regular_uni0153" d="M338 464 375 397 410 464H613L670 356V138H397V95L430 34H594L634 108L665 64L613 -34H410L375 33L338 -34H129L70 74V356L129 464ZM629 332 594 396H430L397 335V206H629ZM318 396H148L113 332V98L148 34H318L353 97V333Z"/></defs>
+<use href="#TracebarMono-Regular_uni0153" transform="translate(31.00 1529) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="113" y="1438" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="118" y="1458" font-family="sans-serif" font-size="13" fill="#53616d">0160</text>
+<defs><path id="TracebarMono-Regular_uni0160" d="M540 284 631 178 540 -34H207L123 64L173 108L237 34H496L553 166L496 232L200 404L109 510L200 722H453L609 631L575 573L435 654H244L187 522L244 456ZM370 767 270 868 310 907 370 846 430 907 470 868Z"/></defs>
+<use href="#TracebarMono-Regular_uni0160" transform="translate(119.00 1529) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="201" y="1438" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="206" y="1458" font-family="sans-serif" font-size="13" fill="#53616d">0161</text>
+<defs><path id="TracebarMono-Regular_uni0161" d="M537 201 636 86 533 -34H207L123 64L173 108L237 34H503L548 86L499 143L203 229L104 344L207 464H533L617 366L567 322L503 396H237L192 344L241 287ZM370 509 270 610 310 649 370 588 430 649 470 610Z"/></defs>
+<use href="#TracebarMono-Regular_uni0161" transform="translate(207.00 1529) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="289" y="1438" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="294" y="1458" font-family="sans-serif" font-size="13" fill="#53616d">0178</text>
+<defs><path id="TracebarMono-Regular_uni0178" d="M370 406 564 706 620 670 404 334V0H336V334L120 670L176 706ZM321 806 317 803 313 801 308 800 303 799 298 800 293 801 289 803 285 806 282 809 279 813 277 818 275 822V827V832L277 837L279 841L282 845L285 849L289 851L293 853L298 855H303H308L313 853L317 851L321 849L324 845L327 841L329 837L331 832V827V822L329 818L327 813L324 809ZM455 806 451 803 447 801 442 800 437 799 432 800 427 801 423 803 419 806 416 809 413 813 411 818 409 822V827V832L411 837L413 841L416 845L419 849L423 851L427 853L432 855H437H442L447 853L451 851L455 849L458 845L461 841L463 837L465 832V827V822L463 818L461 813L458 809Z"/></defs>
+<use href="#TracebarMono-Regular_uni0178" transform="translate(295.00 1529) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="377" y="1438" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="382" y="1458" font-family="sans-serif" font-size="13" fill="#53616d">017D</text>
+<defs><path id="TracebarMono-Regular_uni017D" d="M87 -34 531 654H148V722H653L209 34H592V-34ZM370 767 270 868 310 907 370 846 430 907 470 868Z"/></defs>
+<use href="#TracebarMono-Regular_uni017D" transform="translate(383.00 1529) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="465" y="1438" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="470" y="1458" font-family="sans-serif" font-size="13" fill="#53616d">017E</text>
+<defs><path id="TracebarMono-Regular_uni017E" d="M592 -34H71L70 -29L509 396H148V464H669L670 459L231 34H592ZM370 509 270 610 310 649 370 588 430 649 470 610Z"/></defs>
+<use href="#TracebarMono-Regular_uni017E" transform="translate(471.00 1529) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="553" y="1438" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="558" y="1458" font-family="sans-serif" font-size="13" fill="#53616d">0192</text>
+<defs><path id="TracebarMono-Regular_uni0192" d="M355 654 292 509V464H555V396H292V0H226V396H185V464H226V523L311 722H555V654Z"/></defs>
+<use href="#TracebarMono-Regular_uni0192" transform="translate(559.00 1529) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="641" y="1438" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="646" y="1458" font-family="sans-serif" font-size="13" fill="#53616d">02C6</text>
+<defs><path id="TracebarMono-Regular_uni02C6" d="M476 480 438 440 370 504 302 440 264 480 370 582Z"/></defs>
+<use href="#TracebarMono-Regular_uni02C6" transform="translate(647.00 1529) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="729" y="1438" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="734" y="1458" font-family="sans-serif" font-size="13" fill="#53616d">02DC</text>
+<defs><path id="TracebarMono-Regular_uni02DC" d="M390 514 438 540 464 490 388 450 336 482 307 462 276 508 334 548Z"/></defs>
+<use href="#TracebarMono-Regular_uni02DC" transform="translate(735.00 1529) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="817" y="1438" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="822" y="1458" font-family="sans-serif" font-size="13" fill="#53616d">2013</text>
+<defs><path id="TracebarMono-Regular_uni2013" d="M622 315H118V365H622Z"/></defs>
+<use href="#TracebarMono-Regular_uni2013" transform="translate(823.00 1529) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="905" y="1438" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="910" y="1458" font-family="sans-serif" font-size="13" fill="#53616d">2014</text>
+<defs><path id="TracebarMono-Regular_uni2014" d="M622 315H118V365H622Z"/></defs>
+<use href="#TracebarMono-Regular_uni2014" transform="translate(911.00 1529) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="993" y="1438" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="998" y="1458" font-family="sans-serif" font-size="13" fill="#53616d">2018</text>
+<defs><path id="TracebarMono-Regular_uni2018" d="M333 554 356 719 407 711 384 546Z"/></defs>
+<use href="#TracebarMono-Regular_uni2018" transform="translate(999.00 1529) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1081" y="1438" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1086" y="1458" font-family="sans-serif" font-size="13" fill="#53616d">2019</text>
+<defs><path id="TracebarMono-Regular_uni2019" d="M333 554 356 719 407 711 384 546Z"/></defs>
+<use href="#TracebarMono-Regular_uni2019" transform="translate(1087.00 1529) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1169" y="1438" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1174" y="1458" font-family="sans-serif" font-size="13" fill="#53616d">201A</text>
+<defs><path id="TracebarMono-Regular_uni201A" d="M333 554 356 719 407 711 384 546Z"/></defs>
+<use href="#TracebarMono-Regular_uni201A" transform="translate(1175.00 1529) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1257" y="1438" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1262" y="1458" font-family="sans-serif" font-size="13" fill="#53616d">201C</text>
+<defs><path id="TracebarMono-Regular_uni201C" d="M279 716 329 714 321 552 271 554ZM419 717 469 713 459 551 409 555Z"/></defs>
+<use href="#TracebarMono-Regular_uni201C" transform="translate(1263.00 1529) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1345" y="1438" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1350" y="1458" font-family="sans-serif" font-size="13" fill="#53616d">201D</text>
+<defs><path id="TracebarMono-Regular_uni201D" d="M279 716 329 714 321 552 271 554ZM419 717 469 713 459 551 409 555Z"/></defs>
+<use href="#TracebarMono-Regular_uni201D" transform="translate(1351.00 1529) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="25" y="1552" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="30" y="1572" font-family="sans-serif" font-size="13" fill="#53616d">201E</text>
+<defs><path id="TracebarMono-Regular_uni201E" d="M279 716 329 714 321 552 271 554ZM419 717 469 713 459 551 409 555Z"/></defs>
+<use href="#TracebarMono-Regular_uni201E" transform="translate(31.00 1643) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="113" y="1552" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="118" y="1572" font-family="sans-serif" font-size="13" fill="#53616d">2020</text>
+<defs><path id="TracebarMono-Regular_uni2020" d="M352 0V470H115V530H352V740H396V530H625V470H396V0Z"/></defs>
+<use href="#TracebarMono-Regular_uni2020" transform="translate(119.00 1643) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="201" y="1552" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="206" y="1572" font-family="sans-serif" font-size="13" fill="#53616d">2021</text>
+<defs><path id="TracebarMono-Regular_uni2021" d="M625 270H396V0H352V270H115V320H352V470H115V530H352V740H396V530H625V470H396V320H625Z"/></defs>
+<use href="#TracebarMono-Regular_uni2021" transform="translate(207.00 1643) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="289" y="1552" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="294" y="1572" font-family="sans-serif" font-size="13" fill="#53616d">2022</text>
+<defs><path id="TracebarMono-Regular_uni2022" d="M451 371 447 357 441 344 433 332 423 322 411 314 398 308 384 304 370 303 356 304 342 308 329 314 317 322 307 332 299 344 293 357 289 371 288 385 289 399 293 413 299 426 307 438 317 448 329 456 342 462 356 466 370 467 384 466 398 462 411 456 423 448 433 438 441 426 447 413 451 399 452 385Z"/></defs>
+<use href="#TracebarMono-Regular_uni2022" transform="translate(295.00 1643) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="377" y="1552" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="382" y="1572" font-family="sans-serif" font-size="13" fill="#53616d">2026</text>
+<defs><path id="TracebarMono-Regular_uni2026" d="M150 66 148 62 146 58 143 55 139 52 135 51 130 49H126H121L117 51L113 52L109 55L106 58L103 62L101 66L100 70V75V80L101 84L103 88L106 92L109 95L113 98L117 99L121 101H126H130L135 99L139 98L143 95L146 92L148 88L150 84L151 80L152 75L151 70ZM393 62 390 58 387 55 383 52 379 51 375 49H370H365L361 51L357 52L353 55L350 58L347 62L346 66L344 70V75V80L346 84L347 88L350 92L353 95L357 98L361 99L365 101H370H375L379 99L383 98L387 95L390 92L393 88L394 84L396 80V75V70L394 66ZM637 62 634 58 631 55 627 52 623 51 619 49H614H610L605 51L601 52L597 55L594 58L592 62L590 66L589 70L588 75L589 80L590 84L592 88L594 92L597 95L601 98L605 99L610 101H614H619L623 99L627 98L631 95L634 92L637 88L639 84L640 80V75V70L639 66Z"/></defs>
+<use href="#TracebarMono-Regular_uni2026" transform="translate(383.00 1643) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="465" y="1552" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="470" y="1572" font-family="sans-serif" font-size="13" fill="#53616d">2030</text>
+<defs><path id="TracebarMono-Regular_uni2030" d="M158 7 114 33 521 718 565 692ZM176 580 171 578H165H160L154 580L149 582L145 585L141 589L137 594L135 599L134 604L133 610L134 616L135 621L137 626L141 631L145 635L149 638L154 640L160 642H165H171L176 640L181 638L186 635L190 631L193 626L196 621L197 616L198 610L197 604L196 599L193 594L190 589L186 585L181 582ZM171 625 168 626H165H163L160 625L157 624L155 622L153 620L151 618L150 615V613L149 610L150 607V605L151 602L153 600L155 598L157 596L160 595L163 594H165H168L171 595L173 596L176 598L178 600L179 602L180 605L181 607V610V613L180 615L179 618L178 620L176 622L173 624ZM514 97 509 95 504 93H498H493L487 95L482 97L478 100L474 104L470 109L468 114L467 119L466 125L467 131L468 136L470 141L474 146L478 150L482 153L487 155L493 157H498H504L509 155L514 153L519 150L523 146L526 141L529 136L530 131L531 125L530 119L529 114L526 109L523 104L519 100ZM506 139 504 140 501 141H498H496L493 140L490 139L488 137L486 135L484 133L483 130V128L482 125L483 122V120L484 117L486 115L488 113L490 111L493 110L496 109H498H501L504 110L506 111L509 113L511 115L512 117L513 120L514 122V125V128L513 130L512 133L511 135L509 137ZM617 50 612 45 607 41 600 38 594 37 587 36 580 37 574 38 568 41 562 45 557 50 553 56 550 62 549 68 548 75 549 82 550 88 553 94 557 100 562 105 568 109 574 112 580 113 587 114 594 113 600 112 607 109 612 105 617 100 621 95 624 88 626 82V75V68L624 62L621 56Z"/></defs>
+<use href="#TracebarMono-Regular_uni2030" transform="translate(471.00 1643) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="553" y="1552" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="558" y="1572" font-family="sans-serif" font-size="13" fill="#53616d">2039</text>
+<defs><path id="TracebarMono-Regular_uni2039" d="M602 55 570 15 138 360 570 705 602 665 220 360Z"/></defs>
+<use href="#TracebarMono-Regular_uni2039" transform="translate(559.00 1643) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="641" y="1552" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="646" y="1572" font-family="sans-serif" font-size="13" fill="#53616d">203A</text>
+<defs><path id="TracebarMono-Regular_uni203A" d="M170 15 138 55 520 360 138 665 170 705 602 360Z"/></defs>
+<use href="#TracebarMono-Regular_uni203A" transform="translate(647.00 1643) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="729" y="1552" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="734" y="1572" font-family="sans-serif" font-size="13" fill="#53616d">20AC</text>
+<defs><path id="TracebarMono-Regular_uni20AC" d="M194 240V98L249 34H447L587 115L621 57L465 -34H219L127 74V240H100V275H127V614L219 722H465L621 631L587 573L447 654H249L194 590V275H640V240Z"/></defs>
+<use href="#TracebarMono-Regular_uni20AC" transform="translate(735.00 1643) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="817" y="1552" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="822" y="1572" font-family="sans-serif" font-size="13" fill="#53616d">2122</text>
+<defs><path id="TracebarMono-Regular_uni2122" d="M300 721V689H210V375H178V689H87V721ZM653 742V375H623V651L538 510L453 651V375H423V742L432 745L538 570L644 745Z"/></defs>
+<use href="#TracebarMono-Regular_uni2122" transform="translate(823.00 1643) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="905" y="1552" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="910" y="1572" font-family="sans-serif" font-size="13" fill="#53616d">2190</text>
+<defs><path id="TracebarMono-Regular_uni2190" d="M654 327H183L264 178L199 142L86 350L199 562L265 528L182 372H654ZM170 350 180 332V369Z"/></defs>
+<use href="#TracebarMono-Regular_uni2190" transform="translate(911.00 1643) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="993" y="1552" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="998" y="1572" font-family="sans-serif" font-size="13" fill="#53616d">2191</text>
+<defs><path id="TracebarMono-Regular_uni2191" d="M348 140V640L211 508L159 562L344 742L346 745L348 746V750H355H356L359 751L363 752L366 753H370H374L377 752L381 751L384 750H385H392V746L394 745L396 742L581 562L529 508L392 640V140Z"/></defs>
+<use href="#TracebarMono-Regular_uni2191" transform="translate(999.00 1643) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1081" y="1552" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1086" y="1572" font-family="sans-serif" font-size="13" fill="#53616d">2192</text>
+<defs><path id="TracebarMono-Regular_uni2192" d="M86 372H558L475 528L541 562L654 350L541 142L476 178L557 327H86ZM570 350 560 369V332Z"/></defs>
+<use href="#TracebarMono-Regular_uni2192" transform="translate(1087.00 1643) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1169" y="1552" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1174" y="1572" font-family="sans-serif" font-size="13" fill="#53616d">2193</text>
+<defs><path id="TracebarMono-Regular_uni2193" d="M581 248 396 68 394 65 391 63 388 61 384 60 381 59 377 58 374 57H370H366L363 58L359 59L356 60L352 61L349 63L346 65L344 68L159 248L211 302L348 170V750H392V170L529 302Z"/></defs>
+<use href="#TracebarMono-Regular_uni2193" transform="translate(1175.00 1643) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1257" y="1552" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1262" y="1572" font-family="sans-serif" font-size="13" fill="#53616d">2260</text>
+<defs><path id="TracebarMono-Regular_uni2260" d="M614 225H126V275H614ZM126 435V485H614V435ZM453 599V543H287V599Z"/></defs>
+<use href="#TracebarMono-Regular_uni2260" transform="translate(1263.00 1643) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1345" y="1552" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1350" y="1572" font-family="sans-serif" font-size="13" fill="#53616d">2264</text>
+<defs><path id="TracebarMono-Regular_uni2264" d="M624 35H564L548 15L523 35H135V65H486L116 360L548 705L580 665L198 360L568 65H624Z"/></defs>
+<use href="#TracebarMono-Regular_uni2264" transform="translate(1351.00 1643) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="25" y="1666" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="30" y="1686" font-family="sans-serif" font-size="13" fill="#53616d">2265</text>
+<defs><path id="TracebarMono-Regular_uni2265" d="M605 35H217L192 15L176 35H116V65H172L542 360L160 665L192 705L624 360L254 65H605Z"/></defs>
+<use href="#TracebarMono-Regular_uni2265" transform="translate(31.00 1757) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="113" y="1666" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="118" y="1686" font-family="sans-serif" font-size="13" fill="#53616d">2500</text>
+<defs><path id="TracebarMono-Regular_uni2500" d="M740 354H0V396H740Z"/></defs>
+<use href="#TracebarMono-Regular_uni2500" transform="translate(119.00 1757) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="201" y="1666" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="206" y="1686" font-family="sans-serif" font-size="13" fill="#53616d">2502</text>
+<defs><path id="TracebarMono-Regular_uni2502" d="M391 -250H349V1000H391Z"/></defs>
+<use href="#TracebarMono-Regular_uni2502" transform="translate(207.00 1757) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="289" y="1666" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="294" y="1686" font-family="sans-serif" font-size="13" fill="#53616d">250C</text>
+<defs><path id="TracebarMono-Regular_uni250C" d="M349 -250V375H370V396H740V354H391V-250Z"/></defs>
+<use href="#TracebarMono-Regular_uni250C" transform="translate(295.00 1757) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="377" y="1666" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="382" y="1686" font-family="sans-serif" font-size="13" fill="#53616d">2510</text>
+<defs><path id="TracebarMono-Regular_uni2510" d="M391 -250H349V354H0V396H370V375H391Z"/></defs>
+<use href="#TracebarMono-Regular_uni2510" transform="translate(383.00 1757) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="465" y="1666" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="470" y="1686" font-family="sans-serif" font-size="13" fill="#53616d">2514</text>
+<defs><path id="TracebarMono-Regular_uni2514" d="M740 354H370V375H349V1000H391V396H740Z"/></defs>
+<use href="#TracebarMono-Regular_uni2514" transform="translate(471.00 1757) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="553" y="1666" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="558" y="1686" font-family="sans-serif" font-size="13" fill="#53616d">2518</text>
+<defs><path id="TracebarMono-Regular_uni2518" d="M0 354V396H349V1000H391V375H370V354Z"/></defs>
+<use href="#TracebarMono-Regular_uni2518" transform="translate(559.00 1757) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="641" y="1666" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="646" y="1686" font-family="sans-serif" font-size="13" fill="#53616d">251C</text>
+<defs><path id="TracebarMono-Regular_uni251C" d="M349 -250V375V1000H391V396H740V354H391V-250Z"/></defs>
+<use href="#TracebarMono-Regular_uni251C" transform="translate(647.00 1757) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="729" y="1666" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="734" y="1686" font-family="sans-serif" font-size="13" fill="#53616d">2524</text>
+<defs><path id="TracebarMono-Regular_uni2524" d="M349 -250V354H0V396H349V1000H391V375V-250Z"/></defs>
+<use href="#TracebarMono-Regular_uni2524" transform="translate(735.00 1757) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="817" y="1666" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="822" y="1686" font-family="sans-serif" font-size="13" fill="#53616d">252C</text>
+<defs><path id="TracebarMono-Regular_uni252C" d="M349 -250V354H0V396H370H740V354H391V-250Z"/></defs>
+<use href="#TracebarMono-Regular_uni252C" transform="translate(823.00 1757) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="905" y="1666" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="910" y="1686" font-family="sans-serif" font-size="13" fill="#53616d">2534</text>
+<defs><path id="TracebarMono-Regular_uni2534" d="M0 396H349V1000H391V396H740V354H370H0Z"/></defs>
+<use href="#TracebarMono-Regular_uni2534" transform="translate(911.00 1757) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="993" y="1666" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="998" y="1686" font-family="sans-serif" font-size="13" fill="#53616d">253C</text>
+<defs><path id="TracebarMono-Regular_uni253C" d="M349 -250V354H0V396H349V1000H391V396H740V354H391V-250Z"/></defs>
+<use href="#TracebarMono-Regular_uni253C" transform="translate(999.00 1757) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1081" y="1666" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1086" y="1686" font-family="sans-serif" font-size="13" fill="#53616d">2580</text>
+<defs><path id="TracebarMono-Regular_uni2580" d="M740 375H0V1000H740Z"/></defs>
+<use href="#TracebarMono-Regular_uni2580" transform="translate(1087.00 1757) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1169" y="1666" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1174" y="1686" font-family="sans-serif" font-size="13" fill="#53616d">2584</text>
+<defs><path id="TracebarMono-Regular_uni2584" d="M740 -250H0V375H740Z"/></defs>
+<use href="#TracebarMono-Regular_uni2584" transform="translate(1175.00 1757) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1257" y="1666" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1262" y="1686" font-family="sans-serif" font-size="13" fill="#53616d">2588</text>
+<defs><path id="TracebarMono-Regular_uni2588" d="M740 -250H0V1000H740Z"/></defs>
+<use href="#TracebarMono-Regular_uni2588" transform="translate(1263.00 1757) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1345" y="1666" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1350" y="1686" font-family="sans-serif" font-size="13" fill="#53616d">258C</text>
+<defs><path id="TracebarMono-Regular_uni258C" d="M370 -250H0V1000H370Z"/></defs>
+<use href="#TracebarMono-Regular_uni258C" transform="translate(1351.00 1757) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="25" y="1780" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="30" y="1800" font-family="sans-serif" font-size="13" fill="#53616d">2590</text>
+<defs><path id="TracebarMono-Regular_uni2590" d="M740 -250H370V1000H740Z"/></defs>
+<use href="#TracebarMono-Regular_uni2590" transform="translate(31.00 1871) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="113" y="1780" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="118" y="1800" font-family="sans-serif" font-size="13" fill="#53616d">2591</text>
+<defs><path id="TracebarMono-Regular_uni2591" d="M32 -250H0V-218H32ZM32 -154H0V-122H32H64V-154ZM0 6V38H32V6ZM32 102H0V134H32H64V102ZM0 262V294H32V262ZM32 358H0V390H32H64V358ZM0 518V550H32V518ZM32 646H64V614H32H0V646ZM0 774V806H32V774ZM32 870H0V902H32H64V870ZM64 -58H32V-26H64H96V-58ZM96 230V198H64H32V230H64ZM64 454H32V486H64H96V454ZM64 710H32V742H64H96V710ZM32 998H64H96V966H64H32ZM96 -186H128V-218H96H64V-186ZM96 70H128V38H96H64V70ZM96 294H64V326H96H128V294ZM64 582H96H128V550H96H64ZM96 806H64V838H96H128V806ZM128 -90H160V-122H128H96V-90ZM160 134H128H96V166H128H160ZM128 422H160V390H128H96V422ZM160 646H128H96V678H128H160ZM128 902H96V934H128H160V902ZM192 -26H160H128V6H160H192ZM160 230H128V262H160H192V230ZM192 486H160H128V518H160H192ZM192 742H160H128V774H160H192ZM192 998H160H128V1000H160H192ZM192 -154H224V-186H192H160V-154ZM160 102H192H224V70H192H160ZM224 358V326H192H160V358H192ZM192 614H224V582H192H160V614ZM160 838V870H192H224V838H192ZM224 -90H192V-58H224H256V-90ZM224 166H192V198H224H256V166ZM256 454V422H224H192V454H224ZM256 678H224H192V710H224H256ZM256 966V934H224H192V966H224ZM256 -250H224V-218H256H288V-250ZM256 38H288V6H256H224V38ZM288 262H256H224V294H256H288ZM256 550H288V518H256H224V550ZM256 806H288V774H256H224V806ZM288 -122H320V-154H288H256V-122ZM320 102H288H256V134H288H320ZM320 358H288H256V390H288H320ZM256 646H288H320V614H288H256ZM256 902H288H320V870H288H256ZM352 -58H320H288V-26H320H352ZM352 198H320H288V230H320H352ZM288 486H320H352V454H320H288ZM288 742H320H352V710H320H288ZM288 998H320H352V966H320H288ZM352 -218H320V-186H352H384V-218ZM352 70H384V38H352H320V70ZM384 326V294H352H320V326H352ZM352 582H384V550H352H320V582ZM352 838H384V806H352H320V838ZM416 -90V-122H384H352V-90H384ZM384 166H416V134H384H352V166ZM384 422H416V390H384H352V422ZM384 678H416V646H384H352V678ZM384 902H352V934H384H416V902ZM448 6V-26H416H384V6H416ZM448 230H416H384V262H416H448ZM448 518V486H416H384V518H416ZM416 774H448V742H416H384V774ZM416 998H384V1000H416H448V998ZM480 -186H448H416V-154H448H480ZM416 102H448H480V70H448H416ZM416 358H448H480V326H448H416ZM480 582H448H416V614H448H480ZM480 838H448H416V870H448H480ZM448 -58H480H512V-90H480H448ZM480 198H512V166H480H448V198ZM480 454H512V422H480H448V454ZM512 678H480H448V710H480H512ZM512 934H480H448V966H480H512ZM512 -250H480V-218H512H544V-250ZM512 6H480V38H512H544V6ZM512 262H480V294H512H544V262ZM544 518H512H480V550H512H544ZM512 806H544V774H512H480V806ZM544 -154H512V-122H544H576V-154ZM544 102H512V134H544H576V102ZM544 390H576V358H544H512V390ZM576 614H544H512V646H544H576ZM576 902V870H544H512V902H544ZM576 -58H544V-26H576H608V-58ZM576 198H544V230H576H608V198ZM576 454H544V486H576H608V454ZM576 710H544V742H576H608V710ZM608 998V966H576H544V998H576ZM608 -218H576V-186H608H640V-218ZM640 38H608H576V70H608H640ZM640 326V294H608H576V326H608ZM640 550H608H576V582H608H640ZM640 806H608H576V838H608H640ZM608 -90H640H672V-122H640H608ZM640 166H672V134H640H608V166ZM640 390H608V422H640H672V390ZM608 678H640H672V646H640H608ZM672 902H640H608V934H640H672ZM672 6H704V-26H672H640V6ZM704 230H672H640V262H672H704ZM672 486H640V518H672H704V486ZM672 774H704V742H672H640V774ZM672 998H640V1000H672H704V998ZM704 -186H672V-154H704H736V-186ZM736 70H704H672V102H704H736ZM704 326H672V358H704H736V326ZM704 582H672V614H704H736V582ZM736 838H704H672V870H704H736ZM740 -58V-90H736H704V-58H736ZM736 198H740V166H736H704V198ZM736 422H704V454H736H740V422ZM736 710H740V678H736H704V710ZM736 966H740V934H736H704V966ZM736 -250V-218H740V-250ZM736 6V38H740V6ZM736 262V294H740V262ZM736 518V550H740V518ZM736 774V806H740V774Z"/></defs>
+<use href="#TracebarMono-Regular_uni2591" transform="translate(119.00 1871) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="201" y="1780" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="206" y="1800" font-family="sans-serif" font-size="13" fill="#53616d">2592</text>
+<defs><path id="TracebarMono-Regular_uni2592" d="M160 -154H192V-122H224H256H288V-90H320H352H384V-58H416H448H480V-26H512H544H576V6H608H640H672V38H704H736H740V6H736H704V-26H672H640H608V-58H576H544H512V-90H480H448H416V-122H384H352H320V-154H288H256H224V-186H192H160H128V-218H96H64H32V-250H0V-218V-186H32H64H96V-154H128ZM64 -90H96H128V-58H160H192H224V-26H256H288H320V6H352H384H416V38H448H480H512V70H544H576H608V102H640H672H704V134H736H740V102H736V70H704H672H640V38H608H576H544V6H512H480H448V-26H416H384H352V-58H320H288H256V-90H224H192H160V-122H128H96H64V-154H32H0V-122H32V-90ZM96 6H128H160V38H192H224H256V70H288H320H352V102H384H416H448V134H480H512H544V166H576H608H640V198H672H704H736V230H740V198V166H736H704H672V134H640H608H576V102H544H512H480V70H448H416H384V38H352H320H288V6H256H224H192V-26H160H128H96V-58H64H32H0V-26H32H64V6ZM96 70V102H128H160H192V134H224H256H288V166H320H352H384V198H416H448H480V230H512H544H576V262H608H640H672V294H704H736H740V262H736H704V230H672H640H608V198H576H544H512V166H480H448H416V134H384H352H320V102H288H256H224V70H192H160H128V38H96H64H32V6H0V38V70H32H64ZM128 166V198H160H192H224V230H256H288H320V262H352H384H416V294H448H480H512V326H544H576H608V358H640H672H704V390H736H740V358H736V326H704H672H640V294H608H576H544V262H512H480H448V230H416H384H352V198H320H288H256V166H224H192H160V134H128H96H64V102H32H0V134H32V166H64H96ZM0 198V230H32H64V262H96H128H160V294H192H224H256V326H288H320H352V358H384H416H448V390H480H512H544V422H576H608H640V454H672H704H736V486H740V454V422H736H704H672V390H640H608H576V358H544H512H480V326H448H416H384V294H352H320H288V262H256H224H192V230H160H128H96V198H64H32ZM32 326H64H96V358H128H160H192V390H224H256H288V422H320H352H384V454H416H448H480V486H512H544H576V518H608H640H672V550H704H736H740V518H736H704V486H672H640H608V454H576H544H512V422H480H448H416V390H384H352H320V358H288H256H224V326H192H160H128V294H96H64H32V262H0V294V326ZM64 422H96H128V454H160H192H224V486H256H288H320V518H352H384H416V550H448H480H512V582H544H576H608V614H640H672H704V646H736H740V614H736V582H704H672H640V550H608H576H544V518H512H480H448V486H416H384H352V454H320H288H256V422H224H192H160V390H128H96H64V358H32H0V390H32V422ZM0 454V486H32H64V518H96H128H160V550H192H224H256V582H288H320H352V614H384H416H448V646H480H512H544V678H576H608H640V710H672H704H736V742H740V710V678H736H704H672V646H640H608H576V614H544H512H480V582H448H416H384V550H352H320H288V518H256H224H192V486H160H128H96V454H64H32ZM64 582H96V614H128H160H192V646H224H256H288V678H320H352H384V710H416H448H480V742H512H544H576V774H608H640H672V806H704H736H740V774H736H704V742H672H640H608V710H576H544H512V678H480H448H416V646H384H352H320V614H288H256H224V582H192H160H128V550H96H64H32V518H0V550V582H32ZM0 614V646H32V678H64H96H128V710H160H192H224V742H256H288H320V774H352H384H416V806H448H480H512V838H544H576H608V870H640H672H704V902H736H740V870H736V838H704H672H640V806H608H576H544V774H512H480H448V742H416H384H352V710H320H288H256V678H224H192H160V646H128H96H64V614H32ZM64 710H32H0V742H32H64V774H96H128H160V806H192H224H256V838H288H320H352V870H384H416H448V902H480H512H544V934H576H608H640V966H672H704H736V998H740V966V934H736H704H672V902H640H608H576V870H544H512H480V838H448H416H384V806H352H320H288V774H256H224H192V742H160H128H96V710ZM96 870H128H160H192V902H224H256H288V934H320H352H384V966H416H448H480V998H512H544H576V1000H608H640H672H704V998H672H640H608V966H576H544H512V934H480H448H416V902H384H352H320V870H288H256H224V838H192H160H128V806H96H64H32V774H0V806V838H32H64H96ZM96 934H128V966H160H192H224V998H256H288H320V1000H352H384H416H448V998H416H384H352V966H320H288H256V934H224H192H160V902H128H96H64V870H32H0V902H32V934H64ZM64 1000H96H128H160H192V998H160H128H96V966H64H32H0V998H32H64ZM160 -218H192H224H256V-186H288H320H352V-154H384H416H448V-122H480H512H544V-90H576H608H640V-58H672H704H736V-26H740V-58V-90H736H704H672V-122H640H608H576V-154H544H512H480V-186H448H416H384V-218H352H320H288V-250H256H224H192H160ZM416 -218H448H480H512V-186H544H576H608V-154H640H672H704V-122H736H740V-154H736V-186H704H672H640V-218H608H576H544V-250H512H480H448H416ZM736 -218H740V-250H736H704H672V-218H704Z"/></defs>
+<use href="#TracebarMono-Regular_uni2592" transform="translate(207.00 1871) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="289" y="1780" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="294" y="1800" font-family="sans-serif" font-size="13" fill="#53616d">2593</text>
+<defs><path id="TracebarMono-Regular_uni2593" d="M32 -90H64V-58H32H0V-26V6V38V70H32V102H0V134V166H32H64V198H32H0V230V262V294V326H32V358H0V390V422H32H64V454H32H0V486V518V550V582H32V614H0V646V678H32H64V710H32H0V742V774V806V838H32V870H0V902V934H32H64V966H32H0V998V1000H32H64H96H128H160H192V998H224H256V1000H288H320H352H384H416H448V998H480H512V1000H544H576H608H640H672H704V998H736H740V966V934V902V870H736V838H740V806V774H736H704V742H736H740V710V678V646V614H736V582H740V550V518H736H704V486H736H740V454V422V390V358H736V326H740V294V262H736H704V230H736H740V198V166V134V102H736V70H740V38V6H736H704V-26H736H740V-58V-90V-122V-154H736V-186H740V-218V-250H736H704H672H640H608V-218H576H544V-250H512H480H448H416H384H352V-218H320H288V-250H256H224H192H160H128H96V-218H64H32V-250H0V-218V-186H32V-154H0V-122V-90ZM736 678H704H672V646H704H736ZM736 390V422H704H672V390H704ZM736 166H704H672V134H704H736ZM736 -122V-90H704H672V-122H704ZM704 934H672V902H704H736V934ZM704 38V70H672H640V38H672ZM704 -218V-186H672H640V-218H672ZM704 294V326H672H640V294H672ZM704 550V582H672H640V550H672ZM704 806V838H672H640V806H672ZM672 998H640H608V966H640H672ZM672 742H640H608V710H640H672ZM672 198V230H640H608V198H640ZM672 -58V-26H640H608V-58H640ZM640 486H608V454H640H672V486ZM640 870V902H608H576V870H608ZM608 102H640V134H608H576V102ZM640 -154V-122H608H576V-154H608ZM640 358V390H608H576V358H608ZM640 614V646H608H576V614H608ZM576 806H544V774H576H608V806ZM576 518H608V550H576H544V518ZM576 262H608V294H576H544V262ZM544 6H576H608V38H576H544ZM576 934V966H544H512V934H544ZM576 198H544H512V166H544H576ZM512 -90H544H576V-58H544H512ZM512 422H544H576V454H544H512ZM512 678H544H576V710H544H512ZM544 326V358H512H480V326H512ZM544 -186V-154H512H480V-186H512ZM544 70V102H512H480V70H512ZM544 614H512H480V582H512H544ZM512 838H544V870H512H480V838ZM512 518H480H448V486H480H512ZM512 6H480H448V-26H480H512ZM480 230H512V262H480H448V230ZM448 742H480H512V774H480H448ZM480 902V934H448H416V902H448ZM480 646V678H448H416V646H448ZM448 -122H480V-90H448H416V-122ZM448 390H480V422H448H416V390ZM448 134H480V166H448H416V134ZM448 550V582H416H384V550H416ZM384 294H416H448V326H416H384ZM384 38H416H448V70H416H384ZM384 -218H416H448V-186H416H384ZM448 806V838H416H384V806H416ZM352 230V198H384H416V230H384ZM352 -26V-58H384H416V-26H384ZM416 710V742H384H352V710H384ZM384 454H416V486H384H352V454ZM384 966H416V998H384H352V966ZM384 102V134H352H320V102H352ZM384 -154V-122H352H320V-154H352ZM352 614H384V646H352H320V614ZM384 390H352H320V358H352H384ZM320 870H352H384V902H352H320ZM288 550V518H320H352V550H320ZM288 806V774H320H352V806H320ZM352 262V294H320H288V262H320ZM352 6V38H320H288V6H320ZM320 166V198H288H256V166H288ZM256 710V678H288H320V710H288ZM256 966V934H288H320V966H288ZM320 -90V-58H288H256V-90H288ZM320 454H288H256V422H288H320ZM288 582V614H256H224V582H256ZM288 326V358H256H224V326H256ZM288 102H256H224V70H256H288ZM288 838V870H256H224V838H256ZM256 -186H288V-154H256H224V-186ZM256 742V774H224H192V742H224ZM256 518H224H192V486H224H256ZM256 230V262H224H192V230H224ZM256 -26V6H224H192V-26H224ZM224 134V166H192H160V134H192ZM192 390H224V422H192H160V390ZM192 902H224V934H192H160V902ZM224 646V678H192H160V646H192ZM224 -90H192H160V-122H192H224ZM192 -218V-186H160H128V-218H160ZM128 806H160H192V838H160H128ZM128 550H160H192V582H160H128ZM128 294H160H192V326H160H128ZM128 38H160H192V70H160H128ZM160 -26H128H96V-58H128H160ZM96 198H128H160V230H128H96ZM96 454H128H160V486H128H96ZM96 710H128H160V742H128H96ZM96 966H128H160V998H128H96ZM128 102V134H96H64V102H96ZM128 -122H96H64V-154H96H128ZM128 390H96H64V358H96H128ZM128 614V646H96H64V614H96ZM128 902H96H64V870H96H128ZM96 518V550H64H32V518H64ZM64 774H96V806H64H32V774ZM64 262H96V294H64H32V262ZM64 6H96V38H64H32V6Z"/></defs>
+<use href="#TracebarMono-Regular_uni2593" transform="translate(295.00 1871) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="377" y="1780" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="382" y="1800" font-family="sans-serif" font-size="13" fill="#53616d">25A0</text>
+<defs><path id="TracebarMono-Regular_uni25A0" d="M118 95V675H622V95Z"/></defs>
+<use href="#TracebarMono-Regular_uni25A0" transform="translate(383.00 1871) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="465" y="1780" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="470" y="1800" font-family="sans-serif" font-size="13" fill="#53616d">25A1</text>
+<defs><path id="TracebarMono-Regular_uni25A1" d="M118 675H622V95H118ZM170 606V165H570V606Z"/></defs>
+<use href="#TracebarMono-Regular_uni25A1" transform="translate(471.00 1871) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="553" y="1780" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="558" y="1800" font-family="sans-serif" font-size="13" fill="#53616d">25B2</text>
+<defs><path id="TracebarMono-Regular_uni25B2" d="M666 70H74L370 775Z"/></defs>
+<use href="#TracebarMono-Regular_uni25B2" transform="translate(559.00 1871) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="641" y="1780" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="646" y="1800" font-family="sans-serif" font-size="13" fill="#53616d">25BA</text>
+<defs><path id="TracebarMono-Regular_uni25BA" d="M618 370 122 20V730Z"/></defs>
+<use href="#TracebarMono-Regular_uni25BA" transform="translate(647.00 1871) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="729" y="1780" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="734" y="1800" font-family="sans-serif" font-size="13" fill="#53616d">25BC</text>
+<defs><path id="TracebarMono-Regular_uni25BC" d="M666 710 370 0 74 710Z"/></defs>
+<use href="#TracebarMono-Regular_uni25BC" transform="translate(735.00 1871) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="817" y="1780" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="822" y="1800" font-family="sans-serif" font-size="13" fill="#53616d">25C4</text>
+<defs><path id="TracebarMono-Regular_uni25C4" d="M618 20 122 370 618 730Z"/></defs>
+<use href="#TracebarMono-Regular_uni25C4" transform="translate(823.00 1871) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="905" y="1780" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="910" y="1800" font-family="sans-serif" font-size="13" fill="#53616d">25CB</text>
+<defs><path id="TracebarMono-Regular_uni25CB" d="M624 293 604 250 577 211 544 178 505 151 462 131 417 119 370 115 323 119 278 131 235 151 196 178 163 211 136 250 116 293 104 338 100 385 104 432 116 477 136 520 163 559 196 592 235 619 278 639 323 651 370 655 417 651 462 639 505 619 544 592 577 559 604 520 624 477 636 432 640 385 636 338ZM564 455 548 488 528 517 502 543 473 563 440 579 406 588 370 591 334 588 300 579 267 563 238 543 212 517 192 488 176 455 167 421 164 385 167 349 176 315 192 282 212 253 238 227 267 207 300 191 334 182 370 179 406 182 440 191 473 207 502 227 528 253 548 282 564 315 573 349 576 385 573 421Z"/></defs>
+<use href="#TracebarMono-Regular_uni25CB" transform="translate(911.00 1871) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="993" y="1780" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="998" y="1800" font-family="sans-serif" font-size="13" fill="#53616d">25CF</text>
+<defs><path id="TracebarMono-Regular_uni25CF" d="M636 338 624 293 604 250 577 211 544 178 505 151 462 131 417 119 370 115 323 119 278 131 235 151 196 178 163 211 136 250 116 293 104 338 100 385 104 432 116 477 136 520 163 559 196 592 235 619 278 639 323 651 370 655 417 651 462 639 505 619 544 592 577 559 604 520 624 477 636 432 640 385Z"/></defs>
+<use href="#TracebarMono-Regular_uni25CF" transform="translate(999.00 1871) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1081" y="1780" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1086" y="1800" font-family="sans-serif" font-size="13" fill="#53616d">2713</text>
+<defs><path id="TracebarMono-Regular_uni2713" d="M595 713 668 667 320 127 317 123 314 120 311 117 308 115 304 112 300 110 296 109 292 108 288 107H284H279L275 108L271 109L267 110L263 112L260 114L256 117L253 120L250 123L72 343L139 397L280 223Z"/></defs>
+<use href="#TracebarMono-Regular_uni2713" transform="translate(1087.00 1871) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1169" y="1780" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1174" y="1800" font-family="sans-serif" font-size="13" fill="#53616d">2717</text>
+<defs><path id="TracebarMono-Regular_uni2717" d="M395 497 539 610 571 570 411 445 571 320 539 280 395 393V215H345V393L201 280L169 320L329 445L169 570L201 610L345 497V665H395Z"/></defs>
+<use href="#TracebarMono-Regular_uni2717" transform="translate(1175.00 1871) scale(0.0590 -0.0590)" fill="#172127"/>
+</svg>

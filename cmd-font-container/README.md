@@ -10,3 +10,10 @@ Terminal, command-line and "system UI" fonts: things that belong in a console, a
 | [`detent-slab/`](detent-slab/) | **Detent Slab**: angular fixed-pitch alphabet with selected slab terminals and dotted zero. Regular TTF + WOFF2, editable master, proofs and design notes. |
 
 Each font gets its own folder with its fonts, a README, a specimen, and the complete source/workflow needed to rebuild it.
+
+## Third Cohort / 03
+
+- [tracebar-mono](tracebar-mono/) — original source, two compiled formats, specimen, design and utility notes.
+- [bushing-sans](bushing-sans/) — original source, two compiled formats, specimen, design and utility notes.
+- [microslab](microslab/) — original source, two compiled formats, specimen, design and utility notes.
+- [nibble-nine](nibble-nine/) — original source, two compiled formats, specimen, design and utility notes.

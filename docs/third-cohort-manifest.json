@@ -1,0 +1,246 @@
+{
+  "schema": 1,
+  "version": "1.000",
+  "families": [
+    {
+      "family": "Tracebar Mono",
+      "style": "Regular",
+      "category": "cmd-font-container",
+      "lineage": "trace",
+      "mode": "trace",
+      "codepoints": 254,
+      "glyphs": 255,
+      "fixed_pitch": true,
+      "files": {
+        "cmd-font-container/tracebar-mono/fonts/TracebarMono-Regular.ttf": {
+          "sha256": "a10b807423c9290396732ebde48ec56dd309a0146a6a23e16ec54f710391919d",
+          "bytes": 31644
+        },
+        "cmd-font-container/tracebar-mono/fonts/TracebarMono-Regular.woff2": {
+          "sha256": "1903d4c47e69247065815c79cabf2b50d0e606bfb0efa88e39d3d1ef9915a790",
+          "bytes": 9544
+        }
+      }
+    },
+    {
+      "family": "Bushing Sans",
+      "style": "Regular",
+      "category": "cmd-font-container",
+      "lineage": "bushing",
+      "mode": "bush",
+      "codepoints": 254,
+      "glyphs": 255,
+      "fixed_pitch": false,
+      "files": {
+        "cmd-font-container/bushing-sans/fonts/BushingSans-Regular.ttf": {
+          "sha256": "6891c5862b81f09f49adfe77fd8378aad80b7d37082c1328ea94830523220e66",
+          "bytes": 40808
+        },
+        "cmd-font-container/bushing-sans/fonts/BushingSans-Regular.woff2": {
+          "sha256": "50e801581137294bae5ab0c12c1752f3e042bb33cf6b16977d7a5e5abf75455a",
+          "bytes": 12484
+        }
+      }
+    },
+    {
+      "family": "Microslab",
+      "style": "Regular",
+      "category": "cmd-font-container",
+      "lineage": "micro",
+      "mode": "slab",
+      "codepoints": 254,
+      "glyphs": 255,
+      "fixed_pitch": true,
+      "files": {
+        "cmd-font-container/microslab/fonts/Microslab-Regular.ttf": {
+          "sha256": "15edfa0c9a6f402a80d26688d320ddfbeaf63199845c56abaca8e0de54fca67c",
+          "bytes": 33072
+        },
+        "cmd-font-container/microslab/fonts/Microslab-Regular.woff2": {
+          "sha256": "1c18a6dcc8ca5079a9d1cb15844bc24595268dcaf0d4f936cf09fac0b9fe0c5a",
+          "bytes": 9712
+        }
+      }
+    },
+    {
+      "family": "Nibble Nine",
+      "style": "Regular",
+      "category": "cmd-font-container",
+      "lineage": "grid",
+      "mode": "pixel",
+      "codepoints": 254,
+      "glyphs": 255,
+      "fixed_pitch": true,
+      "files": {
+        "cmd-font-container/nibble-nine/fonts/NibbleNine-Regular.ttf": {
+          "sha256": "46143ba456ed5c58dfe6751637ed552b3e03245158afc36f3ce2b5fe03885f98",
+          "bytes": 51788
+        },
+        "cmd-font-container/nibble-nine/fonts/NibbleNine-Regular.woff2": {
+          "sha256": "471a8ca0de3a6d0feff77f4dbad774e8427f2236faee77c41947cc225ec17081",
+          "bytes": 10936
+        }
+      }
+    },
+    {
+      "family": "Torque Plate",
+      "style": "Regular",
+      "category": "hot-font-box",
+      "lineage": "micro",
+      "mode": "torque",
+      "codepoints": 254,
+      "glyphs": 255,
+      "fixed_pitch": false,
+      "files": {
+        "hot-font-box/torque-plate/fonts/TorquePlate-Regular.ttf": {
+          "sha256": "2b847daaefba09042a2d4593fe0d181fdebf0714e6584f2b3246f850ca8bb024",
+          "bytes": 31908
+        },
+        "hot-font-box/torque-plate/fonts/TorquePlate-Regular.woff2": {
+          "sha256": "21d3b3bf971fd56d4d43b45294f5df30fe5b5e6442a0c3dabd7fb53a08b16c8b",
+          "bytes": 9896
+        }
+      }
+    },
+    {
+      "family": "Sling Arc",
+      "style": "Oblique",
+      "category": "hot-font-box",
+      "lineage": "bushing",
+      "mode": "sling",
+      "codepoints": 254,
+      "glyphs": 255,
+      "fixed_pitch": false,
+      "files": {
+        "hot-font-box/sling-arc/fonts/SlingArc-Oblique.ttf": {
+          "sha256": "e3bb6cfccfb08281a5b24ff63684875ff9b86a7e13cc2da2f7c851ea5ad3de1c",
+          "bytes": 40528
+        },
+        "hot-font-box/sling-arc/fonts/SlingArc-Oblique.woff2": {
+          "sha256": "bbd39fb7401992a88fde3128340733d4d356d99c5c286e5667d8dd353632ca0e",
+          "bytes": 13076
+        }
+      }
+    },
+    {
+      "family": "Swarf Bridge",
+      "style": "Regular",
+      "category": "hot-font-box",
+      "lineage": "trace",
+      "mode": "bridge",
+      "codepoints": 254,
+      "glyphs": 255,
+      "fixed_pitch": false,
+      "files": {
+        "hot-font-box/swarf-bridge/fonts/SwarfBridge-Regular.ttf": {
+          "sha256": "e7faad7785f6fa831f8d13a231a6a0abcd6a5d5882332def1e6dc5d9f9a14a43",
+          "bytes": 37316
+        },
+        "hot-font-box/swarf-bridge/fonts/SwarfBridge-Regular.woff2": {
+          "sha256": "5afc93912aee815c7177961c63714c68b717b5ae3246f346e25d771d8eac3a2a",
+          "bytes": 12916
+        }
+      }
+    },
+    {
+      "family": "Raster Forge",
+      "style": "Regular",
+      "category": "hot-font-box",
+      "lineage": "grid",
+      "mode": "forge",
+      "codepoints": 254,
+      "glyphs": 255,
+      "fixed_pitch": true,
+      "files": {
+        "hot-font-box/raster-forge/fonts/RasterForge-Regular.ttf": {
+          "sha256": "87ed27dfaf1364e265dde6993ab28c9cb4795e6d725debb938c1a7d3d299b7b7",
+          "bytes": 58116
+        },
+        "hot-font-box/raster-forge/fonts/RasterForge-Regular.woff2": {
+          "sha256": "e6be09129723788331f1f7428044d7f94dcd8b58a1c2bb91266005c5a229449a",
+          "bytes": 10440
+        }
+      }
+    },
+    {
+      "family": "Shift Ghost",
+      "style": "Regular",
+      "category": "cachemonic",
+      "lineage": "trace",
+      "mode": "ghost",
+      "codepoints": 254,
+      "glyphs": 255,
+      "fixed_pitch": true,
+      "files": {
+        "cachemonic/shift-ghost/fonts/ShiftGhost-Regular.ttf": {
+          "sha256": "e9ab31b8d7c1a376cae66b5a0d75bd6c4e4aa7a0de13f50f9533ec480e3c0ec8",
+          "bytes": 39972
+        },
+        "cachemonic/shift-ghost/fonts/ShiftGhost-Regular.woff2": {
+          "sha256": "29cea623f65901d125b5beffc0f451c500932faceb18cc6a665daa9c41d4a0c1",
+          "bytes": 12752
+        }
+      }
+    },
+    {
+      "family": "Eddy Notch",
+      "style": "Regular",
+      "category": "cachemonic",
+      "lineage": "bushing",
+      "mode": "eddy",
+      "codepoints": 254,
+      "glyphs": 255,
+      "fixed_pitch": false,
+      "files": {
+        "cachemonic/eddy-notch/fonts/EddyNotch-Regular.ttf": {
+          "sha256": "0427b7ee97a42d101787f81c14daaf9a452e29ddaf9c52c533ecc2db75f56248",
+          "bytes": 51148
+        },
+        "cachemonic/eddy-notch/fonts/EddyNotch-Regular.woff2": {
+          "sha256": "0e006d878dc7207557df7f5a32523bad601855de75aa6f577449cfe3176b4600",
+          "bytes": 14320
+        }
+      }
+    },
+    {
+      "family": "Carbon Check",
+      "style": "Regular",
+      "category": "cachemonic",
+      "lineage": "micro",
+      "mode": "carbon",
+      "codepoints": 254,
+      "glyphs": 255,
+      "fixed_pitch": false,
+      "files": {
+        "cachemonic/carbon-check/fonts/CarbonCheck-Regular.ttf": {
+          "sha256": "8cfabe3b54a0d3810f4a636b94ea99d750c87cd55f1dc704323d2b8496e96b7f",
+          "bytes": 37060
+        },
+        "cachemonic/carbon-check/fonts/CarbonCheck-Regular.woff2": {
+          "sha256": "9e1499a9b842eb0c42f1e71e0cab995e84b3776727f9335ca1637bcc3bc85906",
+          "bytes": 13068
+        }
+      }
+    },
+    {
+      "family": "Checksum Haze",
+      "style": "Regular",
+      "category": "cachemonic",
+      "lineage": "grid",
+      "mode": "haze",
+      "codepoints": 254,
+      "glyphs": 255,
+      "fixed_pitch": true,
+      "files": {
+        "cachemonic/checksum-haze/fonts/ChecksumHaze-Regular.ttf": {
+          "sha256": "7b6b94f1a8d61671c79e0959a6d4e1018e2362e3216bae6de5bf8d20b5501bbd",
+          "bytes": 77268
+        },
+        "cachemonic/checksum-haze/fonts/ChecksumHaze-Regular.woff2": {
+          "sha256": "53dd61c6f42f64e0f2be5409fdb639502b1a76672d20d9885ebd26befd477eaf",
+          "bytes": 16656
+        }
+      }
+    }
+  ]
+}
