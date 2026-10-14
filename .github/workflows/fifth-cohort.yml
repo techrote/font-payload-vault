@@ -1,0 +1,89 @@
+name: Fifth Cohort verification
+
+on:
+  pull_request:
+    paths:
+      - '.github/workflows/fifth-cohort.yml'
+      - 'requirements-fifth-cohort.txt'
+      - 'requirements-original-trio*.txt'
+      - 'tools/fifth_cohort/**'
+      - 'tools/original_trio/geometry.py'
+      - 'tools/original_trio/repertoire.py'
+      - 'tools/original_trio/OFL.txt'
+      - 'cmd-font-container/railkey-mono/**'
+      - 'cmd-font-container/gimbal-sans/**'
+      - 'cmd-font-container/quoin-serif/**'
+      - 'cmd-font-container/pinfeed-grid/**'
+      - 'hot-font-box/flange-banner/**'
+      - 'hot-font-box/broach-black/**'
+      - 'hot-font-box/camber-script/**'
+      - 'hot-font-box/octant-cut/**'
+      - 'cachemonic/orbit-hatch/**'
+      - 'cachemonic/punchloom/**'
+      - 'cachemonic/flux-stitch/**'
+      - 'cachemonic/phase-cairn/**'
+      - 'docs/FIFTH-COHORT-WORKFLOW.md'
+      - 'docs/fifth-cohort-*'
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/fifth-cohort.yml'
+      - 'requirements-fifth-cohort.txt'
+      - 'requirements-original-trio*.txt'
+      - 'tools/fifth_cohort/**'
+      - 'tools/original_trio/geometry.py'
+      - 'tools/original_trio/repertoire.py'
+      - 'tools/original_trio/OFL.txt'
+      - 'cmd-font-container/railkey-mono/**'
+      - 'cmd-font-container/gimbal-sans/**'
+      - 'cmd-font-container/quoin-serif/**'
+      - 'cmd-font-container/pinfeed-grid/**'
+      - 'hot-font-box/flange-banner/**'
+      - 'hot-font-box/broach-black/**'
+      - 'hot-font-box/camber-script/**'
+      - 'hot-font-box/octant-cut/**'
+      - 'cachemonic/orbit-hatch/**'
+      - 'cachemonic/punchloom/**'
+      - 'cachemonic/flux-stitch/**'
+      - 'cachemonic/phase-cairn/**'
+      - 'docs/FIFTH-COHORT-WORKFLOW.md'
+      - 'docs/fifth-cohort-*'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: fifth-cohort-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  verify:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5
+        with:
+          python-version: '3.12'
+      - name: Install pinned production and browser dependencies
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y --no-install-recommends libfreetype6 opentype-sanitizer
+          python -m pip install -r requirements-fifth-cohort.txt
+          python -m playwright install --with-deps chromium
+      # Never overwrite checked-in font outputs before testing freshness.
+      - name: Verify committed fonts, source binding, reproducibility and mandatory OTS
+        run: python tools/fifth_cohort/verify.py --require-ots --require-records --report "$RUNNER_TEMP/fifth-cohort-verification.json"
+      - name: Reject stale documentation and specimens
+        run: |
+          python tools/fifth_cohort/docs.py --check
+          python tools/fifth_cohort/specimen.py --check
+      - name: Exercise twelve HTTP and file-URL browser testers
+        run: python tools/fifth_cohort/browser_smoke.py --report "$RUNNER_TEMP/fifth-cohort-browser-verification.json"
+      - name: Confirm verification left the checkout unchanged
+        run: |
+          git diff --exit-code
+          test -z "$(git ls-files --others --exclude-standard)"

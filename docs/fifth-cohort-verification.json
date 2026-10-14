@@ -1,0 +1,348 @@
+{
+  "schema": 1,
+  "successful": true,
+  "tests": 20,
+  "failures": 0,
+  "errors": 0,
+  "skipped": [],
+  "ots_required": true,
+  "paired_raster_comparisons": 9144,
+  "versions": {
+    "fonttools": "4.63.0",
+    "shapely": "2.1.2",
+    "Brotli": "1.2.0",
+    "freetype-py": "2.5.1"
+  },
+  "font_manifest": {
+    "schema": 1,
+    "version": "1.000",
+    "source_sha256": {
+      "cachemonic/flux-stitch/source/design.py": "e27c86d2fa87acd085f951ce086829ef6fcd1267280e630e2e8668d30a268374",
+      "cachemonic/orbit-hatch/source/design.py": "330fc546f97abfa1b2b88b5808d067c34b50c02fe22b69543885d13e2b595414",
+      "cachemonic/phase-cairn/source/design.py": "fe801e7242e979f453d9237edca5de55f3a1d2113925151863e00a32a3fb8c1b",
+      "cachemonic/punchloom/source/design.py": "1e91d58849a08ad4d532484247eef3f53b78261ef3e06354d3606ee4cb7d55b5",
+      "cmd-font-container/gimbal-sans/source/design.py": "02501e0b61f5f7feb03ae56e0c18b12f009cc644aa13abb79df36c9a6c1782a9",
+      "cmd-font-container/pinfeed-grid/source/design.py": "1da53af8dca5000e6ae10b61ab3234c47ae260ed1ddfec957ea9d69c794d6a94",
+      "cmd-font-container/quoin-serif/source/design.py": "9f6ed1e0a2acde75ecc41793cf740925a7e3fbb2b9a9da837562be2e11cbc8b0",
+      "cmd-font-container/railkey-mono/source/design.py": "cb7e35813a5ddecb2fbf355feaf7885c50925258ae36454f1b927f2d986684c7",
+      "hot-font-box/broach-black/source/design.py": "876f9ab341006ac77c90e2b50c67a8c851a1440b9067c5b0a3f7f9e5a86ec0ef",
+      "hot-font-box/camber-script/source/design.py": "f8480562b39666d1aceb96f01014b6244a42785f1e10f46fd7153b98b68f205c",
+      "hot-font-box/flange-banner/source/design.py": "35d2f905291aeba2b1055e31ebfa016c628e75ac071048bd19d5fc612b17c35d",
+      "hot-font-box/octant-cut/source/design.py": "93de91e5dd795e1f4bdbc404ab779e85e4f5bb3dd3e2abcc77ec764a338c2cc0",
+      "tools/fifth_cohort/build.py": "7830406374d142905b1c163395201889425c5f633f796f5115d7808a8a5a443e",
+      "tools/fifth_cohort/catalog.py": "c9cbb842d15c3afd2ec0f9ff0ac70ed803821703cc6d828ef58961d94c4c24e8",
+      "tools/fifth_cohort/common.py": "fa84de6206d6b20c5ff5167770ed19a5d1b32af19fa41f707cc29f5018228d84",
+      "tools/fifth_cohort/masters/camber.py": "8db82f7013a8316f4ef872ba287ef20262aa5534fc7f15540adec41fc4929dbb",
+      "tools/fifth_cohort/masters/gimbal.py": "c9fc623e13e72abb5882e61341c6f4a3ef41bc2d2b7b40b33963d944d1666e4e",
+      "tools/fifth_cohort/masters/octant.py": "af27474cfc3da9a98e5c08b43d4d1776060739a5c7ea040282f8f7f93c1fd768",
+      "tools/fifth_cohort/masters/pinfeed.py": "3d2ef43be692a80363dbf0448548528208ae696f6ab80fc4bd0b639097e36f7f",
+      "tools/fifth_cohort/masters/quoin.py": "f0352e09197d7dcc908931371c27ec298afdda56dd9ae9ac2b805ed712c4bbdf",
+      "tools/fifth_cohort/masters/rail.py": "6bebae32043a5292ab879dcbfde66f66a779cbcad499d7a162136a29a6817960",
+      "tools/original_trio/geometry.py": "fa387896c9313d7ee151867e75242f4a3defc413ea3732ee6f50293c75fc1981",
+      "tools/original_trio/repertoire.py": "8466a2412a9251c233f60b95fe340d867d977af63edd39930fe849fbc32b8261"
+    },
+    "families": [
+      {
+        "family": "Railkey Mono",
+        "style": "Regular",
+        "lineage": "rail",
+        "codepoints": 254,
+        "glyphs": 255,
+        "fixed_pitch": true,
+        "vertical_fits": {},
+        "files": {
+          "cmd-font-container/railkey-mono/fonts/RailkeyMono-Regular.ttf": {
+            "sha256": "166336530598950c365d40deaef2cc7bfded1cd90e05e46c96554bb5edbd2c01",
+            "bytes": 37276
+          },
+          "cmd-font-container/railkey-mono/fonts/RailkeyMono-Regular.woff2": {
+            "sha256": "dc12a5ab26e4829b2d9ffbf9771a7d6de9af638a1cb4c587d72ada4ffd363439",
+            "bytes": 12384
+          }
+        }
+      },
+      {
+        "family": "Gimbal Sans",
+        "style": "Regular",
+        "lineage": "gimbal",
+        "codepoints": 254,
+        "glyphs": 255,
+        "fixed_pitch": false,
+        "vertical_fits": {},
+        "files": {
+          "cmd-font-container/gimbal-sans/fonts/GimbalSans-Regular.ttf": {
+            "sha256": "a94219f6f8036ee3206aa73b4138fc8a0b29505dbfeb47ba7afca4d4a98a9d27",
+            "bytes": 78248
+          },
+          "cmd-font-container/gimbal-sans/fonts/GimbalSans-Regular.woff2": {
+            "sha256": "14c3e4aa638bdcfce826f4175ede4cd20204b440f322f2db963453da7077bb63",
+            "bytes": 21400
+          }
+        }
+      },
+      {
+        "family": "Quoin Serif",
+        "style": "Regular",
+        "lineage": "quoin",
+        "codepoints": 254,
+        "glyphs": 255,
+        "fixed_pitch": false,
+        "vertical_fits": {},
+        "files": {
+          "cmd-font-container/quoin-serif/fonts/QuoinSerif-Regular.ttf": {
+            "sha256": "6e32a06ac25214a04ccc3ae155bbcb9953be289463a90e9000eaf3a31fed4861",
+            "bytes": 80272
+          },
+          "cmd-font-container/quoin-serif/fonts/QuoinSerif-Regular.woff2": {
+            "sha256": "db632f499886b821812ea745963d11ca606246f2f5b337a2720f28f55706383e",
+            "bytes": 21544
+          }
+        }
+      },
+      {
+        "family": "Pinfeed Grid",
+        "style": "Regular",
+        "lineage": "pinfeed",
+        "codepoints": 254,
+        "glyphs": 255,
+        "fixed_pitch": true,
+        "vertical_fits": {},
+        "files": {
+          "cmd-font-container/pinfeed-grid/fonts/PinfeedGrid-Regular.ttf": {
+            "sha256": "03275d31e15db314b8e61f2cb70ed9eda39d5cb0c8f1b44e0fbf1bda09e05b92",
+            "bytes": 43456
+          },
+          "cmd-font-container/pinfeed-grid/fonts/PinfeedGrid-Regular.woff2": {
+            "sha256": "6e7376e9622871fde6b98c0906b8a38f39f5716d71b28fb7f262196df197abbc",
+            "bytes": 10964
+          }
+        }
+      },
+      {
+        "family": "Flange Banner",
+        "style": "Regular",
+        "lineage": "rail",
+        "codepoints": 254,
+        "glyphs": 255,
+        "fixed_pitch": false,
+        "vertical_fits": {
+          "U+00C7": {
+            "scale_y": 1,
+            "translate_y": 6.0
+          },
+          "U+00E7": {
+            "scale_y": 1,
+            "translate_y": 8.0
+          }
+        },
+        "files": {
+          "hot-font-box/flange-banner/fonts/FlangeBanner-Regular.ttf": {
+            "sha256": "8d3c61ed02059b3a6497416a1c4241691fd100279d5e547c8b4aa6fad8a39e44",
+            "bytes": 41876
+          },
+          "hot-font-box/flange-banner/fonts/FlangeBanner-Regular.woff2": {
+            "sha256": "24939b44ec9dfbc3c91de5462384075ddbb931799bc7c5c976adf540c84d6fd4",
+            "bytes": 13624
+          }
+        }
+      },
+      {
+        "family": "Broach Black",
+        "style": "Regular",
+        "lineage": "quoin",
+        "codepoints": 254,
+        "glyphs": 255,
+        "fixed_pitch": false,
+        "vertical_fits": {
+          "U+00E7": {
+            "scale_y": 1,
+            "translate_y": 7.0
+          }
+        },
+        "files": {
+          "hot-font-box/broach-black/fonts/BroachBlack-Regular.ttf": {
+            "sha256": "90a4976c644ff177a2434ec1d7900e09dd1599a852d01679c2d1c0c75ba09332",
+            "bytes": 78848
+          },
+          "hot-font-box/broach-black/fonts/BroachBlack-Regular.woff2": {
+            "sha256": "c4ec0500461db888bbc0dcc3e73c500d90cd99d746a14d937bd4f81e5472d01a",
+            "bytes": 21600
+          }
+        }
+      },
+      {
+        "family": "Camber Script",
+        "style": "Oblique",
+        "lineage": "camber",
+        "codepoints": 254,
+        "glyphs": 255,
+        "fixed_pitch": false,
+        "vertical_fits": {
+          "U+0192": {
+            "scale_y": 1,
+            "translate_y": 13.0
+          }
+        },
+        "files": {
+          "hot-font-box/camber-script/fonts/CamberScript-Oblique.ttf": {
+            "sha256": "b79365953d4f51a7d5c8e648e15e9ad80640626e214bef64d226dad068c8af4e",
+            "bytes": 110976
+          },
+          "hot-font-box/camber-script/fonts/CamberScript-Oblique.woff2": {
+            "sha256": "58b0d5808f9e53f5b48142a215c5e72dc2d24c84badfedcbe8822bdf81a81a70",
+            "bytes": 31568
+          }
+        }
+      },
+      {
+        "family": "Octant Cut",
+        "style": "Regular",
+        "lineage": "octant",
+        "codepoints": 254,
+        "glyphs": 255,
+        "fixed_pitch": false,
+        "vertical_fits": {},
+        "files": {
+          "hot-font-box/octant-cut/fonts/OctantCut-Regular.ttf": {
+            "sha256": "2935a9e659a114edcdcdb94b45ac0d60039f9c309754676c10fbb79bd6b094c2",
+            "bytes": 37024
+          },
+          "hot-font-box/octant-cut/fonts/OctantCut-Regular.woff2": {
+            "sha256": "02ea3c272d3d54b523d5adb6c7610c0faa176a5a5152ea24c4b159a9cc15ea57",
+            "bytes": 12968
+          }
+        }
+      },
+      {
+        "family": "Orbit Hatch",
+        "style": "Regular",
+        "lineage": "gimbal",
+        "codepoints": 254,
+        "glyphs": 255,
+        "fixed_pitch": false,
+        "vertical_fits": {
+          "U+0070": {
+            "scale_y": 1,
+            "translate_y": 4.0
+          },
+          "U+0071": {
+            "scale_y": 1,
+            "translate_y": 4.0
+          },
+          "U+00C0": {
+            "scale_y": 1,
+            "translate_y": -8.0
+          },
+          "U+00C1": {
+            "scale_y": 1,
+            "translate_y": -8.0
+          },
+          "U+00C2": {
+            "scale_y": 1,
+            "translate_y": -9.0
+          },
+          "U+00C5": {
+            "scale_y": 1,
+            "translate_y": -14.0
+          },
+          "U+00C7": {
+            "scale_y": 1,
+            "translate_y": 34.0
+          },
+          "U+00D2": {
+            "scale_y": 1,
+            "translate_y": -3.0
+          },
+          "U+00D3": {
+            "scale_y": 1,
+            "translate_y": -3.0
+          },
+          "U+00D4": {
+            "scale_y": 1,
+            "translate_y": -4.0
+          },
+          "U+00E7": {
+            "scale_y": 1,
+            "translate_y": 31.0
+          },
+          "U+0160": {
+            "scale_y": 1,
+            "translate_y": -8.0
+          }
+        },
+        "files": {
+          "cachemonic/orbit-hatch/fonts/OrbitHatch-Regular.ttf": {
+            "sha256": "ffd1e045ca22f060b443a5bcde06be791a97ee28470ea842246db6b4e0227d21",
+            "bytes": 206020
+          },
+          "cachemonic/orbit-hatch/fonts/OrbitHatch-Regular.woff2": {
+            "sha256": "32b8e9e0df3a2c34590f348648418edec143c8e14c085159f28f463f97ea64dc",
+            "bytes": 61700
+          }
+        }
+      },
+      {
+        "family": "Punchloom",
+        "style": "Regular",
+        "lineage": "pinfeed",
+        "codepoints": 254,
+        "glyphs": 255,
+        "fixed_pitch": true,
+        "vertical_fits": {},
+        "files": {
+          "cachemonic/punchloom/fonts/Punchloom-Regular.ttf": {
+            "sha256": "51aeb3a5c5cd4b2bc1dd1dc3899567e1dd83797c9f3014c87c60de28a3f0e910",
+            "bytes": 166704
+          },
+          "cachemonic/punchloom/fonts/Punchloom-Regular.woff2": {
+            "sha256": "fe95ca51334019763438d011adb501b85f96e42afbd2a831bffb3e29dd6d54e9",
+            "bytes": 15148
+          }
+        }
+      },
+      {
+        "family": "Flux Stitch",
+        "style": "Oblique",
+        "lineage": "camber",
+        "codepoints": 254,
+        "glyphs": 255,
+        "fixed_pitch": false,
+        "vertical_fits": {
+          "U+0192": {
+            "scale_y": 1,
+            "translate_y": 6.0
+          }
+        },
+        "files": {
+          "cachemonic/flux-stitch/fonts/FluxStitch-Oblique.ttf": {
+            "sha256": "fe01105e7e93bf3f58c565c71c66b9ff2d13a390f7d69bd80cc0bbcb28f8f672",
+            "bytes": 233040
+          },
+          "cachemonic/flux-stitch/fonts/FluxStitch-Oblique.woff2": {
+            "sha256": "4b207f1495e19317a26952d249ba3cb1667758b033f3fc6955059f7972fe4c1e",
+            "bytes": 45416
+          }
+        }
+      },
+      {
+        "family": "Phase Cairn",
+        "style": "Regular",
+        "lineage": "octant",
+        "codepoints": 254,
+        "glyphs": 255,
+        "fixed_pitch": true,
+        "vertical_fits": {},
+        "files": {
+          "cachemonic/phase-cairn/fonts/PhaseCairn-Regular.ttf": {
+            "sha256": "d8b01b95892768d25f31535f7c603a5281a095610c36c5c8c248bd37e460d7c2",
+            "bytes": 63228
+          },
+          "cachemonic/phase-cairn/fonts/PhaseCairn-Regular.woff2": {
+            "sha256": "6ccf98521402052f5f14475bf9f75c3ced5d7adfca27d46c82bfa4b96a607847",
+            "bytes": 17792
+          }
+        }
+      }
+    ]
+  }
+}

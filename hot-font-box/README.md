@@ -17,3 +17,12 @@ and the repo's only cringe **11**. Picked on purpose as the so-bad-it's-good ent
 - [sling-arc](sling-arc/) — original source, two compiled formats, specimen, design and utility notes.
 - [swarf-bridge](swarf-bridge/) — original source, two compiled formats, specimen, design and utility notes.
 - [raster-forge](raster-forge/) — original source, two compiled formats, specimen, design and utility notes.
+
+## Fifth Cohort / 05
+
+| Family | Intent |
+|---|---|
+| [Flange Banner](flange-banner/) | Heavy folded stock with tabs on long vertical strokes. |
+| [Broach Black](broach-black/) | Dense wedge-serif lettering; large foundry-style titles. |
+| [Camber Script](camber-script/) | Looped independent cursive letters with a forward load. |
+| [Octant Cut](octant-cut/) | Narrow faceted monumental lettering with true lowercase. |

@@ -17,3 +17,12 @@ Each font gets its own folder with its fonts, a README, a specimen, and the comp
 - [bushing-sans](bushing-sans/) — original source, two compiled formats, specimen, design and utility notes.
 - [microslab](microslab/) — original source, two compiled formats, specimen, design and utility notes.
 - [nibble-nine](nibble-nine/) — original source, two compiled formats, specimen, design and utility notes.
+
+## Fifth Cohort / 05
+
+| Family | Intent |
+|---|---|
+| [Railkey Mono](railkey-mono/) | Folded shoulders; fixed cells; plain operational rhythm. |
+| [Gimbal Sans](gimbal-sans/) | Open curves and asymmetry for proportional instrument labels. |
+| [Quoin Serif](quoin-serif/) | Wedge serifs and deliberate stroke contrast for short explanatory text. |
+| [Pinfeed Grid](pinfeed-grid/) | Continuous 8-column cells; controller and paper-feed rhythm. |
