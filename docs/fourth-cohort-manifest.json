@@ -1,0 +1,56 @@
+{
+  "schema": 1,
+  "families": [
+    {
+      "family": "Gasket Sans",
+      "version": "1.100",
+      "codepoints": 254,
+      "glyphs": 255,
+      "fixed_pitch": false,
+      "files": {
+        "cmd-font-container/gasket-sans/fonts/GasketSans-Regular.ttf": {
+          "sha256": "67e4575dbde1d9485adde62d10c4a2bf0873bc919ea54e25995045598c57643f",
+          "bytes": 28824
+        },
+        "cmd-font-container/gasket-sans/fonts/GasketSans-Regular.woff2": {
+          "sha256": "04d6885c5e2f8c8aea70b38601d76f865dbf382e3737efb9c208867102554e5c",
+          "bytes": 9780
+        }
+      }
+    },
+    {
+      "family": "Ratchet Block",
+      "version": "1.100",
+      "codepoints": 254,
+      "glyphs": 255,
+      "fixed_pitch": true,
+      "files": {
+        "hot-font-box/ratchet-block/fonts/RatchetBlock-Regular.ttf": {
+          "sha256": "df75144ff867c78d85c1c98f1b5a93a09c1307a0950f0de53b56565eea62c04e",
+          "bytes": 27204
+        },
+        "hot-font-box/ratchet-block/fonts/RatchetBlock-Regular.woff2": {
+          "sha256": "57dd5f2e5086e56681a3c0dd9f27130776bebf0219bd678721a581438963ad9d",
+          "bytes": 9464
+        }
+      }
+    },
+    {
+      "family": "Phase Drift",
+      "version": "1.100",
+      "codepoints": 254,
+      "glyphs": 255,
+      "fixed_pitch": true,
+      "files": {
+        "cachemonic/phase-drift/fonts/PhaseDrift-Regular.ttf": {
+          "sha256": "077f8922cbc1b2c5a662a998da08655aed52eed7052394a1870824a2a166b284",
+          "bytes": 305720
+        },
+        "cachemonic/phase-drift/fonts/PhaseDrift-Regular.woff2": {
+          "sha256": "cb3e3805ac2a47bad159d2a88e303d10baff8cbad8ee8c76e45532c37b279ee3",
+          "bytes": 11476
+        }
+      }
+    }
+  ]
+}
