@@ -1,92 +1,79 @@
-name: Third Cohort initial publication
+name: Third Cohort verification
 
 on:
-  push:
-    branches: [font/third-cohort]
+  pull_request:
     paths:
-      - '.bootstrap/third-cohort.*.b64'
       - '.github/workflows/third-cohort.yml'
+      - 'requirements-*.txt'
+      - 'tools/third_cohort/**'
+      - 'cmd-font-container/tracebar-mono/**'
+      - 'cmd-font-container/bushing-sans/**'
+      - 'cmd-font-container/microslab/**'
+      - 'cmd-font-container/nibble-nine/**'
+      - 'hot-font-box/torque-plate/**'
+      - 'hot-font-box/sling-arc/**'
+      - 'hot-font-box/swarf-bridge/**'
+      - 'hot-font-box/raster-forge/**'
+      - 'cachemonic/shift-ghost/**'
+      - 'cachemonic/eddy-notch/**'
+      - 'cachemonic/carbon-check/**'
+      - 'cachemonic/checksum-haze/**'
+      - 'docs/third-cohort-*'
+      - 'docs/THIRD-COHORT-WORKFLOW.md'
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/third-cohort.yml'
+      - 'requirements-*.txt'
+      - 'tools/third_cohort/**'
+      - 'cmd-font-container/tracebar-mono/**'
+      - 'cmd-font-container/bushing-sans/**'
+      - 'cmd-font-container/microslab/**'
+      - 'cmd-font-container/nibble-nine/**'
+      - 'hot-font-box/torque-plate/**'
+      - 'hot-font-box/sling-arc/**'
+      - 'hot-font-box/swarf-bridge/**'
+      - 'hot-font-box/raster-forge/**'
+      - 'cachemonic/shift-ghost/**'
+      - 'cachemonic/eddy-notch/**'
+      - 'cachemonic/carbon-check/**'
+      - 'cachemonic/checksum-haze/**'
+      - 'docs/third-cohort-*'
+      - 'docs/THIRD-COHORT-WORKFLOW.md'
+  workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: read
 
 concurrency:
-  group: third-cohort-source-publication
-  cancel-in-progress: false
+  group: third-cohort-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: true
 
 jobs:
-  publish:
-    if: github.repository == 'techrote/font-payload-vault' && github.ref == 'refs/heads/font/third-cohort'
+  verify:
     runs-on: ubuntu-24.04
     timeout-minutes: 40
     steps:
       - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          persist-credentials: false
       - uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5
         with:
           python-version: '3.12'
-      - name: Expand independently checksummed source-only transport
-        shell: bash
-        run: |
-          python - <<'PY'
-          import base64, hashlib, json, lzma, shutil, subprocess, sys
-          from pathlib import Path, PurePosixPath
-          parts=sorted(Path('.bootstrap').glob('third-cohort.*.b64'))
-          assert len(parts)==6, f'Expected six transport parts, got {len(parts)}'
-          encoded=''.join(p.read_text(encoding='ascii').strip() for p in parts)
-          payload=base64.b64decode(encoded,validate=True)
-          assert hashlib.sha256(payload).hexdigest()=='da1be7dfafa803290ffe06c9f7e4d649634d73ff2000f01a6266467da93278ba', 'Transport checksum mismatch'
-          source=json.loads(lzma.decompress(payload))
-          assert len(source)==11, len(source)
-          named={'.github/workflows/third-cohort.yml','requirements-third-cohort.txt','docs/THIRD-COHORT-WORKFLOW.md'}
-          for path,content in source.items():
-              p=PurePosixPath(path)
-              assert not p.is_absolute() and '..' not in p.parts
-              assert path in named or (path.startswith('tools/third_cohort/') and p.suffix=='.py'),path
-              assert isinstance(content,str) and '/fonts/' not in path and '/specimen/' not in path
-              dest=Path(path);dest.parent.mkdir(parents=True,exist_ok=True)
-              dest.write_text(content,encoding='utf-8')
-          subprocess.run([sys.executable,'tools/third_cohort/create_specs.py'],check=True)
-          subprocess.run([sys.executable,'tools/third_cohort/publish_index.py'],check=True)
-          # Reuse the repository's approved OFL text. It applies only to these new fonts.
-          license_text=Path('cmd-font-container/collet-sans/OFL.txt').read_text(encoding='utf-8')
-          from pathlib import Path
-          for category,names in {
-            'cmd-font-container':('tracebar-mono','bushing-sans','microslab','nibble-nine'),
-            'hot-font-box':('torque-plate','sling-arc','swarf-bridge','raster-forge'),
-            'cachemonic':('shift-ghost','eddy-notch','carbon-check','checksum-haze')
-          }.items():
-              for name in names:
-                  p=Path(category)/name/'OFL.txt';p.write_text(license_text,encoding='utf-8')
-          Path('tools/third_cohort/OFL.txt').write_text(license_text,encoding='utf-8')
-          print('Expanded 11 original UTF-8 source files, generated 12 documented font identities; no pre-existing font master used.')
-          PY
-      - name: Install pinned font, sanitizer and browser toolchain
+      - name: Install pinned sanitizer, fonts and Chromium
         run: |
           sudo apt-get update -qq
           sudo apt-get install -y --no-install-recommends libfreetype6 opentype-sanitizer
           python -m pip install -r requirements-third-cohort.txt
           python -m playwright install --with-deps chromium
-      - name: Build twenty-four font payloads from original art
-        run: python tools/third_cohort/build.py
-      - name: Verify exact source, deterministic raster, OTS and hashes
-        run: python tools/third_cohort/verify.py --require-ots --report docs/third-cohort-verification.json
-      - name: Generate and check all 37 specimens
+      # Do not rebuild over committed binaries before checking their exact hashes.
+      - name: Verify exact committed contours, bytes, reproducibility and mandatory OTS
+        run: python tools/third_cohort/verify.py --require-ots --report "$RUNNER_TEMP/third-cohort-verification.json"
+      - name: Reject stale specimen outputs
+        run: python tools/third_cohort/specimen.py --check
+      - name: Verify twelve HTTP and file-URL local testers
+        run: python tools/third_cohort/browser_smoke.py --report "$RUNNER_TEMP/third-cohort-browser-verification.json"
+      - name: Confirm test checkout was not modified
         run: |
-          python tools/third_cohort/specimen.py
-          python tools/third_cohort/specimen.py --check
-      - name: Test all twelve local browser type testers
-        run: python tools/third_cohort/browser_smoke.py --report docs/third-cohort-browser-verification.json
-      - name: Commit only qualified sources, outputs and read-only regression CI
-        shell: bash
-        run: |
-          git add README.md cmd-font-container/README.md hot-font-box/README.md cachemonic/README.md
-          git add requirements-third-cohort.txt tools/third_cohort
-          git add cmd-font-container/tracebar-mono cmd-font-container/bushing-sans cmd-font-container/microslab cmd-font-container/nibble-nine
-          git add hot-font-box/torque-plate hot-font-box/sling-arc hot-font-box/swarf-bridge hot-font-box/raster-forge
-          git add cachemonic/shift-ghost cachemonic/eddy-notch cachemonic/carbon-check cachemonic/checksum-haze
-          git add docs/THIRD-COHORT-WORKFLOW.md docs/third-cohort-*
-          git rm -- .bootstrap/third-cohort.*.b64
-          test -z "$(git diff --name-only HEAD -- cmd-font-container/knurled-swarf cmd-font-container/latchline-mono cmd-font-container/collet-sans hot-font-box/diecast-relay hot-font-box/flypress cachemonic/cache-rattle cachemonic/anode-bloom abandonware docs/subfolder-name-ideadump-refonly.md)"
-          git diff --cached --check
-          git -c user.name='github-actions[bot]' -c user.email='41898282+github-actions[bot]@users.noreply.github.com' commit -m 'Add twelve new original typefaces with sources, specimens and verified artifacts [skip ci]'
-          git push origin HEAD:refs/heads/font/third-cohort
+          git diff --exit-code
+          test -z "$(git ls-files --others --exclude-standard)"
