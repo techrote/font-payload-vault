@@ -80,7 +80,7 @@ jobs:
         shell: bash
         run: |
           git add README.md cmd-font-container/README.md hot-font-box/README.md cachemonic/README.md
-          git add .github/workflows/third-cohort.yml requirements-third-cohort.txt tools/third_cohort
+          git add requirements-third-cohort.txt tools/third_cohort
           git add cmd-font-container/tracebar-mono cmd-font-container/bushing-sans cmd-font-container/microslab cmd-font-container/nibble-nine
           git add hot-font-box/torque-plate hot-font-box/sling-arc hot-font-box/swarf-bridge hot-font-box/raster-forge
           git add cachemonic/shift-ghost cachemonic/eddy-notch cachemonic/carbon-check cachemonic/checksum-haze
@@ -88,5 +88,5 @@ jobs:
           git rm -- .bootstrap/third-cohort.*.b64
           test -z "$(git diff --name-only HEAD -- cmd-font-container/knurled-swarf cmd-font-container/latchline-mono cmd-font-container/collet-sans hot-font-box/diecast-relay hot-font-box/flypress cachemonic/cache-rattle cachemonic/anode-bloom abandonware docs/subfolder-name-ideadump-refonly.md)"
           git diff --cached --check
-          git -c user.name='github-actions[bot]' -c user.email='41898282+github-actions[bot]@users.noreply.github.com' commit -m 'Add twelve new original typefaces with sources, specimens and verified artifacts'
+          git -c user.name='github-actions[bot]' -c user.email='41898282+github-actions[bot]@users.noreply.github.com' commit -m 'Add twelve new original typefaces with sources, specimens and verified artifacts [skip ci]'
           git push origin HEAD:refs/heads/font/third-cohort
