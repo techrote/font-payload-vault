@@ -1,6 +1,6 @@
 # Fourth Cohort — production workflow
 
-**Scope:** Gasket Sans, Ratchet Block and Phase Drift, version 1.000. Their three
+**Scope:** Gasket Sans, Ratchet Block and Phase Drift, version 1.100 (remastered from 1.000). Their three
 font folders, `tools/fourth_cohort/cohort.py` and this document are new
 OFL-licensed Font Software.
 
@@ -35,6 +35,19 @@ another directory and leaves the sources unchanged.
 - Lowercase in Ratchet Block and Phase Drift is intentionally small-cap or caps
   input, not text lowercase.
 - Rendered and reviewed as a FreeType preview at 56 px.
+
+## 1.100 remaster
+
+Found in the 1.000 render and changed:
+
+- **Gasket Sans:** letters touched (no side bearings) and punctuation dots were
+  thin slivers. Spacing is now ink-fitted with 72-unit bearings, figures are tabular
+  in a 600 cell, and `. , : ; ! ? i j` use square dots matching the stem. `%` redrawn.
+- **Ratchet Block:** cell widened 600 to 660 with centred ink, small capitals enlarged
+  (86 % x 78 %, x-height 546), dots are full-weight squares, `%` redrawn.
+- **Phase Drift:** dots enlarged (radius 40 to 43), drift widened, ink centred.
+- Version, name table and `head.fontRevision` are 1.100. `render.py` produces the
+  proof image in the README.
 
 ## Not yet done
 

@@ -1,17 +1,17 @@
-"""Ratchet Block: independently drawn heavy uppercase display master.
+"""Ratchet Block 1.100 (remastered): independently drawn heavy uppercase display master.
 Copyright (c) 2026 techrote. SIL Open Font License 1.1.
 Lowercase input is deliberately small capitals built from the uppercase
 skeletons, not text lowercase.
 """
-from geometry import path, translate, scale, Polygon
+from geometry import path, merge, box, translate, scale, Polygon
 
 FAMILY = 'Ratchet Block'
 SLUG = 'ratchet-block'
 STEM = 120
-ADVANCE = 600
+ADVANCE = 660
 MONO = True
 CAP_HEIGHT = 700
-X_HEIGHT = 462
+X_HEIGHT = 546
 CAPS = {
 'A': 'M 60 0 L 280 700 L 500 0 M 160 260 L 400 260',
 'B': 'M 80 0 L 80 700 L 380 700 L 470 600 L 470 460 L 380 370 L 80 370 M 380 370 L 490 270 L 490 100 L 400 0 L 80 0',
@@ -84,12 +84,35 @@ CAPS = {
 }
 
 
+# Remaster: wider cell with centred ink, square dots, larger small capitals.
+DOT = 120
+OVERRIDES = {
+    '!': ('M 280 700 L 280 230', [(220, 0)]),
+    '.': ('', [(220, 0)]),
+    ',': ('M 280 60 L 220 -100', [(220, 0)]),
+    ':': ('', [(220, 0), (220, 380)]),
+    ';': ('M 280 60 L 220 -100', [(220, 0), (220, 380)]),
+    '?': ('M 100 600 L 180 700 L 380 700 L 480 600 L 480 460 L 280 340 L 280 230', [(220, 0)]),
+    '%': ('M 80 700 L 480 0 M 110 700 L 210 700 L 210 590 L 110 590 Z M 350 110 L 450 110 L 450 0 L 350 0 Z', []),
+}
+
+
+def centred(g):
+    x0, _, x1, _ = g.bounds
+    return translate(g, (ADVANCE - (x0 + x1)) / 2)
+
+
 def draw():
     out = {' ': (Polygon(), ADVANCE)}
     for c, spec in CAPS.items():
-        out[c] = (path(spec, STEM, cap='flat', join='bevel'), ADVANCE)
+        dots = []
+        if c in OVERRIDES:
+            spec, dots = OVERRIDES[c]
+        g = path(spec, STEM, cap='flat', join='bevel') if spec else Polygon()
+        g = merge(g, *[box(x, y, x + DOT, y + DOT) for x, y in dots])
+        out[c] = (centred(g), ADVANCE)
     # Lowercase input is a reduced copy of the capital, sitting on the baseline.
     for c in 'abcdefghijklmnopqrstuvwxyz':
-        out[c] = (translate(scale(out[c.upper()][0], 0.74, 0.66, origin=(0, 0)), 50, 0), ADVANCE)
+        out[c] = (centred(scale(out[c.upper()][0], 0.86, 0.78, origin=(0, 0))), ADVANCE)
     assert set(out) == {chr(i) for i in range(32, 127)}
     return out

@@ -1,4 +1,4 @@
-"""Phase Drift: independently drawn dot-matrix master with row-phase drift.
+"""Phase Drift 1.100 (remastered): independently drawn dot-matrix master with row-phase drift.
 Copyright (c) 2026 techrote. SIL Open Font License 1.1.
 Each glyph is a 5x7 dot raster; every row is displaced sideways by a fixed,
 hand-chosen phase. Lowercase input is the same capital raster (no text lowercase).
@@ -12,10 +12,10 @@ ADVANCE = 600
 MONO = True
 CAP_HEIGHT = 680
 X_HEIGHT = 680
-DOT_RADIUS = 40
+DOT_RADIUS = 43
 # Horizontal displacement for rows 0..6 (top to bottom), in font units.
-DRIFT = (0, 16, -10, 24, -14, 8, -4)
-ORIGIN_X = 150
+DRIFT = (0, 18, -12, 26, -16, 10, -6)
+ORIGIN_X = 120
 PITCH_X = 90
 PITCH_Y = 100
 BASE_Y = 60

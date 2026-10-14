@@ -1,9 +1,9 @@
-"""Gasket Sans: independently drawn, angular bevel-joined sans master.
+"""Gasket Sans 1.100 (remastered): independently drawn, angular bevel-joined sans master.
 Copyright (c) 2026 techrote. SIL Open Font License 1.1.
 Coordinates describe centre lines of flat-ended strokes with bevelled joins.
 Curves are avoided: every round form is an octagonal polyline.
 """
-from geometry import path, merge, Polygon
+from geometry import path, merge, box, translate, Polygon
 
 FAMILY = 'Gasket Sans'
 SLUG = 'gasket-sans'
@@ -120,14 +120,38 @@ PATHS = {
 }
 
 
+# Remaster: square dots matching the stem, ink-fitted side bearings.
+SB = 72
+DOT = 64
+OVERRIDES = {
+    '!': ('M 300 700 L 300 200', [(268, 0)]),
+    '.': ('', [(268, 0)]),
+    ',': ('M 320 40 L 250 -70', [(288, 0)]),
+    ':': ('', [(268, 0), (268, 430)]),
+    ';': ('M 320 40 L 250 -70', [(288, 0), (268, 430)]),
+    '?': ('M 130 580 L 200 690 L 380 700 L 470 610 L 470 470 L 300 360 L 300 210', [(268, 0)]),
+    'i': ('M 300 500 L 300 0', [(268, 590)]),
+    'j': ('M 380 500 L 380 90 L 300 0 L 200 0 L 150 60', [(348, 590)]),
+    '%': ('M 480 700 L 120 0 M 100 700 L 220 700 L 220 560 L 100 560 Z M 380 140 L 500 140 L 500 0 L 380 0 Z', []),
+}
+DIGITS = '0123456789'
+
+
 def draw():
     out = {}
     for c, spec in PATHS.items():
+        dots = []
+        if c in OVERRIDES:
+            spec, dots = OVERRIDES[c]
         g = path(spec, STEM, cap='flat', join='bevel') if spec else Polygon()
-        # Narrow advances never clip the outline: keep 60 units beyond the ink.
-        advance = NARROW.get(c, ADVANCE)
-        if not g.is_empty:
-            advance = max(advance, int(g.bounds[2]) + 60)
-        out[c] = (g, advance)
+        g = merge(g, *[box(x, y, x + DOT, y + DOT + 8) for x, y in dots])
+        if c == ' ':
+            out[c] = (g, 260)
+            continue
+        x0, _, x1, _ = g.bounds
+        if c in DIGITS:  # tabular figures, centred in a 600 cell
+            out[c] = (translate(g, (ADVANCE - (x0 + x1)) / 2), ADVANCE)
+        else:
+            out[c] = (translate(g, SB - x0), max(int(x1 - x0) + 2 * SB, 300))
     assert set(out) == {chr(i) for i in range(32, 127)}
     return out

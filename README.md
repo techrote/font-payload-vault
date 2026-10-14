@@ -1,6 +1,6 @@
 # Font Payload Vault
 
-## Fourth Cohort / 04 — three new fonts
+## Fourth Cohort / 04 — three new fonts (1.100 remastered)
 
 ![Fourth Cohort render](docs/fourth-cohort-render.png)
 
@@ -12,7 +12,7 @@
 
 Three new original faces, each with TTF + WOFF2, 254 encoded characters, editable
 source, outline specimen, complete character map and an offline tester, under
-SIL OFL 1.1. Built by `python tools/fourth_cohort/cohort.py`; the fonts' manifest
+SIL OFL 1.1. Remastered in 1.100 with ink-fitted spacing, square punctuation dots and larger small capitals (see the [workflow](docs/FOURTH-COHORT-WORKFLOW.md)). The render above is made by `python tools/fourth_cohort/render.py`. Built by `python tools/fourth_cohort/cohort.py`; the fonts' manifest
 is [`docs/fourth-cohort-manifest.json`](docs/fourth-cohort-manifest.json). These
 are outline proofs only: no hinting, Windows acceptance or readability study.
 Read the [Fourth Cohort workflow](docs/FOURTH-COHORT-WORKFLOW.md).

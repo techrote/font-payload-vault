@@ -27,7 +27,8 @@ FAMILIES = (
     'hot-font-box/ratchet-block',
     'cachemonic/phase-drift',
 )
-VERSION = '1.000'
+VERSION = '1.100'
+trio.VERSION = VERSION  # name table and uniqueFontIdentifier
 INK, PAPER, MUTED = '#15171a', '#f7f5ef', '#5d6168'
 SAMPLES = ['ABCDEFGHIJKLMNOPQRSTUVWXYZ', 'abcdefghijklmnopqrstuvwxyz', '0123456789 !?&@#%$*+=-/()']
 
@@ -51,6 +52,7 @@ def build_fonts(output_root: Path = ROOT) -> list[dict]:
     for relative in FAMILIES:
         mod, shapes = shapes_for(ROOT / relative)
         font = trio.make_font(mod, shapes)
+        font['head'].fontRevision = float(VERSION)
         out = output_root / relative / 'fonts'
         out.mkdir(parents=True, exist_ok=True)
         stem = mod.FAMILY.replace(' ', '') + '-Regular'
