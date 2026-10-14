@@ -1,22 +1,23 @@
 # Font Payload Vault
 
-## Sixth Cohort / 06 — twenty-four new fonts
+## Sixth Cohort / 06 — thirty-six new fonts
 
 ![Sixth Cohort render, first six](docs/sixth-cohort-render.png)
 ![Sixth Cohort render, twelve additions](docs/sixth-cohort-render-2.png)
 ![Sixth Cohort render, six more additions](docs/sixth-cohort-render-3.png)
+![Sixth Cohort render, twelve latest additions](docs/sixth-cohort-render-4.png)
 
 | Compartment | Families |
 |---|---|
-| [cmd-font-container](cmd-font-container/) | [Lathe Round](cmd-font-container/lathe-round/), [Rivet Condensed](cmd-font-container/rivet-condensed/), [Skiff Slant](cmd-font-container/skiff-slant/), [Pebble Bold](cmd-font-container/pebble-bold/), [Gantry Light](cmd-font-container/gantry-light/), [Girder Mono](cmd-font-container/girder-mono/), [Ferrule Regular](cmd-font-container/ferrule-regular/), [Tallow Condensed](cmd-font-container/tallow-condensed/) |
-| [hot-font-box](hot-font-box/) | [Spindle Stencil](hot-font-box/spindle-stencil/), [Cleat Inline](hot-font-box/cleat-inline/), [Bobbin Outline](hot-font-box/bobbin-outline/), [Ingot Shadow](hot-font-box/ingot-shadow/), [Slab Brick](hot-font-box/slab-brick/), [Pillow Block](hot-font-box/pillow-block/), [Contour Ripple](hot-font-box/contour-ripple/) |
-| [cachemonic](cachemonic/) | [Slip Echo](cachemonic/slip-echo/), [Fault Line](cachemonic/fault-line/), [Raster Slit](cachemonic/raster-slit/), [Band Slip](cachemonic/band-slip/), [Punch Card](cachemonic/punch-card/), [Quantum Step](cachemonic/quantum-step/), [Hatch Block](cachemonic/hatch-block/), [Comb Cut](cachemonic/comb-cut/), [Wave Warp](cachemonic/wave-warp/) |
+| [cmd-font-container](cmd-font-container/) | [Lathe Round](cmd-font-container/lathe-round/), [Rivet Condensed](cmd-font-container/rivet-condensed/), [Skiff Slant](cmd-font-container/skiff-slant/), [Pebble Bold](cmd-font-container/pebble-bold/), [Gantry Light](cmd-font-container/gantry-light/), [Girder Mono](cmd-font-container/girder-mono/), [Ferrule Regular](cmd-font-container/ferrule-regular/), [Tallow Condensed](cmd-font-container/tallow-condensed/), [Plinth Slab](cmd-font-container/plinth-slab/), [Plinth Mono](cmd-font-container/plinth-mono/), [Stride Wide](cmd-font-container/stride-wide/), [Tendon Backslant](cmd-font-container/tendon-backslant/) |
+| [hot-font-box](hot-font-box/) | [Spindle Stencil](hot-font-box/spindle-stencil/), [Cleat Inline](hot-font-box/cleat-inline/), [Bobbin Outline](hot-font-box/bobbin-outline/), [Ingot Shadow](hot-font-box/ingot-shadow/), [Slab Brick](hot-font-box/slab-brick/), [Pillow Block](hot-font-box/pillow-block/), [Contour Ripple](hot-font-box/contour-ripple/), [Anvil Slab](hot-font-box/anvil-slab/), [Anvil Twin](hot-font-box/anvil-twin/), [Cantilever Shadow](hot-font-box/cantilever-shadow/), [Girth Block](hot-font-box/girth-block/) |
+| [cachemonic](cachemonic/) | [Slip Echo](cachemonic/slip-echo/), [Fault Line](cachemonic/fault-line/), [Raster Slit](cachemonic/raster-slit/), [Band Slip](cachemonic/band-slip/), [Punch Card](cachemonic/punch-card/), [Quantum Step](cachemonic/quantum-step/), [Hatch Block](cachemonic/hatch-block/), [Comb Cut](cachemonic/comb-cut/), [Wave Warp](cachemonic/wave-warp/), [Gravel Grit](cachemonic/gravel-grit/), [Misprint Duo](cachemonic/misprint-duo/), [Saw Warp](cachemonic/saw-warp/), [Pixel Cell](cachemonic/pixel-cell/) |
 
-Three new skeleton alphabets (round, condensed, rectilinear block) in many construction
+Four new skeleton alphabets (round, condensed, rectilinear block, slab) in many construction
 treatments; siblings on the same skeleton share letter structure. TTF + WOFF2, 254
 characters, source, specimen, character map and offline tester per family, SIL OFL 1.1.
 Build with `python tools/sixth_cohort/cohort.py`; render with
-`python tools/sixth_cohort/render.py [--extra | --more]`. Outline proofs only: no hinting,
+`python tools/sixth_cohort/render.py [--extra | --more | --last]`. Outline proofs only: no hinting,
 Windows acceptance or readability study.
 
 ## Fourth Cohort / 04 — three new fonts (1.100 remastered)

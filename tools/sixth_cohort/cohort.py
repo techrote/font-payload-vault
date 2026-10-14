@@ -42,6 +42,18 @@ base.FAMILIES = (
     'hot-font-box/contour-ripple',
     'cachemonic/comb-cut',
     'cachemonic/wave-warp',
+    'cmd-font-container/plinth-slab',
+    'cmd-font-container/plinth-mono',
+    'cmd-font-container/stride-wide',
+    'cmd-font-container/tendon-backslant',
+    'hot-font-box/anvil-slab',
+    'hot-font-box/anvil-twin',
+    'hot-font-box/cantilever-shadow',
+    'hot-font-box/girth-block',
+    'cachemonic/gravel-grit',
+    'cachemonic/misprint-duo',
+    'cachemonic/saw-warp',
+    'cachemonic/pixel-cell',
 )
 base.VERSION = '1.000'
 base.trio.VERSION = base.VERSION

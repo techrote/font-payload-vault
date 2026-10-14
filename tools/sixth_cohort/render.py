@@ -30,17 +30,28 @@ MORE = tuple((n, f"{p}/{n.lower().replace(' ', '-')}/fonts/{n.replace(' ', '')}-
     ('Pillow Block', 'hot-font-box'), ('Contour Ripple', 'hot-font-box'),
     ('Comb Cut', 'cachemonic'), ('Wave Warp', 'cachemonic')))
 
+LAST = tuple((n, f"{p}/{n.lower().replace(' ', '-')}/fonts/{n.replace(' ', '')}-Regular.ttf") for n, p in (
+    ('Plinth Slab', 'cmd-font-container'), ('Plinth Mono', 'cmd-font-container'),
+    ('Stride Wide', 'cmd-font-container'), ('Tendon Backslant', 'cmd-font-container'),
+    ('Anvil Slab', 'hot-font-box'), ('Anvil Twin', 'hot-font-box'),
+    ('Cantilever Shadow', 'hot-font-box'), ('Girth Block', 'hot-font-box'),
+    ('Gravel Grit', 'cachemonic'), ('Misprint Duo', 'cachemonic'),
+    ('Saw Warp', 'cachemonic'), ('Pixel Cell', 'cachemonic')))
+
 if __name__ == '__main__':
     p = argparse.ArgumentParser()
     p.add_argument('out', nargs='?', type=Path, default=None)
     p.add_argument('--size', type=int, default=44)
     p.add_argument('--extra', action='store_true', help='render the twelve later additions')
     p.add_argument('--more', action='store_true', help='render the six latest additions')
+    p.add_argument('--last', action='store_true', help='render the twelve latest additions')
     a = p.parse_args()
+    if a.last:
+        base.FONTS = LAST
     if a.extra:
         base.FONTS = EXTRA
     if a.more:
         base.FONTS = MORE
-    a.out = a.out or base.ROOT / 'docs' / ('sixth-cohort-render-3.png' if a.more else 'sixth-cohort-render-2.png' if a.extra else 'sixth-cohort-render.png')
+    a.out = a.out or base.ROOT / 'docs' / ('sixth-cohort-render-4.png' if a.last else 'sixth-cohort-render-3.png' if a.more else 'sixth-cohort-render-2.png' if a.extra else 'sixth-cohort-render.png')
     base.sheet(a.out.resolve(), a.size)
     print('wrote', a.out)
