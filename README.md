@@ -3,6 +3,31 @@
 Original type experiments with their complete design sources, rebuild tooling,
 specimens and notes about what they are actually good for.
 
+## Workshop Six / 02
+
+![Six new original faces](docs/workshop-six-overview.svg)
+
+| Family | Intended use | Construction |
+|---|---|---|
+| [Collet Sans](cmd-font-container/collet-sans/) | Proportional UI labels and short prose | Smooth oval counters, open forms, tabular digits |
+| [Detent Slab](cmd-font-container/detent-slab/) | Fixed-pitch records and instrument text | Angular skeletons and selected slab terminals |
+| [Flypress](hot-font-box/flypress/) | Condensed headings and workshop labels | Heavy stock and explicit counters; true lowercase |
+| [Ribbon Torque](hot-font-box/ribbon-torque/) | Large decorative titles | Hollow ribbon silhouettes; genuine Oblique style |
+| [Anode Bloom](cachemonic/anode-bloom/) | Dot-matrix titles and fictional electronics | Original six-column grid; separate emitter and halo |
+| [Null Cartridge](cachemonic/null-cartridge/) | Reverse-field decorative labels | Original cutter alphabet inside notched carriers |
+
+Six new alphabet/digit masters, each with TTF + WOFF2, 254 encoded characters,
+true lowercase, an editable source, design rationale, OFL, full character map
+and interactive offline tester. Five families have one Regular style; Ribbon
+Torque has one Oblique style. Geometry and auxiliary-repertoire helpers are
+reused transparently; existing family masters and payloads are unchanged.
+
+Read the [Workshop Six production workflow](docs/WORKSHOP-SIX-WORKFLOW.md) for
+creation techniques, provenance, reproducible builds, qualification and limits.
+The individual DESIGN.md files distinguish artistic aims and utilitarian
+intentions from measured results. Native Windows and human-factors acceptance
+are not claimed. Experimental faces are not substitutes for important alerts.
+
 ## Original Trio / 01
 
 ![Three new original faces](docs/original-trio-overview.svg)

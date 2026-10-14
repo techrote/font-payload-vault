@@ -10,3 +10,5 @@ A demonic cache is the right home for things you can't stop poking at.
 | font | what it is |
 |---|---|
 | [`cache-rattle/`](cache-rattle/) | **Cache Rattle**: original seven-column pixel master with deterministic row tearing. Fixed-pitch display experiment, not a daily-use terminal face. Regular TTF + WOFF2, source, proofs and design notes. |
+| [`anode-bloom/`](anode-bloom/) | **Anode Bloom**: new six-column matrix of separate emitters and annular halos. Fixed-pitch display experiment. Regular TTF + WOFF2, grid source, proofs and design notes. |
+| [`null-cartridge/`](null-cartridge/) | **Null Cartridge**: a new negative cutter alphabet inside notched full-height fields. Fixed-pitch reverse display experiment. Regular TTF + WOFF2, source, proofs and design notes. |
