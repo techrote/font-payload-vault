@@ -1,0 +1,5 @@
+# Reproducible Original Trio build and FreeType verification (Python 3.11+).
+fonttools==4.63.0
+Brotli==1.2.0
+shapely==2.1.2
+freetype-py==2.5.1

@@ -1,0 +1,4 @@
+# Python build environments/caches; compiled font payloads remain tracked.
+.venv/
+__pycache__/
+*.py[cod]
