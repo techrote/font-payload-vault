@@ -1,5 +1,21 @@
 # Font Payload Vault
 
+## Fourth Cohort / 04 — twelve new faces
+
+![Fourth Cohort overview](docs/fourth-cohort-overview.svg)
+
+| Practical / system | Workshop / display | Experimental |
+|---|---|---|
+| [Railkey Mono](cmd-font-container/railkey-mono/) | [Flange Banner](hot-font-box/flange-banner/) | [Orbit Hatch](cachemonic/orbit-hatch/) |
+| [Gimbal Sans](cmd-font-container/gimbal-sans/) | [Broach Black](hot-font-box/broach-black/) | [Punchloom](cachemonic/punchloom/) |
+| [Quoin Serif](cmd-font-container/quoin-serif/) | [Camber Script](hot-font-box/camber-script/) | [Flux Stitch](cachemonic/flux-stitch/) |
+| [Pinfeed Grid](cmd-font-container/pinfeed-grid/) | [Octant Cut](hot-font-box/octant-cut/) | [Phase Cairn](cachemonic/phase-cairn/) |
+
+Twelve faces from six newly authored alphabet lineages, with explicit sibling
+relationships, original sources, TTF + WOFF2, 254 codepoints, design notes,
+full maps and local testers. Includes new serif, looped cursive, weave, hatch
+and fragmented-path directions. [Creation, qualification and limits](docs/FOURTH-COHORT-WORKFLOW.md).
+
 ## Third Cohort / 03 — twelve new fonts
 
 ![Third Cohort overview](docs/third-cohort-overview.svg)
