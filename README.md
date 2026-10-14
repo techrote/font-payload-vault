@@ -1,5 +1,20 @@
 # Font Payload Vault
 
+## Fourth Cohort / 04 — three new fonts
+
+| Family | Intended use | Construction |
+|---|---|---|
+| [Gasket Sans](cmd-font-container/gasket-sans/) | Proportional UI labels and status text | Angular octagonal forms; bevelled polyline strokes |
+| [Ratchet Block](hot-font-box/ratchet-block/) | Heavy headlines and poster labels | Thick uppercase skeletons; lowercase as small capitals |
+| [Phase Drift](cachemonic/phase-drift/) | Experimental readouts and fictional signage | 5×7 dot rasters with fixed per-row phase drift |
+
+Three new original faces, each with TTF + WOFF2, 254 encoded characters, editable
+source, outline specimen, complete character map and an offline tester, under
+SIL OFL 1.1. Built by `python tools/fourth_cohort/cohort.py`; the fonts' manifest
+is [`docs/fourth-cohort-manifest.json`](docs/fourth-cohort-manifest.json). These
+are outline proofs only: no hinting, Windows acceptance or readability study.
+Read the [Fourth Cohort workflow](docs/FOURTH-COHORT-WORKFLOW.md).
+
 ## Third Cohort / 03 — twelve new fonts
 
 ![Third Cohort overview](docs/third-cohort-overview.svg)
