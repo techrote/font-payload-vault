@@ -28,6 +28,8 @@ FAMILIES = (
     'cachemonic/phase-drift',
 )
 VERSION = '1.100'
+COHORT = 'FOURTH COHORT 04'
+MANIFEST = 'fourth-cohort-manifest.json'
 trio.VERSION = VERSION  # name table and uniqueFontIdentifier
 INK, PAPER, MUTED = '#15171a', '#f7f5ef', '#5d6168'
 SAMPLES = ['ABCDEFGHIJKLMNOPQRSTUVWXYZ', 'abcdefghijklmnopqrstuvwxyz', '0123456789 !?&@#%$*+=-/()']
@@ -68,7 +70,7 @@ def build_fonts(output_root: Path = ROOT) -> list[dict]:
         info.append({'family': mod.FAMILY, 'version': VERSION, 'codepoints': len(shapes),
                      'glyphs': len(shapes) + 1, 'fixed_pitch': mod.MONO, 'files': files})
         print(f'{mod.FAMILY}: {len(shapes)} characters; TTF + WOFF2')
-    manifest = output_root / 'docs' / 'fourth-cohort-manifest.json'
+    manifest = output_root / 'docs' / MANIFEST
     manifest.parent.mkdir(parents=True, exist_ok=True)
     manifest.write_text(json.dumps({'schema': 1, 'families': info}, indent=2) + '\n', encoding='utf-8')
     return info
@@ -135,7 +137,7 @@ label {{ display:block; margin:8px 0; }}
 #status {{ color:var(--muted); font-size:14px; }}
 </style></head>
 <body><main>
-<p>FONT PAYLOAD VAULT / FOURTH COHORT 04</p>
+<p>FONT PAYLOAD VAULT / {COHORT}</p>
 <h1>{name}</h1>
 <p>Local font only. Nothing is sent off this page.</p>
 <label>Text <textarea id="input" spellcheck="false">{name}

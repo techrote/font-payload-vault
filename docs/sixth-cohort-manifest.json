@@ -1,0 +1,107 @@
+{
+  "schema": 1,
+  "families": [
+    {
+      "family": "Lathe Round",
+      "version": "1.000",
+      "codepoints": 254,
+      "glyphs": 255,
+      "fixed_pitch": false,
+      "files": {
+        "cmd-font-container/lathe-round/fonts/LatheRound-Regular.ttf": {
+          "sha256": "bd5536112d56378ddd9c74a99acafc149f637014dccfc920ce0150fd21562130",
+          "bytes": 95616
+        },
+        "cmd-font-container/lathe-round/fonts/LatheRound-Regular.woff2": {
+          "sha256": "df58123f227612990ba6a439649a5745ac9858b380f7c943ef4592d7ab263815",
+          "bytes": 20564
+        }
+      }
+    },
+    {
+      "family": "Rivet Condensed",
+      "version": "1.000",
+      "codepoints": 254,
+      "glyphs": 255,
+      "fixed_pitch": false,
+      "files": {
+        "cmd-font-container/rivet-condensed/fonts/RivetCondensed-Regular.ttf": {
+          "sha256": "23b9e76074f79d9013b79be8a186b4224e33925e7c7ae9be3386d771e9b4949e",
+          "bytes": 28092
+        },
+        "cmd-font-container/rivet-condensed/fonts/RivetCondensed-Regular.woff2": {
+          "sha256": "9dbada7db71abec03fd1ad2a95ebf0ae4ecc4c308563f055a09fa5f99aef83d2",
+          "bytes": 10196
+        }
+      }
+    },
+    {
+      "family": "Spindle Stencil",
+      "version": "1.000",
+      "codepoints": 254,
+      "glyphs": 255,
+      "fixed_pitch": false,
+      "files": {
+        "hot-font-box/spindle-stencil/fonts/SpindleStencil-Regular.ttf": {
+          "sha256": "98bb9f86c8bbf4bc0d3510817472606e1578b811dc0c9d76d28fe9f2b8eef463",
+          "bytes": 72052
+        },
+        "hot-font-box/spindle-stencil/fonts/SpindleStencil-Regular.woff2": {
+          "sha256": "01d87b81dc094d5a74e6b92628cac4bea2e9966d987f60a594cf7e10387b162a",
+          "bytes": 19856
+        }
+      }
+    },
+    {
+      "family": "Cleat Inline",
+      "version": "1.000",
+      "codepoints": 254,
+      "glyphs": 255,
+      "fixed_pitch": false,
+      "files": {
+        "hot-font-box/cleat-inline/fonts/CleatInline-Regular.ttf": {
+          "sha256": "a9137e19ccc0e5260b950051b1da03480f65864d1ca2fd70eff48511f365c2c7",
+          "bytes": 37960
+        },
+        "hot-font-box/cleat-inline/fonts/CleatInline-Regular.woff2": {
+          "sha256": "daddca6c98c7e7b524f9fd8b093c2f1e9d6a31e31cb736193b2c09bd890ae465",
+          "bytes": 14232
+        }
+      }
+    },
+    {
+      "family": "Slip Echo",
+      "version": "1.000",
+      "codepoints": 254,
+      "glyphs": 255,
+      "fixed_pitch": false,
+      "files": {
+        "cachemonic/slip-echo/fonts/SlipEcho-Regular.ttf": {
+          "sha256": "a3464a9d9e827914fcc38ef02b9a50a59321440b977cfb609631cf129dd101b7",
+          "bytes": 178152
+        },
+        "cachemonic/slip-echo/fonts/SlipEcho-Regular.woff2": {
+          "sha256": "14bece941d84b354157f682df8897407c536aa48eaee2bf5f86b11cfaa469081",
+          "bytes": 34280
+        }
+      }
+    },
+    {
+      "family": "Fault Line",
+      "version": "1.000",
+      "codepoints": 254,
+      "glyphs": 255,
+      "fixed_pitch": false,
+      "files": {
+        "cachemonic/fault-line/fonts/FaultLine-Regular.ttf": {
+          "sha256": "4f06830c48e5b123178cefecc2e2d5582bf1708ff7886ca98fb207f14152e1aa",
+          "bytes": 32996
+        },
+        "cachemonic/fault-line/fonts/FaultLine-Regular.woff2": {
+          "sha256": "bf2cacc03263664576346d525ec9495d8a1a3c5954c47b1b7a5b502bf66bd4de",
+          "bytes": 12152
+        }
+      }
+    }
+  ]
+}

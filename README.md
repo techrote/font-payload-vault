@@ -1,5 +1,24 @@
 # Font Payload Vault
 
+## Sixth Cohort / 06 — six new fonts
+
+![Sixth Cohort render](docs/sixth-cohort-render.png)
+
+| Family | Skeleton | Treatment |
+|---|---|---|
+| [Lathe Round](cmd-font-container/lathe-round/) | Round | Thin monoline, round caps |
+| [Rivet Condensed](cmd-font-container/rivet-condensed/) | Condensed | Bold, flat-ended |
+| [Spindle Stencil](hot-font-box/spindle-stencil/) | Round | Heavy, with stencil bridge cuts |
+| [Cleat Inline](hot-font-box/cleat-inline/) | Condensed | Heavy, with an engraved inline |
+| [Slip Echo](cachemonic/slip-echo/) | Round | Thin, with an offset hollow echo |
+| [Fault Line](cachemonic/fault-line/) | Condensed | Sheared along a diagonal seam |
+
+Two new skeleton alphabets, each in three construction treatments; siblings share
+letter structure. TTF + WOFF2, 254 characters, source, specimen, character map and
+offline tester per family, SIL OFL 1.1. Build with `python tools/sixth_cohort/cohort.py`,
+render with `python tools/sixth_cohort/render.py`. Outline proofs only: no hinting,
+Windows acceptance or readability study.
+
 ## Fourth Cohort / 04 — three new fonts (1.100 remastered)
 
 ![Fourth Cohort render](docs/fourth-cohort-render.png)
