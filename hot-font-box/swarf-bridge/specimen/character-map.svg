@@ -1,0 +1,1017 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1450" height="1924" viewBox="0 0 1450 1924" role="img"><title>Swarf Bridge complete glyph repertoire</title>
+<rect width="1450" height="1924" fill="#f5f3ed"/>
+<text x="35" y="38" font-family="sans-serif" font-size="23" fill="#53616d">Swarf Bridge / all 254 mapped characters</text>
+<rect x="25" y="70" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="30" y="90" font-family="sans-serif" font-size="13" fill="#53616d">0020</text>
+
+<rect x="113" y="70" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="118" y="90" font-family="sans-serif" font-size="13" fill="#53616d">0021</text>
+<defs><path id="SwarfBridge-Regular_uni0021" d="M308 19 304 9 297 0 290 -7 281 -14 271 -18 261 -21 250 -22 239 -21 229 -18 219 -14 210 -7 203 0 196 9 192 19 189 29 188 40 189 51 192 61 196 71 203 80 210 87 219 94 229 98 239 101 250 102 261 101 271 98 281 94 290 87 297 80 304 71 308 61 311 51 312 40 311 29ZM201 715H299V218H201Z"/></defs>
+<use href="#SwarfBridge-Regular_uni0021" transform="translate(119.00 161) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="201" y="70" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="206" y="90" font-family="sans-serif" font-size="13" fill="#53616d">0022</text>
+<defs><path id="SwarfBridge-Regular_uni0022" d="M131 717 229 713 221 551 123 555ZM271 718 369 712 359 550 261 556Z"/></defs>
+<use href="#SwarfBridge-Regular_uni0022" transform="translate(207.00 161) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="289" y="70" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="294" y="90" font-family="sans-serif" font-size="13" fill="#53616d">0023</text>
+<defs><path id="SwarfBridge-Regular_uni0023" d="M361 -3 263 3 275 191H161L148 -3L50 3L63 191H60V289H69L80 461H60V559H87L99 743L197 737L185 559H299L311 743L409 737L397 559H440V461H391L380 289H440V191H374ZM282 289 293 461H179L167 289Z"/></defs>
+<use href="#SwarfBridge-Regular_uni0023" transform="translate(295.00 161) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="377" y="70" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="382" y="90" font-family="sans-serif" font-size="13" fill="#53616d">0024</text>
+<defs><path id="SwarfBridge-Regular_uni0024" d="M299 728 395 697 365 603 299 625V397L446 231L344 -67L299 -47V-110H201V-3L70 55L110 145L201 104V359L20 564L142 779L201 760V810H299ZM334 209 299 249V105ZM188 661 140 576 201 507V657Z"/></defs>
+<use href="#SwarfBridge-Regular_uni0024" transform="translate(383.00 161) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="465" y="70" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="470" y="90" font-family="sans-serif" font-size="13" fill="#53616d">0025</text>
+<defs><path id="SwarfBridge-Regular_uni0025" d="M70 38 345 723 435 687 160 2ZM182 570 175 563 166 556 156 552 146 549 135 548 124 549 114 552 104 556 95 563 88 570 81 579 77 589 74 599 73 610 74 621 77 631 81 641 88 650 95 657 104 664 114 668 124 671 135 672 146 671 156 668 166 664 175 657 182 650 189 641 193 631 196 621 197 610 196 599 193 589 189 579ZM159 630 155 634 150 637 146 639 140 640 135 641 130 640 124 639 120 637 115 634 111 630 108 625 106 621 105 615 104 610 105 605 106 599 108 595 111 590 115 586 120 583 124 581 130 580 135 579 140 580 146 581 150 583 155 586 159 590 162 595 164 599 165 605 166 610 165 615 164 621 162 625ZM414 94 407 85 400 78 391 71 381 67 371 64 360 63 349 64 339 67 329 71 320 78 313 85 306 94 302 104 299 114 298 125 299 136 302 146 306 156 313 165 320 172 329 179 339 183 349 186 360 187 371 186 381 183 391 179 400 172 407 165 414 156 418 146 421 136 422 125 421 114 418 104ZM387 140 384 145 380 149 375 152 371 154 365 155 360 156 355 155 349 154 345 152 340 149 336 145 333 140 331 136 330 130 329 125 330 120 331 114 333 110 336 105 340 101 345 98 349 96 355 95 360 94 365 95 371 96 375 98 380 101 384 105 387 110 389 114 390 120 391 125 390 130 389 136Z"/></defs>
+<use href="#SwarfBridge-Regular_uni0025" transform="translate(471.00 161) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="553" y="70" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="558" y="90" font-family="sans-serif" font-size="13" fill="#53616d">0026</text>
+<defs><path id="SwarfBridge-Regular_uni0026" d="M63 670 288 837 359 579 271 468 289 431 368 269 458 250 434 132 439 121 431 117 405 -9H51V347L156 480ZM149 313V89H325L331 119L204 383ZM251 601 232 673 187 640 223 566Z"/></defs>
+<use href="#SwarfBridge-Regular_uni0026" transform="translate(559.00 161) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="641" y="70" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="646" y="90" font-family="sans-serif" font-size="13" fill="#53616d">0027</text>
+<defs><path id="SwarfBridge-Regular_uni0027" d="M189 557 212 722 310 708 287 543Z"/></defs>
+<use href="#SwarfBridge-Regular_uni0027" transform="translate(647.00 161) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="729" y="70" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="734" y="90" font-family="sans-serif" font-size="13" fill="#53616d">0028</text>
+<defs><path id="SwarfBridge-Regular_uni0028" d="M174 100 365 -96 295 -164 76 60V706L303 856L357 774L174 654Z"/></defs>
+<use href="#SwarfBridge-Regular_uni0028" transform="translate(735.00 161) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="817" y="70" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="822" y="90" font-family="sans-serif" font-size="13" fill="#53616d">0029</text>
+<defs><path id="SwarfBridge-Regular_uni0029" d="M424 60 205 -164 135 -96 326 100V654L143 774L197 856L424 706Z"/></defs>
+<use href="#SwarfBridge-Regular_uni0029" transform="translate(823.00 161) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="905" y="70" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="910" y="90" font-family="sans-serif" font-size="13" fill="#53616d">002A</text>
+<defs><path id="SwarfBridge-Regular_uni002A" d="M299 577 338 622 412 558 315 445 412 332 338 268 299 313V215H201V313L162 268L88 332L185 445L88 558L162 622L201 577V665H299Z"/></defs>
+<use href="#SwarfBridge-Regular_uni002A" transform="translate(911.00 161) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="993" y="70" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="998" y="90" font-family="sans-serif" font-size="13" fill="#53616d">002B</text>
+<defs><path id="SwarfBridge-Regular_uni002B" d="M299 303V125H201V303H80V401H201V580H299V401H420V303Z"/></defs>
+<use href="#SwarfBridge-Regular_uni002B" transform="translate(999.00 161) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1081" y="70" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1086" y="90" font-family="sans-serif" font-size="13" fill="#53616d">002C</text>
+<defs><path id="SwarfBridge-Regular_uni002C" d="M186 -62 217 85 313 65 282 -82Z"/></defs>
+<use href="#SwarfBridge-Regular_uni002C" transform="translate(1087.00 161) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1169" y="70" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1174" y="90" font-family="sans-serif" font-size="13" fill="#53616d">002D</text>
+<defs><path id="SwarfBridge-Regular_uni002D" d="M420 291H80V389H420Z"/></defs>
+<use href="#SwarfBridge-Regular_uni002D" transform="translate(1175.00 161) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1257" y="70" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1262" y="90" font-family="sans-serif" font-size="13" fill="#53616d">002E</text>
+<defs><path id="SwarfBridge-Regular_uni002E" d="M311 44 308 34 304 24 297 15 290 8 281 1 271 -3 261 -6 250 -7 239 -6 229 -3 219 1 210 8 203 15 196 24 192 34 189 44 188 55 189 66 192 76 196 86 203 95 210 102 219 109 229 113 239 116 250 117 261 116 271 113 281 109 290 102 297 95 304 86 308 76 311 66 312 55Z"/></defs>
+<use href="#SwarfBridge-Regular_uni002E" transform="translate(1263.00 161) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1345" y="70" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1350" y="90" font-family="sans-serif" font-size="13" fill="#53616d">002F</text>
+<defs><path id="SwarfBridge-Regular_uni002F" d="M470 746 120 -109 30 -71 380 784Z"/></defs>
+<use href="#SwarfBridge-Regular_uni002F" transform="translate(1351.00 161) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="25" y="184" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="30" y="204" font-family="sans-serif" font-size="13" fill="#53616d">0030</text>
+<defs><path id="SwarfBridge-Regular_uni0030" d="M218 784H602L728 638V50L602 -96H218L92 50V638ZM583 -54 686 66V622L583 742H237L134 622V66L237 -54ZM242 162V582L287 634H513ZM284 319 441 592H306L284 566ZM578 526V106L533 54H307ZM536 369 379 96H514L536 122Z"/></defs>
+<use href="#SwarfBridge-Regular_uni0030" transform="translate(31.00 275) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="113" y="184" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="118" y="204" font-family="sans-serif" font-size="13" fill="#53616d">0031</text>
+<defs><path id="SwarfBridge-Regular_uni0031" d="M182 96H340V491L248 420L130 573L533 885V96H690V-96H182ZM491 54V799L189 565L255 479L382 577V54H224V-54H648V54Z"/></defs>
+<use href="#SwarfBridge-Regular_uni0031" transform="translate(119.00 275) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="201" y="184" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="206" y="204" font-family="sans-serif" font-size="13" fill="#53616d">0032</text>
+<defs><path id="SwarfBridge-Regular_uni0032" d="M772 536V389L472 96H708V-96H67L48 -49L580 471V496L540 592H372L311 448L135 525L246 784H666ZM666 54H369L730 407V527L638 742H273L190 547L289 504L345 634H567L622 505V453L102 -54H666Z"/></defs>
+<use href="#SwarfBridge-Regular_uni0032" transform="translate(207.00 275) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="289" y="184" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="294" y="204" font-family="sans-serif" font-size="13" fill="#53616d">0033</text>
+<defs><path id="SwarfBridge-Regular_uni0033" d="M124 -96V96H481L503 122V202L426 248H272V440H426L503 486V566L481 592H124V784H570L696 638V374L644 344L696 314V50L570 -96ZM560 344 654 399V622L551 742H166V634H501L545 582V461L437 398H314V290H437L545 227V106L501 54H166V-54H551L654 66V289Z"/></defs>
+<use href="#SwarfBridge-Regular_uni0033" transform="translate(295.00 275) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="377" y="184" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="382" y="204" font-family="sans-serif" font-size="13" fill="#53616d">0034</text>
+<defs><path id="SwarfBridge-Regular_uni0034" d="M735 -32H542V162H85L503 769L574 720H735ZM165 204H584V10H693V678H561L514 711ZM372 312 584 620V312ZM542 354V485L452 354Z"/></defs>
+<use href="#SwarfBridge-Regular_uni0034" transform="translate(383.00 275) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="465" y="184" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="470" y="204" font-family="sans-serif" font-size="13" fill="#53616d">0035</text>
+<defs><path id="SwarfBridge-Regular_uni0035" d="M614 440 740 294V50L614 -96H167V96H525L547 122V222L525 248H80L196 784H675V592H351L319 440ZM633 742H229L132 290H544L589 238V106L544 54H209V-54H594L698 66V278L594 398H267L318 634H633Z"/></defs>
+<use href="#SwarfBridge-Regular_uni0035" transform="translate(471.00 275) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="553" y="184" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="558" y="204" font-family="sans-serif" font-size="13" fill="#53616d">0036</text>
+<defs><path id="SwarfBridge-Regular_uni0036" d="M728 294V50L602 -96H218L92 50V536L198 784H602L726 641L580 515L514 592H326L284 496V440H602ZM298 634H533L584 574L667 645L583 742H226L134 527V66L237 -54H583L686 66V278L583 398H242V505ZM578 238V106L533 54H287L242 106V290H533ZM306 96H514L536 122V222L514 248H284V122Z"/></defs>
+<use href="#SwarfBridge-Regular_uni0036" transform="translate(559.00 275) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="641" y="184" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="646" y="204" font-family="sans-serif" font-size="13" fill="#53616d">0037</text>
+<defs><path id="SwarfBridge-Regular_uni0037" d="M177 9 428 592H99V784H721L355 -68ZM141 634H492L233 31L333 -12L657 742H141Z"/></defs>
+<use href="#SwarfBridge-Regular_uni0037" transform="translate(647.00 275) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="729" y="184" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="734" y="204" font-family="sans-serif" font-size="13" fill="#53616d">0038</text>
+<defs><path id="SwarfBridge-Regular_uni0038" d="M218 784H602L728 638V394L685 344L728 294V50L602 -96H218L92 50V294L135 344L92 394V638ZM134 278V66L237 -54H583L686 66V278L630 344L686 410V622L583 742H237L134 622V410L190 344ZM578 106 533 54H287L242 106V238L287 290H533L578 238ZM284 222V122L306 96H514L536 122V222L514 248H306ZM242 582 287 634H533L578 582V450L533 398H287L242 450ZM536 466V566L514 592H306L284 566V466L306 440H514Z"/></defs>
+<use href="#SwarfBridge-Regular_uni0038" transform="translate(735.00 275) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="817" y="184" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="822" y="204" font-family="sans-serif" font-size="13" fill="#53616d">0039</text>
+<defs><path id="SwarfBridge-Regular_uni0039" d="M92 638 218 784H602L728 638V152L622 -96H230V96H494L536 192V248H218L92 394ZM578 183 522 54H272V-54H594L686 161V622L583 742H237L134 622V410L237 290H578ZM242 450V582L287 634H533L578 582V398H287ZM514 592H306L284 566V466L306 440H536V566Z"/></defs>
+<use href="#SwarfBridge-Regular_uni0039" transform="translate(823.00 275) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="905" y="184" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="910" y="204" font-family="sans-serif" font-size="13" fill="#53616d">003A</text>
+<defs><path id="SwarfBridge-Regular_uni003A" d="M308 44 304 34 297 25 290 18 281 11 271 7 261 4 250 3 239 4 229 7 219 11 210 18 203 25 196 34 192 44 189 54 188 65 189 76 192 86 196 96 203 105 210 112 219 119 229 123 239 126 250 127 261 126 271 123 281 119 290 112 297 105 304 96 308 86 311 76 312 65 311 54ZM308 419 304 409 297 400 290 393 281 386 271 382 261 379 250 378 239 379 229 382 219 386 210 393 203 400 196 409 192 419 189 429 188 440 189 451 192 461 196 471 203 480 210 487 219 494 229 498 239 501 250 502 261 501 271 498 281 494 290 487 297 480 304 471 308 461 311 451 312 440 311 429Z"/></defs>
+<use href="#SwarfBridge-Regular_uni003A" transform="translate(911.00 275) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="993" y="184" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="998" y="204" font-family="sans-serif" font-size="13" fill="#53616d">003B</text>
+<defs><path id="SwarfBridge-Regular_uni003B" d="M308 414 304 404 297 395 290 388 281 381 271 377 261 374 250 373 239 374 229 377 219 381 210 388 203 395 196 404 192 414 189 424 188 435 189 446 192 456 196 466 203 475 210 482 219 489 229 493 239 496 250 497 261 496 271 493 281 489 290 482 297 475 304 466 308 456 311 446 312 435 311 424ZM217 89 313 71 286 -74 190 -56Z"/></defs>
+<use href="#SwarfBridge-Regular_uni003B" transform="translate(999.00 275) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1081" y="184" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1086" y="204" font-family="sans-serif" font-size="13" fill="#53616d">003C</text>
+<defs><path id="SwarfBridge-Regular_uni003C" d="M412 67 338 3 36 360 338 717 412 653 164 360Z"/></defs>
+<use href="#SwarfBridge-Regular_uni003C" transform="translate(1087.00 275) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1169" y="184" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1174" y="204" font-family="sans-serif" font-size="13" fill="#53616d">003D</text>
+<defs><path id="SwarfBridge-Regular_uni003D" d="M85 201V299H415V201ZM85 411V509H415V411Z"/></defs>
+<use href="#SwarfBridge-Regular_uni003D" transform="translate(1175.00 275) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1257" y="184" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1262" y="204" font-family="sans-serif" font-size="13" fill="#53616d">003E</text>
+<defs><path id="SwarfBridge-Regular_uni003E" d="M162 3 88 67 336 360 88 653 162 717 464 360Z"/></defs>
+<use href="#SwarfBridge-Regular_uni003E" transform="translate(1263.00 275) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1345" y="184" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1350" y="204" font-family="sans-serif" font-size="13" fill="#53616d">003F</text>
+<defs><path id="SwarfBridge-Regular_uni003F" d="M445 550 299 372V225H201V408L335 570L305 661H181L158 531L62 549L99 759H375ZM308 18 304 8 297 -1 290 -8 281 -15 271 -19 261 -22 250 -23 239 -22 229 -19 219 -15 210 -8 203 -1 196 8 192 18 189 28 188 39 189 50 192 60 196 70 203 79 210 86 219 93 229 97 239 100 250 101 261 100 271 97 281 93 290 86 297 79 304 70 308 60 311 50 312 39 311 28Z"/></defs>
+<use href="#SwarfBridge-Regular_uni003F" transform="translate(1351.00 275) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="25" y="298" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="30" y="318" font-family="sans-serif" font-size="13" fill="#53616d">0040</text>
+<defs><path id="SwarfBridge-Regular_uni0040" d="M490 189 479 174 467 159 454 146 441 133 426 121 411 110 394 100 378 91 361 83 343 76 325 71 306 67 288 63 269 62 250 61 231 62 212 63 194 67 175 71 157 76 139 83 122 91 106 100 89 110 74 121 59 133 46 146 33 159 21 174 10 189 0 205V495L10 511L21 526L33 541L46 554L59 567L74 579L89 590L105 600L122 609L139 617L157 624L175 629L194 633L212 637L231 638L250 639L269 638L288 637L306 633L325 629L343 624L361 617L378 609L394 600L411 590L426 579L441 567L454 554L467 541L479 526L490 511L500 495V205ZM491 398 488 414 483 429 477 444 471 459 463 473 455 487 445 500 435 512 424 524 412 535 404 542V377L459 336L374 221L189 224L123 431L181 586L171 583L156 577L141 571L127 563L113 555L100 545L88 535L76 524L65 512L55 500L45 487L37 473L29 459L23 444L17 429L12 414L9 398L6 382L5 366L4 350L5 334L6 318L9 302L12 286L17 271L23 256L29 241L37 227L45 213L55 200L65 188L76 176L88 165L100 155L113 145L127 137L141 129L156 123L171 117L186 112L202 109L218 106L234 105L250 104L266 105L282 106L298 109L314 112L329 117L344 123L359 129L373 137L387 145L400 155L412 165L424 176L435 188L445 200L455 213L463 227L471 241L477 256L483 271L488 286L491 302L494 318L495 334L496 350L495 366L494 382ZM253 498 227 429 261 320H306V494Z"/></defs>
+<use href="#SwarfBridge-Regular_uni0040" transform="translate(31.00 389) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="113" y="298" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="118" y="318" font-family="sans-serif" font-size="13" fill="#53616d">0041</text>
+<defs><path id="SwarfBridge-Regular_uni0041" d="M50 -1 334 881H413L697 -1L513 -60L448 144H299L234 -60ZM541 -7 644 26 382 839H365L103 26L206 -7L269 186H478ZM373 511 443 295H304ZM362 337H385L373 374Z"/></defs>
+<use href="#SwarfBridge-Regular_uni0041" transform="translate(119.00 389) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="201" y="298" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="206" y="318" font-family="sans-serif" font-size="13" fill="#53616d">0042</text>
+<defs><path id="SwarfBridge-Regular_uni0042" d="M114 -96V-32H50V784H469L687 658V374L635 344L687 314V30L469 -96ZM551 344 645 399V633L457 742H92V10H156V-54H457L645 55V289ZM201 290H428L536 227V117L428 54H201ZM494 202 416 248H243V96H416L494 142ZM201 634H428L536 571V461L428 398H201ZM494 546 416 592H243V440H416L494 486Z"/></defs>
+<use href="#SwarfBridge-Regular_uni0042" transform="translate(207.00 389) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="289" y="298" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="294" y="318" font-family="sans-serif" font-size="13" fill="#53616d">0043</text>
+<defs><path id="SwarfBridge-Regular_uni0043" d="M243 566V122L265 96H417L570 186L667 19L469 -96H176L50 50V638L176 784H469L667 669L570 502L417 592H265ZM609 654 457 742H196L92 622V66L196 -54H457L609 34L555 128L428 54H246L201 106V582L246 634H428L555 560Z"/></defs>
+<use href="#SwarfBridge-Regular_uni0043" transform="translate(295.00 389) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="377" y="298" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="382" y="318" font-family="sans-serif" font-size="13" fill="#53616d">0044</text>
+<defs><path id="SwarfBridge-Regular_uni0044" d="M402 784 687 563V125L402 -96H50V784ZM645 145V543L387 742H92V-54H387ZM350 634 536 489V199L350 54H201V634ZM494 219V469L335 592H243V96H335Z"/></defs>
+<use href="#SwarfBridge-Regular_uni0044" transform="translate(383.00 389) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="465" y="298" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="470" y="318" font-family="sans-serif" font-size="13" fill="#53616d">0045</text>
+<defs><path id="SwarfBridge-Regular_uni0045" d="M243 96H622V-96H50V784H622V592H243V440H548V248H243ZM201 398V634H580V742H92V-54H580V54H201V290H506V398Z"/></defs>
+<use href="#SwarfBridge-Regular_uni0045" transform="translate(471.00 389) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="553" y="298" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="558" y="318" font-family="sans-serif" font-size="13" fill="#53616d">0046</text>
+<defs><path id="SwarfBridge-Regular_uni0046" d="M243 -32H50V784H622V592H243V440H548V248H243ZM201 398V634H580V742H92V10H201V290H506V398Z"/></defs>
+<use href="#SwarfBridge-Regular_uni0046" transform="translate(559.00 389) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="641" y="298" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="646" y="318" font-family="sans-serif" font-size="13" fill="#53616d">0047</text>
+<defs><path id="SwarfBridge-Regular_uni0047" d="M243 566V122L265 96H472L494 122V248H336V440H687V50L561 -96H176L50 50V638L176 784H469L667 669L570 502L416 592H265ZM609 654 457 742H195L92 622V66L195 -54H542L645 66V398H378V290H536V106L491 54H246L201 106V582L246 634H428L554 560Z"/></defs>
+<use href="#SwarfBridge-Regular_uni0047" transform="translate(647.00 389) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="729" y="298" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="734" y="318" font-family="sans-serif" font-size="13" fill="#53616d">0048</text>
+<defs><path id="SwarfBridge-Regular_uni0048" d="M243 720V440H494V720H687V-32H494V248H243V-32H50V720ZM201 290H536V10H645V678H536V398H201V678H92V10H201Z"/></defs>
+<use href="#SwarfBridge-Regular_uni0048" transform="translate(735.00 389) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="817" y="298" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="822" y="318" font-family="sans-serif" font-size="13" fill="#53616d">0049</text>
+<defs><path id="SwarfBridge-Regular_uni0049" d="M50 96H208V592H50V784H558V592H400V96H558V-96H50ZM358 54V634H516V742H92V634H250V54H92V-54H516V54Z"/></defs>
+<use href="#SwarfBridge-Regular_uni0049" transform="translate(823.00 389) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="905" y="298" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="910" y="318" font-family="sans-serif" font-size="13" fill="#53616d">004A</text>
+<defs><path id="SwarfBridge-Regular_uni004A" d="M398 96 494 208V720H687V136L487 -96H176L50 50V204H243V122L265 96ZM92 162V66L195 -54H468L645 152V678H536V192L417 54H246L201 106V162Z"/></defs>
+<use href="#SwarfBridge-Regular_uni004A" transform="translate(911.00 389) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="993" y="298" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="998" y="318" font-family="sans-serif" font-size="13" fill="#53616d">004B</text>
+<defs><path id="SwarfBridge-Regular_uni004B" d="M305 90V-32H112V202L50 239L112 299V720H305V486L609 780L743 641L368 277L729 67L632 -100ZM684 642 608 720 263 387V678H154V281L119 247L154 227V10H263V163L617 -42L672 52L298 269Z"/></defs>
+<use href="#SwarfBridge-Regular_uni004B" transform="translate(999.00 389) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1081" y="298" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1086" y="318" font-family="sans-serif" font-size="13" fill="#53616d">004C</text>
+<defs><path id="SwarfBridge-Regular_uni004C" d="M622 -96H50V720H243V96H622ZM92 678V-54H580V54H201V678Z"/></defs>
+<use href="#SwarfBridge-Regular_uni004C" transform="translate(1087.00 389) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1169" y="298" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1174" y="318" font-family="sans-serif" font-size="13" fill="#53616d">004D</text>
+<defs><path id="SwarfBridge-Regular_uni004D" d="M368 522 603 886 687 861V-32H494V361L368 166L243 361V-32H50V861L134 886ZM201 10V503L368 243L536 503V10H645V830L621 837L368 445L116 837L92 830V10Z"/></defs>
+<use href="#SwarfBridge-Regular_uni004D" transform="translate(1175.00 389) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1257" y="298" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1262" y="318" font-family="sans-serif" font-size="13" fill="#53616d">004E</text>
+<defs><path id="SwarfBridge-Regular_uni004E" d="M494 327V720H687V-173L603 -198L243 361V-32H50V861L134 886ZM201 10V503L621 -149L645 -142V678H536V185L116 837L92 830V10Z"/></defs>
+<use href="#SwarfBridge-Regular_uni004E" transform="translate(1263.00 389) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1345" y="298" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1350" y="318" font-family="sans-serif" font-size="13" fill="#53616d">004F</text>
+<defs><path id="SwarfBridge-Regular_uni004F" d="M50 638 176 784H561L687 638V50L561 -96H176L50 50ZM645 66V622L542 742H195L92 622V66L195 -54H542ZM201 582 246 634H491L536 582V106L491 54H246L201 106ZM494 122V566L472 592H265L243 566V122L265 96H472Z"/></defs>
+<use href="#SwarfBridge-Regular_uni004F" transform="translate(1351.00 389) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="25" y="412" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="30" y="432" font-family="sans-serif" font-size="13" fill="#53616d">0050</text>
+<defs><path id="SwarfBridge-Regular_uni0050" d="M687 658V374L469 248H243V-32H50V784H469ZM201 10V290H457L645 399V633L457 742H92V10ZM428 634 536 571V461L428 398H201V634ZM494 486V546L416 592H243V440H416Z"/></defs>
+<use href="#SwarfBridge-Regular_uni0050" transform="translate(31.00 503) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="113" y="412" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="118" y="432" font-family="sans-serif" font-size="13" fill="#53616d">0051</text>
+<defs><path id="SwarfBridge-Regular_uni0051" d="M50 50V638L176 784H561L687 638V50L681 43L759 -47L612 -173L546 -96H176ZM700 -43 626 43 645 66V622L542 742H196L92 622V66L196 -54H566L617 -114ZM246 54 201 106V582L246 634H492L536 582V239L408 129L472 54ZM494 566 472 592H265L243 566V122L265 96H380L349 133L494 259Z"/></defs>
+<use href="#SwarfBridge-Regular_uni0051" transform="translate(119.00 503) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="201" y="412" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="206" y="432" font-family="sans-serif" font-size="13" fill="#53616d">0052</text>
+<defs><path id="SwarfBridge-Regular_uni0052" d="M243 248V-32H50V784H469L687 658V374L525 280L689 25L527 -79L316 248ZM465 294 645 399V633L457 742H92V10H201V290H339L539 -21L631 38ZM201 634H428L536 571V461L428 398H201ZM494 546 417 592H243V440H417L494 486Z"/></defs>
+<use href="#SwarfBridge-Regular_uni0052" transform="translate(207.00 503) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="289" y="412" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="294" y="432" font-family="sans-serif" font-size="13" fill="#53616d">0053</text>
+<defs><path id="SwarfBridge-Regular_uni0053" d="M275 533 299 505 595 333 719 189 596 -96H192L68 47L215 173L281 96H469L494 155L470 183L174 355L50 499L173 784H485L683 669L586 502L432 592H300ZM625 654 473 742H201L99 506L201 387L497 215L543 162L497 54H262L210 114L128 43L211 -54H568L670 182L568 301L272 473L226 526L272 634H444L570 560Z"/></defs>
+<use href="#SwarfBridge-Regular_uni0053" transform="translate(295.00 503) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="377" y="412" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="382" y="432" font-family="sans-serif" font-size="13" fill="#53616d">0054</text>
+<defs><path id="SwarfBridge-Regular_uni0054" d="M50 592V784H558V592H400V-32H208V592ZM358 634H516V742H92V634H250V10H358Z"/></defs>
+<use href="#SwarfBridge-Regular_uni0054" transform="translate(383.00 503) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="465" y="412" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="470" y="432" font-family="sans-serif" font-size="13" fill="#53616d">0055</text>
+<defs><path id="SwarfBridge-Regular_uni0055" d="M453 96 494 192V720H687V152L580 -96H157L50 152V720H243V192L284 96ZM92 678V161L185 -54H552L645 161V678H536V183L481 54H256L201 183V678Z"/></defs>
+<use href="#SwarfBridge-Regular_uni0055" transform="translate(471.00 503) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="553" y="412" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="558" y="432" font-family="sans-serif" font-size="13" fill="#53616d">0056</text>
+<defs><path id="SwarfBridge-Regular_uni0056" d="M697 689 413 -193H334L50 689L234 748L374 314L513 748ZM103 662 365 -151H382L644 662L541 695L374 177L206 695Z"/></defs>
+<use href="#SwarfBridge-Regular_uni0056" transform="translate(559.00 503) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="641" y="412" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="646" y="432" font-family="sans-serif" font-size="13" fill="#53616d">0057</text>
+<defs><path id="SwarfBridge-Regular_uni0057" d="M393 537 463 376 501 730 693 709 597 -184 500 -198 371 100 243 -198 146 -184 50 709 242 730 280 376 350 537ZM96 672 185 -147 217 -152 371 206 526 -152 558 -147 647 672 538 684 488 212 371 482 255 212 205 684Z"/></defs>
+<use href="#SwarfBridge-Regular_uni0057" transform="translate(647.00 503) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="729" y="412" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="734" y="432" font-family="sans-serif" font-size="13" fill="#53616d">0058</text>
+<defs><path id="SwarfBridge-Regular_uni0058" d="M212 -79 50 25 256 344 50 663 212 767 370 522 529 767 691 663 485 344 691 25 529 -79 370 166ZM435 344 633 650 541 709 370 445 200 709 108 650 306 344 108 38 200 -21 371 243 541 -21 633 38Z"/></defs>
+<use href="#SwarfBridge-Regular_uni0058" transform="translate(735.00 503) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="817" y="412" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="822" y="432" font-family="sans-serif" font-size="13" fill="#53616d">0059</text>
+<defs><path id="SwarfBridge-Regular_uni0059" d="M50 663 212 767 370 522 529 767 691 663 467 316V-32H274V316ZM425 328 633 650 541 709 370 445 200 709 108 650 316 328V10H425Z"/></defs>
+<use href="#SwarfBridge-Regular_uni0059" transform="translate(823.00 503) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="905" y="412" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="910" y="432" font-family="sans-serif" font-size="13" fill="#53616d">005A</text>
+<defs><path id="SwarfBridge-Regular_uni005A" d="M703 96V-96H50L494 592H195V784H848L404 96ZM237 634H571L127 -54H661V54H327L771 742H237Z"/></defs>
+<use href="#SwarfBridge-Regular_uni005A" transform="translate(911.00 503) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="993" y="412" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="998" y="432" font-family="sans-serif" font-size="13" fill="#53616d">005B</text>
+<defs><path id="SwarfBridge-Regular_uni005B" d="M169 -51H265V-149H71V859H265V761H169Z"/></defs>
+<use href="#SwarfBridge-Regular_uni005B" transform="translate(999.00 503) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1081" y="412" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1086" y="432" font-family="sans-serif" font-size="13" fill="#53616d">005C</text>
+<defs><path id="SwarfBridge-Regular_uni005C" d="M120 784 470 -71 380 -109 30 746Z"/></defs>
+<use href="#SwarfBridge-Regular_uni005C" transform="translate(1087.00 503) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1169" y="412" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1174" y="432" font-family="sans-serif" font-size="13" fill="#53616d">005D</text>
+<defs><path id="SwarfBridge-Regular_uni005D" d="M429 -149H235V-51H331V761H235V859H429Z"/></defs>
+<use href="#SwarfBridge-Regular_uni005D" transform="translate(1175.00 503) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1257" y="412" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1262" y="432" font-family="sans-serif" font-size="13" fill="#53616d">005E</text>
+<defs><path id="SwarfBridge-Regular_uni005E" d="M459 452 371 408 250 647 129 408 41 452 250 865Z"/></defs>
+<use href="#SwarfBridge-Regular_uni005E" transform="translate(1263.00 503) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1345" y="412" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1350" y="432" font-family="sans-serif" font-size="13" fill="#53616d">005F</text>
+<defs><path id="SwarfBridge-Regular_uni005F" d="M420 -49H80V49H420Z"/></defs>
+<use href="#SwarfBridge-Regular_uni005F" transform="translate(1351.00 503) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="25" y="526" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="30" y="546" font-family="sans-serif" font-size="13" fill="#53616d">0060</text>
+<defs><path id="SwarfBridge-Regular_uni0060" d="M189 557 212 722 310 708 287 543Z"/></defs>
+<use href="#SwarfBridge-Regular_uni0060" transform="translate(31.00 617) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="113" y="526" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="118" y="546" font-family="sans-serif" font-size="13" fill="#53616d">0061</text>
+<defs><path id="SwarfBridge-Regular_uni0061" d="M50 50V380L176 526H487L542 462H613V-32H548V-96H176ZM571 10V420H523L468 484H195L92 364V66L195 -54H506V10ZM462 324V54H246L201 106V324L246 376H417ZM243 122 265 96H420V308L398 334H265L243 308Z"/></defs>
+<use href="#SwarfBridge-Regular_uni0061" transform="translate(119.00 617) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="201" y="526" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="206" y="546" font-family="sans-serif" font-size="13" fill="#53616d">0062</text>
+<defs><path id="SwarfBridge-Regular_uni0062" d="M687 50 561 -96H268L157 -32H50V720H243V512L268 526H561L687 380ZM201 439V678H92V10H169L280 -54H542L645 66V364L542 484H280ZM201 313 309 376H491L536 324V106L491 54H309L201 117ZM494 122V308L472 334H321L243 288V142L321 96H472Z"/></defs>
+<use href="#SwarfBridge-Regular_uni0062" transform="translate(207.00 617) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="289" y="526" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="294" y="546" font-family="sans-serif" font-size="13" fill="#53616d">0063</text>
+<defs><path id="SwarfBridge-Regular_uni0063" d="M243 308V122L265 96H472L538 173L685 47L561 -96H176L50 50V380L176 526H561L685 383L538 257L472 334H265ZM626 387 542 484H196L92 364V66L196 -54H542L626 43L543 114L492 54H246L201 106V324L246 376H492L543 316Z"/></defs>
+<use href="#SwarfBridge-Regular_uni0063" transform="translate(295.00 617) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="377" y="526" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="382" y="546" font-family="sans-serif" font-size="13" fill="#53616d">0064</text>
+<defs><path id="SwarfBridge-Regular_uni0064" d="M50 50V380L176 526H469L494 512V720H687V-32H580L469 -96H176ZM645 10V678H536V439L457 484H195L92 364V66L195 -54H457L568 10ZM536 313V117L428 54H246L201 106V324L246 376H428ZM243 122 265 96H416L494 142V288L416 334H265L243 308Z"/></defs>
+<use href="#SwarfBridge-Regular_uni0064" transform="translate(383.00 617) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="465" y="526" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="470" y="546" font-family="sans-serif" font-size="13" fill="#53616d">0065</text>
+<defs><path id="SwarfBridge-Regular_uni0065" d="M561 -96H176L50 50V380L176 526H561L687 380V76H652L685 47ZM645 364 542 484H195L92 364V66L195 -54H542L625 43L539 118H645ZM246 376H491L536 324V226H201V324ZM494 308 472 334H265L243 308V268H494Z"/></defs>
+<use href="#SwarfBridge-Regular_uni0065" transform="translate(471.00 617) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="553" y="526" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="558" y="546" font-family="sans-serif" font-size="13" fill="#53616d">0066</text>
+<defs><path id="SwarfBridge-Regular_uni0066" d="M50 526H60V536L166 784H484V592H294L266 526H484V334H252V-32H60V334H50ZM102 10H210V376H442V484H202L266 634H442V742H194L102 527V484H92V376H102Z"/></defs>
+<use href="#SwarfBridge-Regular_uni0066" transform="translate(559.00 617) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="641" y="526" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="646" y="546" font-family="sans-serif" font-size="13" fill="#53616d">0067</text>
+<defs><path id="SwarfBridge-Regular_uni0067" d="M50 50V380L176 526H469L580 462H687V-122L577 -250H188V-96H176ZM230 -226H542L645 -106V420H568L457 484H195L92 364V66L195 -55H230ZM428 54H246L201 106V324L246 376H428L536 313V117ZM265 334 243 308V122L265 96H416L494 142V288L416 334Z"/></defs>
+<use href="#SwarfBridge-Regular_uni0067" transform="translate(647.00 617) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="729" y="526" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="734" y="546" font-family="sans-serif" font-size="13" fill="#53616d">0068</text>
+<defs><path id="SwarfBridge-Regular_uni0068" d="M687 -32H494V308L472 334H321L243 288V-32H50V720H243V512L268 526H561L687 380ZM201 439V678H92V10H201V313L309 376H491L536 324V10H645V364L542 484H280Z"/></defs>
+<use href="#SwarfBridge-Regular_uni0068" transform="translate(735.00 617) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="817" y="526" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="822" y="546" font-family="sans-serif" font-size="13" fill="#53616d">0069</text>
+<defs><path id="SwarfBridge-Regular_uni0069" d="M50 96H134V462H326V96H410V-96H50ZM284 54V420H176V54H92V-54H368V54ZM134 737H326V656H134Z"/></defs>
+<use href="#SwarfBridge-Regular_uni0069" transform="translate(823.00 617) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="905" y="526" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="910" y="546" font-family="sans-serif" font-size="13" fill="#53616d">006A</text>
+<defs><path id="SwarfBridge-Regular_uni006A" d="M50 -76H185L207 -50V462H400V-122L290 -250H50ZM358 420H249V-66L205 -118H92V-226H255L358 -106ZM207 656V737H400V656Z"/></defs>
+<use href="#SwarfBridge-Regular_uni006A" transform="translate(911.00 617) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="993" y="526" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="998" y="546" font-family="sans-serif" font-size="13" fill="#53616d">006B</text>
+<defs><path id="SwarfBridge-Regular_uni006B" d="M368 31V-32H175V106L50 155L175 228V720H368V340L695 530L792 363L494 189L781 78L711 -102ZM735 378 680 472 326 267V678H217V203L147 162L217 135V10H326V92L687 -47L726 54L397 182Z"/></defs>
+<use href="#SwarfBridge-Regular_uni006B" transform="translate(999.00 617) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1081" y="526" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1086" y="546" font-family="sans-serif" font-size="13" fill="#53616d">006C</text>
+<defs><path id="SwarfBridge-Regular_uni006C" d="M400 96V-96H176L50 50V720H243V122L265 96ZM92 678V66L195 -54H358V54H245L201 106V678Z"/></defs>
+<use href="#SwarfBridge-Regular_uni006C" transform="translate(1087.00 617) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1169" y="526" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1174" y="546" font-family="sans-serif" font-size="13" fill="#53616d">006D</text>
+<defs><path id="SwarfBridge-Regular_uni006D" d="M339 526 368 492 398 526H561L687 380V-32H494V308L480 325L465 308V-32H272V308L258 325L243 308V-32H50V462H121L176 526ZM92 10H201V324L258 389L314 324V10H423V324L480 389L536 324V10H645V364L542 484H417L368 428L320 484H195L140 420H92Z"/></defs>
+<use href="#SwarfBridge-Regular_uni006D" transform="translate(1175.00 617) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1257" y="526" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1262" y="546" font-family="sans-serif" font-size="13" fill="#53616d">006E</text>
+<defs><path id="SwarfBridge-Regular_uni006E" d="M561 526 687 380V-32H494V308L472 334H321L243 288V-32H50V462H157L268 526ZM92 10H201V313L309 376H491L536 324V10H645V364L542 484H280L169 420H92Z"/></defs>
+<use href="#SwarfBridge-Regular_uni006E" transform="translate(1263.00 617) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1345" y="526" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1350" y="546" font-family="sans-serif" font-size="13" fill="#53616d">006F</text>
+<defs><path id="SwarfBridge-Regular_uni006F" d="M50 380 176 526H561L687 380V50L561 -96H176L50 50ZM645 66V364L542 484H195L92 364V66L195 -54H542ZM201 324 246 376H491L536 324V106L491 54H246L201 106ZM494 122V308L472 334H265L243 308V122L265 96H472Z"/></defs>
+<use href="#SwarfBridge-Regular_uni006F" transform="translate(1351.00 617) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="25" y="640" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="30" y="660" font-family="sans-serif" font-size="13" fill="#53616d">0070</text>
+<defs><path id="SwarfBridge-Regular_uni0070" d="M561 526 687 380V50L561 -96H268L243 -82V-204H50V462H157L268 526ZM92 -162H201V-9L280 -54H542L645 66V364L542 484H280L169 420H92ZM309 376H491L536 324V106L491 54H309L201 117V313ZM472 96 494 122V308L472 334H321L243 288V142L321 96Z"/></defs>
+<use href="#SwarfBridge-Regular_uni0070" transform="translate(31.00 731) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="113" y="640" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="118" y="660" font-family="sans-serif" font-size="13" fill="#53616d">0071</text>
+<defs><path id="SwarfBridge-Regular_uni0071" d="M494 -204V-82L469 -96H176L50 50V380L176 526H469L580 462H687V-204ZM457 484H195L92 364V66L195 -54H457L536 -9V-162H645V420H568ZM428 54H246L201 106V324L246 376H428L536 313V117ZM265 334 243 308V122L265 96H416L494 142V288L416 334Z"/></defs>
+<use href="#SwarfBridge-Regular_uni0071" transform="translate(119.00 731) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="201" y="640" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="206" y="660" font-family="sans-serif" font-size="13" fill="#53616d">0072</text>
+<defs><path id="SwarfBridge-Regular_uni0072" d="M548 526V334H320L243 288V-32H50V462H157L268 526ZM92 10H201V313L309 376H506V484H280L169 420H92Z"/></defs>
+<use href="#SwarfBridge-Regular_uni0072" transform="translate(207.00 731) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="289" y="640" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="294" y="660" font-family="sans-serif" font-size="13" fill="#53616d">0073</text>
+<defs><path id="SwarfBridge-Regular_uni0073" d="M50 344 207 526H592L716 383L577 264L602 257L749 86L592 -96H207L83 47L222 166L197 173ZM668 56 693 86 578 220 128 351 131 374 106 344 221 210 308 185 671 79ZM225 114 143 43 226 -54H573L666 54H277ZM573 484H226L133 376H522L574 316L656 387ZM338 334 558 269 503 334ZM461 96 241 161 296 96Z"/></defs>
+<use href="#SwarfBridge-Regular_uni0073" transform="translate(295.00 731) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="377" y="640" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="382" y="660" font-family="sans-serif" font-size="13" fill="#53616d">0074</text>
+<defs><path id="SwarfBridge-Regular_uni0074" d="M558 -96H260L134 50V334H50V526H134V634H326V526H484V334H326V122L348 96H558ZM284 376H442V484H284V592H176V484H92V376H176V66L279 -54H516V54H329L284 106Z"/></defs>
+<use href="#SwarfBridge-Regular_uni0074" transform="translate(383.00 731) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="465" y="640" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="470" y="660" font-family="sans-serif" font-size="13" fill="#53616d">0075</text>
+<defs><path id="SwarfBridge-Regular_uni0075" d="M494 208V462H687V-32H542L487 -96H176L50 50V462H243V122L265 96H398ZM201 420H92V66L195 -54H468L523 10H645V420H536V192L417 54H246L201 106Z"/></defs>
+<use href="#SwarfBridge-Regular_uni0075" transform="translate(471.00 731) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="553" y="640" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="558" y="660" font-family="sans-serif" font-size="13" fill="#53616d">0076</text>
+<defs><path id="SwarfBridge-Regular_uni0076" d="M695 414 372 -210 50 414 222 503 372 210 523 503ZM107 396 372 -119 638 396 541 446 372 119 204 446Z"/></defs>
+<use href="#SwarfBridge-Regular_uni0076" transform="translate(559.00 731) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="641" y="640" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="646" y="660" font-family="sans-serif" font-size="13" fill="#53616d">0077</text>
+<defs><path id="SwarfBridge-Regular_uni0077" d="M471 280 505 478 695 445 587 -185 522 -196 372 64 223 -196 158 -185 50 445 240 478 274 280 372 452ZM98 411 195 -148 202 -150 372 148 543 -150 550 -148 647 411 539 429 492 158 372 368 253 158 206 429Z"/></defs>
+<use href="#SwarfBridge-Regular_uni0077" transform="translate(647.00 731) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="729" y="640" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="734" y="660" font-family="sans-serif" font-size="13" fill="#53616d">0078</text>
+<defs><path id="SwarfBridge-Regular_uni0078" d="M184 -92 50 47 223 215 50 383 184 522 362 349 540 522 674 383 501 215 674 47 540 -92 362 81ZM440 215 615 384 539 462 362 291 185 462 109 384 284 215 109 46 185 -32 362 139 539 -32 615 46Z"/></defs>
+<use href="#SwarfBridge-Regular_uni0078" transform="translate(735.00 731) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="817" y="640" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="822" y="660" font-family="sans-serif" font-size="13" fill="#53616d">0079</text>
+<defs><path id="SwarfBridge-Regular_uni0079" d="M235 -76 266 -4 50 414 222 503 372 210 523 503 695 414 460 -41 370 -250H118V-76ZM422 -23 638 396 541 446 372 119 204 446 107 396 312 -2 263 -118H160V-226H334Z"/></defs>
+<use href="#SwarfBridge-Regular_uni0079" transform="translate(823.00 731) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="905" y="640" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="910" y="660" font-family="sans-serif" font-size="13" fill="#53616d">007A</text>
+<defs><path id="SwarfBridge-Regular_uni007A" d="M477 96H715V-96H70L50 -49L445 334H207V526H852L872 479ZM673 54H374L818 484H249V376H548L104 -54H673Z"/></defs>
+<use href="#SwarfBridge-Regular_uni007A" transform="translate(911.00 731) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="993" y="640" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="998" y="660" font-family="sans-serif" font-size="13" fill="#53616d">007B</text>
+<defs><path id="SwarfBridge-Regular_uni007B" d="M279 488 389 361 279 223V-20L348 -57L302 -143L181 -80V257L261 359L181 452V783L306 835L344 745L279 717Z"/></defs>
+<use href="#SwarfBridge-Regular_uni007B" transform="translate(999.00 731) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1081" y="640" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1086" y="660" font-family="sans-serif" font-size="13" fill="#53616d">007C</text>
+<defs><path id="SwarfBridge-Regular_uni007C" d="M299 825V-160H201V825Z"/></defs>
+<use href="#SwarfBridge-Regular_uni007C" transform="translate(1087.00 731) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1169" y="640" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1174" y="660" font-family="sans-serif" font-size="13" fill="#53616d">007D</text>
+<defs><path id="SwarfBridge-Regular_uni007D" d="M319 452 239 359 319 257V-80L198 -143L152 -57L221 -20V223L111 361L221 488V717L156 745L194 835L319 783Z"/></defs>
+<use href="#SwarfBridge-Regular_uni007D" transform="translate(1175.00 731) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1257" y="640" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1262" y="660" font-family="sans-serif" font-size="13" fill="#53616d">007E</text>
+<defs><path id="SwarfBridge-Regular_uni007E" d="M322 397 392 445 448 365 318 273 172 394 108 350 52 430 178 516Z"/></defs>
+<use href="#SwarfBridge-Regular_uni007E" transform="translate(1263.00 731) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1345" y="640" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1350" y="660" font-family="sans-serif" font-size="13" fill="#53616d">00A0</text>
+
+<rect x="25" y="754" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="30" y="774" font-family="sans-serif" font-size="13" fill="#53616d">00A1</text>
+<defs><path id="SwarfBridge-Regular_uni00A1" d="M245 700 253 707 262 714 271 718 282 721 292 722 303 721 314 718 323 714 332 707 340 700 346 691 351 681 353 671 354 660 353 649 351 639 346 629 340 620 332 613 323 606 314 602 303 599 292 598 282 599 271 602 262 606 253 613 245 620 239 629 234 639 232 649 231 660 232 671 234 681 239 691ZM243 482H342V-15H243Z"/></defs>
+<use href="#SwarfBridge-Regular_uni00A1" transform="translate(31.00 845) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="113" y="754" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="118" y="774" font-family="sans-serif" font-size="13" fill="#53616d">00A2</text>
+<defs><path id="SwarfBridge-Regular_uni00A2" d="M553 47 451 -96H136L32 50V380L136 526H270V690H314V526H451L553 383L433 257L379 334H314V96H379L433 173ZM66 66 151 -54H436L504 43L437 114L395 54H193L156 106V324L193 376H270V484H151L66 364ZM314 376H395L437 316L504 387L436 484H314ZM270 96V334H208L190 308V122L208 96Z"/></defs>
+<use href="#SwarfBridge-Regular_uni00A2" transform="translate(119.00 845) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="201" y="754" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="206" y="774" font-family="sans-serif" font-size="13" fill="#53616d">00A3</text>
+<defs><path id="SwarfBridge-Regular_uni00A3" d="M208 240V96H553V-96H32V784H553V592H208V440H486V275H503V240ZM169 275V290H447V398H169V634H515V742H70V-54H515V54H169V240H76V275Z"/></defs>
+<use href="#SwarfBridge-Regular_uni00A3" transform="translate(207.00 845) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="289" y="754" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="294" y="774" font-family="sans-serif" font-size="13" fill="#53616d">00A4</text>
+<defs><path id="SwarfBridge-Regular_uni00A4" d="M479 252 457 222 431 195 400 174 366 158 330 148 292 145 255 148 219 158 185 174 154 195 128 222 106 252 90 286 81 323 78 360 81 397 90 434 106 467 128 498 154 525 177 541 137 581 156 599 202 554 219 562 255 572 279 574V665H306V574L330 572L366 562L383 554L429 599L448 581L408 541L431 525L457 498L479 468L495 434L504 397L508 360L504 323L495 286ZM405 425 392 444 376 460 358 473 345 478 311 445 420 337H421L422 360L421 383L415 404ZM337 238 358 247 376 260 392 276 405 295 411 308 306 413V231L315 232ZM306 489V477L317 488H315ZM193 276 209 260 228 247 248 238 270 232 279 231V413L174 308L180 295ZM268 488 279 477V489L270 488ZM209 460 193 444 180 425 170 404 164 383 162 360 164 337H165L274 445L240 478L227 473Z"/></defs>
+<use href="#SwarfBridge-Regular_uni00A4" transform="translate(295.00 845) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="377" y="754" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="382" y="774" font-family="sans-serif" font-size="13" fill="#53616d">00A5</text>
+<defs><path id="SwarfBridge-Regular_uni00A5" d="M214 316 201 340H82V376H182L32 663L164 767L292 522L421 767L553 663L403 376H491V340H384L371 316V266H491V230H371V-32H214V230H82V266H214ZM292 445 154 709 79 650 223 376H362L506 650L431 709ZM343 340H242L248 328V266H337V328ZM337 10V230H248V10Z"/></defs>
+<use href="#SwarfBridge-Regular_uni00A5" transform="translate(383.00 845) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="465" y="754" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="470" y="774" font-family="sans-serif" font-size="13" fill="#53616d">00A6</text>
+<defs><path id="SwarfBridge-Regular_uni00A6" d="M275 260H310V0H275ZM275 780H310V500H275Z"/></defs>
+<use href="#SwarfBridge-Regular_uni00A6" transform="translate(471.00 845) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="553" y="754" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="558" y="774" font-family="sans-serif" font-size="13" fill="#53616d">00A7</text>
+<defs><path id="SwarfBridge-Regular_uni00A7" d="M326 830 407 578 305 467 324 434 424 258 427 271 522 249 495 133 500 124 491 119 461 -9H63V349L184 481L75 671ZM161 89H383L390 118L239 386L235 392L161 311ZM272 680 207 639 254 556 296 602Z"/></defs>
+<use href="#SwarfBridge-Regular_uni00A7" transform="translate(559.00 845) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="641" y="754" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="646" y="774" font-family="sans-serif" font-size="13" fill="#53616d">00A8</text>
+<defs><path id="SwarfBridge-Regular_uni00A8" d="M252 439 250 435 247 431 243 428 240 425 235 423 230 421H226H221L216 423L212 425L208 428L204 431L201 435L199 439L198 444V449V454L199 459L201 463L204 467L208 470L212 473L216 475L221 477H226H230L235 475L240 473L243 470L247 467L250 463L252 459L253 454L254 449L253 444ZM386 439 384 435 381 431 377 428 374 425 369 423 364 421H360H355L350 423L346 425L342 428L338 431L335 435L333 439L332 444V449V454L333 459L335 463L338 467L342 470L346 473L350 475L355 477H360H364L369 475L374 473L377 470L381 467L384 463L386 459L387 454L388 449L387 444Z"/></defs>
+<use href="#SwarfBridge-Regular_uni00A8" transform="translate(647.00 845) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="729" y="754" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="734" y="774" font-family="sans-serif" font-size="13" fill="#53616d">00A9</text>
+<defs><path id="SwarfBridge-Regular_uni00A9" d="M505 183 506 182 502 180 469 144 430 115 386 93 340 79 292 75 245 79 199 93 155 115 116 144 82 180 54 223 34 269 22 319 20 341V399L22 421L34 471L54 517L82 560L116 596L155 625L199 647L229 656L241 672H399L506 598L492 571L503 560L531 518L551 471L563 421L565 399V341L563 319L551 269L531 223ZM481 540 478 543 453 492 370 549H289L277 532V248L289 232H370L453 289L490 214L505 238L524 280L535 324L538 370L535 416L524 460L505 502ZM377 618 335 630 292 634 250 630 237 626 195 568V212L251 135H392L470 188L474 193L445 252L377 205H278L254 238V542L278 575H377L445 528L461 561L451 572L415 599ZM269 108 292 106 316 108ZM104 540 80 502 61 460 50 416 47 370 50 324 61 280 80 238 104 200 134 168 170 141 208 122 237 114 172 202V578L197 613L170 599L134 572Z"/></defs>
+<use href="#SwarfBridge-Regular_uni00A9" transform="translate(735.00 845) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="817" y="754" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="822" y="774" font-family="sans-serif" font-size="13" fill="#53616d">00AA</text>
+<defs><path id="SwarfBridge-Regular_uni00AA" d="M192 577H393L430 535H475V209H434V166H192L110 263V481ZM417 507 381 550H204L137 470V273L204 194H406V237H448V507ZM237 266 208 300V444L237 478H348L377 444V266ZM350 294V433L336 450H249L235 433V310L249 294Z"/></defs>
+<use href="#SwarfBridge-Regular_uni00AA" transform="translate(823.00 845) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="905" y="754" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="910" y="774" font-family="sans-serif" font-size="13" fill="#53616d">00AB</text>
+<defs><path id="SwarfBridge-Regular_uni00AB" d="M60 360 405 709 447 668 484 706 525 664 224 360 525 56 484 14 447 52 405 11Z"/></defs>
+<use href="#SwarfBridge-Regular_uni00AB" transform="translate(911.00 845) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="993" y="754" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="998" y="774" font-family="sans-serif" font-size="13" fill="#53616d">00AC</text>
+<defs><path id="SwarfBridge-Regular_uni00AC" d="M483 250V365H73V405H483H512V365V250Z"/></defs>
+<use href="#SwarfBridge-Regular_uni00AC" transform="translate(999.00 845) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1081" y="754" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1086" y="774" font-family="sans-serif" font-size="13" fill="#53616d">00AD</text>
+
+<rect x="1169" y="754" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1174" y="774" font-family="sans-serif" font-size="13" fill="#53616d">00AE</text>
+<defs><path id="SwarfBridge-Regular_uni00AE" d="M513 195 518 186 486 162 469 144 430 115 386 93 340 79 292 75 245 79 199 93 155 115 116 144 82 180 54 223 34 269 22 319 20 341V399L22 421L34 471L54 517L82 560L116 596L155 625L172 634V672H399L517 591V539L531 518L551 471L563 421L565 399V341L563 319L551 269L531 223ZM517 410 429 349 497 225 505 238 524 280 535 324 538 370 535 416 524 460 517 476ZM415 599 377 618 335 630 292 634 250 630 208 618 195 611V176H254V355H328L436 157L451 168L481 200L482 202L397 358L494 425V520L481 540L451 572ZM479 586 494 569V575ZM104 540 80 502 61 460 50 416 47 370 50 324 61 280 80 238 104 200 134 168 170 141 208 122 250 110 292 106 335 110 377 122 415 141 417 143 316 328H277V150H172V600L170 599L134 572ZM377 425H254V575H377L435 535V465ZM370 452 412 481V520L370 549H277V452Z"/></defs>
+<use href="#SwarfBridge-Regular_uni00AE" transform="translate(1175.00 845) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1257" y="754" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1262" y="774" font-family="sans-serif" font-size="13" fill="#53616d">00AF</text>
+<defs><path id="SwarfBridge-Regular_uni00AF" d="M376 421H210V477H376Z"/></defs>
+<use href="#SwarfBridge-Regular_uni00AF" transform="translate(1263.00 845) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1345" y="754" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1350" y="774" font-family="sans-serif" font-size="13" fill="#53616d">00B0</text>
+<defs><path id="SwarfBridge-Regular_uni00B0" d="M389 590 382 574 371 559 359 546 344 536 328 528 310 524 292 522 275 524 257 528 241 536 226 546 214 559 203 574 196 590 191 607 190 625 191 643 196 660 203 676 214 691 226 704 241 714 257 722 275 726 292 728 310 726 328 722 344 714 359 704 371 691 382 676 389 660 394 643 396 625 394 607ZM353 647 348 657 342 666 334 674 324 680 314 685 304 688 292 689 281 688 271 685 260 680 251 674 243 666 237 657 232 647 229 636 228 625 229 614 232 603 237 593 243 584 251 576 260 570 271 565 281 562 292 561 304 562 314 565 324 570 334 576 342 584 348 593 353 603 356 614V625V636Z"/></defs>
+<use href="#SwarfBridge-Regular_uni00B0" transform="translate(1351.00 845) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="25" y="868" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="30" y="888" font-family="sans-serif" font-size="13" fill="#53616d">00B1</text>
+<defs><path id="SwarfBridge-Regular_uni00B1" d="M342 125H243V303H94V401H243V580H342V401H491V303H342ZM105 110H480V80H105Z"/></defs>
+<use href="#SwarfBridge-Regular_uni00B1" transform="translate(31.00 959) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="113" y="868" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="118" y="888" font-family="sans-serif" font-size="13" fill="#53616d">00B2</text>
+<defs><path id="SwarfBridge-Regular_uni00B2" d="M326 452H453V348H107L97 374L385 654V668L363 719H272L239 642L144 683L204 824H431L488 689V610ZM465 620V685L416 801H219L174 695L227 672L257 742H377L407 673V645L126 371H431V429H270Z"/></defs>
+<use href="#SwarfBridge-Regular_uni00B2" transform="translate(119.00 959) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="201" y="868" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="206" y="888" font-family="sans-serif" font-size="13" fill="#53616d">00B3</text>
+<defs><path id="SwarfBridge-Regular_uni00B3" d="M331 452 343 466V509L301 534H218V638H301L343 662V706L331 719H138V824H379L447 744V602L419 586L447 569V427L379 348H138V452ZM424 736 369 801H161V742H342L366 714V649L307 615H241V556H307L366 522V457L342 429H161V371H369L424 436V556L374 586L424 615Z"/></defs>
+<use href="#SwarfBridge-Regular_uni00B3" transform="translate(207.00 959) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="289" y="868" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="294" y="888" font-family="sans-serif" font-size="13" fill="#53616d">00B4</text>
+<defs><path id="SwarfBridge-Regular_uni00B4" d="M345 481 283 403 240 437 302 515Z"/></defs>
+<use href="#SwarfBridge-Regular_uni00B4" transform="translate(295.00 959) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="377" y="868" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="382" y="888" font-family="sans-serif" font-size="13" fill="#53616d">00B5</text>
+<defs><path id="SwarfBridge-Regular_uni00B5" d="M45 27 25 50V462H218V122L240 96H373L469 208V462H560V420H511V192L392 54H221L176 106V420H67V145H92V37L170 -54H443L498 10H560V-32H517L462 -96H151L92 -28V-172H45Z"/></defs>
+<use href="#SwarfBridge-Regular_uni00B5" transform="translate(383.00 959) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="465" y="868" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="470" y="888" font-family="sans-serif" font-size="13" fill="#53616d">00B6</text>
+<defs><path id="SwarfBridge-Regular_uni00B6" d="M306 3 318 191H203L190 -3L93 3L105 191H70V289H112L123 461H70V559H129L142 743L239 737L228 559H342L354 743L451 737L440 559H515V461H434L422 289H515V191H416L403 -3ZM335 461H221L210 289H324Z"/></defs>
+<use href="#SwarfBridge-Regular_uni00B6" transform="translate(471.00 959) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="553" y="868" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="558" y="888" font-family="sans-serif" font-size="13" fill="#53616d">00B7</text>
+<defs><path id="SwarfBridge-Regular_uni00B7" d="M329 533 413 616 465 564 345 445 465 326 413 274 329 357V215H256V357L172 274L120 326L240 445L120 564L172 616L256 533V665H329Z"/></defs>
+<use href="#SwarfBridge-Regular_uni00B7" transform="translate(559.00 959) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="641" y="868" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="646" y="888" font-family="sans-serif" font-size="13" fill="#53616d">00B8</text>
+<defs><path id="SwarfBridge-Regular_uni00B8" d="M376 386H210V442H376Z"/></defs>
+<use href="#SwarfBridge-Regular_uni00B8" transform="translate(647.00 959) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="729" y="868" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="734" y="888" font-family="sans-serif" font-size="13" fill="#53616d">00B9</text>
+<defs><path id="SwarfBridge-Regular_uni00B9" d="M255 665 205 627 141 709 359 878V452H444V348H169V452H255ZM173 705 209 659 277 711V429H192V371H421V429H336V832Z"/></defs>
+<use href="#SwarfBridge-Regular_uni00B9" transform="translate(735.00 959) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="817" y="868" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="822" y="888" font-family="sans-serif" font-size="13" fill="#53616d">00BA</text>
+<defs><path id="SwarfBridge-Regular_uni00BA" d="M417 577 500 481V263L417 166H168L85 263V481L168 577ZM405 550H180L113 470V273L180 194H405L472 273V470ZM372 478 401 444V300L372 266H213L184 300V444L213 478ZM360 450H225L211 433V310L225 294H360L374 310V433Z"/></defs>
+<use href="#SwarfBridge-Regular_uni00BA" transform="translate(823.00 959) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="905" y="868" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="910" y="888" font-family="sans-serif" font-size="13" fill="#53616d">00BB</text>
+<defs><path id="SwarfBridge-Regular_uni00BB" d="M61 59 359 360 61 661 110 709 147 672 182 706 524 360 182 14 147 48 110 11Z"/></defs>
+<use href="#SwarfBridge-Regular_uni00BB" transform="translate(911.00 959) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="993" y="868" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="998" y="888" font-family="sans-serif" font-size="13" fill="#53616d">00BC</text>
+<defs><path id="SwarfBridge-Regular_uni00BC" d="M230 311H53V389H121V546L81 518L30 579L204 704V389H252L324 636L364 624L206 79L166 91ZM56 576 84 542 139 581V372H71V328H235L247 372H186V670ZM490 308 521 288H555V271H515L495 284L345 81H525V4H555V-13H507V65H310ZM525 248V125H434ZM507 194 468 142H507Z"/></defs>
+<use href="#SwarfBridge-Regular_uni00BC" transform="translate(999.00 959) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1081" y="868" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1086" y="888" font-family="sans-serif" font-size="13" fill="#53616d">00BD</text>
+<defs><path id="SwarfBridge-Regular_uni00BD" d="M230 311H53V389H121V546L81 518L30 579L204 704V389H252L324 636L364 624L206 79L166 91ZM56 576 84 542 139 581V372H71V328H235L247 372H186V670ZM294 -19 523 188V198L506 237H434L407 179L332 210L380 314H555V283L548 297H391L355 219L398 201L422 253H518L541 202V181L318 -22H555V-39H303ZM555 39V22H432L555 133V109L477 39Z"/></defs>
+<use href="#SwarfBridge-Regular_uni00BD" transform="translate(1087.00 959) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1169" y="868" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1174" y="888" font-family="sans-serif" font-size="13" fill="#53616d">00BE</text>
+<defs><path id="SwarfBridge-Regular_uni00BE" d="M236 327 221 311H29V389H183L192 399V431L159 449H93V526H159L192 544V576L183 587H29V664H221L275 605V500L253 488L275 475V464L325 636L365 624L208 79L167 91ZM491 308 522 288H556V271H517L496 284L346 81H526V4H556V-13H508V65H312ZM526 248V125H435ZM508 194 470 142H508Z"/></defs>
+<use href="#SwarfBridge-Regular_uni00BE" transform="translate(1175.00 959) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1257" y="868" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1262" y="888" font-family="sans-serif" font-size="13" fill="#53616d">00BF</text>
+<defs><path id="SwarfBridge-Regular_uni00BF" d="M247 475H345V292L211 130L241 39H365L388 169L484 151L447 -59H171L101 150L247 328ZM248 701 256 708 265 715 275 719 285 722 296 723 307 722 317 719 327 715 336 708 343 701 350 692 354 682 357 672 358 661 357 650 354 640 350 630 343 621 336 614 327 607 317 603 307 600 296 599 285 600 275 603 265 607 256 614 248 621 242 630 238 640 235 650 234 661 235 672 238 682 242 692Z"/></defs>
+<use href="#SwarfBridge-Regular_uni00BF" transform="translate(1263.00 959) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1345" y="868" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1350" y="888" font-family="sans-serif" font-size="13" fill="#53616d">00C0</text>
+<defs><path id="SwarfBridge-Regular_uni00C0" d="M348 960 410 882 409 881H413L697 -1L513 -60L448 144H299L234 -60L50 -1L334 881H340L305 926ZM103 26 206 -7 269 186H478L541 -7L644 26L382 839H365ZM374 511 443 295H304ZM362 337H385L374 374Z"/></defs>
+<use href="#SwarfBridge-Regular_uni00C0" transform="translate(1351.00 959) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="25" y="982" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="30" y="1002" font-family="sans-serif" font-size="13" fill="#53616d">00C1</text>
+<defs><path id="SwarfBridge-Regular_uni00C1" d="M399 960 442 926 407 881H413L697 -1L513 -60L448 144H299L234 -60L50 -1L334 881H338L337 882ZM103 26 206 -7 269 186H478L541 -7L644 26L382 839H365ZM374 511 443 295H304ZM362 337H385L374 374Z"/></defs>
+<use href="#SwarfBridge-Regular_uni00C1" transform="translate(31.00 1073) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="113" y="982" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="118" y="1002" font-family="sans-serif" font-size="13" fill="#53616d">00C2</text>
+<defs><path id="SwarfBridge-Regular_uni00C2" d="M374 977 480 875 441 835 421 854 697 -1 513 -60 448 144H299L234 -60L50 -1L326 854L306 835L267 875ZM103 26 206 -7 269 186H478L541 -7L644 26L382 839H365ZM392 881 374 899 355 881ZM374 511 443 295H304ZM362 337H385L374 374Z"/></defs>
+<use href="#SwarfBridge-Regular_uni00C2" transform="translate(119.00 1073) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="201" y="982" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="206" y="1002" font-family="sans-serif" font-size="13" fill="#53616d">00C3</text>
+<defs><path id="SwarfBridge-Regular_uni00C3" d="M337 943 392 909 440 935 467 885 419 860 697 -1 513 -60 448 144H299L234 -60L50 -1L331 872L309 857L278 903ZM103 26 206 -7 269 186H478L541 -7L644 26L382 839H365ZM374 511 443 295H304ZM362 337H385L374 374Z"/></defs>
+<use href="#SwarfBridge-Regular_uni00C3" transform="translate(207.00 1073) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="289" y="982" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="294" y="1002" font-family="sans-serif" font-size="13" fill="#53616d">00C4</text>
+<defs><path id="SwarfBridge-Regular_uni00C4" d="M513 -60 448 144H299L234 -60L50 -1L334 881H413L697 -1ZM103 26 206 -7 269 186H478L541 -7L644 26L382 839H365ZM324 873 321 870 316 868 311 866H307H302L297 868L293 870L289 873L285 876L282 880L280 884L279 889V894V899L280 904L282 908L285 912L289 915L293 918L297 920L302 922H307H311L316 920L321 918L324 915L328 912L331 908L333 904L334 899L335 894L334 889L333 884L331 880L328 876ZM443 295H304L374 511ZM385 337 374 374 362 337ZM458 873 455 870 450 868 445 866H441H436L431 868L427 870L423 873L419 876L416 880L414 884L413 889V894V899L414 904L416 908L419 912L423 915L427 918L431 920L436 922H441H445L450 920L455 918L458 915L462 912L465 908L467 904L468 899L469 894L468 889L467 884L465 880L462 876Z"/></defs>
+<use href="#SwarfBridge-Regular_uni00C4" transform="translate(295.00 1073) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="377" y="982" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="382" y="1002" font-family="sans-serif" font-size="13" fill="#53616d">00C5</text>
+<defs><path id="SwarfBridge-Regular_uni00C5" d="M311 868 309 880 308 891 309 902 311 914 316 924 323 933 331 942 341 948 351 953 362 956 374 957 385 956 396 953 407 948 416 942 424 933 431 924 436 914 438 902 440 891 438 880 436 868 431 858 424 849 423 848 697 -1 513 -60 448 144H299L234 -60L50 -1L324 848L323 849L316 858ZM374 825 362 826H361L103 26L206 -7L269 186H478L541 -7L644 26L386 826H385ZM410 897 408 904 406 910 402 915 397 919 392 923 386 926 380 927 374 928 367 927 361 926 355 923 350 919 345 915 341 910 339 904 337 897V891V885L338 881H409L410 885L411 891ZM374 511 443 295H304ZM362 337H385L374 374Z"/></defs>
+<use href="#SwarfBridge-Regular_uni00C5" transform="translate(383.00 1073) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="465" y="982" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="470" y="1002" font-family="sans-serif" font-size="13" fill="#53616d">00C6</text>
+<defs><path id="SwarfBridge-Regular_uni00C6" d="M233 -96V144H170L131 -60L22 -1L191 881H238L256 784H563V592H344V440H520V248H359L388 96H563V-96ZM396 54 407 -1 308 -54H539V54ZM539 742H264L320 451V634H539ZM330 398 351 290H496V398ZM314 -7 375 26 370 54H320V290H325L257 641V186H277ZM344 96H362L344 188ZM258 144H257V-54H297ZM214 511 233 412V767L219 839H209L53 26L115 -7L152 186H233V295H173ZM221 337 214 374 207 337Z"/></defs>
+<use href="#SwarfBridge-Regular_uni00C6" transform="translate(471.00 1073) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="553" y="982" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="558" y="1002" font-family="sans-serif" font-size="13" fill="#53616d">00C7</text>
+<defs><path id="SwarfBridge-Regular_uni00C7" d="M426 -107V-111L425 -116L424 -120L423 -124L422 -128L420 -132L417 -135L415 -139L349 -215L280 -155L328 -101L326 -96H176L50 50V638L176 784H469L667 669L570 502L417 592H265L243 566V122L265 96H417L570 186L667 19L469 -96H424V-99L425 -103ZM406 -54H457L609 34L555 128L428 54H246L201 106V582L246 634H428L555 560L609 654L457 742H196L92 622V66L196 -54H307L304 -48L387 -12Z"/></defs>
+<use href="#SwarfBridge-Regular_uni00C7" transform="translate(559.00 1073) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="641" y="982" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="646" y="1002" font-family="sans-serif" font-size="13" fill="#53616d">00C8</text>
+<defs><path id="SwarfBridge-Regular_uni00C8" d="M50 -96V784H622V592H243V440H548V248H243V96H622V-96ZM580 742H92V-54H580V54H201V290H506V398H201V634H580ZM329 848 267 926 311 960 373 882Z"/></defs>
+<use href="#SwarfBridge-Regular_uni00C8" transform="translate(647.00 1073) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="729" y="982" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="734" y="1002" font-family="sans-serif" font-size="13" fill="#53616d">00C9</text>
+<defs><path id="SwarfBridge-Regular_uni00C9" d="M50 -96V784H622V592H243V440H548V248H243V96H622V-96ZM580 742H92V-54H580V54H201V290H506V398H201V634H580ZM299 882 361 960 405 926 343 848Z"/></defs>
+<use href="#SwarfBridge-Regular_uni00C9" transform="translate(735.00 1073) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="817" y="982" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="822" y="1002" font-family="sans-serif" font-size="13" fill="#53616d">00CA</text>
+<defs><path id="SwarfBridge-Regular_uni00CA" d="M50 -96V784H622V592H243V440H548V248H243V96H622V-96ZM580 742H92V-54H580V54H201V290H506V398H201V634H580ZM336 899 268 835 230 875 336 977 442 875 404 835Z"/></defs>
+<use href="#SwarfBridge-Regular_uni00CA" transform="translate(823.00 1073) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="905" y="982" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="910" y="1002" font-family="sans-serif" font-size="13" fill="#53616d">00CB</text>
+<defs><path id="SwarfBridge-Regular_uni00CB" d="M50 -96V784H622V592H243V440H548V248H243V96H622V-96ZM580 742H92V-54H580V54H201V290H506V398H201V634H580ZM287 873 283 870 279 868 274 866H269H264L259 868L255 870L251 873L248 876L245 880L243 884L241 889V894V899L243 904L245 908L248 912L251 915L255 918L259 920L264 922H269H274L279 920L283 918L287 915L290 912L293 908L295 904L297 899V894V889L295 884L293 880L290 876ZM421 873 417 870 413 868 408 866H403H398L393 868L389 870L385 873L382 876L379 880L377 884L375 889V894V899L377 904L379 908L382 912L385 915L389 918L393 920L398 922H403H408L413 920L417 918L421 915L424 912L427 908L429 904L431 899V894V889L429 884L427 880L424 876Z"/></defs>
+<use href="#SwarfBridge-Regular_uni00CB" transform="translate(911.00 1073) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="993" y="982" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="998" y="1002" font-family="sans-serif" font-size="13" fill="#53616d">00CC</text>
+<defs><path id="SwarfBridge-Regular_uni00CC" d="M50 592V784H558V592H400V96H558V-96H50V96H208V592ZM516 742H92V634H250V54H92V-54H516V54H358V634H516ZM297 848 235 926 279 960 341 882Z"/></defs>
+<use href="#SwarfBridge-Regular_uni00CC" transform="translate(999.00 1073) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1081" y="982" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1086" y="1002" font-family="sans-serif" font-size="13" fill="#53616d">00CD</text>
+<defs><path id="SwarfBridge-Regular_uni00CD" d="M50 592V784H558V592H400V96H558V-96H50V96H208V592ZM516 742H92V634H250V54H92V-54H516V54H358V634H516ZM267 882 329 960 373 926 311 848Z"/></defs>
+<use href="#SwarfBridge-Regular_uni00CD" transform="translate(1087.00 1073) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1169" y="982" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1174" y="1002" font-family="sans-serif" font-size="13" fill="#53616d">00CE</text>
+<defs><path id="SwarfBridge-Regular_uni00CE" d="M50 592V784H558V592H400V96H558V-96H50V96H208V592ZM516 742H92V634H250V54H92V-54H516V54H358V634H516ZM304 899 236 835 198 875 304 977 410 875 372 835Z"/></defs>
+<use href="#SwarfBridge-Regular_uni00CE" transform="translate(1175.00 1073) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1257" y="982" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1262" y="1002" font-family="sans-serif" font-size="13" fill="#53616d">00CF</text>
+<defs><path id="SwarfBridge-Regular_uni00CF" d="M50 592V784H558V592H400V96H558V-96H50V96H208V592ZM516 742H92V634H250V54H92V-54H516V54H358V634H516ZM255 873 251 870 247 868 242 866H237H232L227 868L223 870L219 873L216 876L213 880L211 884L209 889V894V899L211 904L213 908L216 912L219 915L223 918L227 920L232 922H237H242L247 920L251 918L255 915L258 912L261 908L263 904L265 899V894V889L263 884L261 880L258 876ZM389 873 385 870 381 868 376 866H371H366L361 868L357 870L353 873L350 876L347 880L345 884L343 889V894V899L345 904L347 908L350 912L353 915L357 918L361 920L366 922H371H376L381 920L385 918L389 915L392 912L395 908L397 904L399 899V894V889L397 884L395 880L392 876Z"/></defs>
+<use href="#SwarfBridge-Regular_uni00CF" transform="translate(1263.00 1073) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1345" y="982" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1350" y="1002" font-family="sans-serif" font-size="13" fill="#53616d">00D0</text>
+<defs><path id="SwarfBridge-Regular_uni00D0" d="M319 -96H32V784H319L553 563V125ZM66 742V398H156V634H277L429 489V398H515V360H429V199L277 54H156V360H66V-54H308L519 145V543L308 742ZM190 398H395V469L266 592H190ZM266 96 395 219V360H190V96Z"/></defs>
+<use href="#SwarfBridge-Regular_uni00D0" transform="translate(1351.00 1073) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="25" y="1096" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="30" y="1116" font-family="sans-serif" font-size="13" fill="#53616d">00D1</text>
+<defs><path id="SwarfBridge-Regular_uni00D1" d="M687 -173 603 -198 243 361V-32H50V861L134 886L494 327V720H687ZM645 -142V678H536V185L116 837L92 830V10H201V503L621 -149ZM462 885 386 845 333 877 304 857 273 903 332 943 387 909 435 935Z"/></defs>
+<use href="#SwarfBridge-Regular_uni00D1" transform="translate(31.00 1187) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="113" y="1096" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="118" y="1116" font-family="sans-serif" font-size="13" fill="#53616d">00D2</text>
+<defs><path id="SwarfBridge-Regular_uni00D2" d="M687 638V50L561 -96H176L50 50V638L176 784H561ZM195 742 92 622V66L195 -54H542L645 66V622L542 742ZM536 106 491 54H246L201 106V582L246 634H491L536 582ZM243 566V122L265 96H472L494 122V566L472 592H265ZM300 926 343 960 405 882 362 848Z"/></defs>
+<use href="#SwarfBridge-Regular_uni00D2" transform="translate(119.00 1187) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="201" y="1096" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="206" y="1116" font-family="sans-serif" font-size="13" fill="#53616d">00D3</text>
+<defs><path id="SwarfBridge-Regular_uni00D3" d="M687 638V50L561 -96H176L50 50V638L176 784H561ZM195 742 92 622V66L195 -54H542L645 66V622L542 742ZM536 106 491 54H246L201 106V582L246 634H491L536 582ZM243 566V122L265 96H472L494 122V566L472 592H265ZM394 960 437 926 375 848 332 882Z"/></defs>
+<use href="#SwarfBridge-Regular_uni00D3" transform="translate(207.00 1187) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="289" y="1096" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="294" y="1116" font-family="sans-serif" font-size="13" fill="#53616d">00D4</text>
+<defs><path id="SwarfBridge-Regular_uni00D4" d="M687 638V50L561 -96H176L50 50V638L176 784H561ZM195 742 92 622V66L195 -54H542L645 66V622L542 742ZM536 106 491 54H246L201 106V582L246 634H491L536 582ZM243 566V122L265 96H472L494 122V566L472 592H265ZM301 835 262 875 368 977 475 875 436 835 368 899Z"/></defs>
+<use href="#SwarfBridge-Regular_uni00D4" transform="translate(295.00 1187) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="377" y="1096" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="382" y="1116" font-family="sans-serif" font-size="13" fill="#53616d">00D5</text>
+<defs><path id="SwarfBridge-Regular_uni00D5" d="M687 638V50L561 -96H176L50 50V638L176 784H561ZM195 742 92 622V66L195 -54H542L645 66V622L542 742ZM536 106 491 54H246L201 106V582L246 634H491L536 582ZM243 566V122L265 96H472L494 122V566L472 592H265ZM386 845 333 877 304 857 273 903 332 943 387 909 435 935 462 885Z"/></defs>
+<use href="#SwarfBridge-Regular_uni00D5" transform="translate(383.00 1187) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="465" y="1096" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="470" y="1116" font-family="sans-serif" font-size="13" fill="#53616d">00D6</text>
+<defs><path id="SwarfBridge-Regular_uni00D6" d="M687 50 561 -96H176L50 50V638L176 784H561L687 638ZM92 622V66L195 -54H542L645 66V622L542 742H195ZM536 106 491 54H246L201 106V582L246 634H491L536 582ZM243 566V122L265 96H472L494 122V566L472 592H265ZM319 873 316 870 311 868 306 866H302H297L292 868L288 870L284 873L280 876L277 880L275 884L274 889V894V899L275 904L277 908L280 912L284 915L288 918L292 920L297 922H302H306L311 920L316 918L319 915L323 912L326 908L328 904L329 899L330 894L329 889L328 884L326 880L323 876ZM453 873 450 870 445 868 440 866H436H431L426 868L422 870L418 873L414 876L411 880L409 884L408 889V894V899L409 904L411 908L414 912L418 915L422 918L426 920L431 922H436H440L445 920L450 918L453 915L457 912L460 908L462 904L463 899L464 894L463 889L462 884L460 880L457 876Z"/></defs>
+<use href="#SwarfBridge-Regular_uni00D6" transform="translate(471.00 1187) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="553" y="1096" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="558" y="1116" font-family="sans-serif" font-size="13" fill="#53616d">00D7</text>
+<defs><path id="SwarfBridge-Regular_uni00D7" d="M342 563 404 625 473 555 362 445 473 335 404 265 342 327V215H243V327L181 265L112 335L223 445L112 555L181 625L243 563V665H342Z"/></defs>
+<use href="#SwarfBridge-Regular_uni00D7" transform="translate(559.00 1187) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="641" y="1096" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="646" y="1116" font-family="sans-serif" font-size="13" fill="#53616d">00D8</text>
+<defs><path id="SwarfBridge-Regular_uni00D8" d="M543 638V50L444 -96H141L42 50V638L141 784H444ZM156 742 75 622V66L156 -54H429L510 66V622L429 742ZM474 654 424 548V106L389 54H196L194 58L187 44L117 76L161 169V582L196 634H379L404 686ZM391 122V478L212 96H374ZM359 592H211L194 566V240Z"/></defs>
+<use href="#SwarfBridge-Regular_uni00D8" transform="translate(647.00 1187) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="729" y="1096" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="734" y="1116" font-family="sans-serif" font-size="13" fill="#53616d">00D9</text>
+<defs><path id="SwarfBridge-Regular_uni00D9" d="M687 720V152L580 -96H157L50 152V720H243V192L284 96H453L494 192V720ZM552 -54 645 161V678H536V183L481 54H256L201 183V678H92V161L185 -54ZM362 795 300 873 343 907 405 829Z"/></defs>
+<use href="#SwarfBridge-Regular_uni00D9" transform="translate(735.00 1187) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="817" y="1096" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="822" y="1116" font-family="sans-serif" font-size="13" fill="#53616d">00DA</text>
+<defs><path id="SwarfBridge-Regular_uni00DA" d="M687 720V152L580 -96H157L50 152V720H243V192L284 96H453L494 192V720ZM552 -54 645 161V678H536V183L481 54H256L201 183V678H92V161L185 -54ZM332 829 394 907 437 873 375 795Z"/></defs>
+<use href="#SwarfBridge-Regular_uni00DA" transform="translate(823.00 1187) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="905" y="1096" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="910" y="1116" font-family="sans-serif" font-size="13" fill="#53616d">00DB</text>
+<defs><path id="SwarfBridge-Regular_uni00DB" d="M687 720V152L580 -96H157L50 152V720H243V192L284 96H453L494 192V720ZM552 -54 645 161V678H536V183L481 54H256L201 183V678H92V161L185 -54ZM368 846 301 782 262 822 368 924 475 822 436 782Z"/></defs>
+<use href="#SwarfBridge-Regular_uni00DB" transform="translate(911.00 1187) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="993" y="1096" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="998" y="1116" font-family="sans-serif" font-size="13" fill="#53616d">00DC</text>
+<defs><path id="SwarfBridge-Regular_uni00DC" d="M687 720V152L580 -96H157L50 152V720H243V192L284 96H453L494 192V720ZM552 -54 645 161V678H536V183L481 54H256L201 183V678H92V161L185 -54ZM319 820 316 817 311 815 306 813H302H297L292 815L288 817L284 820L280 823L277 827L275 831L274 836V841V846L275 851L277 855L280 859L284 862L288 865L292 867L297 869H302H306L311 867L316 865L319 862L323 859L326 855L328 851L329 846L330 841L329 836L328 831L326 827L323 823ZM453 820 450 817 445 815 440 813H436H431L426 815L422 817L418 820L414 823L411 827L409 831L408 836V841V846L409 851L411 855L414 859L418 862L422 865L426 867L431 869H436H440L445 867L450 865L453 862L457 859L460 855L462 851L463 846L464 841L463 836L462 831L460 827L457 823Z"/></defs>
+<use href="#SwarfBridge-Regular_uni00DC" transform="translate(999.00 1187) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1081" y="1096" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1086" y="1116" font-family="sans-serif" font-size="13" fill="#53616d">00DD</text>
+<defs><path id="SwarfBridge-Regular_uni00DD" d="M529 767 691 663 467 316V-32H274V316L50 663L212 767L370 522ZM370 445 200 709 108 650 316 328V10H425V328L633 650L541 709ZM334 877 396 955 439 920 377 842Z"/></defs>
+<use href="#SwarfBridge-Regular_uni00DD" transform="translate(1087.00 1187) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1169" y="1096" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1174" y="1116" font-family="sans-serif" font-size="13" fill="#53616d">00DE</text>
+<defs><path id="SwarfBridge-Regular_uni00DE" d="M374 248H190V-32H32V784H374L553 658V374ZM365 290 519 399V633L365 742H66V10H156V290ZM429 461 341 398H156V634H341L429 571ZM332 592H190V440H332L395 486V546Z"/></defs>
+<use href="#SwarfBridge-Regular_uni00DE" transform="translate(1175.00 1187) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1257" y="1096" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1262" y="1116" font-family="sans-serif" font-size="13" fill="#53616d">00DF</text>
+<defs><path id="SwarfBridge-Regular_uni00DF" d="M374 784 553 658V374L510 344L553 314V30L374 -96H85V-32H32V784ZM429 208V117L424 113L460 52L421 -15L519 55V289L442 344L519 399V633L365 742H66V10H119V-54H237L188 28L209 54H156V290H223L239 316H396L446 230ZM428 48 427 34 437 52 408 102 368 73ZM426 33H267L254 54H235L212 26L246 -33H388ZM422 232 388 291H246V290H341ZM371 220 388 190 395 198V202ZM390 158 395 156V165ZM244 126 280 111 314 96H332L385 134L206 210L207 224L197 206ZM382 162 360 200H292ZM221 248 208 225H363L332 248ZM190 96H242L244 100L234 104L190 180ZM198 248H190V233ZM341 398H156V634H341L429 571V461ZM332 440 395 486V546L332 592H190V440Z"/></defs>
+<use href="#SwarfBridge-Regular_uni00DF" transform="translate(1263.00 1187) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1345" y="1096" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1350" y="1116" font-family="sans-serif" font-size="13" fill="#53616d">00E0</text>
+<defs><path id="SwarfBridge-Regular_uni00E0" d="M487 526 542 462H613V-32H548V-96H176L50 50V380L176 526ZM468 484H195L92 364V66L195 -54H506V10H571V420H523ZM201 324 246 376H417L462 324V54H246L201 106ZM398 334H265L243 308V122L265 96H420V308ZM263 679 306 714 368 636 325 601Z"/></defs>
+<use href="#SwarfBridge-Regular_uni00E0" transform="translate(1351.00 1187) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="25" y="1210" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="30" y="1230" font-family="sans-serif" font-size="13" fill="#53616d">00E1</text>
+<defs><path id="SwarfBridge-Regular_uni00E1" d="M487 526 542 462H613V-32H548V-96H176L50 50V380L176 526ZM468 484H195L92 364V66L195 -54H506V10H571V420H523ZM201 324 246 376H417L462 324V54H246L201 106ZM398 334H265L243 308V122L265 96H420V308ZM357 714 400 679 338 601 295 636Z"/></defs>
+<use href="#SwarfBridge-Regular_uni00E1" transform="translate(31.00 1301) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="113" y="1210" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="118" y="1230" font-family="sans-serif" font-size="13" fill="#53616d">00E2</text>
+<defs><path id="SwarfBridge-Regular_uni00E2" d="M487 526 542 462H613V-32H548V-96H176L50 50V380L176 526ZM468 484H195L92 364V66L195 -54H506V10H571V420H523ZM201 324 246 376H417L462 324V54H246L201 106ZM398 334H265L243 308V122L265 96H420V308ZM264 588 225 629 332 730 438 629 399 588 332 653Z"/></defs>
+<use href="#SwarfBridge-Regular_uni00E2" transform="translate(119.00 1301) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="201" y="1210" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="206" y="1230" font-family="sans-serif" font-size="13" fill="#53616d">00E3</text>
+<defs><path id="SwarfBridge-Regular_uni00E3" d="M487 526 542 462H613V-32H548V-96H176L50 50V380L176 526ZM468 484H195L92 364V66L195 -54H506V10H571V420H523ZM201 324 246 376H417L462 324V54H246L201 106ZM398 334H265L243 308V122L265 96H420V308ZM349 598 296 630 267 610 236 657 295 697 350 663 398 688 425 639Z"/></defs>
+<use href="#SwarfBridge-Regular_uni00E3" transform="translate(207.00 1301) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="289" y="1210" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="294" y="1230" font-family="sans-serif" font-size="13" fill="#53616d">00E4</text>
+<defs><path id="SwarfBridge-Regular_uni00E4" d="M542 462H613V-32H548V-96H176L50 50V380L176 526H487ZM195 484 92 364V66L195 -54H506V10H571V420H523L468 484ZM201 324 246 376H417L462 324V54H246L201 106ZM398 334H265L243 308V122L265 96H420V308ZM282 626 278 623 274 621 269 620H264H260L255 621L250 623L247 626L243 630L240 634L238 638L237 643L236 648L237 652L238 657L240 662L243 665L247 669L250 672L255 674L260 675L264 676L269 675L274 674L278 672L282 669L286 665L289 662L291 657L292 652V648V643L291 638L289 634L286 630ZM416 626 412 623 408 621 403 620H398H394L389 621L384 623L381 626L377 630L374 634L372 638L371 643L370 648L371 652L372 657L374 662L377 665L381 669L384 672L389 674L394 675L398 676L403 675L408 674L412 672L416 669L420 665L423 662L425 657L426 652V648V643L425 638L423 634L420 630Z"/></defs>
+<use href="#SwarfBridge-Regular_uni00E4" transform="translate(295.00 1301) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="377" y="1210" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="382" y="1230" font-family="sans-serif" font-size="13" fill="#53616d">00E5</text>
+<defs><path id="SwarfBridge-Regular_uni00E5" d="M487 526 542 462H613V-32H548V-96H176L50 50V380L176 526ZM468 484H195L92 364V66L195 -54H506V10H571V420H523ZM201 324 246 376H417L462 324V54H246L201 106ZM398 334H265L243 308V122L265 96H420V308ZM374 594 364 587 354 582 343 580 332 578 320 580 309 582 298 587 289 594 281 602 274 612 269 622 267 633 266 644 267 656 269 667 274 678 281 687 289 695 298 702 309 707 320 709 332 710 343 709 354 707 364 702 374 695 382 687 389 678 394 667 396 656 398 644 396 633 394 622 389 612 382 602ZM355 673 350 677 344 679 338 681 332 682 325 681 319 679 313 677 308 673 303 668 299 663 297 657 295 651 294 644 295 638 297 632 299 626 303 621 308 616 313 612 319 610 325 608H332H338L344 610L350 612L355 616L360 621L364 626L366 632L368 638V644V651L366 657L364 663L360 668Z"/></defs>
+<use href="#SwarfBridge-Regular_uni00E5" transform="translate(383.00 1301) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="465" y="1210" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="470" y="1230" font-family="sans-serif" font-size="13" fill="#53616d">00E6</text>
+<defs><path id="SwarfBridge-Regular_uni00E6" d="M277 502 288 526H495L563 380V76H544L562 47L495 -96H299H288H92L22 50V380L92 526H265ZM335 376H458L482 324V226H335V-32H299V-54H485L530 43L483 118H540V364L485 484H298L292 471L296 462H335ZM459 308 447 334H335V333V268H459ZM242 364V342L251 324V54H248L276 -7V10H312V226H301V324L312 347V420H285L277 438ZM45 364V66L103 -54H268L220 50V54H131L106 106V324L131 376H220V380L261 470L254 484H103ZM216 334H141L129 308V122L141 96H220V325Z"/></defs>
+<use href="#SwarfBridge-Regular_uni00E6" transform="translate(471.00 1301) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="553" y="1210" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="558" y="1230" font-family="sans-serif" font-size="13" fill="#53616d">00E7</text>
+<defs><path id="SwarfBridge-Regular_uni00E7" d="M435 -107V-111L434 -116L433 -120L432 -124L431 -128L429 -132L426 -135L424 -139L358 -215L289 -155L337 -101L335 -96H176L50 50V380L176 526H561L685 383L538 257L472 334H265L243 308V122L265 96H472L538 173L685 47L561 -96H433V-99L434 -103ZM415 -54H542L626 43L543 114L492 54H246L201 106V324L246 376H492L543 316L626 387L542 484H196L92 364V66L196 -54H316L313 -48L396 -12Z"/></defs>
+<use href="#SwarfBridge-Regular_uni00E7" transform="translate(559.00 1301) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="641" y="1210" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="646" y="1230" font-family="sans-serif" font-size="13" fill="#53616d">00E8</text>
+<defs><path id="SwarfBridge-Regular_uni00E8" d="M50 380 176 526H561L687 380V76H652L685 47L561 -96H176L50 50ZM92 364V66L195 -54H542L625 43L539 118H645V364L542 484H195ZM201 226V324L246 376H491L536 324V226ZM243 268H494V308L472 334H265L243 308ZM300 679 343 714 405 636 362 601Z"/></defs>
+<use href="#SwarfBridge-Regular_uni00E8" transform="translate(647.00 1301) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="729" y="1210" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="734" y="1230" font-family="sans-serif" font-size="13" fill="#53616d">00E9</text>
+<defs><path id="SwarfBridge-Regular_uni00E9" d="M50 380 176 526H561L687 380V76H652L685 47L561 -96H176L50 50ZM92 364V66L195 -54H542L625 43L539 118H645V364L542 484H195ZM201 226V324L246 376H491L536 324V226ZM243 268H494V308L472 334H265L243 308ZM394 714 437 679 375 601 332 636Z"/></defs>
+<use href="#SwarfBridge-Regular_uni00E9" transform="translate(735.00 1301) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="817" y="1210" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="822" y="1230" font-family="sans-serif" font-size="13" fill="#53616d">00EA</text>
+<defs><path id="SwarfBridge-Regular_uni00EA" d="M50 380 176 526H561L687 380V76H652L685 47L561 -96H176L50 50ZM92 364V66L195 -54H542L625 43L539 118H645V364L542 484H195ZM201 226V324L246 376H491L536 324V226ZM243 268H494V308L472 334H265L243 308ZM301 588 262 629 368 730 475 629 436 588 368 653Z"/></defs>
+<use href="#SwarfBridge-Regular_uni00EA" transform="translate(823.00 1301) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="905" y="1210" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="910" y="1230" font-family="sans-serif" font-size="13" fill="#53616d">00EB</text>
+<defs><path id="SwarfBridge-Regular_uni00EB" d="M176 526H561L687 380V76H652L685 47L561 -96H176L50 50V380ZM92 66 195 -54H542L625 43L539 118H645V364L542 484H195L92 364ZM201 226V324L246 376H491L536 324V226ZM243 268H494V308L472 334H265L243 308ZM319 626 316 623 311 621 306 620H302H297L292 621L288 623L284 626L280 630L277 634L275 638L274 643V648V652L275 657L277 662L280 665L284 669L288 672L292 674L297 675L302 676L306 675L311 674L316 672L319 669L323 665L326 662L328 657L329 652L330 648L329 643L328 638L326 634L323 630ZM453 626 450 623 445 621 440 620H436H431L426 621L422 623L418 626L414 630L411 634L409 638L408 643V648V652L409 657L411 662L414 665L418 669L422 672L426 674L431 675L436 676L440 675L445 674L450 672L453 669L457 665L460 662L462 657L463 652L464 648L463 643L462 638L460 634L457 630Z"/></defs>
+<use href="#SwarfBridge-Regular_uni00EB" transform="translate(911.00 1301) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="993" y="1210" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="998" y="1230" font-family="sans-serif" font-size="13" fill="#53616d">00EC</text>
+<defs><path id="SwarfBridge-Regular_uni00EC" d="M326 96H410V-96H50V96H134V462H326ZM92 54V-54H368V54H284V420H176V54ZM223 537 161 615 205 649 267 571Z"/></defs>
+<use href="#SwarfBridge-Regular_uni00EC" transform="translate(999.00 1301) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1081" y="1210" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1086" y="1230" font-family="sans-serif" font-size="13" fill="#53616d">00ED</text>
+<defs><path id="SwarfBridge-Regular_uni00ED" d="M326 96H410V-96H50V96H134V462H326ZM92 54V-54H368V54H284V420H176V54ZM193 571 255 649 299 615 237 537Z"/></defs>
+<use href="#SwarfBridge-Regular_uni00ED" transform="translate(1087.00 1301) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1169" y="1210" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1174" y="1230" font-family="sans-serif" font-size="13" fill="#53616d">00EE</text>
+<defs><path id="SwarfBridge-Regular_uni00EE" d="M326 96H410V-96H50V96H134V462H326ZM92 54V-54H368V54H284V420H176V54ZM230 588 162 524 124 564 230 666 336 564 298 524Z"/></defs>
+<use href="#SwarfBridge-Regular_uni00EE" transform="translate(1175.00 1301) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1257" y="1210" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1262" y="1230" font-family="sans-serif" font-size="13" fill="#53616d">00EF</text>
+<defs><path id="SwarfBridge-Regular_uni00EF" d="M326 96H410V-96H50V96H134V462H326ZM92 54V-54H368V54H284V420H176V54ZM181 562 177 559 173 557 168 555H163H158L153 557L149 559L145 562L142 565L139 569L137 573L135 578V583V588L137 593L139 597L142 601L145 604L149 607L153 609L158 611H163H168L173 609L177 607L181 604L184 601L187 597L189 593L191 588V583V578L189 573L187 569L184 565ZM315 562 311 559 307 557 302 555H297H292L287 557L283 559L279 562L276 565L273 569L271 573L269 578V583V588L271 593L273 597L276 601L279 604L283 607L287 609L292 611H297H302L307 609L311 607L315 604L318 601L321 597L323 593L325 588V583V578L323 573L321 569L318 565Z"/></defs>
+<use href="#SwarfBridge-Regular_uni00EF" transform="translate(1263.00 1301) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1345" y="1210" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1350" y="1230" font-family="sans-serif" font-size="13" fill="#53616d">00F0</text>
+<defs><path id="SwarfBridge-Regular_uni00F0" d="M395 512V720H553V-32H465L374 -96H135L32 50V380L135 526H374ZM192 54 156 106V324L181 360H66V66L151 -54H365L456 10H519V678H429V439L365 484H151L90 398H515V360H363L429 313V117L341 54ZM395 142V288L332 334H208L190 308V122L208 96H332Z"/></defs>
+<use href="#SwarfBridge-Regular_uni00F0" transform="translate(1351.00 1301) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="25" y="1324" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="30" y="1344" font-family="sans-serif" font-size="13" fill="#53616d">00F1</text>
+<defs><path id="SwarfBridge-Regular_uni00F1" d="M494 -32V308L472 334H321L243 288V-32H50V462H157L268 526H561L687 380V-32ZM309 376H491L536 324V10H645V364L542 484H280L169 420H92V10H201V313ZM462 639 386 598 333 630 304 610 273 657 332 697 387 663 435 688Z"/></defs>
+<use href="#SwarfBridge-Regular_uni00F1" transform="translate(31.00 1415) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="113" y="1324" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="118" y="1344" font-family="sans-serif" font-size="13" fill="#53616d">00F2</text>
+<defs><path id="SwarfBridge-Regular_uni00F2" d="M687 380V50L561 -96H176L50 50V380L176 526H561ZM195 484 92 364V66L195 -54H542L645 66V364L542 484ZM536 106 491 54H246L201 106V324L246 376H491L536 324ZM243 308V122L265 96H472L494 122V308L472 334H265ZM300 679 343 714 405 636 362 601Z"/></defs>
+<use href="#SwarfBridge-Regular_uni00F2" transform="translate(119.00 1415) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="201" y="1324" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="206" y="1344" font-family="sans-serif" font-size="13" fill="#53616d">00F3</text>
+<defs><path id="SwarfBridge-Regular_uni00F3" d="M687 380V50L561 -96H176L50 50V380L176 526H561ZM195 484 92 364V66L195 -54H542L645 66V364L542 484ZM536 106 491 54H246L201 106V324L246 376H491L536 324ZM243 308V122L265 96H472L494 122V308L472 334H265ZM394 714 437 679 375 601 332 636Z"/></defs>
+<use href="#SwarfBridge-Regular_uni00F3" transform="translate(207.00 1415) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="289" y="1324" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="294" y="1344" font-family="sans-serif" font-size="13" fill="#53616d">00F4</text>
+<defs><path id="SwarfBridge-Regular_uni00F4" d="M687 380V50L561 -96H176L50 50V380L176 526H561ZM195 484 92 364V66L195 -54H542L645 66V364L542 484ZM536 106 491 54H246L201 106V324L246 376H491L536 324ZM243 308V122L265 96H472L494 122V308L472 334H265ZM301 588 262 629 368 730 475 629 436 588 368 653Z"/></defs>
+<use href="#SwarfBridge-Regular_uni00F4" transform="translate(295.00 1415) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="377" y="1324" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="382" y="1344" font-family="sans-serif" font-size="13" fill="#53616d">00F5</text>
+<defs><path id="SwarfBridge-Regular_uni00F5" d="M687 380V50L561 -96H176L50 50V380L176 526H561ZM195 484 92 364V66L195 -54H542L645 66V364L542 484ZM536 106 491 54H246L201 106V324L246 376H491L536 324ZM243 308V122L265 96H472L494 122V308L472 334H265ZM386 598 333 630 304 610 273 657 332 697 387 663 435 688 462 639Z"/></defs>
+<use href="#SwarfBridge-Regular_uni00F5" transform="translate(383.00 1415) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="465" y="1324" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="470" y="1344" font-family="sans-serif" font-size="13" fill="#53616d">00F6</text>
+<defs><path id="SwarfBridge-Regular_uni00F6" d="M687 50 561 -96H176L50 50V380L176 526H561L687 380ZM92 364V66L195 -54H542L645 66V364L542 484H195ZM536 106 491 54H246L201 106V324L246 376H491L536 324ZM243 308V122L265 96H472L494 122V308L472 334H265ZM319 626 316 623 311 621 306 620H302H297L292 621L288 623L284 626L280 630L277 634L275 638L274 643V648V652L275 657L277 662L280 665L284 669L288 672L292 674L297 675L302 676L306 675L311 674L316 672L319 669L323 665L326 662L328 657L329 652L330 648L329 643L328 638L326 634L323 630ZM453 626 450 623 445 621 440 620H436H431L426 621L422 623L418 626L414 630L411 634L409 638L408 643V648V652L409 657L411 662L414 665L418 669L422 672L426 674L431 675L436 676L440 675L445 674L450 672L453 669L457 665L460 662L462 657L463 652L464 648L463 643L462 638L460 634L457 630Z"/></defs>
+<use href="#SwarfBridge-Regular_uni00F6" transform="translate(471.00 1415) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="553" y="1324" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="558" y="1344" font-family="sans-serif" font-size="13" fill="#53616d">00F7</text>
+<defs><path id="SwarfBridge-Regular_uni00F7" d="M468 356V320H117V356ZM324 154 321 148 318 144 314 140 309 136 304 134 298 133 292 132 287 133 281 134 276 136 271 140 267 144 264 148 261 154 260 159V165V171L261 176L264 182L267 186L271 190L276 194L281 196L287 197L292 198L298 197L304 196L309 194L314 190L318 186L321 182L324 176L325 171L326 165L325 159ZM321 494 318 489 314 485 309 481 304 479 298 478 292 477 287 478 281 479 276 481 271 485 267 489 264 494 261 499 260 504V510V516L261 521L264 526L267 531L271 535L276 539L281 541L287 542L292 543L298 542L304 541L309 539L314 535L318 531L321 526L324 521L325 516L326 510L325 504L324 499Z"/></defs>
+<use href="#SwarfBridge-Regular_uni00F7" transform="translate(559.00 1415) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="641" y="1324" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="646" y="1344" font-family="sans-serif" font-size="13" fill="#53616d">00F8</text>
+<defs><path id="SwarfBridge-Regular_uni00F8" d="M543 380V50L444 -96H141L42 50V380L141 526H444ZM156 484 75 364V66L156 -54H429L510 66V364L429 484ZM470 417 413 341 424 324V106L389 54H196L183 37L121 83L161 136V324L196 376H342L408 463ZM374 96 391 122V308L390 311L228 96ZM310 334H211L194 308V180Z"/></defs>
+<use href="#SwarfBridge-Regular_uni00F8" transform="translate(647.00 1415) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="729" y="1324" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="734" y="1344" font-family="sans-serif" font-size="13" fill="#53616d">00F9</text>
+<defs><path id="SwarfBridge-Regular_uni00F9" d="M687 -32H542L487 -96H176L50 50V462H243V122L265 96H398L494 208V462H687ZM195 -54H468L523 10H645V420H536V192L417 54H246L201 106V420H92V66ZM362 537 300 615 343 649 405 571Z"/></defs>
+<use href="#SwarfBridge-Regular_uni00F9" transform="translate(735.00 1415) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="817" y="1324" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="822" y="1344" font-family="sans-serif" font-size="13" fill="#53616d">00FA</text>
+<defs><path id="SwarfBridge-Regular_uni00FA" d="M687 -32H542L487 -96H176L50 50V462H243V122L265 96H398L494 208V462H687ZM195 -54H468L523 10H645V420H536V192L417 54H246L201 106V420H92V66ZM332 571 394 649 437 615 375 537Z"/></defs>
+<use href="#SwarfBridge-Regular_uni00FA" transform="translate(823.00 1415) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="905" y="1324" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="910" y="1344" font-family="sans-serif" font-size="13" fill="#53616d">00FB</text>
+<defs><path id="SwarfBridge-Regular_uni00FB" d="M687 -32H542L487 -96H176L50 50V462H243V122L265 96H398L494 208V462H687ZM195 -54H468L523 10H645V420H536V192L417 54H246L201 106V420H92V66ZM368 588 301 524 262 564 368 666 475 564 436 524Z"/></defs>
+<use href="#SwarfBridge-Regular_uni00FB" transform="translate(911.00 1415) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="993" y="1324" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="998" y="1344" font-family="sans-serif" font-size="13" fill="#53616d">00FC</text>
+<defs><path id="SwarfBridge-Regular_uni00FC" d="M687 -32H542L487 -96H176L50 50V462H243V122L265 96H398L494 208V462H687ZM195 -54H468L523 10H645V420H536V192L417 54H246L201 106V420H92V66ZM319 562 316 559 311 557 306 555H302H297L292 557L288 559L284 562L280 565L277 569L275 573L274 578V583V588L275 593L277 597L280 601L284 604L288 607L292 609L297 611H302H306L311 609L316 607L319 604L323 601L326 597L328 593L329 588L330 583L329 578L328 573L326 569L323 565ZM453 562 450 559 445 557 440 555H436H431L426 557L422 559L418 562L414 565L411 569L409 573L408 578V583V588L409 593L411 597L414 601L418 604L422 607L426 609L431 611H436H440L445 609L450 607L453 604L457 601L460 597L462 593L463 588L464 583L463 578L462 573L460 569L457 565Z"/></defs>
+<use href="#SwarfBridge-Regular_uni00FC" transform="translate(999.00 1415) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1081" y="1324" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1086" y="1344" font-family="sans-serif" font-size="13" fill="#53616d">00FD</text>
+<defs><path id="SwarfBridge-Regular_uni00FD" d="M222 503 372 210 523 503 695 414 460 -41 370 -250H118V-76H235L266 -4L50 414ZM372 119 204 446 107 396 312 -2 263 -118H160V-226H334L422 -23L638 396L541 446ZM336 612 398 690 441 655 379 577Z"/></defs>
+<use href="#SwarfBridge-Regular_uni00FD" transform="translate(1087.00 1415) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1169" y="1324" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1174" y="1344" font-family="sans-serif" font-size="13" fill="#53616d">00FE</text>
+<defs><path id="SwarfBridge-Regular_uni00FE" d="M553 50 450 -96H211L190 -82V-204H32V462H120L211 526H450L553 380ZM156 -9 220 -54H434L519 66V364L434 484H220L129 420H66V-162H156ZM429 324V106L393 54H244L156 117V313L244 376H393ZM395 308 377 334H253L190 288V142L253 96H377L395 122Z"/></defs>
+<use href="#SwarfBridge-Regular_uni00FE" transform="translate(1175.00 1415) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1257" y="1324" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1262" y="1344" font-family="sans-serif" font-size="13" fill="#53616d">00FF</text>
+<defs><path id="SwarfBridge-Regular_uni00FF" d="M222 503 372 210 523 503 695 414 460 -41 370 -250H118V-76H235L266 -4L50 414ZM372 119 204 446 107 396 312 -2 263 -118H160V-226H334L422 -23L638 396L541 446ZM323 602 320 599 315 597 310 596H306H301L296 597L292 599L288 602L284 606L281 610L279 614L278 619V624V629L279 633L281 638L284 642L288 645L292 648L296 650L301 651L306 652L310 651L315 650L320 648L323 645L327 642L330 638L332 633L333 629L334 624L333 619L332 614L330 610L327 606ZM457 602 454 599 449 597 444 596H440H435L430 597L426 599L422 602L418 606L415 610L413 614L412 619V624V629L413 633L415 638L418 642L422 645L426 648L430 650L435 651L440 652L444 651L449 650L454 648L457 645L461 642L464 638L466 633L467 629L468 624L467 619L466 614L464 610L461 606Z"/></defs>
+<use href="#SwarfBridge-Regular_uni00FF" transform="translate(1263.00 1415) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1345" y="1324" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1350" y="1344" font-family="sans-serif" font-size="13" fill="#53616d">0152</text>
+<defs><path id="SwarfBridge-Regular_uni0152" d="M326 784H563V592H401V440H520V248H401V96H563V-96H326H233H97L22 50V638L97 784H233ZM539 -54V54H401V50L347 -54ZM539 634V742H347L401 638V634ZM496 398H401V290H496ZM320 634H370L314 742H257V634H285L311 582V106L285 54H257V-54H314L370 54H320V290H376V398H320ZM344 96H376V248H344ZM344 440H376V592H344ZM257 96H273L286 122V566L273 592H257ZM47 66 109 -54H233V54H138L112 106V582L138 634H233V742H109L47 622ZM150 96H233V592H150L137 566V122Z"/></defs>
+<use href="#SwarfBridge-Regular_uni0152" transform="translate(1351.00 1415) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="25" y="1438" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="30" y="1458" font-family="sans-serif" font-size="13" fill="#53616d">0153</text>
+<defs><path id="SwarfBridge-Regular_uni0153" d="M495 526 563 380V76H544L562 47L495 -96H306H288H92L22 50V380L92 526H288H306ZM458 376 482 324V226H376V50L326 -54H485L530 43L483 118H540V364L485 484H326L376 380V376ZM459 308 447 334H376V268H459ZM268 376 292 324V106L268 54H248L297 -52L353 66V226H301V324L325 376H348L297 482L248 376ZM324 308V268H353V334H335ZM242 96H257L269 122V308L257 334H242ZM45 66 103 -54H268L220 50V54H131L106 106V324L131 376H220V380L268 484H103L45 364ZM129 122 141 96H220V334H141L129 308Z"/></defs>
+<use href="#SwarfBridge-Regular_uni0153" transform="translate(31.00 1529) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="113" y="1438" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="118" y="1458" font-family="sans-serif" font-size="13" fill="#53616d">0160</text>
+<defs><path id="SwarfBridge-Regular_uni0160" d="M719 189 596 -96H192L68 47L215 173L281 96H469L494 155L470 183L174 355L50 499L173 784H485L683 669L586 502L432 592H300L275 533L299 505L595 333ZM99 506 201 387 497 215 543 162 497 54H262L210 114L128 43L211 -54H568L670 182L568 301L272 473L226 526L272 634H444L570 560L625 654L473 742H201ZM384 818 285 919 324 959 384 898 445 959 484 919Z"/></defs>
+<use href="#SwarfBridge-Regular_uni0160" transform="translate(119.00 1529) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="201" y="1438" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="206" y="1458" font-family="sans-serif" font-size="13" fill="#53616d">0161</text>
+<defs><path id="SwarfBridge-Regular_uni0161" d="M716 383 577 264 602 257 749 86 592 -96H207L83 47L222 166L197 173L50 344L207 526H592ZM128 351 131 374 106 344 221 210 308 185 671 79 668 56 693 86 578 220ZM573 -54 666 54H277L225 114L143 43L226 -54ZM522 376 574 316 656 387 573 484H226L133 376ZM338 334 558 269 503 334ZM461 96 241 161 296 96ZM400 572 300 673 339 712 400 651 460 712 499 673Z"/></defs>
+<use href="#SwarfBridge-Regular_uni0161" transform="translate(207.00 1529) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="289" y="1438" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="294" y="1458" font-family="sans-serif" font-size="13" fill="#53616d">0178</text>
+<defs><path id="SwarfBridge-Regular_uni0178" d="M529 767 691 663 467 316V-32H274V316L50 663L212 767L370 522ZM370 445 200 709 108 650 316 328V10H425V328L633 650L541 709ZM321 867 318 864 313 862 308 861 304 860 299 861 294 862 290 864 286 867 282 870 279 874 277 879 276 883V888V893L277 898L279 902L282 906L286 910L290 912L294 915L299 916H304H308L313 915L318 912L321 910L325 906L328 902L330 898L331 893L332 888L331 883L330 879L328 874L325 870ZM455 867 452 864 447 862 442 861 438 860 433 861 428 862 424 864 420 867 416 870 413 874 411 879 410 883V888V893L411 898L413 902L416 906L420 910L424 912L428 915L433 916H438H442L447 915L452 912L455 910L459 906L462 902L464 898L465 893L466 888L465 883L464 879L462 874L459 870Z"/></defs>
+<use href="#SwarfBridge-Regular_uni0178" transform="translate(295.00 1529) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="377" y="1438" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="382" y="1458" font-family="sans-serif" font-size="13" fill="#53616d">017D</text>
+<defs><path id="SwarfBridge-Regular_uni017D" d="M494 592H195V784H848L404 96H703V-96H50ZM661 -54V54H327L771 742H237V634H571L127 -54ZM449 818 349 919 389 959 449 898 509 959 549 919Z"/></defs>
+<use href="#SwarfBridge-Regular_uni017D" transform="translate(383.00 1529) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="465" y="1438" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="470" y="1458" font-family="sans-serif" font-size="13" fill="#53616d">017E</text>
+<defs><path id="SwarfBridge-Regular_uni017E" d="M70 -96 50 -49 445 334H207V526H852L872 479L477 96H715V-96ZM249 484V376H548L104 -54H673V54H374L818 484ZM461 572 361 673 401 712 461 651 521 712 561 673Z"/></defs>
+<use href="#SwarfBridge-Regular_uni017E" transform="translate(471.00 1529) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="553" y="1438" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="558" y="1458" font-family="sans-serif" font-size="13" fill="#53616d">0192</text>
+<defs><path id="SwarfBridge-Regular_uni0192" d="M85 536 192 784H510V592H319L291 526H510V334H278V-32H85V334H76V526H85ZM236 376H468V484H227L291 634H468V742H220L127 527V484H118V376H127V10H236Z"/></defs>
+<use href="#SwarfBridge-Regular_uni0192" transform="translate(559.00 1529) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="641" y="1438" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="646" y="1458" font-family="sans-serif" font-size="13" fill="#53616d">02C6</text>
+<defs><path id="SwarfBridge-Regular_uni02C6" d="M399 480 360 440 292 504 225 440 186 480 292 582Z"/></defs>
+<use href="#SwarfBridge-Regular_uni02C6" transform="translate(647.00 1529) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="729" y="1438" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="734" y="1458" font-family="sans-serif" font-size="13" fill="#53616d">02DC</text>
+<defs><path id="SwarfBridge-Regular_uni02DC" d="M313 514 361 540 387 490 311 450 259 482 230 462 198 508 257 548Z"/></defs>
+<use href="#SwarfBridge-Regular_uni02DC" transform="translate(735.00 1529) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="817" y="1438" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="822" y="1458" font-family="sans-serif" font-size="13" fill="#53616d">2013</text>
+<defs><path id="SwarfBridge-Regular_uni2013" d="M491 291H94V389H491Z"/></defs>
+<use href="#SwarfBridge-Regular_uni2013" transform="translate(823.00 1529) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="905" y="1438" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="910" y="1458" font-family="sans-serif" font-size="13" fill="#53616d">2014</text>
+<defs><path id="SwarfBridge-Regular_uni2014" d="M491 291H94V389H491Z"/></defs>
+<use href="#SwarfBridge-Regular_uni2014" transform="translate(911.00 1529) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="993" y="1438" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="998" y="1458" font-family="sans-serif" font-size="13" fill="#53616d">2018</text>
+<defs><path id="SwarfBridge-Regular_uni2018" d="M232 557 255 722 353 708 330 543Z"/></defs>
+<use href="#SwarfBridge-Regular_uni2018" transform="translate(999.00 1529) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1081" y="1438" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1086" y="1458" font-family="sans-serif" font-size="13" fill="#53616d">2019</text>
+<defs><path id="SwarfBridge-Regular_uni2019" d="M232 557 255 722 353 708 330 543Z"/></defs>
+<use href="#SwarfBridge-Regular_uni2019" transform="translate(1087.00 1529) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1169" y="1438" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1174" y="1458" font-family="sans-serif" font-size="13" fill="#53616d">201A</text>
+<defs><path id="SwarfBridge-Regular_uni201A" d="M232 557 255 722 353 708 330 543Z"/></defs>
+<use href="#SwarfBridge-Regular_uni201A" transform="translate(1175.00 1529) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1257" y="1438" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1262" y="1458" font-family="sans-serif" font-size="13" fill="#53616d">201C</text>
+<defs><path id="SwarfBridge-Regular_uni201C" d="M178 717 275 713 267 551 170 555ZM318 718 415 712 405 550 308 556Z"/></defs>
+<use href="#SwarfBridge-Regular_uni201C" transform="translate(1263.00 1529) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1345" y="1438" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1350" y="1458" font-family="sans-serif" font-size="13" fill="#53616d">201D</text>
+<defs><path id="SwarfBridge-Regular_uni201D" d="M178 717 275 713 267 551 170 555ZM318 718 415 712 405 550 308 556Z"/></defs>
+<use href="#SwarfBridge-Regular_uni201D" transform="translate(1351.00 1529) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="25" y="1552" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="30" y="1572" font-family="sans-serif" font-size="13" fill="#53616d">201E</text>
+<defs><path id="SwarfBridge-Regular_uni201E" d="M178 717 275 713 267 551 170 555ZM318 718 415 712 405 550 308 556Z"/></defs>
+<use href="#SwarfBridge-Regular_uni201E" transform="translate(31.00 1643) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="113" y="1552" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="118" y="1572" font-family="sans-serif" font-size="13" fill="#53616d">2020</text>
+<defs><path id="SwarfBridge-Regular_uni2020" d="M278 0V470H91V530H278V740H313V530H494V470H313V0Z"/></defs>
+<use href="#SwarfBridge-Regular_uni2020" transform="translate(119.00 1643) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="201" y="1552" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="206" y="1572" font-family="sans-serif" font-size="13" fill="#53616d">2021</text>
+<defs><path id="SwarfBridge-Regular_uni2021" d="M494 270H313V0H278V270H91V320H278V470H91V530H278V740H313V530H494V470H313V320H494Z"/></defs>
+<use href="#SwarfBridge-Regular_uni2021" transform="translate(207.00 1643) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="289" y="1552" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="294" y="1572" font-family="sans-serif" font-size="13" fill="#53616d">2022</text>
+<defs><path id="SwarfBridge-Regular_uni2022" d="M373 371 370 357 364 344 355 332 345 322 334 314 321 308 307 304 292 303 278 304 264 308 252 314 240 322 230 332 221 344 215 357 212 371 210 385 212 399 215 413 221 426 230 438 240 448 251 456 264 462 278 466 292 467 307 466 321 462 334 456 345 448 355 438 364 426 370 413 373 399 374 385Z"/></defs>
+<use href="#SwarfBridge-Regular_uni2022" transform="translate(295.00 1643) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="377" y="1552" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="382" y="1572" font-family="sans-serif" font-size="13" fill="#53616d">2026</text>
+<defs><path id="SwarfBridge-Regular_uni2026" d="M124 66 122 62 119 58 116 55 112 52 108 51 104 49H99H95L91 51L86 52L83 55L80 58L77 62L75 66L74 70L73 75L74 80L75 84L77 88L80 92L83 95L86 98L91 99L95 101H99H104L108 99L112 98L116 95L119 92L122 88L124 84L125 80V75V70ZM315 62 312 58 309 55 306 52 301 51 297 49H292H288L284 51L280 52L276 55L273 58L270 62L268 66L267 70L266 75L267 80L268 84L270 88L273 92L276 95L280 98L284 99L288 101H292H297L301 99L306 98L309 95L312 92L315 88L317 84L318 80V75V70L317 66ZM508 62 505 58 502 55 499 52 494 51 490 49H486H481L477 51L473 52L469 55L466 58L463 62L461 66L460 70V75V80L461 84L463 88L466 92L469 95L473 98L477 99L481 101H486H490L494 99L499 98L502 95L505 92L508 88L510 84L511 80L512 75L511 70L510 66Z"/></defs>
+<use href="#SwarfBridge-Regular_uni2026" transform="translate(383.00 1643) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="465" y="1552" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="470" y="1572" font-family="sans-serif" font-size="13" fill="#53616d">2030</text>
+<defs><path id="SwarfBridge-Regular_uni2030" d="M161 -1 72 41 394 726 483 684ZM161 552 151 549 140 548 129 549 119 552 109 556 100 563 93 570 87 579 82 589 79 599 78 610 79 621 82 631 87 641 93 650 100 657 109 664 119 668 129 671 140 672 151 671 161 668 171 664 180 657 188 650 194 641 198 631 201 621 202 610 201 599 198 589 194 579 188 570 180 563 171 556ZM151 639 146 640 140 641 135 640 130 639 125 637 120 634 117 630 113 625 111 621 110 615 109 610 110 605 111 599 113 595 117 590 120 586 125 583 130 581 135 580 140 579 146 580 151 581 156 583 160 586 164 590 167 595 169 599 171 605V610V615L169 621L167 625L164 630L160 634L156 637ZM503 50 499 45 493 41 487 38 480 37 474 36 467 37 460 38 454 41 449 45 444 50 440 56 437 62 435 68V72L434 71L425 67L414 64L403 63L393 64L382 67L372 71L364 78L356 85L350 94L345 104L342 114L341 125L342 136L345 146L350 156L356 165L364 172L372 179L382 183L393 186L403 187L414 186L425 183L434 179L443 172L451 165L457 156L462 146L464 136L465 125L464 114V113H467L474 114L480 113L487 112L493 109L499 105L503 100L507 95L510 88L512 82L513 75L512 68L510 62L507 56ZM419 152 414 154 409 155 403 156 398 155 393 154 388 152 384 149 380 145 377 140 374 136 373 130V125V120L374 114L377 110L380 105L384 101L388 98L393 96L398 95L403 94L409 95L414 96L419 98L423 101L427 105L430 110L432 114L434 120V125V130L432 136L430 140L427 145L423 149Z"/></defs>
+<use href="#SwarfBridge-Regular_uni2030" transform="translate(471.00 1643) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="553" y="1552" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="558" y="1572" font-family="sans-serif" font-size="13" fill="#53616d">2039</text>
+<defs><path id="SwarfBridge-Regular_uni2039" d="M505 69 436 1 80 360 436 719 505 651 218 360Z"/></defs>
+<use href="#SwarfBridge-Regular_uni2039" transform="translate(559.00 1643) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="641" y="1552" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="646" y="1572" font-family="sans-serif" font-size="13" fill="#53616d">203A</text>
+<defs><path id="SwarfBridge-Regular_uni203A" d="M149 1 80 69 367 360 80 651 149 719 505 360Z"/></defs>
+<use href="#SwarfBridge-Regular_uni203A" transform="translate(647.00 1643) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="729" y="1552" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="734" y="1572" font-family="sans-serif" font-size="13" fill="#53616d">20AC</text>
+<defs><path id="SwarfBridge-Regular_uni20AC" d="M195 240V122L213 96H342L471 186L553 19L386 -96H139L32 50V638L139 784H386L553 669L471 502L342 592H213L195 566V275H503V240ZM160 275V582L197 634H351L458 560L504 654L376 742H155L67 622V66L155 -54H376L504 34L458 128L351 54H197L160 106V240H76V275Z"/></defs>
+<use href="#SwarfBridge-Regular_uni20AC" transform="translate(735.00 1643) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="817" y="1552" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="822" y="1572" font-family="sans-serif" font-size="13" fill="#53616d">2122</text>
+<defs><path id="SwarfBridge-Regular_uni2122" d="M257 659H183V360H93V659H20V752H257ZM40 731V679H113V380H164V679H237V731ZM565 360H485V548L431 455L376 548V360H291V788L328 800L431 626L533 800L565 790ZM504 616V380H551V773L541 777L431 588L320 777L310 773V380H357V616L431 492Z"/></defs>
+<use href="#SwarfBridge-Regular_uni2122" transform="translate(823.00 1643) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="905" y="1552" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="910" y="1572" font-family="sans-serif" font-size="13" fill="#53616d">2190</text>
+<defs><path id="SwarfBridge-Regular_uni2190" d="M520 327H155L221 175L153 145L65 350L153 559L221 531L154 372H520ZM145 350 146 348V352Z"/></defs>
+<use href="#SwarfBridge-Regular_uni2190" transform="translate(911.00 1643) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="993" y="1552" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="998" y="1572" font-family="sans-serif" font-size="13" fill="#53616d">2191</text>
+<defs><path id="SwarfBridge-Regular_uni2191" d="M275 140V633L176 511L117 559L263 739L266 742L268 744L271 747L274 748L275 749V750H278L281 751L285 752L289 753H292H296L300 752L304 751L307 750H310V749L311 748L314 747L317 744L319 742L322 739L468 559L409 511L310 633V140Z"/></defs>
+<use href="#SwarfBridge-Regular_uni2191" transform="translate(999.00 1643) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1081" y="1552" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1086" y="1572" font-family="sans-serif" font-size="13" fill="#53616d">2192</text>
+<defs><path id="SwarfBridge-Regular_uni2192" d="M65 372H431L364 531L432 559L520 350L432 145L364 175L430 327H65ZM440 350 439 352V348Z"/></defs>
+<use href="#SwarfBridge-Regular_uni2192" transform="translate(1087.00 1643) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1169" y="1552" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1174" y="1572" font-family="sans-serif" font-size="13" fill="#53616d">2193</text>
+<defs><path id="SwarfBridge-Regular_uni2193" d="M468 251 322 71 319 68 317 66 314 63 311 62 307 60 304 59 300 58 296 57H292H289L285 58L281 59L278 60L274 62L271 63L268 66L266 68L263 71L117 251L176 299L275 177V750H310V177L409 299Z"/></defs>
+<use href="#SwarfBridge-Regular_uni2193" transform="translate(1175.00 1643) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1257" y="1552" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1262" y="1572" font-family="sans-serif" font-size="13" fill="#53616d">2260</text>
+<defs><path id="SwarfBridge-Regular_uni2260" d="M415 201H85V299H415ZM85 411V509H415V411ZM333 623V567H167V623Z"/></defs>
+<use href="#SwarfBridge-Regular_uni2260" transform="translate(1263.00 1643) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1345" y="1552" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1350" y="1572" font-family="sans-serif" font-size="13" fill="#53616d">2264</text>
+<defs><path id="SwarfBridge-Regular_uni2264" d="M511 35H464L430 1L395 35H125V65H366L74 360L430 719L499 651L212 360L499 69L495 65H511Z"/></defs>
+<use href="#SwarfBridge-Regular_uni2264" transform="translate(1351.00 1643) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="25" y="1666" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="30" y="1686" font-family="sans-serif" font-size="13" fill="#53616d">2265</text>
+<defs><path id="SwarfBridge-Regular_uni2265" d="M460 35H190L155 1L121 35H74V65H90L86 69L373 360L86 651L155 719L511 360L219 65H460Z"/></defs>
+<use href="#SwarfBridge-Regular_uni2265" transform="translate(31.00 1757) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="113" y="1666" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="118" y="1686" font-family="sans-serif" font-size="13" fill="#53616d">2500</text>
+<defs><path id="SwarfBridge-Regular_uni2500" d="M585 354H0V396H585Z"/></defs>
+<use href="#SwarfBridge-Regular_uni2500" transform="translate(119.00 1757) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="201" y="1666" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="206" y="1686" font-family="sans-serif" font-size="13" fill="#53616d">2502</text>
+<defs><path id="SwarfBridge-Regular_uni2502" d="M314 -250H272V1000H314Z"/></defs>
+<use href="#SwarfBridge-Regular_uni2502" transform="translate(207.00 1757) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="289" y="1666" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="294" y="1686" font-family="sans-serif" font-size="13" fill="#53616d">250C</text>
+<defs><path id="SwarfBridge-Regular_uni250C" d="M272 -250V375H292V396H585V354H314V-250Z"/></defs>
+<use href="#SwarfBridge-Regular_uni250C" transform="translate(295.00 1757) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="377" y="1666" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="382" y="1686" font-family="sans-serif" font-size="13" fill="#53616d">2510</text>
+<defs><path id="SwarfBridge-Regular_uni2510" d="M314 -250H272V354H0V396H292V375H314Z"/></defs>
+<use href="#SwarfBridge-Regular_uni2510" transform="translate(383.00 1757) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="465" y="1666" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="470" y="1686" font-family="sans-serif" font-size="13" fill="#53616d">2514</text>
+<defs><path id="SwarfBridge-Regular_uni2514" d="M585 354H292V375H272V1000H314V396H585Z"/></defs>
+<use href="#SwarfBridge-Regular_uni2514" transform="translate(471.00 1757) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="553" y="1666" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="558" y="1686" font-family="sans-serif" font-size="13" fill="#53616d">2518</text>
+<defs><path id="SwarfBridge-Regular_uni2518" d="M0 354V396H272V1000H314V375H292V354Z"/></defs>
+<use href="#SwarfBridge-Regular_uni2518" transform="translate(559.00 1757) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="641" y="1666" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="646" y="1686" font-family="sans-serif" font-size="13" fill="#53616d">251C</text>
+<defs><path id="SwarfBridge-Regular_uni251C" d="M272 -250V375V1000H314V396H585V354H314V-250Z"/></defs>
+<use href="#SwarfBridge-Regular_uni251C" transform="translate(647.00 1757) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="729" y="1666" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="734" y="1686" font-family="sans-serif" font-size="13" fill="#53616d">2524</text>
+<defs><path id="SwarfBridge-Regular_uni2524" d="M272 -250V354H0V396H272V1000H314V375V-250Z"/></defs>
+<use href="#SwarfBridge-Regular_uni2524" transform="translate(735.00 1757) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="817" y="1666" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="822" y="1686" font-family="sans-serif" font-size="13" fill="#53616d">252C</text>
+<defs><path id="SwarfBridge-Regular_uni252C" d="M272 -250V354H0V396H292H585V354H314V-250Z"/></defs>
+<use href="#SwarfBridge-Regular_uni252C" transform="translate(823.00 1757) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="905" y="1666" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="910" y="1686" font-family="sans-serif" font-size="13" fill="#53616d">2534</text>
+<defs><path id="SwarfBridge-Regular_uni2534" d="M0 396H272V1000H314V396H585V354H292H0Z"/></defs>
+<use href="#SwarfBridge-Regular_uni2534" transform="translate(911.00 1757) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="993" y="1666" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="998" y="1686" font-family="sans-serif" font-size="13" fill="#53616d">253C</text>
+<defs><path id="SwarfBridge-Regular_uni253C" d="M272 -250V354H0V396H272V1000H314V396H585V354H314V-250Z"/></defs>
+<use href="#SwarfBridge-Regular_uni253C" transform="translate(999.00 1757) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1081" y="1666" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1086" y="1686" font-family="sans-serif" font-size="13" fill="#53616d">2580</text>
+<defs><path id="SwarfBridge-Regular_uni2580" d="M585 375H0V1000H585Z"/></defs>
+<use href="#SwarfBridge-Regular_uni2580" transform="translate(1087.00 1757) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1169" y="1666" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1174" y="1686" font-family="sans-serif" font-size="13" fill="#53616d">2584</text>
+<defs><path id="SwarfBridge-Regular_uni2584" d="M585 -250H0V375H585Z"/></defs>
+<use href="#SwarfBridge-Regular_uni2584" transform="translate(1175.00 1757) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1257" y="1666" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1262" y="1686" font-family="sans-serif" font-size="13" fill="#53616d">2588</text>
+<defs><path id="SwarfBridge-Regular_uni2588" d="M585 -250H0V1000H585Z"/></defs>
+<use href="#SwarfBridge-Regular_uni2588" transform="translate(1263.00 1757) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1345" y="1666" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1350" y="1686" font-family="sans-serif" font-size="13" fill="#53616d">258C</text>
+<defs><path id="SwarfBridge-Regular_uni258C" d="M292 -250H0V1000H292Z"/></defs>
+<use href="#SwarfBridge-Regular_uni258C" transform="translate(1351.00 1757) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="25" y="1780" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="30" y="1800" font-family="sans-serif" font-size="13" fill="#53616d">2590</text>
+<defs><path id="SwarfBridge-Regular_uni2590" d="M585 -250H292V1000H585Z"/></defs>
+<use href="#SwarfBridge-Regular_uni2590" transform="translate(31.00 1871) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="113" y="1780" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="118" y="1800" font-family="sans-serif" font-size="13" fill="#53616d">2591</text>
+<defs><path id="SwarfBridge-Regular_uni2591" d="M32 -250H0V-218H32ZM64 -154H32H0V-122H32H64ZM0 6V38H32V6ZM32 102H0V134H32H64V102ZM32 262H0V294H32ZM0 390H32H64V358H32H0ZM0 518V550H32V518ZM64 646V614H32H0V646H32ZM0 774V806H32V774ZM32 870H0V902H32H64V870ZM96 -26V-58H64H32V-26H64ZM64 198H32V230H64H96V198ZM32 486H64H96V454H64H32ZM96 742V710H64H32V742H64ZM64 998H96V966H64H32V998ZM128 -186V-218H96H64V-186H96ZM96 70H128V38H96H64V70ZM96 326H128V294H96H64V326ZM64 582H96H128V550H96H64ZM96 838H128V806H96H64V838ZM96 -90H128H160V-122H128H96ZM160 166V134H128H96V166H128ZM160 390H128H96V422H128H160ZM160 646H128H96V678H128H160ZM160 934V902H128H96V934H128ZM128 6H160H192V-26H160H128ZM160 230H128V262H160H192V230ZM192 486H160H128V518H160H192ZM160 774H192V742H160H128V774ZM128 1000H160H192V998H160H128ZM192 -186H160V-154H192H224V-186ZM160 102H192H224V70H192H160ZM192 326H160V358H192H224V326ZM160 614H192H224V582H192H160ZM160 838V870H192H224V838H192ZM256 -90H224H192V-58H224H256ZM256 198V166H224H192V198H224ZM224 422H192V454H224H256V422ZM256 678H224H192V710H224H256ZM192 966H224H256V934H224H192ZM256 -250H224V-218H256H288V-250ZM288 6H256H224V38H256H288ZM288 294V262H256H224V294H256ZM224 550H256H288V518H256H224ZM224 806H256H288V774H256H224ZM288 -122H320V-154H288H256V-122ZM288 102H256V134H288H320V102ZM256 390H288H320V358H288H256ZM320 646V614H288H256V646H288ZM320 870H288H256V902H288H320ZM352 -26V-58H320H288V-26H320ZM320 198H288V230H320H352V198ZM288 486H320H352V454H320H288ZM352 710H320H288V742H320H352ZM352 966H320H288V998H320H352ZM320 -186H352H384V-218H352H320ZM384 70V38H352H320V70H352ZM320 326H352H384V294H352H320ZM320 582H352H384V550H352H320ZM384 806H352H320V838H352H384ZM352 -90H384H416V-122H384H352ZM384 166H416V134H384H352V166ZM416 422V390H384H352V422H384ZM416 646H384H352V678H384H416ZM384 902H352V934H384H416V902ZM448 -26H416H384V6H416H448ZM416 262H448V230H416H384V262ZM416 486H384V518H416H448V486ZM416 742H384V774H416H448V742ZM448 1000V998H416H384V1000H416ZM448 -154H480V-186H448H416V-154ZM448 70H416V102H448H480V70ZM448 326H416V358H448H480V326ZM448 614H480V582H448H416V614ZM480 870V838H448H416V870H448ZM512 -90H480H448V-58H480H512ZM512 198V166H480H448V198H480ZM512 422H480H448V454H480H512ZM512 678H480H448V710H480H512ZM448 966H480H512V934H480H448ZM544 -250H512H480V-218H512H544ZM512 6H480V38H512H544V6ZM512 262H480V294H512H544V262ZM544 518H512H480V550H512H544ZM544 806V774H512H480V806H512ZM576 -154H544H512V-122H544H576ZM576 134V102H544H512V134H544ZM544 390H576V358H544H512V390ZM576 614H544H512V646H544H576ZM576 902V870H544H512V902H544ZM544 -26H576H585V-58H576H544ZM585 198H576H544V230H576H585ZM576 454H544V486H576H585V454ZM544 742H576H585V710H576H544ZM576 998H585V966H576H544V998ZM576 -218V-186H585V-218ZM576 38V70H585V38ZM585 294H576V326H585ZM576 550V582H585V550ZM576 806V838H585V806Z"/></defs>
+<use href="#SwarfBridge-Regular_uni2591" transform="translate(119.00 1871) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="201" y="1780" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="206" y="1800" font-family="sans-serif" font-size="13" fill="#53616d">2592</text>
+<defs><path id="SwarfBridge-Regular_uni2592" d="M160 -154H192V-122H224H256H288V-90H320H352H384V-58H416H448H480V-26H512H544H576V6H585V-26V-58H576H544H512V-90H480H448H416V-122H384H352H320V-154H288H256H224V-186H192H160H128V-218H96H64H32V-250H0V-218V-186H32H64H96V-154H128ZM128 -90V-58H160H192H224V-26H256H288H320V6H352H384H416V38H448H480H512V70H544H576H585V38H576H544V6H512H480H448V-26H416H384H352V-58H320H288H256V-90H224H192H160V-122H128H96H64V-154H32H0V-122H32V-90H64H96ZM64 6H96H128H160V38H192H224H256V70H288H320H352V102H384H416H448V134H480H512H544V166H576H585V134H576V102H544H512H480V70H448H416H384V38H352H320H288V6H256H224H192V-26H160H128H96V-58H64H32H0V-26H32H64ZM128 102H160H192V134H224H256H288V166H320H352H384V198H416H448H480V230H512H544H576V262H585V230V198H576H544H512V166H480H448H416V134H384H352H320V102H288H256H224V70H192H160H128V38H96H64H32V6H0V38V70H32H64H96V102ZM128 166V198H160H192H224V230H256H288H320V262H352H384H416V294H448H480H512V326H544H576H585V294H576H544V262H512H480H448V230H416H384H352V198H320H288H256V166H224H192H160V134H128H96H64V102H32H0V134H32V166H64H96ZM64 262H96H128H160V294H192H224H256V326H288H320H352V358H384H416H448V390H480H512H544V422H576H585V390H576V358H544H512H480V326H448H416H384V294H352H320H288V262H256H224H192V230H160H128H96V198H64H32H0V230H32H64ZM96 326V358H128H160H192V390H224H256H288V422H320H352H384V454H416H448H480V486H512H544H576V518H585V486V454H576H544H512V422H480H448H416V390H384H352H320V358H288H256H224V326H192H160H128V294H96H64H32V262H0V294V326H32H64ZM128 422V454H160H192H224V486H256H288H320V518H352H384H416V550H448H480H512V582H544H576H585V550H576H544V518H512H480H448V486H416H384H352V454H320H288H256V422H224H192H160V390H128H96H64V358H32H0V390H32V422H64H96ZM64 518H96H128H160V550H192H224H256V582H288H320H352V614H384H416H448V646H480H512H544V678H576H585V646H576V614H544H512H480V582H448H416H384V550H352H320H288V518H256H224H192V486H160H128H96V454H64H32H0V486H32H64ZM96 582V614H128H160H192V646H224H256H288V678H320H352H384V710H416H448H480V742H512H544H576V774H585V742V710H576H544H512V678H480H448H416V646H384H352H320V614H288H256H224V582H192H160H128V550H96H64H32V518H0V550V582H32H64ZM128 678V710H160H192H224V742H256H288H320V774H352H384H416V806H448H480H512V838H544H576H585V806H576H544V774H512H480H448V742H416H384H352V710H320H288H256V678H224H192H160V646H128H96H64V614H32H0V646H32V678H64H96ZM128 774H160V806H192H224H256V838H288H320H352V870H384H416H448V902H480H512H544V934H576H585V902H576V870H544H512H480V838H448H416H384V806H352H320H288V774H256H224H192V742H160H128H96V710H64H32H0V742H32H64V774H96ZM0 774V806V838H32H64H96V870H128H160H192V902H224H256H288V934H320H352H384V966H416H448H480V998H512H544H576V1000H585V998V966H576H544H512V934H480H448H416V902H384H352H320V870H288H256H224V838H192H160H128V806H96H64H32V774ZM128 934V966H160H192H224V998H256H288H320V1000H352H384H416H448V998H416H384H352V966H320H288H256V934H224H192H160V902H128H96H64V870H32H0V902H32V934H64H96ZM96 1000H128H160H192V998H160H128H96V966H64H32H0V998H32H64V1000ZM192 -218H224H256V-186H288H320H352V-154H384H416H448V-122H480H512H544V-90H576H585V-122H576V-154H544H512H480V-186H448H416H384V-218H352H320H288V-250H256H224H192H160V-218ZM512 -186H544H576H585V-218H576H544V-250H512H480H448H416V-218H448H480H512Z"/></defs>
+<use href="#SwarfBridge-Regular_uni2592" transform="translate(207.00 1871) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="289" y="1780" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="294" y="1800" font-family="sans-serif" font-size="13" fill="#53616d">2593</text>
+<defs><path id="SwarfBridge-Regular_uni2593" d="M32 -90H64V-58H32H0V-26V6V38V70H32V102H0V134V166H32H64V198H32H0V230V262V294V326H32V358H0V390V422H32H64V454H32H0V486V518V550V582H32V614H0V646V678H32H64V710H32H0V742V774V806V838H32V870H0V902V934H32H64V966H32H0V998V1000H32H64H96H128H160H192V998H224H256V1000H288H320H352H384H416H448V998H480H512V1000H544H576H585V998V966V934V902H576V870H585V838V806H576H544V774H576H585V742V710V678V646H576V614H585V582V550H576H544V518H576H585V486V454V422V390H576V358H585V326V294H576H544V262H576H585V230V198V166V134H576V102H585V70V38H576H544V6H576H585V-26V-58V-90V-122H576V-154H585V-186V-218H576H544V-250H512H480H448H416H384H352V-218H320H288V-250H256H224H192H160H128H96V-218H64H32V-250H0V-218V-186H32V-154H0V-122V-90ZM576 678V710H544H512V678H544ZM544 966H512V934H544H576V966ZM576 -58H544H512V-90H544H576ZM576 422V454H544H512V422H544ZM576 166V198H544H512V166H544ZM544 326V358H512H480V326H512ZM544 102H512H480V70H512H544ZM512 870H480V838H512H544V870ZM512 582H544V614H512H480V582ZM512 -154H480V-186H512H544V-154ZM512 230V262H480H448V230H480ZM480 742H512V774H480H448V742ZM480 486H512V518H480H448V486ZM480 -26H512V6H480H448V-26ZM416 390H448H480V422H448H416ZM416 -122H448H480V-90H448H416ZM448 646H480V678H448H416V646ZM480 902V934H448H416V902H448ZM448 134H480V166H448H416V134ZM416 806H448V838H416H384V806ZM416 -218H448V-186H416H384V-218ZM384 550H416H448V582H416H384ZM384 294H416H448V326H416H384ZM384 38H416H448V70H416H384ZM416 710V742H384H352V710H384ZM416 454V486H384H352V454H384ZM416 198V230H384H352V198H384ZM416 -58V-26H384H352V-58H384ZM384 966H416V998H384H352V966ZM384 870V902H352H320V870H352ZM352 -154H384V-122H352H320V-154ZM352 102H384V134H352H320V102ZM352 614H384V646H352H320V614ZM384 358V390H352H320V358H352ZM288 774H320H352V806H320H288ZM288 518H320H352V550H320H288ZM288 262H320H352V294H320H288ZM288 6H320H352V38H320H288ZM256 678H288H320V710H288H256ZM288 934H320V966H288H256V934ZM256 454V422H288H320V454H288ZM256 198V166H288H320V198H288ZM256 -90H288H320V-58H288H256ZM224 102V70H256H288V102H256ZM288 582V614H256H224V582H256ZM224 358V326H256H288V358H256ZM224 838H256H288V870H256H224ZM224 -154V-186H256H288V-154H256ZM256 -26V6H224H192V-26H224ZM224 230H256V262H224H192V230ZM256 486V518H224H192V486H224ZM256 742V774H224H192V742H224ZM192 902H224V934H192H160V902ZM224 -122V-90H192H160V-122H192ZM224 390V422H192H160V390H192ZM224 646V678H192H160V646H192ZM224 134V166H192H160V134H192ZM192 38V70H160H128V38H160ZM160 806H192V838H160H128V806ZM160 550H192V582H160H128V550ZM160 294H192V326H160H128V294ZM160 -218H192V-186H160H128V-218ZM160 998H128H96V966H128H160ZM96 710H128H160V742H128H96ZM96 -58H128H160V-26H128H96ZM96 454H128H160V486H128H96ZM96 198H128H160V230H128H96ZM128 -122H96H64V-154H96H128ZM64 102H96H128V134H96H64ZM64 870H96H128V902H96H64ZM128 390H96H64V358H96H128ZM128 646H96H64V614H96H128ZM96 518V550H64H32V518H64ZM64 774H96V806H64H32V774ZM64 262H96V294H64H32V262ZM64 6H96V38H64H32V6Z"/></defs>
+<use href="#SwarfBridge-Regular_uni2593" transform="translate(295.00 1871) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="377" y="1780" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="382" y="1800" font-family="sans-serif" font-size="13" fill="#53616d">25A0</text>
+<defs><path id="SwarfBridge-Regular_uni25A0" d="M94 95V675H491V95Z"/></defs>
+<use href="#SwarfBridge-Regular_uni25A0" transform="translate(383.00 1871) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="465" y="1780" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="470" y="1800" font-family="sans-serif" font-size="13" fill="#53616d">25A1</text>
+<defs><path id="SwarfBridge-Regular_uni25A1" d="M94 675H491V95H94ZM135 606V165H450V606Z"/></defs>
+<use href="#SwarfBridge-Regular_uni25A1" transform="translate(471.00 1871) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="553" y="1780" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="558" y="1800" font-family="sans-serif" font-size="13" fill="#53616d">25B2</text>
+<defs><path id="SwarfBridge-Regular_uni25B2" d="M526 70H58L292 775Z"/></defs>
+<use href="#SwarfBridge-Regular_uni25B2" transform="translate(559.00 1871) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="641" y="1780" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="646" y="1800" font-family="sans-serif" font-size="13" fill="#53616d">25BA</text>
+<defs><path id="SwarfBridge-Regular_uni25BA" d="M488 370 97 20V730Z"/></defs>
+<use href="#SwarfBridge-Regular_uni25BA" transform="translate(647.00 1871) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="729" y="1780" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="734" y="1800" font-family="sans-serif" font-size="13" fill="#53616d">25BC</text>
+<defs><path id="SwarfBridge-Regular_uni25BC" d="M526 710 292 0 58 710Z"/></defs>
+<use href="#SwarfBridge-Regular_uni25BC" transform="translate(735.00 1871) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="817" y="1780" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="822" y="1800" font-family="sans-serif" font-size="13" fill="#53616d">25C4</text>
+<defs><path id="SwarfBridge-Regular_uni25C4" d="M488 20 97 370 488 730Z"/></defs>
+<use href="#SwarfBridge-Regular_uni25C4" transform="translate(823.00 1871) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="905" y="1780" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="910" y="1800" font-family="sans-serif" font-size="13" fill="#53616d">25CB</text>
+<defs><path id="SwarfBridge-Regular_uni25CB" d="M546 293 526 250 499 211 466 178 428 151 385 131 339 119 292 115 246 119 200 131 158 151 119 178 86 211 59 250 39 293 27 338 22 385 27 432 39 477 59 520 86 559 119 592 157 619 200 639 246 651 292 655 339 651 385 639 428 619 466 592 499 559 526 520 546 477 558 432 562 385 558 338ZM486 455 471 488 450 517 425 543 396 563 363 579 328 588 292 591 257 588 222 579 189 563 160 543 135 517 114 488 99 455 90 421 86 385 90 349 99 315 114 282 135 253 160 227 190 207 222 191 257 182 292 179 328 182 363 191 396 207 425 227 450 253 471 282 486 315 495 349 498 385 495 421Z"/></defs>
+<use href="#SwarfBridge-Regular_uni25CB" transform="translate(911.00 1871) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="993" y="1780" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="998" y="1800" font-family="sans-serif" font-size="13" fill="#53616d">25CF</text>
+<defs><path id="SwarfBridge-Regular_uni25CF" d="M558 338 546 293 526 250 499 211 466 178 428 151 385 131 339 119 292 115 246 119 200 131 158 151 119 178 86 211 59 250 39 293 27 338 22 385 27 432 39 477 59 520 86 559 119 592 157 619 200 639 246 651 292 655 339 651 385 639 428 619 466 592 499 559 526 520 546 477 558 432 562 385Z"/></defs>
+<use href="#SwarfBridge-Regular_uni25CF" transform="translate(999.00 1871) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1081" y="1780" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1086" y="1800" font-family="sans-serif" font-size="13" fill="#53616d">2713</text>
+<defs><path id="SwarfBridge-Regular_uni2713" d="M461 710 537 670 263 130 260 127 258 123 255 120 252 117 248 114 245 112 241 110 237 109 233 108 228 107H224H220L216 108L211 109L207 110L203 112L200 115L196 117L193 120L190 123L188 127L48 347L120 393L220 237Z"/></defs>
+<use href="#SwarfBridge-Regular_uni2713" transform="translate(1087.00 1871) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1169" y="1780" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1174" y="1800" font-family="sans-serif" font-size="13" fill="#53616d">2717</text>
+<defs><path id="SwarfBridge-Regular_uni2717" d="M342 563 404 625 473 555 362 445 473 335 404 265 342 327V215H243V327L181 265L112 335L223 445L112 555L181 625L243 563V665H342Z"/></defs>
+<use href="#SwarfBridge-Regular_uni2717" transform="translate(1175.00 1871) scale(0.0590 -0.0590)" fill="#172127"/>
+</svg>

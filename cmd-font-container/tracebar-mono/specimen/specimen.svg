@@ -1,0 +1,499 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="1300" viewBox="0 0 1500 1300" role="img"><title>Tracebar Mono specimen</title>
+<rect width="1500" height="1300" fill="#f5f3ed"/>
+<text x="50" y="45" font-family="sans-serif" font-size="25" fill="#53616d">Tracebar Mono / Regular / trace / trace</text>
+<defs><path id="TracebarMono-Regular_uni0054" d="M336 654H148V722H592V654H404V0H336Z"/></defs>
+<use href="#TracebarMono-Regular_uni0054" transform="translate(50.00 151) scale(0.1000 -0.1000)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni0052" d="M352 310H182V0H114V722H453L626 621V411L453 310H431L620 18L564 -18ZM558 449V583L435 654H182V378H435Z"/></defs>
+<use href="#TracebarMono-Regular_uni0052" transform="translate(124.00 151) scale(0.1000 -0.1000)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni0041" d="M180 -10 116 10 362 772H378L624 10L560 -10L484 224H256ZM370 579 277 292H463Z"/></defs>
+<use href="#TracebarMono-Regular_uni0041" transform="translate(198.00 151) scale(0.1000 -0.1000)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni0043" d="M246 654 190 590V98L246 34H443L584 115L617 57L461 -34H215L123 74V614L215 722H461L617 631L584 573L443 654Z"/></defs>
+<use href="#TracebarMono-Regular_uni0043" transform="translate(272.00 151) scale(0.1000 -0.1000)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni0045" d="M198 310V34H609V-34H131V722H609V654H198V378H535V310Z"/></defs>
+<use href="#TracebarMono-Regular_uni0045" transform="translate(346.00 151) scale(0.1000 -0.1000)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni0042" d="M453 -34H148V0H114V722H453L626 621V411L511 344L626 277V67ZM558 105V239L435 310H182V34H435ZM558 449V583L435 654H182V378H435Z"/></defs>
+<use href="#TracebarMono-Regular_uni0042" transform="translate(420.00 151) scale(0.1000 -0.1000)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0041" transform="translate(494.00 151) scale(0.1000 -0.1000)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0052" transform="translate(568.00 151) scale(0.1000 -0.1000)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni004D" d="M134 771 370 406 606 771 626 765V0H558V574L370 282L182 574V0H114V765Z"/></defs>
+<use href="#TracebarMono-Regular_uni004D" transform="translate(716.00 151) scale(0.1000 -0.1000)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni004F" d="M114 74V614L207 722H533L626 614V74L533 -34H207ZM503 34 558 98V590L503 654H237L182 590V98L237 34Z"/></defs>
+<use href="#TracebarMono-Regular_uni004F" transform="translate(790.00 151) scale(0.1000 -0.1000)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni004E" d="M134 771 558 114V688H626V-77L606 -83L182 574V0H114V765Z"/></defs>
+<use href="#TracebarMono-Regular_uni004E" transform="translate(864.00 151) scale(0.1000 -0.1000)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni004F" transform="translate(938.00 151) scale(0.1000 -0.1000)" fill="#172127"/>
+<text x="50" y="197" font-family="sans-serif" font-size="17" fill="#53616d">A deliberate wire-route alphabet for machine state and terminal text</text>
+<use href="#TracebarMono-Regular_uni0041" transform="translate(50.00 269) scale(0.0540 -0.0540)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0042" transform="translate(89.96 269) scale(0.0540 -0.0540)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0043" transform="translate(129.92 269) scale(0.0540 -0.0540)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni0044" d="M114 722H381L626 532V156L381 -34H114ZM359 34 558 188V500L359 654H182V34Z"/></defs>
+<use href="#TracebarMono-Regular_uni0044" transform="translate(169.88 269) scale(0.0540 -0.0540)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0045" transform="translate(209.84 269) scale(0.0540 -0.0540)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni0046" d="M198 310V0H131V722H609V654H198V378H535V310Z"/></defs>
+<use href="#TracebarMono-Regular_uni0046" transform="translate(249.80 269) scale(0.0540 -0.0540)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni0047" d="M237 654 182 590V98L237 34H503L558 98V310H370V378H626V74L533 -34H207L114 74V614L207 722H453L609 631L575 573L435 654Z"/></defs>
+<use href="#TracebarMono-Regular_uni0047" transform="translate(289.76 269) scale(0.0540 -0.0540)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni0048" d="M114 688H182V378H558V688H626V0H558V310H182V0H114Z"/></defs>
+<use href="#TracebarMono-Regular_uni0048" transform="translate(329.72 269) scale(0.0540 -0.0540)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni0049" d="M148 -34V34H336V654H148V722H592V654H404V34H592V-34Z"/></defs>
+<use href="#TracebarMono-Regular_uni0049" transform="translate(369.68 269) scale(0.0540 -0.0540)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni004A" d="M237 34H429L558 184V688H626V160L459 -34H207L114 74V172H182V98Z"/></defs>
+<use href="#TracebarMono-Regular_uni004A" transform="translate(409.64 269) scale(0.0540 -0.0540)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni004B" d="M591 -29 197 200V0H130V239L109 251L130 272V688H197V337L585 712L631 664L219 265L625 29Z"/></defs>
+<use href="#TracebarMono-Regular_uni004B" transform="translate(449.60 269) scale(0.0540 -0.0540)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni004C" d="M609 34V-34H131V688H198V34Z"/></defs>
+<use href="#TracebarMono-Regular_uni004C" transform="translate(489.56 269) scale(0.0540 -0.0540)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni004D" transform="translate(529.52 269) scale(0.0540 -0.0540)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni004E" transform="translate(569.48 269) scale(0.0540 -0.0540)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni004F" transform="translate(609.44 269) scale(0.0540 -0.0540)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni0050" d="M453 722 626 621V411L453 310H182V0H114V722ZM435 378 558 449V583L435 654H182V378Z"/></defs>
+<use href="#TracebarMono-Regular_uni0050" transform="translate(649.40 269) scale(0.0540 -0.0540)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni0051" d="M522 -8 500 -34H174L82 74V614L174 722H500L593 614V74L566 43L658 -64L608 -108ZM436 194 522 94 526 98V590L470 654H204L149 590V98L204 34H470L478 43L386 150Z"/></defs>
+<use href="#TracebarMono-Regular_uni0051" transform="translate(689.36 269) scale(0.0540 -0.0540)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0052" transform="translate(729.32 269) scale(0.0540 -0.0540)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni0053" d="M244 654 187 522 244 456 540 284 631 178 540 -34H207L123 64L173 108L237 34H496L553 166L496 232L200 404L109 510L200 722H453L609 631L575 573L435 654Z"/></defs>
+<use href="#TracebarMono-Regular_uni0053" transform="translate(769.28 269) scale(0.0540 -0.0540)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0054" transform="translate(809.24 269) scale(0.0540 -0.0540)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni0055" d="M244 34H496L558 179V688H626V165L540 -34H200L114 165V688H182V179Z"/></defs>
+<use href="#TracebarMono-Regular_uni0055" transform="translate(849.20 269) scale(0.0540 -0.0540)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni0056" d="M560 698 624 678 378 -84H362L116 678L180 698L370 109Z"/></defs>
+<use href="#TracebarMono-Regular_uni0056" transform="translate(889.16 269) scale(0.0540 -0.0540)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni0057" d="M370 428 498 130 559 692 625 684 543 -81 518 -85 370 259 222 -85 197 -81 115 684 181 692 242 130Z"/></defs>
+<use href="#TracebarMono-Regular_uni0057" transform="translate(929.12 269) scale(0.0540 -0.0540)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni0058" d="M370 282 176 -18 120 18 330 344 120 670 176 706 370 406 564 706 620 670 410 344 620 18 564 -18Z"/></defs>
+<use href="#TracebarMono-Regular_uni0058" transform="translate(969.08 269) scale(0.0540 -0.0540)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni0059" d="M336 334 120 670 176 706 370 406 564 706 620 670 404 334V0H336Z"/></defs>
+<use href="#TracebarMono-Regular_uni0059" transform="translate(1009.04 269) scale(0.0540 -0.0540)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni005A" d="M209 34H592V-34H87L531 654H148V722H653Z"/></defs>
+<use href="#TracebarMono-Regular_uni005A" transform="translate(1049.00 269) scale(0.0540 -0.0540)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni0061" d="M244 -34 152 74V356L244 464H496L525 430H588V0H555V-34ZM218 332V98L274 34H522V332L466 396H274Z"/></defs>
+<use href="#TracebarMono-Regular_uni0061" transform="translate(50.00 370) scale(0.0540 -0.0540)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni0062" d="M626 356V74L533 -34H287L182 28V0H114V688H182V402L287 464H533ZM503 34 558 98V332L503 396H305L182 325V105L305 34Z"/></defs>
+<use href="#TracebarMono-Regular_uni0062" transform="translate(89.96 370) scale(0.0540 -0.0540)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni0063" d="M241 396 186 332V98L241 34H507L571 108L621 64L537 -34H211L119 74V356L211 464H537L621 366L571 322L507 396Z"/></defs>
+<use href="#TracebarMono-Regular_uni0063" transform="translate(129.92 370) scale(0.0540 -0.0540)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni0064" d="M207 -34 114 74V356L207 464H453L558 402V688H626V0H558V28L453 -34ZM182 332V98L237 34H435L558 105V325L435 396H237Z"/></defs>
+<use href="#TracebarMono-Regular_uni0064" transform="translate(169.88 370) scale(0.0540 -0.0540)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni0065" d="M182 98 237 34H503L567 108L617 64L533 -34H207L114 74V356L207 464H533L626 356V138H182ZM558 206V332L503 396H237L182 332V206Z"/></defs>
+<use href="#TracebarMono-Regular_uni0065" transform="translate(209.84 370) scale(0.0540 -0.0540)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni0066" d="M555 722V654H355L292 509V464H555V396H292V0H226V396H185V464H226V523L311 722Z"/></defs>
+<use href="#TracebarMono-Regular_uni0066" transform="translate(249.80 370) scale(0.0540 -0.0540)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni0067" d="M222 -206V-138H503L558 -74V28L453 -34H207L114 74V356L207 464H453L558 402V430H626V-98L533 -206ZM435 396H237L182 332V98L237 34H435L558 105V325Z"/></defs>
+<use href="#TracebarMono-Regular_uni0067" transform="translate(289.76 370) scale(0.0540 -0.0540)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni0068" d="M626 356V0H558V332L503 396H305L182 325V0H114V688H182V402L287 464H533Z"/></defs>
+<use href="#TracebarMono-Regular_uni0068" transform="translate(329.72 370) scale(0.0540 -0.0540)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni0069" d="M222 -34V34H336V430H404V34H518V-34ZM336 688V705H404V688Z"/></defs>
+<use href="#TracebarMono-Regular_uni0069" transform="translate(369.68 370) scale(0.0540 -0.0540)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni006A" d="M242 -206V-138H375L431 -74V430H498V-98L406 -206ZM498 688H431V705H498Z"/></defs>
+<use href="#TracebarMono-Regular_uni006A" transform="translate(409.64 370) scale(0.0540 -0.0540)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni006B" d="M610 -31 212 123V0H145V149L101 166L145 191V688H212V230L605 459L639 401L255 178L634 31Z"/></defs>
+<use href="#TracebarMono-Regular_uni006B" transform="translate(449.60 370) scale(0.0540 -0.0540)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni006C" d="M365 34H498V-34H334L242 74V688H309V98Z"/></defs>
+<use href="#TracebarMono-Regular_uni006C" transform="translate(489.56 370) scale(0.0540 -0.0540)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni006D" d="M207 464H311L370 395L429 464H533L626 356V0H558V332L503 396H459L404 332V0H336V332L281 396H237L182 332V0H114V430H178Z"/></defs>
+<use href="#TracebarMono-Regular_uni006D" transform="translate(529.52 370) scale(0.0540 -0.0540)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni006E" d="M182 402 287 464H533L626 356V0H558V332L503 396H305L182 325V0H114V430H182Z"/></defs>
+<use href="#TracebarMono-Regular_uni006E" transform="translate(569.48 370) scale(0.0540 -0.0540)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni006F" d="M114 74V356L207 464H533L626 356V74L533 -34H207ZM503 34 558 98V332L503 396H237L182 332V98L237 34Z"/></defs>
+<use href="#TracebarMono-Regular_uni006F" transform="translate(609.44 370) scale(0.0540 -0.0540)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni0070" d="M182 402 287 464H533L626 356V74L533 -34H287L182 28V-172H114V430H182ZM305 34H503L558 98V332L503 396H305L182 325V105Z"/></defs>
+<use href="#TracebarMono-Regular_uni0070" transform="translate(649.40 370) scale(0.0540 -0.0540)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni0071" d="M626 -172H558V28L453 -34H207L114 74V356L207 464H453L558 402V430H626ZM435 396H237L182 332V98L237 34H435L558 105V325Z"/></defs>
+<use href="#TracebarMono-Regular_uni0071" transform="translate(689.36 370) scale(0.0540 -0.0540)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni0072" d="M235 402 341 464H572V396H359L235 325V0H168V430H235Z"/></defs>
+<use href="#TracebarMono-Regular_uni0072" transform="translate(729.32 370) scale(0.0540 -0.0540)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni0073" d="M237 396 192 344 241 287 537 201 636 86 533 -34H207L123 64L173 108L237 34H503L548 86L499 143L203 229L104 344L207 464H533L617 366L567 322L503 396Z"/></defs>
+<use href="#TracebarMono-Regular_uni0073" transform="translate(769.28 370) scale(0.0540 -0.0540)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni0074" d="M592 34V-34H355L262 74V396H148V464H262V602H330V464H518V396H330V98L385 34Z"/></defs>
+<use href="#TracebarMono-Regular_uni0074" transform="translate(809.24 370) scale(0.0540 -0.0540)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni0075" d="M429 34 558 184V430H626V0H558V82L459 -34H207L114 74V430H182V98L237 34Z"/></defs>
+<use href="#TracebarMono-Regular_uni0075" transform="translate(849.20 370) scale(0.0540 -0.0540)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni0076" d="M562 445 622 415 370 -73 118 415 178 445 370 73Z"/></defs>
+<use href="#TracebarMono-Regular_uni0076" transform="translate(889.16 370) scale(0.0540 -0.0540)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni0077" d="M370 325 501 97 559 436 625 424 538 -82 527 -83 370 191 213 -83 202 -82 115 424 181 436 239 97Z"/></defs>
+<use href="#TracebarMono-Regular_uni0077" transform="translate(929.12 370) scale(0.0540 -0.0540)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni0078" d="M370 168 171 -24 125 24 322 215 125 406 171 454 370 262 569 454 615 406 418 215 615 24 569 -24Z"/></defs>
+<use href="#TracebarMono-Regular_uni0078" transform="translate(969.08 370) scale(0.0540 -0.0540)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni0079" d="M148 -138H274L333 -1L118 415L178 445L370 73L562 445L622 415L400 -14L318 -206H148Z"/></defs>
+<use href="#TracebarMono-Regular_uni0079" transform="translate(1009.04 370) scale(0.0540 -0.0540)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni007A" d="M670 459 231 34H592V-34H71L70 -29L509 396H148V464H669Z"/></defs>
+<use href="#TracebarMono-Regular_uni007A" transform="translate(1049.00 370) scale(0.0540 -0.0540)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni0030" d="M114 614 207 722H533L626 614V74L533 -34H207L114 74ZM558 98V582L225 48L237 34H503ZM237 654 182 590V106L515 640L503 654Z"/></defs>
+<use href="#TracebarMono-Regular_uni0030" transform="translate(50.00 478) scale(0.0600 -0.0600)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni0031" d="M158 -34V34H347V620L179 490L138 542L414 756V34H602V-34Z"/></defs>
+<use href="#TracebarMono-Regular_uni0031" transform="translate(94.40 478) scale(0.0600 -0.0600)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni0032" d="M563 722 648 523V416L253 34H614V-34H94L92 -29L581 444V509L518 654H267L201 503L140 529L222 722Z"/></defs>
+<use href="#TracebarMono-Regular_uni0032" transform="translate(138.80 478) scale(0.0600 -0.0600)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni0033" d="M517 -34H131V34H486L542 98V239L418 310H279V378H418L542 449V590L486 654H131V722H517L609 614V411L494 344L609 277V74Z"/></defs>
+<use href="#TracebarMono-Regular_uni0033" transform="translate(183.20 478) scale(0.0600 -0.0600)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni0034" d="M604 0H537V224H136L469 707L524 669L264 292H537V688H604Z"/></defs>
+<use href="#TracebarMono-Regular_uni0034" transform="translate(227.60 478) scale(0.0600 -0.0600)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni0035" d="M193 378H537L629 270V74L537 -34H152V34H507L562 98V246L507 310H111L199 722H596V654H253Z"/></defs>
+<use href="#TracebarMono-Regular_uni0035" transform="translate(272.00 478) scale(0.0600 -0.0600)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni0036" d="M533 378 626 270V74L533 -34H207L114 74V523L200 722H533L617 624L567 580L503 654H244L182 509V378ZM182 98 237 34H503L558 98V246L503 310H182Z"/></defs>
+<use href="#TracebarMono-Regular_uni0036" transform="translate(316.40 478) scale(0.0600 -0.0600)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni0037" d="M301 -13 240 13 516 654H123V722H617Z"/></defs>
+<use href="#TracebarMono-Regular_uni0037" transform="translate(360.80 478) scale(0.0600 -0.0600)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni0038" d="M114 614 207 722H533L626 614V418L562 344L626 270V74L533 -34H207L114 74V270L178 344L114 418ZM237 310 182 246V98L237 34H503L558 98V246L503 310ZM503 378 558 442V590L503 654H237L182 590V442L237 378Z"/></defs>
+<use href="#TracebarMono-Regular_uni0038" transform="translate(405.20 478) scale(0.0600 -0.0600)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni0039" d="M114 418V614L207 722H533L626 614V165L540 -34H222V34H496L558 179V310H207ZM558 590 503 654H237L182 590V442L237 378H558Z"/></defs>
+<use href="#TracebarMono-Regular_uni0039" transform="translate(449.60 478) scale(0.0600 -0.0600)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0049" transform="translate(582.80 478) scale(0.0600 -0.0600)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni006C" transform="translate(627.20 478) scale(0.0600 -0.0600)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0031" transform="translate(671.60 478) scale(0.0600 -0.0600)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni007C" d="M395 825V-160H345V825Z"/></defs>
+<use href="#TracebarMono-Regular_uni007C" transform="translate(716.00 478) scale(0.0600 -0.0600)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni004F" transform="translate(804.80 478) scale(0.0600 -0.0600)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0030" transform="translate(849.20 478) scale(0.0600 -0.0600)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0042" transform="translate(938.00 478) scale(0.0600 -0.0600)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0038" transform="translate(982.40 478) scale(0.0600 -0.0600)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0067" transform="translate(1071.20 478) scale(0.0600 -0.0600)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0071" transform="translate(1115.60 478) scale(0.0600 -0.0600)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni0021" d="M400 29 398 24 395 19 391 15 386 12 381 10 376 8H370H364L359 10L354 12L349 15L345 19L342 24L340 29L338 34V40V46L340 51L342 56L345 61L349 65L354 68L359 70L364 72H370H376L381 70L386 68L391 65L395 61L398 56L400 51L402 46V40V34ZM345 715H395V218H345Z"/></defs>
+<use href="#TracebarMono-Regular_uni0021" transform="translate(50.00 583) scale(0.0480 -0.0480)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni0040" d="M653 294 649 275 644 257 637 239 629 222 620 206 610 189 599 174 587 159 574 146 561 133 546 121 531 110 514 100 498 91 481 83 463 76 445 71 426 67 408 63 389 62 370 61 351 62 332 63 314 67 295 71 277 76 259 83 242 91 226 100 209 110 194 121 179 133 166 146 153 159 141 174 130 189 120 205 111 222 103 239 96 257 91 275 87 294 83 312 82 331 81 350 82 369 83 388 87 406 91 425 96 443 103 461 111 478 120 494 130 511 141 526 153 541 166 554 179 567 194 579 209 590 225 600 242 609 259 617 277 624 295 629 314 633 332 637 351 638 370 639 389 638 408 637 426 633 445 629 463 624 481 617 498 609 514 600 531 590 546 579 561 567 574 554 587 541 599 526 610 511 620 495 629 478 637 461 644 443 649 425 653 406 657 388 658 369 659 350 658 331 657 312ZM611 398 608 414 603 429 597 444 591 459 583 473 575 487 565 500 555 512 551 517V335L604 384L615 372L614 382ZM464 577 449 583 434 588 418 591 402 594 386 595 370 596 354 595 338 594 322 591 306 588 291 583 276 577 261 571 247 563 233 555 220 545 208 535 196 524 185 512 175 500 165 487 157 473 149 459 143 444 137 429 132 414 129 398 126 382 125 366 124 350 125 334 126 318 129 302 132 286 137 271 143 256 149 241 157 227 165 213 175 200 185 188 196 176 208 165 220 155 233 145 247 137 261 129 276 123 291 117 306 112 322 109 338 106 354 105 370 104 386 105 402 106 418 109 434 112 449 117 464 123 479 129 493 137 507 145 520 155 532 165 544 176 555 188 565 200 575 213 583 227 591 241 597 256 603 271 608 286 611 302 614 318V324L528 244L317 247L230 431L311 576L485 568L479 571ZM340 524 288 429 349 297 500 296V516Z"/></defs>
+<use href="#TracebarMono-Regular_uni0040" transform="translate(85.52 583) scale(0.0480 -0.0480)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni0023" d="M457 -2 407 2 420 215H259L244 -2L194 2L208 215H89V265H211L226 485H89V535H229L243 742L293 738L280 535H441L455 742L505 738L492 535H651V485H489L475 265H651V215H471ZM424 265 438 485H277L262 265Z"/></defs>
+<use href="#TracebarMono-Regular_uni0023" transform="translate(121.04 583) scale(0.0480 -0.0480)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni0024" d="M395 713 568 675 557 625 395 661V391L609 227L479 -31L395 -5V-110H345V10L126 76L141 124L345 63V365L82 566L235 748L345 724V810H395ZM453 31 545 213 395 327V48ZM254 692 155 574 345 430V672Z"/></defs>
+<use href="#TracebarMono-Regular_uni0024" transform="translate(156.56 583) scale(0.0480 -0.0480)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni0025" d="M148 33 555 718 599 692 192 7ZM224 589 220 585 216 582 211 580 205 578H200H194L189 580L184 582L179 585L175 589L172 594L170 599L168 604V610V616L170 621L172 626L175 631L179 635L184 638L189 640L194 642H200H205L211 640L216 638L220 635L224 631L228 626L230 621L231 616L232 610L231 604L230 599L228 594ZM212 620 210 622 208 624 205 625 203 626H200H197L194 625L192 624L190 622L188 620L186 618L185 615L184 613V610V607L185 605L186 602L188 600L190 598L192 596L194 595L197 594H200H203L205 595L208 596L210 598L212 600L214 602L215 605L216 607V610V613L215 615L214 618ZM561 109 557 104 553 100 549 97 544 95 538 93H533H527L522 95L517 97L512 100L508 104L505 109L503 114L501 119V125V131L503 136L505 141L508 146L512 150L517 153L522 155L527 157H533H538L544 155L549 153L553 150L557 146L561 141L563 136L564 131L565 125L564 119L563 114ZM547 133 545 135 543 137 541 139 538 140 536 141H533H530L527 140L525 139L523 137L521 135L519 133L518 130L517 128V125V122L518 120L519 117L521 115L523 113L525 111L527 110L530 109H533H536L538 110L541 111L543 113L545 115L547 117L548 120L549 122V125V128L548 130Z"/></defs>
+<use href="#TracebarMono-Regular_uni0025" transform="translate(192.08 583) scale(0.0480 -0.0480)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni0026" d="M147 664 398 790 482 583 351 470 383 425 557 183 582 267 631 253 594 130 605 115 585 100 559 15H123V342L282 478ZM173 318V65H521L538 121L342 395L312 437ZM421 597 372 720 223 646 321 511Z"/></defs>
+<use href="#TracebarMono-Regular_uni0026" transform="translate(263.12 583) scale(0.0480 -0.0480)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni002A" d="M395 497 539 610 571 570 411 445 571 320 539 280 395 393V215H345V393L201 280L169 320L329 445L169 570L201 610L345 497V665H395Z"/></defs>
+<use href="#TracebarMono-Regular_uni002A" transform="translate(298.64 583) scale(0.0480 -0.0480)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni0028" d="M210 93 503 -109 474 -151 160 67V697L478 838L499 792L210 663Z"/></defs>
+<use href="#TracebarMono-Regular_uni0028" transform="translate(334.16 583) scale(0.0480 -0.0480)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni0029" d="M580 67 266 -151 237 -109 530 93V663L241 792L262 838L580 697Z"/></defs>
+<use href="#TracebarMono-Regular_uni0029" transform="translate(369.68 583) scale(0.0480 -0.0480)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni005B" d="M203 -75H392V-125H152V835H392V785H203Z"/></defs>
+<use href="#TracebarMono-Regular_uni005B" transform="translate(405.20 583) scale(0.0480 -0.0480)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni005D" d="M588 -125H348V-75H537V785H348V835H588Z"/></defs>
+<use href="#TracebarMono-Regular_uni005D" transform="translate(440.72 583) scale(0.0480 -0.0480)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni007B" d="M366 482 521 361 366 228V-32L490 -76L472 -124L315 -68V252L441 359L315 458V769L474 814L488 766L366 731Z"/></defs>
+<use href="#TracebarMono-Regular_uni007B" transform="translate(476.24 583) scale(0.0480 -0.0480)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni007D" d="M425 458 299 359 425 252V-68L268 -124L250 -76L374 -32V228L219 361L374 482V731L252 766L266 814L425 769Z"/></defs>
+<use href="#TracebarMono-Regular_uni007D" transform="translate(511.76 583) scale(0.0480 -0.0480)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni003B" d="M360 85 410 75 383 -70 333 -60ZM400 424 398 419 395 414 391 410 386 407 381 405 376 403H370H364L359 405L354 407L349 410L345 414L342 419L340 424L338 429V435V441L340 446L342 451L345 456L349 460L354 463L359 465L364 467H370H376L381 465L386 463L391 460L395 456L398 451L400 446L402 441V435V429Z"/></defs>
+<use href="#TracebarMono-Regular_uni003B" transform="translate(547.28 583) scale(0.0480 -0.0480)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni003A" d="M400 54 398 49 395 44 391 40 386 37 381 35 376 33H370H364L359 35L354 37L349 40L345 44L342 49L340 54L338 59V65V71L340 76L342 81L345 86L349 90L354 93L359 95L364 97H370H376L381 95L386 93L391 90L395 86L398 81L400 76L402 71V65V59ZM400 429 398 424 395 419 391 415 386 412 381 410 376 408H370H364L359 410L354 412L349 415L345 419L342 424L340 429L338 434V440V446L340 451L342 456L345 461L349 465L354 468L359 470L364 472H370H376L381 470L386 468L391 465L395 461L398 456L400 451L402 446V440V434Z"/></defs>
+<use href="#TracebarMono-Regular_uni003A" transform="translate(582.80 583) scale(0.0480 -0.0480)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni002C" d="M329 -67 360 80 410 70 379 -77Z"/></defs>
+<use href="#TracebarMono-Regular_uni002C" transform="translate(618.32 583) scale(0.0480 -0.0480)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni002E" d="M402 49 400 44 398 39 395 34 391 30 386 27 381 25 376 23H370H364L359 25L354 27L349 30L345 34L342 39L340 44L338 49V55V61L340 66L342 71L345 76L349 80L354 83L359 85L364 87H370H376L381 85L386 83L391 80L395 76L398 71L400 66L402 61V55Z"/></defs>
+<use href="#TracebarMono-Regular_uni002E" transform="translate(653.84 583) scale(0.0480 -0.0480)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni003F" d="M609 553 395 378V225H345V402L545 567L487 685H227L187 534L138 546L188 735H519ZM400 28 398 23 395 18 391 14 386 11 381 9 376 7H370H364L359 9L354 11L349 14L345 18L342 23L340 28L338 33V39V45L340 50L342 55L345 60L349 64L354 67L359 69L364 71H370H376L381 69L386 67L391 64L395 60L398 55L400 50L402 45V39V33Z"/></defs>
+<use href="#TracebarMono-Regular_uni003F" transform="translate(689.36 583) scale(0.0480 -0.0480)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni002F" d="M651 752 133 -103 89 -77 607 778Z"/></defs>
+<use href="#TracebarMono-Regular_uni002F" transform="translate(724.88 583) scale(0.0480 -0.0480)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni002B" d="M395 327V125H345V327H118V377H345V580H395V377H622V327Z"/></defs>
+<use href="#TracebarMono-Regular_uni002B" transform="translate(760.40 583) scale(0.0480 -0.0480)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni003D" d="M126 225V275H614V225ZM126 435V485H614V435Z"/></defs>
+<use href="#TracebarMono-Regular_uni003D" transform="translate(795.92 583) scale(0.0480 -0.0480)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni003C" d="M571 55 539 15 107 360 539 705 571 665 189 360Z"/></defs>
+<use href="#TracebarMono-Regular_uni003C" transform="translate(831.44 583) scale(0.0480 -0.0480)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni003E" d="M201 15 169 55 551 360 169 665 201 705 633 360Z"/></defs>
+<use href="#TracebarMono-Regular_uni003E" transform="translate(866.96 583) scale(0.0480 -0.0480)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni00C0" d="M378 772 624 10 560 -10 484 224H256L180 -10L116 10L362 772ZM370 579 277 292H463ZM363 846 301 924 345 959 407 881Z"/></defs>
+<use href="#TracebarMono-Regular_uni00C0" transform="translate(50.00 691) scale(0.0380 -0.0380)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni00C1" d="M378 772 624 10 560 -10 484 224H256L180 -10L116 10L362 772ZM370 579 277 292H463ZM333 881 395 959 439 924 377 846Z"/></defs>
+<use href="#TracebarMono-Regular_uni00C1" transform="translate(78.12 691) scale(0.0380 -0.0380)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni00C2" d="M378 772 624 10 560 -10 484 224H256L180 -10L116 10L362 772ZM370 579 277 292H463ZM370 898 302 833 264 874 370 975 476 874 438 833Z"/></defs>
+<use href="#TracebarMono-Regular_uni00C2" transform="translate(106.24 691) scale(0.0380 -0.0380)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni00C3" d="M378 772 624 10 560 -10 484 224H256L180 -10L116 10L362 772ZM370 579 277 292H463ZM463 884 387 844 335 875 306 856 274 902 333 942 389 908 437 933Z"/></defs>
+<use href="#TracebarMono-Regular_uni00C3" transform="translate(134.36 691) scale(0.0380 -0.0380)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni00C4" d="M378 772 624 10 560 -10 484 224H256L180 -10L116 10L362 772ZM370 579 277 292H463ZM321 871 317 869 313 866 308 865H303H298L293 866L289 869L285 871L282 875L279 879L277 883L275 888V893V898L277 902L279 907L282 911L285 914L289 917L293 919L298 920L303 921L308 920L313 919L317 917L321 914L324 911L327 907L329 902L331 898V893V888L329 883L327 879L324 875ZM455 871 451 869 447 866 442 865H437H432L427 866L423 869L419 871L416 875L413 879L411 883L409 888V893V898L411 902L413 907L416 911L419 914L423 917L427 919L432 920L437 921L442 920L447 919L451 917L455 914L458 911L461 907L463 902L465 898V893V888L463 883L461 879L458 875Z"/></defs>
+<use href="#TracebarMono-Regular_uni00C4" transform="translate(162.48 691) scale(0.0380 -0.0380)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni00C5" d="M378 772 624 10 560 -10 484 224H256L180 -10L116 10L362 772ZM370 579 277 292H463ZM421 847 412 839 403 833 393 828 381 825 370 824 359 825 347 828 337 833 328 839 319 847 313 857 308 867 305 878 304 890 305 901 308 912 313 923 319 932 328 940 337 947 347 952 359 955 370 956 381 955 393 952 403 947 412 940 421 932 427 923 432 912 435 901 436 890 435 878 432 867 427 857ZM398 914 394 918 388 922 383 925 376 926 370 927 364 926 357 925 352 922 346 918 342 914 338 908 335 902 334 896 333 890 334 883 335 877 338 871 342 866 346 861 352 858 357 855 364 853H370H376L383 855L388 858L394 861L398 866L402 871L405 877L406 883L407 890L406 896L405 902L402 908Z"/></defs>
+<use href="#TracebarMono-Regular_uni00C5" transform="translate(190.60 691) scale(0.0380 -0.0380)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni00C7" d="M415 -106V-108V-110V-112V-115L414 -117L413 -119L412 -121L411 -123L410 -124L344 -200L308 -170L365 -105L336 -39L349 -34H215L123 74V614L215 722H461L617 631L584 573L443 654H246L190 590V98L246 34H443L584 115L617 57L461 -34H384L413 -100L414 -102L415 -104Z"/></defs>
+<use href="#TracebarMono-Regular_uni00C7" transform="translate(246.84 691) scale(0.0380 -0.0380)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni00C8" d="M609 -34H131V722H609V654H198V378H535V310H198V34H609ZM363 796 301 874 345 909 407 831Z"/></defs>
+<use href="#TracebarMono-Regular_uni00C8" transform="translate(303.08 691) scale(0.0380 -0.0380)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni00C9" d="M609 -34H131V722H609V654H198V378H535V310H198V34H609ZM333 831 395 909 439 874 377 796Z"/></defs>
+<use href="#TracebarMono-Regular_uni00C9" transform="translate(331.20 691) scale(0.0380 -0.0380)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni00CA" d="M609 -34H131V722H609V654H198V378H535V310H198V34H609ZM370 848 302 783 264 824 370 925 476 824 438 783Z"/></defs>
+<use href="#TracebarMono-Regular_uni00CA" transform="translate(359.32 691) scale(0.0380 -0.0380)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni00CB" d="M609 -34H131V722H609V654H198V378H535V310H198V34H609ZM321 821 317 818 313 816 308 815 303 814 298 815 293 816 289 818 285 821 282 825 279 828 277 833 275 838V842V847L277 852L279 856L282 860L285 864L289 867L293 869L298 870H303H308L313 869L317 867L321 864L324 860L327 856L329 852L331 847V842V838L329 833L327 828L324 825ZM455 821 451 818 447 816 442 815 437 814 432 815 427 816 423 818 419 821 416 825 413 828 411 833 409 838V842V847L411 852L413 856L416 860L419 864L423 867L427 869L432 870H437H442L447 869L451 867L455 864L458 860L461 856L463 852L465 847V842V838L463 833L461 828L458 825Z"/></defs>
+<use href="#TracebarMono-Regular_uni00CB" transform="translate(387.44 691) scale(0.0380 -0.0380)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni00CC" d="M336 654H148V722H592V654H404V34H592V-34H148V34H336ZM363 796 301 874 345 909 407 831Z"/></defs>
+<use href="#TracebarMono-Regular_uni00CC" transform="translate(443.68 691) scale(0.0380 -0.0380)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni00CD" d="M336 654H148V722H592V654H404V34H592V-34H148V34H336ZM333 831 395 909 439 874 377 796Z"/></defs>
+<use href="#TracebarMono-Regular_uni00CD" transform="translate(471.80 691) scale(0.0380 -0.0380)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni00CE" d="M336 654H148V722H592V654H404V34H592V-34H148V34H336ZM370 848 302 783 264 824 370 925 476 824 438 783Z"/></defs>
+<use href="#TracebarMono-Regular_uni00CE" transform="translate(499.92 691) scale(0.0380 -0.0380)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni00CF" d="M336 654H148V722H592V654H404V34H592V-34H148V34H336ZM321 821 317 818 313 816 308 815 303 814 298 815 293 816 289 818 285 821 282 825 279 828 277 833 275 838V842V847L277 852L279 856L282 860L285 864L289 867L293 869L298 870H303H308L313 869L317 867L321 864L324 860L327 856L329 852L331 847V842V838L329 833L327 828L324 825ZM455 821 451 818 447 816 442 815 437 814 432 815 427 816 423 818 419 821 416 825 413 828 411 833 409 838V842V847L411 852L413 856L416 860L419 864L423 867L427 869L432 870H437H442L447 869L451 867L455 864L458 860L461 856L463 852L465 847V842V838L463 833L461 828L458 825Z"/></defs>
+<use href="#TracebarMono-Regular_uni00CF" transform="translate(528.04 691) scale(0.0380 -0.0380)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni00D1" d="M626 688V-77L606 -83L182 574V0H114V765L134 771L558 114V688ZM463 884 387 843 335 875 306 855 274 901 333 942 389 907 437 933Z"/></defs>
+<use href="#TracebarMono-Regular_uni00D1" transform="translate(584.28 691) scale(0.0380 -0.0380)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni00D2" d="M533 722 626 614V74L533 -34H207L114 74V614L207 722ZM503 654H237L182 590V98L237 34H503L558 98V590ZM363 796 301 874 345 909 407 831Z"/></defs>
+<use href="#TracebarMono-Regular_uni00D2" transform="translate(640.52 691) scale(0.0380 -0.0380)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni00D3" d="M533 722 626 614V74L533 -34H207L114 74V614L207 722ZM503 654H237L182 590V98L237 34H503L558 98V590ZM333 831 395 909 439 874 377 796Z"/></defs>
+<use href="#TracebarMono-Regular_uni00D3" transform="translate(668.64 691) scale(0.0380 -0.0380)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni00D4" d="M533 722 626 614V74L533 -34H207L114 74V614L207 722ZM503 654H237L182 590V98L237 34H503L558 98V590ZM370 848 302 783 264 824 370 925 476 824 438 783Z"/></defs>
+<use href="#TracebarMono-Regular_uni00D4" transform="translate(696.76 691) scale(0.0380 -0.0380)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni00D5" d="M533 722 626 614V74L533 -34H207L114 74V614L207 722ZM503 654H237L182 590V98L237 34H503L558 98V590ZM463 834 387 793 335 825 306 805 274 852 333 892 389 858 437 883Z"/></defs>
+<use href="#TracebarMono-Regular_uni00D5" transform="translate(724.88 691) scale(0.0380 -0.0380)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni00D6" d="M533 722 626 614V74L533 -34H207L114 74V614L207 722ZM503 654H237L182 590V98L237 34H503L558 98V590ZM321 821 317 818 313 816 308 815 303 814 298 815 293 816 289 818 285 821 282 825 279 828 277 833 275 838V842V847L277 852L279 856L282 860L285 864L289 867L293 869L298 870H303H308L313 869L317 867L321 864L324 860L327 856L329 852L331 847V842V838L329 833L327 828L324 825ZM455 821 451 818 447 816 442 815 437 814 432 815 427 816 423 818 419 821 416 825 413 828 411 833 409 838V842V847L411 852L413 856L416 860L419 864L423 867L427 869L432 870H437H442L447 869L451 867L455 864L458 860L461 856L463 852L465 847V842V838L463 833L461 828L458 825Z"/></defs>
+<use href="#TracebarMono-Regular_uni00D6" transform="translate(753.00 691) scale(0.0380 -0.0380)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni00D8" d="M533 722 626 614V74L533 -34H207L114 74V614L207 722ZM542 609 215 59 237 34H503L558 98V590ZM182 590V98L188 91L514 641L503 654H237Z"/></defs>
+<use href="#TracebarMono-Regular_uni00D8" transform="translate(809.24 691) scale(0.0380 -0.0380)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni00D9" d="M558 688H626V165L540 -34H200L114 165V688H182V179L244 34H496L558 179ZM363 763 301 841 345 875 407 797Z"/></defs>
+<use href="#TracebarMono-Regular_uni00D9" transform="translate(865.48 691) scale(0.0380 -0.0380)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni00DA" d="M558 688H626V165L540 -34H200L114 165V688H182V179L244 34H496L558 179ZM333 797 395 875 439 841 377 763Z"/></defs>
+<use href="#TracebarMono-Regular_uni00DA" transform="translate(893.60 691) scale(0.0380 -0.0380)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni00DB" d="M558 688H626V165L540 -34H200L114 165V688H182V179L244 34H496L558 179ZM370 814 302 750 264 790 370 892 476 790 438 750Z"/></defs>
+<use href="#TracebarMono-Regular_uni00DB" transform="translate(921.72 691) scale(0.0380 -0.0380)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni00DC" d="M558 688H626V165L540 -34H200L114 165V688H182V179L244 34H496L558 179ZM321 788 317 785 313 783 308 781H303H298L293 783L289 785L285 788L282 791L279 795L277 799L275 804V809V814L277 819L279 823L282 827L285 830L289 833L293 835L298 837H303H308L313 835L317 833L321 830L324 827L327 823L329 819L331 814V809V804L329 799L327 795L324 791ZM455 788 451 785 447 783 442 781H437H432L427 783L423 785L419 788L416 791L413 795L411 799L409 804V809V814L411 819L413 823L416 827L419 830L423 833L427 835L432 837H437H442L447 835L451 833L455 830L458 827L461 823L463 819L465 814V809V804L463 799L461 795L458 791Z"/></defs>
+<use href="#TracebarMono-Regular_uni00DC" transform="translate(949.84 691) scale(0.0380 -0.0380)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni00DD" d="M370 406 564 706 620 670 404 334V0H336V334L120 670L176 706ZM333 816 395 894 439 859 377 781Z"/></defs>
+<use href="#TracebarMono-Regular_uni00DD" transform="translate(1006.08 691) scale(0.0380 -0.0380)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni0178" d="M370 406 564 706 620 670 404 334V0H336V334L120 670L176 706ZM321 806 317 803 313 801 308 800 303 799 298 800 293 801 289 803 285 806 282 809 279 813 277 818 275 822V827V832L277 837L279 841L282 845L285 849L289 851L293 853L298 855H303H308L313 853L317 851L321 849L324 845L327 841L329 837L331 832V827V822L329 818L327 813L324 809ZM455 806 451 803 447 801 442 800 437 799 432 800 427 801 423 803 419 806 416 809 413 813 411 818 409 822V827V832L411 837L413 841L416 845L419 849L423 851L427 853L432 855H437H442L447 853L451 851L455 849L458 845L461 841L463 837L465 832V827V822L463 818L461 813L458 809Z"/></defs>
+<use href="#TracebarMono-Regular_uni0178" transform="translate(1062.32 691) scale(0.0380 -0.0380)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni00E0" d="M244 464H496L525 430H588V0H555V-34H244L152 74V356ZM522 34V332L466 396H274L218 332V98L274 34ZM363 538 301 616 345 651 407 573Z"/></defs>
+<use href="#TracebarMono-Regular_uni00E0" transform="translate(50.00 780) scale(0.0380 -0.0380)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni00E1" d="M244 464H496L525 430H588V0H555V-34H244L152 74V356ZM522 34V332L466 396H274L218 332V98L274 34ZM333 573 395 651 439 616 377 538Z"/></defs>
+<use href="#TracebarMono-Regular_uni00E1" transform="translate(78.12 780) scale(0.0380 -0.0380)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni00E2" d="M244 464H496L525 430H588V0H555V-34H244L152 74V356ZM522 34V332L466 396H274L218 332V98L274 34ZM370 590 302 525 264 566 370 667 476 566 438 525Z"/></defs>
+<use href="#TracebarMono-Regular_uni00E2" transform="translate(106.24 780) scale(0.0380 -0.0380)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni00E3" d="M244 464H496L525 430H588V0H555V-34H244L152 74V356ZM522 34V332L466 396H274L218 332V98L274 34ZM463 576 387 535 335 567 306 547 274 594 333 634 389 600 437 625Z"/></defs>
+<use href="#TracebarMono-Regular_uni00E3" transform="translate(134.36 780) scale(0.0380 -0.0380)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni00E4" d="M244 464H496L525 430H588V0H555V-34H244L152 74V356ZM522 34V332L466 396H274L218 332V98L274 34ZM321 563 317 560 313 558 308 557 303 556 298 557 293 558 289 560 285 563 282 567 279 570 277 575 275 580V584V589L277 594L279 598L282 602L285 606L289 609L293 611L298 612H303H308L313 611L317 609L321 606L324 602L327 598L329 594L331 589V584V580L329 575L327 570L324 567ZM455 563 451 560 447 558 442 557 437 556 432 557 427 558 423 560 419 563 416 567 413 570 411 575 409 580V584V589L411 594L413 598L416 602L419 606L423 609L427 611L432 612H437H442L447 611L451 609L455 606L458 602L461 598L463 594L465 589V584V580L463 575L461 570L458 567Z"/></defs>
+<use href="#TracebarMono-Regular_uni00E4" transform="translate(162.48 780) scale(0.0380 -0.0380)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni00E5" d="M244 464H496L525 430H588V0H555V-34H244L152 74V356ZM522 34V332L466 396H274L218 332V98L274 34ZM421 539 412 531 403 524 393 519 381 517 370 516 359 517 347 519 337 524 328 531 319 539 313 548 308 559 305 570 304 582 305 593 308 604 313 614 319 624 328 632 337 639 347 644 359 646 370 648 381 646 393 644 403 639 412 632 421 624 427 614 432 604 435 593 436 582 435 570 432 559 427 548ZM398 605 394 610 388 614 383 616 376 618H370H364L357 616L352 614L346 610L342 605L338 600L335 594L334 588L333 582L334 575L335 569L338 563L342 558L346 553L352 549L357 547L364 545L370 544L376 545L383 547L388 549L394 553L398 558L402 563L405 569L406 575L407 582L406 588L405 594L402 600Z"/></defs>
+<use href="#TracebarMono-Regular_uni00E5" transform="translate(190.60 780) scale(0.0380 -0.0380)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni00E7" d="M415 -106V-108V-110V-112V-115L414 -117L413 -119L412 -121L411 -123L410 -124L344 -200L308 -170L365 -105L336 -39L349 -34H211L119 74V356L211 464H537L621 366L571 322L507 396H241L186 332V98L241 34H507L571 108L621 64L537 -34H384L413 -100L414 -102L415 -104Z"/></defs>
+<use href="#TracebarMono-Regular_uni00E7" transform="translate(246.84 780) scale(0.0380 -0.0380)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni00E8" d="M567 108 617 64 533 -34H207L114 74V356L207 464H533L626 356V138H182V98L237 34H503ZM237 396 182 332V206H558V332L503 396ZM363 538 301 616 345 651 407 573Z"/></defs>
+<use href="#TracebarMono-Regular_uni00E8" transform="translate(303.08 780) scale(0.0380 -0.0380)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni00E9" d="M567 108 617 64 533 -34H207L114 74V356L207 464H533L626 356V138H182V98L237 34H503ZM237 396 182 332V206H558V332L503 396ZM333 573 395 651 439 616 377 538Z"/></defs>
+<use href="#TracebarMono-Regular_uni00E9" transform="translate(331.20 780) scale(0.0380 -0.0380)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni00EA" d="M567 108 617 64 533 -34H207L114 74V356L207 464H533L626 356V138H182V98L237 34H503ZM237 396 182 332V206H558V332L503 396ZM370 590 302 525 264 566 370 667 476 566 438 525Z"/></defs>
+<use href="#TracebarMono-Regular_uni00EA" transform="translate(359.32 780) scale(0.0380 -0.0380)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni00EB" d="M567 108 617 64 533 -34H207L114 74V356L207 464H533L626 356V138H182V98L237 34H503ZM237 396 182 332V206H558V332L503 396ZM321 563 317 560 313 558 308 557 303 556 298 557 293 558 289 560 285 563 282 567 279 570 277 575 275 580V584V589L277 594L279 598L282 602L285 606L289 609L293 611L298 612H303H308L313 611L317 609L321 606L324 602L327 598L329 594L331 589V584V580L329 575L327 570L324 567ZM455 563 451 560 447 558 442 557 437 556 432 557 427 558 423 560 419 563 416 567 413 570 411 575 409 580V584V589L411 594L413 598L416 602L419 606L423 609L427 611L432 612H437H442L447 611L451 609L455 606L458 602L461 598L463 594L465 589V584V580L463 575L461 570L458 567Z"/></defs>
+<use href="#TracebarMono-Regular_uni00EB" transform="translate(387.44 780) scale(0.0380 -0.0380)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni00EC" d="M404 430V34H518V-34H222V34H336V430ZM363 505 301 583 345 617 407 539Z"/></defs>
+<use href="#TracebarMono-Regular_uni00EC" transform="translate(443.68 780) scale(0.0380 -0.0380)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni00ED" d="M404 430V34H518V-34H222V34H336V430ZM333 539 395 617 439 583 377 505Z"/></defs>
+<use href="#TracebarMono-Regular_uni00ED" transform="translate(471.80 780) scale(0.0380 -0.0380)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni00EE" d="M404 430V34H518V-34H222V34H336V430ZM370 556 302 492 264 532 370 634 476 532 438 492Z"/></defs>
+<use href="#TracebarMono-Regular_uni00EE" transform="translate(499.92 780) scale(0.0380 -0.0380)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni00EF" d="M404 430V34H518V-34H222V34H336V430ZM321 530 317 527 313 525 308 523H303H298L293 525L289 527L285 530L282 533L279 537L277 541L275 546V551V556L277 561L279 565L282 569L285 572L289 575L293 577L298 579H303H308L313 577L317 575L321 572L324 569L327 565L329 561L331 556V551V546L329 541L327 537L324 533ZM455 530 451 527 447 525 442 523H437H432L427 525L423 527L419 530L416 533L413 537L411 541L409 546V551V556L411 561L413 565L416 569L419 572L423 575L427 577L432 579H437H442L447 577L451 575L455 572L458 569L461 565L463 561L465 556V551V546L463 541L461 537L458 533Z"/></defs>
+<use href="#TracebarMono-Regular_uni00EF" transform="translate(528.04 780) scale(0.0380 -0.0380)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni00F1" d="M626 356V0H558V332L503 396H305L182 325V0H114V430H182V402L287 464H533ZM463 576 387 535 335 567 306 547 274 594 333 634 389 600 437 625Z"/></defs>
+<use href="#TracebarMono-Regular_uni00F1" transform="translate(584.28 780) scale(0.0380 -0.0380)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni00F2" d="M533 464 626 356V74L533 -34H207L114 74V356L207 464ZM503 396H237L182 332V98L237 34H503L558 98V332ZM363 538 301 616 345 651 407 573Z"/></defs>
+<use href="#TracebarMono-Regular_uni00F2" transform="translate(640.52 780) scale(0.0380 -0.0380)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni00F3" d="M533 464 626 356V74L533 -34H207L114 74V356L207 464ZM503 396H237L182 332V98L237 34H503L558 98V332ZM333 573 395 651 439 616 377 538Z"/></defs>
+<use href="#TracebarMono-Regular_uni00F3" transform="translate(668.64 780) scale(0.0380 -0.0380)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni00F4" d="M533 464 626 356V74L533 -34H207L114 74V356L207 464ZM503 396H237L182 332V98L237 34H503L558 98V332ZM370 590 302 525 264 566 370 667 476 566 438 525Z"/></defs>
+<use href="#TracebarMono-Regular_uni00F4" transform="translate(696.76 780) scale(0.0380 -0.0380)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni00F5" d="M533 464 626 356V74L533 -34H207L114 74V356L207 464ZM503 396H237L182 332V98L237 34H503L558 98V332ZM463 576 387 535 335 567 306 547 274 594 333 634 389 600 437 625Z"/></defs>
+<use href="#TracebarMono-Regular_uni00F5" transform="translate(724.88 780) scale(0.0380 -0.0380)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni00F6" d="M533 464 626 356V74L533 -34H207L114 74V356L207 464ZM503 396H237L182 332V98L237 34H503L558 98V332ZM321 563 317 560 313 558 308 557 303 556 298 557 293 558 289 560 285 563 282 567 279 570 277 575 275 580V584V589L277 594L279 598L282 602L285 606L289 609L293 611L298 612H303H308L313 611L317 609L321 606L324 602L327 598L329 594L331 589V584V580L329 575L327 570L324 567ZM455 563 451 560 447 558 442 557 437 556 432 557 427 558 423 560 419 563 416 567 413 570 411 575 409 580V584V589L411 594L413 598L416 602L419 606L423 609L427 611L432 612H437H442L447 611L451 609L455 606L458 602L461 598L463 594L465 589V584V580L463 575L461 570L458 567Z"/></defs>
+<use href="#TracebarMono-Regular_uni00F6" transform="translate(753.00 780) scale(0.0380 -0.0380)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni00F8" d="M533 464 547 448 570 426 567 424 626 356V74L533 -34H207L114 74V356L207 464ZM521 375 217 57 237 34H503L558 98V332ZM182 98 191 88 486 396H237L182 332Z"/></defs>
+<use href="#TracebarMono-Regular_uni00F8" transform="translate(809.24 780) scale(0.0380 -0.0380)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni00F9" d="M626 430V0H558V82L459 -34H207L114 74V430H182V98L237 34H429L558 184V430ZM363 505 301 583 345 617 407 539Z"/></defs>
+<use href="#TracebarMono-Regular_uni00F9" transform="translate(865.48 780) scale(0.0380 -0.0380)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni00FA" d="M626 430V0H558V82L459 -34H207L114 74V430H182V98L237 34H429L558 184V430ZM333 539 395 617 439 583 377 505Z"/></defs>
+<use href="#TracebarMono-Regular_uni00FA" transform="translate(893.60 780) scale(0.0380 -0.0380)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni00FB" d="M626 430V0H558V82L459 -34H207L114 74V430H182V98L237 34H429L558 184V430ZM370 556 302 492 264 532 370 634 476 532 438 492Z"/></defs>
+<use href="#TracebarMono-Regular_uni00FB" transform="translate(921.72 780) scale(0.0380 -0.0380)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni00FC" d="M626 430V0H558V82L459 -34H207L114 74V430H182V98L237 34H429L558 184V430ZM321 530 317 527 313 525 308 523H303H298L293 525L289 527L285 530L282 533L279 537L277 541L275 546V551V556L277 561L279 565L282 569L285 572L289 575L293 577L298 579H303H308L313 577L317 575L321 572L324 569L327 565L329 561L331 556V551V546L329 541L327 537L324 533ZM455 530 451 527 447 525 442 523H437H432L427 525L423 527L419 530L416 533L413 537L411 541L409 546V551V556L411 561L413 565L416 569L419 572L423 575L427 577L432 579H437H442L447 577L451 575L455 572L458 569L461 565L463 561L465 556V551V546L463 541L461 537L458 533Z"/></defs>
+<use href="#TracebarMono-Regular_uni00FC" transform="translate(949.84 780) scale(0.0380 -0.0380)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni00FD" d="M118 415 178 445 370 73 562 445 622 415 400 -14 318 -206H148V-138H274L333 -1ZM333 555 395 633 439 598 377 520Z"/></defs>
+<use href="#TracebarMono-Regular_uni00FD" transform="translate(1006.08 780) scale(0.0380 -0.0380)" fill="#172127"/>
+<defs><path id="TracebarMono-Regular_uni00FF" d="M118 415 178 445 370 73 562 445 622 415 400 -14 318 -206H148V-138H274L333 -1ZM321 545 317 542 313 540 308 539 303 538 298 539 293 540 289 542 285 545 282 548 279 552 277 557 275 562V566V571L277 576L279 580L282 584L285 588L289 591L293 593L298 594H303H308L313 593L317 591L321 588L324 584L327 580L329 576L331 571V566V562L329 557L327 552L324 548ZM455 545 451 542 447 540 442 539 437 538 432 539 427 540 423 542 419 545 416 548 413 552 411 557 409 562V566V571L411 576L413 580L416 584L419 588L423 591L427 593L432 594H437H442L447 593L451 591L455 588L458 584L461 580L463 576L465 571V566V562L463 557L461 552L458 548Z"/></defs>
+<use href="#TracebarMono-Regular_uni00FF" transform="translate(1034.20 780) scale(0.0380 -0.0380)" fill="#172127"/>
+<text x="50" y="834" font-family="sans-serif" font-size="17" fill="#53616d">Inspection ladder — target trial: 18–28 px, not certified for all sizes.</text>
+<text x="50" y="882" font-family="sans-serif" font-size="17" fill="#53616d">18 px</text>
+<use href="#TracebarMono-Regular_uni0054" transform="translate(150.00 882) scale(0.0180 -0.0180)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0068" transform="translate(163.32 882) scale(0.0180 -0.0180)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0065" transform="translate(176.64 882) scale(0.0180 -0.0180)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0071" transform="translate(203.28 882) scale(0.0180 -0.0180)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0075" transform="translate(216.60 882) scale(0.0180 -0.0180)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0069" transform="translate(229.92 882) scale(0.0180 -0.0180)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0063" transform="translate(243.24 882) scale(0.0180 -0.0180)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni006B" transform="translate(256.56 882) scale(0.0180 -0.0180)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0062" transform="translate(283.20 882) scale(0.0180 -0.0180)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0072" transform="translate(296.52 882) scale(0.0180 -0.0180)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni006F" transform="translate(309.84 882) scale(0.0180 -0.0180)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0077" transform="translate(323.16 882) scale(0.0180 -0.0180)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni006E" transform="translate(336.48 882) scale(0.0180 -0.0180)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0066" transform="translate(363.12 882) scale(0.0180 -0.0180)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni006F" transform="translate(376.44 882) scale(0.0180 -0.0180)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0078" transform="translate(389.76 882) scale(0.0180 -0.0180)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni006A" transform="translate(416.40 882) scale(0.0180 -0.0180)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0075" transform="translate(429.72 882) scale(0.0180 -0.0180)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni006D" transform="translate(443.04 882) scale(0.0180 -0.0180)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0070" transform="translate(456.36 882) scale(0.0180 -0.0180)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0073" transform="translate(469.68 882) scale(0.0180 -0.0180)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni006F" transform="translate(496.32 882) scale(0.0180 -0.0180)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0076" transform="translate(509.64 882) scale(0.0180 -0.0180)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0065" transform="translate(522.96 882) scale(0.0180 -0.0180)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0072" transform="translate(536.28 882) scale(0.0180 -0.0180)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0074" transform="translate(562.92 882) scale(0.0180 -0.0180)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0068" transform="translate(576.24 882) scale(0.0180 -0.0180)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0065" transform="translate(589.56 882) scale(0.0180 -0.0180)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni006C" transform="translate(616.20 882) scale(0.0180 -0.0180)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0061" transform="translate(629.52 882) scale(0.0180 -0.0180)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni007A" transform="translate(642.84 882) scale(0.0180 -0.0180)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0079" transform="translate(656.16 882) scale(0.0180 -0.0180)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0064" transform="translate(682.80 882) scale(0.0180 -0.0180)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni006F" transform="translate(696.12 882) scale(0.0180 -0.0180)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0067" transform="translate(709.44 882) scale(0.0180 -0.0180)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni002E" transform="translate(722.76 882) scale(0.0180 -0.0180)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0030" transform="translate(749.40 882) scale(0.0180 -0.0180)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0031" transform="translate(762.72 882) scale(0.0180 -0.0180)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0032" transform="translate(776.04 882) scale(0.0180 -0.0180)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0033" transform="translate(789.36 882) scale(0.0180 -0.0180)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0034" transform="translate(802.68 882) scale(0.0180 -0.0180)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0035" transform="translate(816.00 882) scale(0.0180 -0.0180)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0036" transform="translate(829.32 882) scale(0.0180 -0.0180)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0037" transform="translate(842.64 882) scale(0.0180 -0.0180)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0038" transform="translate(855.96 882) scale(0.0180 -0.0180)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0039" transform="translate(869.28 882) scale(0.0180 -0.0180)" fill="#172127"/>
+<text x="50" y="953" font-family="sans-serif" font-size="17" fill="#53616d">24 px</text>
+<use href="#TracebarMono-Regular_uni0054" transform="translate(150.00 953) scale(0.0240 -0.0240)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0068" transform="translate(167.76 953) scale(0.0240 -0.0240)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0065" transform="translate(185.52 953) scale(0.0240 -0.0240)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0071" transform="translate(221.04 953) scale(0.0240 -0.0240)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0075" transform="translate(238.80 953) scale(0.0240 -0.0240)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0069" transform="translate(256.56 953) scale(0.0240 -0.0240)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0063" transform="translate(274.32 953) scale(0.0240 -0.0240)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni006B" transform="translate(292.08 953) scale(0.0240 -0.0240)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0062" transform="translate(327.60 953) scale(0.0240 -0.0240)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0072" transform="translate(345.36 953) scale(0.0240 -0.0240)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni006F" transform="translate(363.12 953) scale(0.0240 -0.0240)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0077" transform="translate(380.88 953) scale(0.0240 -0.0240)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni006E" transform="translate(398.64 953) scale(0.0240 -0.0240)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0066" transform="translate(434.16 953) scale(0.0240 -0.0240)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni006F" transform="translate(451.92 953) scale(0.0240 -0.0240)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0078" transform="translate(469.68 953) scale(0.0240 -0.0240)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni006A" transform="translate(505.20 953) scale(0.0240 -0.0240)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0075" transform="translate(522.96 953) scale(0.0240 -0.0240)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni006D" transform="translate(540.72 953) scale(0.0240 -0.0240)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0070" transform="translate(558.48 953) scale(0.0240 -0.0240)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0073" transform="translate(576.24 953) scale(0.0240 -0.0240)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni006F" transform="translate(611.76 953) scale(0.0240 -0.0240)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0076" transform="translate(629.52 953) scale(0.0240 -0.0240)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0065" transform="translate(647.28 953) scale(0.0240 -0.0240)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0072" transform="translate(665.04 953) scale(0.0240 -0.0240)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0074" transform="translate(700.56 953) scale(0.0240 -0.0240)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0068" transform="translate(718.32 953) scale(0.0240 -0.0240)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0065" transform="translate(736.08 953) scale(0.0240 -0.0240)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni006C" transform="translate(771.60 953) scale(0.0240 -0.0240)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0061" transform="translate(789.36 953) scale(0.0240 -0.0240)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni007A" transform="translate(807.12 953) scale(0.0240 -0.0240)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0079" transform="translate(824.88 953) scale(0.0240 -0.0240)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0064" transform="translate(860.40 953) scale(0.0240 -0.0240)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni006F" transform="translate(878.16 953) scale(0.0240 -0.0240)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0067" transform="translate(895.92 953) scale(0.0240 -0.0240)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni002E" transform="translate(913.68 953) scale(0.0240 -0.0240)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0030" transform="translate(949.20 953) scale(0.0240 -0.0240)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0031" transform="translate(966.96 953) scale(0.0240 -0.0240)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0032" transform="translate(984.72 953) scale(0.0240 -0.0240)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0033" transform="translate(1002.48 953) scale(0.0240 -0.0240)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0034" transform="translate(1020.24 953) scale(0.0240 -0.0240)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0035" transform="translate(1038.00 953) scale(0.0240 -0.0240)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0036" transform="translate(1055.76 953) scale(0.0240 -0.0240)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0037" transform="translate(1073.52 953) scale(0.0240 -0.0240)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0038" transform="translate(1091.28 953) scale(0.0240 -0.0240)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0039" transform="translate(1109.04 953) scale(0.0240 -0.0240)" fill="#172127"/>
+<text x="50" y="1047" font-family="sans-serif" font-size="17" fill="#53616d">36 px</text>
+<use href="#TracebarMono-Regular_uni0054" transform="translate(150.00 1047) scale(0.0319 -0.0319)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0068" transform="translate(173.64 1047) scale(0.0319 -0.0319)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0065" transform="translate(197.27 1047) scale(0.0319 -0.0319)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0071" transform="translate(244.55 1047) scale(0.0319 -0.0319)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0075" transform="translate(268.18 1047) scale(0.0319 -0.0319)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0069" transform="translate(291.82 1047) scale(0.0319 -0.0319)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0063" transform="translate(315.45 1047) scale(0.0319 -0.0319)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni006B" transform="translate(339.09 1047) scale(0.0319 -0.0319)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0062" transform="translate(386.36 1047) scale(0.0319 -0.0319)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0072" transform="translate(410.00 1047) scale(0.0319 -0.0319)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni006F" transform="translate(433.64 1047) scale(0.0319 -0.0319)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0077" transform="translate(457.27 1047) scale(0.0319 -0.0319)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni006E" transform="translate(480.91 1047) scale(0.0319 -0.0319)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0066" transform="translate(528.18 1047) scale(0.0319 -0.0319)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni006F" transform="translate(551.82 1047) scale(0.0319 -0.0319)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0078" transform="translate(575.45 1047) scale(0.0319 -0.0319)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni006A" transform="translate(622.73 1047) scale(0.0319 -0.0319)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0075" transform="translate(646.36 1047) scale(0.0319 -0.0319)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni006D" transform="translate(670.00 1047) scale(0.0319 -0.0319)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0070" transform="translate(693.64 1047) scale(0.0319 -0.0319)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0073" transform="translate(717.27 1047) scale(0.0319 -0.0319)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni006F" transform="translate(764.55 1047) scale(0.0319 -0.0319)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0076" transform="translate(788.18 1047) scale(0.0319 -0.0319)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0065" transform="translate(811.82 1047) scale(0.0319 -0.0319)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0072" transform="translate(835.45 1047) scale(0.0319 -0.0319)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0074" transform="translate(882.73 1047) scale(0.0319 -0.0319)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0068" transform="translate(906.36 1047) scale(0.0319 -0.0319)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0065" transform="translate(930.00 1047) scale(0.0319 -0.0319)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni006C" transform="translate(977.27 1047) scale(0.0319 -0.0319)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0061" transform="translate(1000.91 1047) scale(0.0319 -0.0319)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni007A" transform="translate(1024.55 1047) scale(0.0319 -0.0319)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0079" transform="translate(1048.18 1047) scale(0.0319 -0.0319)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0064" transform="translate(1095.45 1047) scale(0.0319 -0.0319)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni006F" transform="translate(1119.09 1047) scale(0.0319 -0.0319)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0067" transform="translate(1142.73 1047) scale(0.0319 -0.0319)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni002E" transform="translate(1166.36 1047) scale(0.0319 -0.0319)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0030" transform="translate(1213.64 1047) scale(0.0319 -0.0319)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0031" transform="translate(1237.27 1047) scale(0.0319 -0.0319)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0032" transform="translate(1260.91 1047) scale(0.0319 -0.0319)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0033" transform="translate(1284.55 1047) scale(0.0319 -0.0319)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0034" transform="translate(1308.18 1047) scale(0.0319 -0.0319)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0035" transform="translate(1331.82 1047) scale(0.0319 -0.0319)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0036" transform="translate(1355.45 1047) scale(0.0319 -0.0319)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0037" transform="translate(1379.09 1047) scale(0.0319 -0.0319)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0038" transform="translate(1402.73 1047) scale(0.0319 -0.0319)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0039" transform="translate(1426.36 1047) scale(0.0319 -0.0319)" fill="#172127"/>
+<text x="50" y="1170" font-family="sans-serif" font-size="17" fill="#53616d">56 px</text>
+<use href="#TracebarMono-Regular_uni0054" transform="translate(150.00 1170) scale(0.0319 -0.0319)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0068" transform="translate(173.64 1170) scale(0.0319 -0.0319)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0065" transform="translate(197.27 1170) scale(0.0319 -0.0319)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0071" transform="translate(244.55 1170) scale(0.0319 -0.0319)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0075" transform="translate(268.18 1170) scale(0.0319 -0.0319)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0069" transform="translate(291.82 1170) scale(0.0319 -0.0319)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0063" transform="translate(315.45 1170) scale(0.0319 -0.0319)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni006B" transform="translate(339.09 1170) scale(0.0319 -0.0319)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0062" transform="translate(386.36 1170) scale(0.0319 -0.0319)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0072" transform="translate(410.00 1170) scale(0.0319 -0.0319)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni006F" transform="translate(433.64 1170) scale(0.0319 -0.0319)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0077" transform="translate(457.27 1170) scale(0.0319 -0.0319)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni006E" transform="translate(480.91 1170) scale(0.0319 -0.0319)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0066" transform="translate(528.18 1170) scale(0.0319 -0.0319)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni006F" transform="translate(551.82 1170) scale(0.0319 -0.0319)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0078" transform="translate(575.45 1170) scale(0.0319 -0.0319)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni006A" transform="translate(622.73 1170) scale(0.0319 -0.0319)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0075" transform="translate(646.36 1170) scale(0.0319 -0.0319)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni006D" transform="translate(670.00 1170) scale(0.0319 -0.0319)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0070" transform="translate(693.64 1170) scale(0.0319 -0.0319)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0073" transform="translate(717.27 1170) scale(0.0319 -0.0319)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni006F" transform="translate(764.55 1170) scale(0.0319 -0.0319)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0076" transform="translate(788.18 1170) scale(0.0319 -0.0319)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0065" transform="translate(811.82 1170) scale(0.0319 -0.0319)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0072" transform="translate(835.45 1170) scale(0.0319 -0.0319)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0074" transform="translate(882.73 1170) scale(0.0319 -0.0319)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0068" transform="translate(906.36 1170) scale(0.0319 -0.0319)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0065" transform="translate(930.00 1170) scale(0.0319 -0.0319)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni006C" transform="translate(977.27 1170) scale(0.0319 -0.0319)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0061" transform="translate(1000.91 1170) scale(0.0319 -0.0319)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni007A" transform="translate(1024.55 1170) scale(0.0319 -0.0319)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0079" transform="translate(1048.18 1170) scale(0.0319 -0.0319)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0064" transform="translate(1095.45 1170) scale(0.0319 -0.0319)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni006F" transform="translate(1119.09 1170) scale(0.0319 -0.0319)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0067" transform="translate(1142.73 1170) scale(0.0319 -0.0319)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni002E" transform="translate(1166.36 1170) scale(0.0319 -0.0319)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0030" transform="translate(1213.64 1170) scale(0.0319 -0.0319)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0031" transform="translate(1237.27 1170) scale(0.0319 -0.0319)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0032" transform="translate(1260.91 1170) scale(0.0319 -0.0319)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0033" transform="translate(1284.55 1170) scale(0.0319 -0.0319)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0034" transform="translate(1308.18 1170) scale(0.0319 -0.0319)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0035" transform="translate(1331.82 1170) scale(0.0319 -0.0319)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0036" transform="translate(1355.45 1170) scale(0.0319 -0.0319)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0037" transform="translate(1379.09 1170) scale(0.0319 -0.0319)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0038" transform="translate(1402.73 1170) scale(0.0319 -0.0319)" fill="#172127"/>
+<use href="#TracebarMono-Regular_uni0039" transform="translate(1426.36 1170) scale(0.0319 -0.0319)" fill="#172127"/>
+</svg>

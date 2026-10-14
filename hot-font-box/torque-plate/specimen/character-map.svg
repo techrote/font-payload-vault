@@ -1,0 +1,1017 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1450" height="1924" viewBox="0 0 1450 1924" role="img"><title>Torque Plate complete glyph repertoire</title>
+<rect width="1450" height="1924" fill="#f5f3ed"/>
+<text x="35" y="38" font-family="sans-serif" font-size="23" fill="#53616d">Torque Plate / all 254 mapped characters</text>
+<rect x="25" y="70" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="30" y="90" font-family="sans-serif" font-size="13" fill="#53616d">0020</text>
+
+<rect x="113" y="70" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="118" y="90" font-family="sans-serif" font-size="13" fill="#53616d">0021</text>
+<defs><path id="TorquePlate-Regular_uni0021" d="M332 10 326 -4 317 -16 306 -27 294 -36 280 -42 265 -46 250 -47 235 -46 220 -42 206 -36 194 -27 183 -16 174 -4 168 10 164 25 163 40 164 55 168 70 174 84 183 96 194 107 206 116 220 122 235 126 250 127 265 126 280 122 294 116 306 107 317 96 326 84 332 70 336 55 337 40 336 25ZM181 715H319V218H181Z"/></defs>
+<use href="#TorquePlate-Regular_uni0021" transform="translate(119.00 161) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="201" y="70" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="206" y="90" font-family="sans-serif" font-size="13" fill="#53616d">0022</text>
+<defs><path id="TorquePlate-Regular_uni0022" d="M111 718 249 712 243 596 251 719 389 711 379 549 241 557V550L103 556Z"/></defs>
+<use href="#TorquePlate-Regular_uni0022" transform="translate(207.00 161) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="289" y="70" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="294" y="90" font-family="sans-serif" font-size="13" fill="#53616d">0023</text>
+<defs><path id="TorquePlate-Regular_uni0023" d="M381 -4 243 4 254 171H180L168 -5L30 5L60 458V579H68L79 745L217 735L207 579H280L291 744L429 736L419 579H440V441H410L401 309H440V171H392ZM263 309 271 441H198L189 309Z"/></defs>
+<use href="#TorquePlate-Regular_uni0023" transform="translate(295.00 161) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="377" y="70" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="382" y="90" font-family="sans-serif" font-size="13" fill="#53616d">0024</text>
+<defs><path id="TorquePlate-Regular_uni0024" d="M319 743 401 716 359 584 319 597V404L468 236L356 -94L319 -78V-110H181V-16L62 37L118 163L181 135V352L0 556V569L133 803L181 788V810H319ZM165 579 181 560V608Z"/></defs>
+<use href="#TorquePlate-Regular_uni0024" transform="translate(383.00 161) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="465" y="70" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="470" y="90" font-family="sans-serif" font-size="13" fill="#53616d">0025</text>
+<defs><path id="TorquePlate-Regular_uni0025" d="M202 554 191 543 179 534 165 528 150 524 135 523 120 524 105 528 91 534 79 543 68 554 59 566 53 580 49 595 48 610 49 625 53 640 59 654 68 666 79 677 91 686 105 692 120 696 135 697 150 696 165 692 179 686 191 677 202 666 211 654 217 640 221 625 222 610 221 595 217 580 211 566ZM168 638 163 643 157 648 150 651 143 653 135 654 127 653 120 651 113 648 107 643 102 638 97 632 94 625 92 618 91 610 92 602 94 595 97 588 102 582 107 577 113 572 120 569 127 567 135 566 143 567 150 569 157 572 163 577 168 582 173 588 176 595 178 602 179 610 178 618 176 625 173 632ZM51 46 326 731 454 679 179 -6ZM436 81 427 69 416 58 404 49 390 43 375 39 360 38 345 39 330 43 316 49 304 58 293 69 284 81 278 95 274 110 273 125 274 140 278 155 284 169 293 181 304 192 316 201 330 207 345 211 360 212 375 211 390 207 404 201 416 192 427 181 436 169 442 155 446 140 447 125 446 110 442 95ZM398 147 393 153 388 158 382 163 375 166 368 168 360 169 352 168 345 166 338 163 332 158 327 153 322 147 319 140 317 133 316 125 317 117 319 110 322 103 327 97 332 92 338 87 345 84 352 82 360 81 368 82 375 84 382 87 388 92 393 97 398 103 401 110 403 117 404 125 403 133 401 140Z"/></defs>
+<use href="#TorquePlate-Regular_uni0025" transform="translate(471.00 161) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="553" y="70" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="558" y="90" font-family="sans-serif" font-size="13" fill="#53616d">0026</text>
+<defs><path id="TorquePlate-Regular_uni0026" d="M38 676 300 871 381 575 295 465 307 440 393 264 478 246 455 135 457 130 454 128 421 -29H31V354L132 483ZM169 306V109H309L310 117L200 345ZM229 605 220 639 212 634 227 603Z"/></defs>
+<use href="#TorquePlate-Regular_uni0026" transform="translate(559.00 161) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="641" y="70" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="646" y="90" font-family="sans-serif" font-size="13" fill="#53616d">0027</text>
+<defs><path id="TorquePlate-Regular_uni0027" d="M170 560 193 725 329 705 306 540Z"/></defs>
+<use href="#TorquePlate-Regular_uni0027" transform="translate(647.00 161) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="729" y="70" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="734" y="90" font-family="sans-serif" font-size="13" fill="#53616d">0028</text>
+<defs><path id="TorquePlate-Regular_uni0028" d="M194 108 379 -82 281 -178 56 52V717L292 873L368 757L194 643Z"/></defs>
+<use href="#TorquePlate-Regular_uni0028" transform="translate(735.00 161) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="817" y="70" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="822" y="90" font-family="sans-serif" font-size="13" fill="#53616d">0029</text>
+<defs><path id="TorquePlate-Regular_uni0029" d="M444 52 219 -178 121 -82 306 108V643L132 757L208 873L444 717Z"/></defs>
+<use href="#TorquePlate-Regular_uni0029" transform="translate(823.00 161) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="905" y="70" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="910" y="90" font-family="sans-serif" font-size="13" fill="#53616d">002A</text>
+<defs><path id="TorquePlate-Regular_uni002A" d="M319 631 323 635 427 545 341 445 427 345 323 255 319 259V215H181V259L177 255L73 345L159 445L73 545L177 635L181 631V665H319Z"/></defs>
+<use href="#TorquePlate-Regular_uni002A" transform="translate(911.00 161) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="993" y="70" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="998" y="90" font-family="sans-serif" font-size="13" fill="#53616d">002B</text>
+<defs><path id="TorquePlate-Regular_uni002B" d="M319 283V125H181V283H80V421H181V580H319V421H420V283Z"/></defs>
+<use href="#TorquePlate-Regular_uni002B" transform="translate(999.00 161) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1081" y="70" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1086" y="90" font-family="sans-serif" font-size="13" fill="#53616d">002C</text>
+<defs><path id="TorquePlate-Regular_uni002C" d="M166 -58 197 89 333 61 302 -86Z"/></defs>
+<use href="#TorquePlate-Regular_uni002C" transform="translate(1087.00 161) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1169" y="70" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1174" y="90" font-family="sans-serif" font-size="13" fill="#53616d">002D</text>
+<defs><path id="TorquePlate-Regular_uni002D" d="M420 271H80V409H420Z"/></defs>
+<use href="#TorquePlate-Regular_uni002D" transform="translate(1175.00 161) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1257" y="70" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1262" y="90" font-family="sans-serif" font-size="13" fill="#53616d">002E</text>
+<defs><path id="TorquePlate-Regular_uni002E" d="M336 40 332 25 326 11 317 -1 306 -12 294 -21 280 -27 265 -31 250 -32 235 -31 220 -27 206 -21 194 -12 183 -1 174 11 168 25 164 40 163 55 164 70 168 85 174 99 183 111 194 122 206 131 220 137 235 141 250 142 265 141 280 137 294 131 306 122 317 111 326 99 332 85 336 70 337 55Z"/></defs>
+<use href="#TorquePlate-Regular_uni002E" transform="translate(1263.00 161) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1345" y="70" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1350" y="90" font-family="sans-serif" font-size="13" fill="#53616d">002F</text>
+<defs><path id="TorquePlate-Regular_uni002F" d="M489 739 139 -116 11 -64 361 791Z"/></defs>
+<use href="#TorquePlate-Regular_uni002F" transform="translate(1351.00 161) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="25" y="184" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="30" y="204" font-family="sans-serif" font-size="13" fill="#53616d">0030</text>
+<defs><path id="TorquePlate-Regular_uni0030" d="M200 779H580L703 636V52L580 -91H200L77 52V636ZM521 568 496 597H284L259 568V120L284 91H496L521 120ZM179 539 178 542 177 543 175 545 173 546 171 547 169 548H167H165L162 547L160 546L158 545L157 543L156 542L155 539L154 537V535V533L155 531L156 528L157 527L158 525L160 524L162 523L165 522H167H169L171 523L173 524L175 525L177 527L178 528L179 531L180 533V535V537ZM316 435H464V253H316Z"/></defs>
+<use href="#TorquePlate-Regular_uni0030" transform="translate(31.00 275) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="113" y="184" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="118" y="204" font-family="sans-serif" font-size="13" fill="#53616d">0031</text>
+<defs><path id="TorquePlate-Regular_uni0031" d="M196 -91V91H327V502L252 444L140 588L509 874V91H640V-91Z"/></defs>
+<use href="#TorquePlate-Regular_uni0031" transform="translate(119.00 275) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="201" y="184" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="206" y="204" font-family="sans-serif" font-size="13" fill="#53616d">0032</text>
+<defs><path id="TorquePlate-Regular_uni0032" d="M628 779 745 636V391L451 91H659V-91H39L35 -80L572 469V568L549 597H347L303 543L172 661L268 779Z"/></defs>
+<use href="#TorquePlate-Regular_uni0032" transform="translate(207.00 275) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="289" y="184" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="294" y="204" font-family="sans-serif" font-size="13" fill="#53616d">0033</text>
+<defs><path id="TorquePlate-Regular_uni0033" d="M534 -91H122V91H451L476 120V206L394 253H270V435H394L476 482V568L451 597H122V779H534L658 636V378L600 344L658 310V52Z"/></defs>
+<use href="#TorquePlate-Regular_uni0033" transform="translate(295.00 275) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="377" y="184" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="382" y="204" font-family="sans-serif" font-size="13" fill="#53616d">0034</text>
+<defs><path id="TorquePlate-Regular_uni0034" d="M538 167H60L560 747L629 688H720V0H538ZM457 349H538V443Z"/></defs>
+<use href="#TorquePlate-Regular_uni0034" transform="translate(383.00 275) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="465" y="184" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="470" y="204" font-family="sans-serif" font-size="13" fill="#53616d">0035</text>
+<defs><path id="TorquePlate-Regular_uni0035" d="M259 435H580L703 292V52L580 -91H168V91H496L521 120V224L496 253H77V779H612V597H259Z"/></defs>
+<use href="#TorquePlate-Regular_uni0035" transform="translate(471.00 275) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="553" y="184" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="558" y="204" font-family="sans-serif" font-size="13" fill="#53616d">0036</text>
+<defs><path id="TorquePlate-Regular_uni0036" d="M703 292V52L580 -91H200L77 52V535L182 779H612V597H302L259 497V435H580ZM284 91H496L521 120V224L496 253H259V120ZM179 539 178 542 177 543 175 545 173 546 171 547 169 548H167H165L162 547L160 546L158 545L157 543L156 542L155 539L154 537V535V533L155 531L156 528L157 527L158 525L160 524L162 523L165 522H167H169L171 523L173 524L175 525L177 527L178 528L179 531L180 533V535V537Z"/></defs>
+<use href="#TorquePlate-Regular_uni0036" transform="translate(559.00 275) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="641" y="184" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="646" y="204" font-family="sans-serif" font-size="13" fill="#53616d">0037</text>
+<defs><path id="TorquePlate-Regular_uni0037" d="M330 -36 163 36 405 597H99V779H681Z"/></defs>
+<use href="#TorquePlate-Regular_uni0037" transform="translate(647.00 275) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="729" y="184" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="734" y="204" font-family="sans-serif" font-size="13" fill="#53616d">0038</text>
+<defs><path id="TorquePlate-Regular_uni0038" d="M200 779H580L703 636V396L658 344L703 292V52L580 -91H200L77 52V292L122 344L77 396V636ZM259 224V120L284 91H496L521 120V224L496 253H284ZM521 464V568L496 597H284L259 568V464L284 435H496ZM179 539 178 542 177 543 175 545 173 546 171 547 169 548H167H165L162 547L160 546L158 545L157 543L156 542L155 539L154 537V535V533L155 531L156 528L157 527L158 525L160 524L162 523L165 522H167H169L171 523L173 524L175 525L177 527L178 528L179 531L180 533V535V537Z"/></defs>
+<use href="#TorquePlate-Regular_uni0038" transform="translate(735.00 275) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="817" y="184" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="822" y="204" font-family="sans-serif" font-size="13" fill="#53616d">0039</text>
+<defs><path id="TorquePlate-Regular_uni0039" d="M77 636 200 779H580L703 636V153L598 -91H168V91H478L521 191V253H200L77 396ZM496 597H284L259 568V464L284 435H521V568ZM179 539 178 542 177 543 175 545 173 546 171 547 169 548H167H165L162 547L160 546L158 545L157 543L156 542L155 539L154 537V535V533L155 531L156 528L157 527L158 525L160 524L162 523L165 522H167H169L171 523L173 524L175 525L177 527L178 528L179 531L180 533V535V537Z"/></defs>
+<use href="#TorquePlate-Regular_uni0039" transform="translate(823.00 275) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="905" y="184" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="910" y="204" font-family="sans-serif" font-size="13" fill="#53616d">003A</text>
+<defs><path id="TorquePlate-Regular_uni003A" d="M332 35 326 21 317 9 306 -2 294 -11 280 -17 265 -21 250 -22 235 -21 220 -17 206 -11 194 -2 183 9 174 21 168 35 164 50 163 65 164 80 168 95 174 109 183 121 194 132 206 141 220 147 235 151 250 152 265 151 280 147 294 141 306 132 317 121 326 109 332 95 336 80 337 65 336 50ZM332 410 326 396 317 384 306 373 294 364 280 358 265 354 250 353 235 354 220 358 206 364 194 373 183 384 174 396 168 410 164 425 163 440 164 455 168 470 174 484 183 496 194 507 206 516 220 522 235 526 250 527 265 526 280 522 294 516 306 507 317 496 326 484 332 470 336 455 337 440 336 425Z"/></defs>
+<use href="#TorquePlate-Regular_uni003A" transform="translate(911.00 275) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="993" y="184" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="998" y="204" font-family="sans-serif" font-size="13" fill="#53616d">003B</text>
+<defs><path id="TorquePlate-Regular_uni003B" d="M332 405 326 391 317 379 306 368 294 359 280 353 265 349 250 348 235 349 220 353 206 359 194 368 183 379 174 391 168 405 164 420 163 435 164 450 168 465 174 479 183 491 194 502 206 511 220 517 235 521 250 522 265 521 280 517 294 511 306 502 317 491 326 479 332 465 336 450 337 435 336 420ZM197 93 333 67 306 -78 170 -52Z"/></defs>
+<use href="#TorquePlate-Regular_uni003B" transform="translate(999.00 275) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1081" y="184" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1086" y="204" font-family="sans-serif" font-size="13" fill="#53616d">003C</text>
+<defs><path id="TorquePlate-Regular_uni003C" d="M428 80 322 -10 9 360 322 730 428 640 191 360Z"/></defs>
+<use href="#TorquePlate-Regular_uni003C" transform="translate(1087.00 275) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1169" y="184" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1174" y="204" font-family="sans-serif" font-size="13" fill="#53616d">003D</text>
+<defs><path id="TorquePlate-Regular_uni003D" d="M85 181V319H415V181ZM85 391V529H415V391Z"/></defs>
+<use href="#TorquePlate-Regular_uni003D" transform="translate(1175.00 275) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1257" y="184" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1262" y="204" font-family="sans-serif" font-size="13" fill="#53616d">003E</text>
+<defs><path id="TorquePlate-Regular_uni003E" d="M178 -10 72 80 309 360 72 640 178 730 491 360Z"/></defs>
+<use href="#TorquePlate-Regular_uni003E" transform="translate(1263.00 275) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1345" y="184" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1350" y="204" font-family="sans-serif" font-size="13" fill="#53616d">003F</text>
+<defs><path id="TorquePlate-Regular_uni003F" d="M468 546 319 365V225H181V415L312 574L290 641H198L178 528L42 552L82 779H390ZM332 9 326 -5 317 -17 306 -28 294 -37 280 -43 265 -47 250 -48 235 -47 220 -43 206 -37 194 -28 183 -17 174 -5 168 9 164 24 163 39 164 54 168 69 174 83 183 95 194 106 206 115 220 121 235 125 250 126 265 125 280 121 294 115 306 106 317 95 326 83 332 69 336 54 337 39 336 24Z"/></defs>
+<use href="#TorquePlate-Regular_uni003F" transform="translate(1351.00 275) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="25" y="298" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="30" y="318" font-family="sans-serif" font-size="13" fill="#53616d">0040</text>
+<defs><path id="TorquePlate-Regular_uni0040" d="M490 189 479 174 467 159 454 146 441 133 426 121 411 110 394 100 378 91 361 83 343 76 325 71 306 67 288 63 269 62 250 61 231 62 212 63 194 67 175 71 157 76 139 83 122 91 106 100 89 110 74 121 59 133 46 146 33 159 21 174 10 189 0 205V495L10 511L21 526L33 541L46 554L59 567L74 579L89 590L105 600L122 609L139 617L157 624L175 629L194 633L212 637L231 638L250 639L269 638L288 637L306 633L325 629L343 624L361 617L378 609L381 607L424 604V581L426 579L441 567L454 554L467 541L479 526L490 511L500 495V205ZM491 398 488 414 483 429 477 444 471 459 463 473 455 487 445 500 435 512 424 524V362L476 324L385 200L174 204L102 432L156 577L141 571L127 563L113 555L100 545L88 535L76 524L65 512L55 500L45 487L37 473L29 459L23 444L17 429L12 414L9 398L6 382L5 366L4 350L5 334L6 318L9 302L12 286L17 271L23 256L29 241L37 227L45 213L55 200L65 188L76 176L88 165L100 155L113 145L127 137L141 129L156 123L171 117L186 112L202 109L218 106L234 105L250 104L266 105L282 106L298 109L314 112L329 117L344 123L359 129L373 137L387 145L400 155L412 165L424 176L435 188L445 200L455 213L463 227L471 241L477 256L483 271L488 286L491 302L494 318L495 334L496 350L495 366L494 382ZM267 477 248 428 276 340H286V476Z"/></defs>
+<use href="#TorquePlate-Regular_uni0040" transform="translate(31.00 389) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="113" y="298" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="118" y="318" font-family="sans-serif" font-size="13" fill="#53616d">0041</text>
+<defs><path id="TorquePlate-Regular_uni0041" d="M208 -28 35 28 321 916H366L652 28L479 -28L410 184H277ZM343 392 335 366H352Z"/></defs>
+<use href="#TorquePlate-Regular_uni0041" transform="translate(119.00 389) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="201" y="298" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="206" y="318" font-family="sans-serif" font-size="13" fill="#53616d">0042</text>
+<defs><path id="TorquePlate-Regular_uni0042" d="M126 -91V0H35V779H447L661 654V378L603 344L661 310V34L447 -91ZM479 206 397 253H217V91H397L479 138ZM479 550 397 597H217V435H397L479 482ZM137 539 136 542 135 543 133 545 131 546 129 547 127 548H125H123L120 547L118 546L116 545L115 543L114 542L113 539L112 537V535V533L113 531L114 528L115 527L116 525L118 524L120 523L123 522H125H127L129 523L131 524L133 525L135 527L136 528L137 531L138 533V535V537Z"/></defs>
+<use href="#TorquePlate-Regular_uni0042" transform="translate(207.00 389) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="289" y="298" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="294" y="318" font-family="sans-serif" font-size="13" fill="#53616d">0043</text>
+<defs><path id="TorquePlate-Regular_uni0043" d="M217 568V120L242 91H570V-91H158L35 52V636L158 779H570V597H242Z"/></defs>
+<use href="#TorquePlate-Regular_uni0043" transform="translate(295.00 389) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="377" y="298" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="382" y="318" font-family="sans-serif" font-size="13" fill="#53616d">0044</text>
+<defs><path id="TorquePlate-Regular_uni0044" d="M464 779 661 550V138L464 -91H35V779ZM479 206V482L380 597H217V91H380ZM137 539 136 542 135 543 133 545 131 546 129 547 127 548H125H123L120 547L118 546L116 545L115 543L114 542L113 539L112 537V535V533L113 531L114 528L115 527L116 525L118 524L120 523L123 522H125H127L129 523L131 524L133 525L135 527L136 528L137 531L138 533V535V537Z"/></defs>
+<use href="#TorquePlate-Regular_uni0044" transform="translate(383.00 389) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="465" y="298" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="470" y="318" font-family="sans-serif" font-size="13" fill="#53616d">0045</text>
+<defs><path id="TorquePlate-Regular_uni0045" d="M496 435V253H217V91H570V-91H35V779H570V597H217V435Z"/></defs>
+<use href="#TorquePlate-Regular_uni0045" transform="translate(471.00 389) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="553" y="298" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="558" y="318" font-family="sans-serif" font-size="13" fill="#53616d">0046</text>
+<defs><path id="TorquePlate-Regular_uni0046" d="M217 253V0H35V779H570V597H217V435H496V253Z"/></defs>
+<use href="#TorquePlate-Regular_uni0046" transform="translate(559.00 389) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="641" y="298" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="646" y="318" font-family="sans-serif" font-size="13" fill="#53616d">0047</text>
+<defs><path id="TorquePlate-Regular_uni0047" d="M217 568V120L242 91H479V253H348V435H661V-91H158L35 52V636L158 779H570V597H242Z"/></defs>
+<use href="#TorquePlate-Regular_uni0047" transform="translate(647.00 389) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="729" y="298" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="734" y="318" font-family="sans-serif" font-size="13" fill="#53616d">0048</text>
+<defs><path id="TorquePlate-Regular_uni0048" d="M35 688H217V435H479V688H661V0H479V253H217V0H35Z"/></defs>
+<use href="#TorquePlate-Regular_uni0048" transform="translate(735.00 389) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="817" y="298" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="822" y="318" font-family="sans-serif" font-size="13" fill="#53616d">0049</text>
+<defs><path id="TorquePlate-Regular_uni0049" d="M35 -91V91H166V597H35V779H479V597H348V91H479V-91Z"/></defs>
+<use href="#TorquePlate-Regular_uni0049" transform="translate(823.00 389) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="905" y="298" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="910" y="318" font-family="sans-serif" font-size="13" fill="#53616d">004A</text>
+<defs><path id="TorquePlate-Regular_uni004A" d="M373 91 472 206V688H654V138L457 -91H133L35 136L202 208L253 91Z"/></defs>
+<use href="#TorquePlate-Regular_uni004A" transform="translate(911.00 389) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="993" y="298" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="998" y="318" font-family="sans-serif" font-size="13" fill="#53616d">004B</text>
+<defs><path id="TorquePlate-Regular_uni004B" d="M574 -73 275 147V0H93V281L35 323L93 370V688H275V518L570 759L685 617L332 330L682 73Z"/></defs>
+<use href="#TorquePlate-Regular_uni004B" transform="translate(999.00 389) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1081" y="298" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1086" y="318" font-family="sans-serif" font-size="13" fill="#53616d">004C</text>
+<defs><path id="TorquePlate-Regular_uni004C" d="M570 91V-91H35V688H217V91Z"/></defs>
+<use href="#TorquePlate-Regular_uni004C" transform="translate(1087.00 389) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1169" y="298" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1174" y="318" font-family="sans-serif" font-size="13" fill="#53616d">004D</text>
+<defs><path id="TorquePlate-Regular_uni004D" d="M59 906 348 570 637 906 661 897V0H479V443L348 290L217 443V0H35V897Z"/></defs>
+<use href="#TorquePlate-Regular_uni004D" transform="translate(1175.00 389) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1257" y="298" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1262" y="318" font-family="sans-serif" font-size="13" fill="#53616d">004E</text>
+<defs><path id="TorquePlate-Regular_uni004E" d="M88 914 479 309V688H661V-210L608 -226L217 379V0H35V898Z"/></defs>
+<use href="#TorquePlate-Regular_uni004E" transform="translate(1263.00 389) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1345" y="298" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1350" y="318" font-family="sans-serif" font-size="13" fill="#53616d">004F</text>
+<defs><path id="TorquePlate-Regular_uni004F" d="M35 636 158 779H538L661 636V52L538 -91H158L35 52ZM479 120V568L454 597H242L217 568V120L242 91H454ZM137 539 136 542 135 543 133 545 131 546 129 547 127 548H125H123L120 547L118 546L116 545L115 543L114 542L113 539L112 537V535V533L113 531L114 528L115 527L116 525L118 524L120 523L123 522H125H127L129 523L131 524L133 525L135 527L136 528L137 531L138 533V535V537Z"/></defs>
+<use href="#TorquePlate-Regular_uni004F" transform="translate(1351.00 389) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="25" y="412" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="30" y="432" font-family="sans-serif" font-size="13" fill="#53616d">0050</text>
+<defs><path id="TorquePlate-Regular_uni0050" d="M661 636V396L538 253H217V0H35V779H538ZM479 464V568L454 597H217V435H454ZM137 539 136 542 135 543 133 545 131 546 129 547 127 548H125H123L120 547L118 546L116 545L115 543L114 542L113 539L112 537V535V533L113 531L114 528L115 527L116 525L118 524L120 523L123 522H125H127L129 523L131 524L133 525L135 527L136 528L137 531L138 533V535V537Z"/></defs>
+<use href="#TorquePlate-Regular_uni0050" transform="translate(31.00 503) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="113" y="412" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="118" y="432" font-family="sans-serif" font-size="13" fill="#53616d">0051</text>
+<defs><path id="TorquePlate-Regular_uni0051" d="M158 -91 35 52V636L158 779H538L661 636V52L653 43L713 -27L575 -145L528 -91ZM479 568 454 597H242L217 568V120L242 91H372L353 113L479 221ZM137 539 136 542 135 543 133 545 131 546 129 547 127 548H125H123L120 547L118 546L116 545L115 543L114 542L113 539L112 537V535V533L113 531L114 528L115 527L116 525L118 524L120 523L123 522H125H127L129 523L131 524L133 525L135 527L136 528L137 531L138 533V535V537Z"/></defs>
+<use href="#TorquePlate-Regular_uni0051" transform="translate(119.00 503) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="201" y="412" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="206" y="432" font-family="sans-serif" font-size="13" fill="#53616d">0052</text>
+<defs><path id="TorquePlate-Regular_uni0052" d="M217 253V0H35V779H538L661 636V396L538 253H515L646 49L494 -49L298 253ZM479 568 454 597H217V435H454L479 464ZM137 539 136 542 135 543 133 545 131 546 129 547 127 548H125H123L120 547L118 546L116 545L115 543L114 542L113 539L112 537V535V533L113 531L114 528L115 527L116 525L118 524L120 523L123 522H125H127L129 523L131 524L133 525L135 527L136 528L137 531L138 533V535V537Z"/></defs>
+<use href="#TorquePlate-Regular_uni0052" transform="translate(207.00 503) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="289" y="412" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="294" y="432" font-family="sans-serif" font-size="13" fill="#53616d">0053</text>
+<defs><path id="TorquePlate-Regular_uni0053" d="M217 568V492L661 320V52L538 -91H126V91H454L479 120V196L35 368V636L158 779H570V597H242Z"/></defs>
+<use href="#TorquePlate-Regular_uni0053" transform="translate(295.00 503) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="377" y="412" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="382" y="432" font-family="sans-serif" font-size="13" fill="#53616d">0054</text>
+<defs><path id="TorquePlate-Regular_uni0054" d="M166 597H35V779H479V597H348V0H166Z"/></defs>
+<use href="#TorquePlate-Regular_uni0054" transform="translate(383.00 503) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="465" y="412" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="470" y="432" font-family="sans-serif" font-size="13" fill="#53616d">0055</text>
+<defs><path id="TorquePlate-Regular_uni0055" d="M242 91H454L479 120V688H661V52L538 -91H158L35 52V688H217V120Z"/></defs>
+<use href="#TorquePlate-Regular_uni0055" transform="translate(471.00 503) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="553" y="412" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="558" y="432" font-family="sans-serif" font-size="13" fill="#53616d">0056</text>
+<defs><path id="TorquePlate-Regular_uni0056" d="M479 716 652 660 366 -228H321L35 660L208 716L343 296Z"/></defs>
+<use href="#TorquePlate-Regular_uni0056" transform="translate(559.00 503) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="641" y="412" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="646" y="432" font-family="sans-serif" font-size="13" fill="#53616d">0057</text>
+<defs><path id="TorquePlate-Regular_uni0057" d="M330 658H365L449 416L479 698L660 678L563 -221L479 -231L348 150L216 -231L132 -221L35 678L216 698L246 416Z"/></defs>
+<use href="#TorquePlate-Regular_uni0057" transform="translate(647.00 503) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="729" y="412" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="734" y="432" font-family="sans-serif" font-size="13" fill="#53616d">0058</text>
+<defs><path id="TorquePlate-Regular_uni0058" d="M334 176 188 -49 35 49 225 344 35 639 188 737 334 512 479 737 632 639 442 344 632 49 479 -49Z"/></defs>
+<use href="#TorquePlate-Regular_uni0058" transform="translate(735.00 503) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="817" y="412" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="822" y="432" font-family="sans-serif" font-size="13" fill="#53616d">0059</text>
+<defs><path id="TorquePlate-Regular_uni0059" d="M242 317 35 639 188 737 334 512 479 737 632 639 424 317V0H242Z"/></defs>
+<use href="#TorquePlate-Regular_uni0059" transform="translate(823.00 503) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="905" y="412" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="910" y="432" font-family="sans-serif" font-size="13" fill="#53616d">005A</text>
+<defs><path id="TorquePlate-Regular_uni005A" d="M369 91H646V-91H35L479 597H202V779H813Z"/></defs>
+<use href="#TorquePlate-Regular_uni005A" transform="translate(911.00 503) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="993" y="412" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="998" y="432" font-family="sans-serif" font-size="13" fill="#53616d">005B</text>
+<defs><path id="TorquePlate-Regular_uni005B" d="M189 -31H265V-169H51V879H265V741H189Z"/></defs>
+<use href="#TorquePlate-Regular_uni005B" transform="translate(999.00 503) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1081" y="412" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1086" y="432" font-family="sans-serif" font-size="13" fill="#53616d">005C</text>
+<defs><path id="TorquePlate-Regular_uni005C" d="M139 791 489 -64 361 -116 11 739Z"/></defs>
+<use href="#TorquePlate-Regular_uni005C" transform="translate(1087.00 503) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1169" y="412" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1174" y="432" font-family="sans-serif" font-size="13" fill="#53616d">005D</text>
+<defs><path id="TorquePlate-Regular_uni005D" d="M449 -169H235V-31H311V741H235V879H449Z"/></defs>
+<use href="#TorquePlate-Regular_uni005D" transform="translate(1175.00 503) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1257" y="412" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1262" y="432" font-family="sans-serif" font-size="13" fill="#53616d">005E</text>
+<defs><path id="TorquePlate-Regular_uni005E" d="M477 461 353 399 250 603 147 399 23 461 250 909Z"/></defs>
+<use href="#TorquePlate-Regular_uni005E" transform="translate(1263.00 503) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1345" y="412" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1350" y="432" font-family="sans-serif" font-size="13" fill="#53616d">005F</text>
+<defs><path id="TorquePlate-Regular_uni005F" d="M420 -69H80V69H420Z"/></defs>
+<use href="#TorquePlate-Regular_uni005F" transform="translate(1351.00 503) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="25" y="526" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="30" y="546" font-family="sans-serif" font-size="13" fill="#53616d">0060</text>
+<defs><path id="TorquePlate-Regular_uni0060" d="M170 560 193 725 329 705 306 540Z"/></defs>
+<use href="#TorquePlate-Regular_uni0060" transform="translate(31.00 617) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="113" y="526" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="118" y="546" font-family="sans-serif" font-size="13" fill="#53616d">0061</text>
+<defs><path id="TorquePlate-Regular_uni0061" d="M158 -91 35 52V378L158 521H464L542 430H587V0H496V-91ZM217 310V120L242 91H405V310L380 339H242Z"/></defs>
+<use href="#TorquePlate-Regular_uni0061" transform="translate(119.00 617) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="201" y="526" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="206" y="546" font-family="sans-serif" font-size="13" fill="#53616d">0062</text>
+<defs><path id="TorquePlate-Regular_uni0062" d="M661 378V52L538 -91H249L93 0H35V688H217V502L249 521H538ZM454 91 479 120V310L454 339H299L217 292V138L299 91Z"/></defs>
+<use href="#TorquePlate-Regular_uni0062" transform="translate(207.00 617) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="289" y="526" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="294" y="546" font-family="sans-serif" font-size="13" fill="#53616d">0063</text>
+<defs><path id="TorquePlate-Regular_uni0063" d="M217 310V120L242 91H570V-91H158L35 52V378L158 521H570V339H242Z"/></defs>
+<use href="#TorquePlate-Regular_uni0063" transform="translate(295.00 617) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="377" y="526" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="382" y="546" font-family="sans-serif" font-size="13" fill="#53616d">0064</text>
+<defs><path id="TorquePlate-Regular_uni0064" d="M158 -91 35 52V378L158 521H447L479 502V688H661V0H603L447 -91ZM217 310V120L242 91H397L479 138V292L397 339H242Z"/></defs>
+<use href="#TorquePlate-Regular_uni0064" transform="translate(383.00 617) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="465" y="526" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="470" y="546" font-family="sans-serif" font-size="13" fill="#53616d">0065</text>
+<defs><path id="TorquePlate-Regular_uni0065" d="M217 120 242 91H570V-91H158L35 52V378L158 521H538L661 378V124H217ZM479 306V310L454 339H242L217 310V306Z"/></defs>
+<use href="#TorquePlate-Regular_uni0065" transform="translate(471.00 617) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="553" y="526" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="558" y="546" font-family="sans-serif" font-size="13" fill="#53616d">0066</text>
+<defs><path id="TorquePlate-Regular_uni0066" d="M479 779V597H299L274 568V521H405V339H274V0H92V339H35V521H92V636L215 779Z"/></defs>
+<use href="#TorquePlate-Regular_uni0066" transform="translate(559.00 617) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="641" y="526" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="646" y="546" font-family="sans-serif" font-size="13" fill="#53616d">0067</text>
+<defs><path id="TorquePlate-Regular_uni0067" d="M126 -81H150L35 52V378L158 521H447L603 430H661V-138L469 -250H126ZM397 339H242L217 310V120L242 91H397L479 138V292Z"/></defs>
+<use href="#TorquePlate-Regular_uni0067" transform="translate(647.00 617) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="729" y="526" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="734" y="546" font-family="sans-serif" font-size="13" fill="#53616d">0068</text>
+<defs><path id="TorquePlate-Regular_uni0068" d="M661 378V0H479V310L454 339H299L217 292V0H35V688H217V502L249 521H538Z"/></defs>
+<use href="#TorquePlate-Regular_uni0068" transform="translate(735.00 617) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="817" y="526" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="822" y="546" font-family="sans-serif" font-size="13" fill="#53616d">0069</text>
+<defs><path id="TorquePlate-Regular_uni0069" d="M42 -91V91H99V430H281V91H338V-91ZM99 688V705H281V688Z"/></defs>
+<use href="#TorquePlate-Regular_uni0069" transform="translate(823.00 617) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="905" y="526" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="910" y="546" font-family="sans-serif" font-size="13" fill="#53616d">006A</text>
+<defs><path id="TorquePlate-Regular_uni006A" d="M35 -81H215L240 -52V430H422V-120L310 -250H35ZM422 688H240V705H422Z"/></defs>
+<use href="#TorquePlate-Regular_uni006A" transform="translate(911.00 617) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="993" y="526" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="998" y="546" font-family="sans-serif" font-size="13" fill="#53616d">006B</text>
+<defs><path id="TorquePlate-Regular_uni006B" d="M648 -82 335 70V0H153V158L35 215L153 272V688H335V360L648 512L727 348L452 215L727 82Z"/></defs>
+<use href="#TorquePlate-Regular_uni006B" transform="translate(999.00 617) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1081" y="526" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1086" y="546" font-family="sans-serif" font-size="13" fill="#53616d">006C</text>
+<defs><path id="TorquePlate-Regular_uni006C" d="M242 91H422V-91H158L35 52V688H217V120Z"/></defs>
+<use href="#TorquePlate-Regular_uni006C" transform="translate(1087.00 617) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1169" y="526" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1174" y="546" font-family="sans-serif" font-size="13" fill="#53616d">006D</text>
+<defs><path id="TorquePlate-Regular_uni006D" d="M158 521H316L348 484L380 521H538L661 378V0H479V310L459 333L439 310V0H257V310L237 333L217 310V0H35V430H80Z"/></defs>
+<use href="#TorquePlate-Regular_uni006D" transform="translate(1175.00 617) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1257" y="526" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1262" y="546" font-family="sans-serif" font-size="13" fill="#53616d">006E</text>
+<defs><path id="TorquePlate-Regular_uni006E" d="M249 521H538L661 378V0H479V310L454 339H299L217 292V0H35V430H93Z"/></defs>
+<use href="#TorquePlate-Regular_uni006E" transform="translate(1263.00 617) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1345" y="526" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1350" y="546" font-family="sans-serif" font-size="13" fill="#53616d">006F</text>
+<defs><path id="TorquePlate-Regular_uni006F" d="M35 52V378L158 521H538L661 378V52L538 -91H158ZM454 91 479 120V310L454 339H242L217 310V120L242 91Z"/></defs>
+<use href="#TorquePlate-Regular_uni006F" transform="translate(1351.00 617) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="25" y="640" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="30" y="660" font-family="sans-serif" font-size="13" fill="#53616d">0070</text>
+<defs><path id="TorquePlate-Regular_uni0070" d="M249 521H538L661 378V52L538 -91H249L217 -72V-172H35V430H93ZM299 91H454L479 120V310L454 339H299L217 292V138Z"/></defs>
+<use href="#TorquePlate-Regular_uni0070" transform="translate(31.00 731) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="113" y="640" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="118" y="660" font-family="sans-serif" font-size="13" fill="#53616d">0071</text>
+<defs><path id="TorquePlate-Regular_uni0071" d="M661 -172H479V-72L447 -91H158L35 52V378L158 521H447L603 430H661ZM397 339H242L217 310V120L242 91H397L479 138V292Z"/></defs>
+<use href="#TorquePlate-Regular_uni0071" transform="translate(119.00 731) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="201" y="640" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="206" y="660" font-family="sans-serif" font-size="13" fill="#53616d">0072</text>
+<defs><path id="TorquePlate-Regular_uni0072" d="M249 521H496V339H299L217 292V0H35V430H93Z"/></defs>
+<use href="#TorquePlate-Regular_uni0072" transform="translate(207.00 731) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="289" y="640" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="294" y="660" font-family="sans-serif" font-size="13" fill="#53616d">0073</text>
+<defs><path id="TorquePlate-Regular_uni0073" d="M280 338 576 252 719 86 567 -91H155V91H475L474 92L178 178L35 344L187 521H599V339H279Z"/></defs>
+<use href="#TorquePlate-Regular_uni0073" transform="translate(295.00 731) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="377" y="640" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="382" y="660" font-family="sans-serif" font-size="13" fill="#53616d">0074</text>
+<defs><path id="TorquePlate-Regular_uni0074" d="M479 91V-91H215L92 52V339H35V521H92V602H274V521H479V339H274V120L299 91Z"/></defs>
+<use href="#TorquePlate-Regular_uni0074" transform="translate(383.00 731) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="465" y="640" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="470" y="660" font-family="sans-serif" font-size="13" fill="#53616d">0075</text>
+<defs><path id="TorquePlate-Regular_uni0075" d="M454 91 479 120V430H661V0H616L538 -91H158L35 52V430H217V120L242 91Z"/></defs>
+<use href="#TorquePlate-Regular_uni0075" transform="translate(471.00 731) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="553" y="640" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="558" y="660" font-family="sans-serif" font-size="13" fill="#53616d">0076</text>
+<defs><path id="TorquePlate-Regular_uni0076" d="M479 472 641 388 338 -198 35 388 197 472 338 198Z"/></defs>
+<use href="#TorquePlate-Regular_uni0076" transform="translate(559.00 731) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="641" y="640" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="646" y="660" font-family="sans-serif" font-size="13" fill="#53616d">0077</text>
+<defs><path id="TorquePlate-Regular_uni0077" d="M346 441 448 264 479 445 658 415 549 -221 519 -227 346 75 174 -227 144 -221 35 415 214 445 245 264Z"/></defs>
+<use href="#TorquePlate-Regular_uni0077" transform="translate(647.00 731) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="729" y="640" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="734" y="660" font-family="sans-serif" font-size="13" fill="#53616d">0078</text>
+<defs><path id="TorquePlate-Regular_uni0078" d="M320 88 162 -65 35 65 190 215 35 365 162 495 320 342 479 495 606 365 451 215 606 65 479 -65Z"/></defs>
+<use href="#TorquePlate-Regular_uni0078" transform="translate(735.00 731) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="817" y="640" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="822" y="660" font-family="sans-serif" font-size="13" fill="#53616d">0079</text>
+<defs><path id="TorquePlate-Regular_uni0079" d="M116 -81H204L237 -4L35 388L197 472L338 198L479 472L641 388L420 -39L330 -250H116Z"/></defs>
+<use href="#TorquePlate-Regular_uni0079" transform="translate(823.00 731) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="905" y="640" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="910" y="660" font-family="sans-serif" font-size="13" fill="#53616d">007A</text>
+<defs><path id="TorquePlate-Regular_uni007A" d="M880 510 460 91H673V-91H39L35 -80L455 339H242V521H876Z"/></defs>
+<use href="#TorquePlate-Regular_uni007A" transform="translate(911.00 731) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="993" y="640" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="998" y="660" font-family="sans-serif" font-size="13" fill="#53616d">007B</text>
+<defs><path id="TorquePlate-Regular_uni007B" d="M299 496 415 362 299 216V-8L357 -39L293 -161L161 -92V264L235 358L161 444V796L298 854L352 726L299 704Z"/></defs>
+<use href="#TorquePlate-Regular_uni007B" transform="translate(999.00 731) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1081" y="640" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1086" y="660" font-family="sans-serif" font-size="13" fill="#53616d">007C</text>
+<defs><path id="TorquePlate-Regular_uni007C" d="M319 825V-160H181V825Z"/></defs>
+<use href="#TorquePlate-Regular_uni007C" transform="translate(1087.00 731) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1169" y="640" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1174" y="660" font-family="sans-serif" font-size="13" fill="#53616d">007D</text>
+<defs><path id="TorquePlate-Regular_uni007D" d="M339 444 265 358 339 264V-92L207 -161L143 -39L201 -8V216L85 362L201 496V704L148 726L202 854L339 796Z"/></defs>
+<use href="#TorquePlate-Regular_uni007D" transform="translate(1175.00 731) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1257" y="640" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1262" y="660" font-family="sans-serif" font-size="13" fill="#53616d">007E</text>
+<defs><path id="TorquePlate-Regular_uni007E" d="M324 422 380 462 460 348 316 248 171 368 119 333 41 447 179 542Z"/></defs>
+<use href="#TorquePlate-Regular_uni007E" transform="translate(1263.00 731) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1345" y="640" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1350" y="660" font-family="sans-serif" font-size="13" fill="#53616d">00A0</text>
+
+<rect x="25" y="754" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="30" y="774" font-family="sans-serif" font-size="13" fill="#53616d">00A1</text>
+<defs><path id="TorquePlate-Regular_uni00A1" d="M226 716 236 727 249 736 263 742 277 746 292 747 308 746 322 742 336 736 349 727 359 716 368 704 375 690 379 675 380 660 379 645 375 630 368 616 359 604 349 593 336 584 322 578 308 574 292 573 277 574 263 578 249 584 236 593 226 604 217 616 210 630 206 645 205 660 206 675 210 690 217 704ZM223 482H362V-15H223Z"/></defs>
+<use href="#TorquePlate-Regular_uni00A1" transform="translate(31.00 845) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="113" y="754" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="118" y="774" font-family="sans-serif" font-size="13" fill="#53616d">00A2</text>
+<defs><path id="TorquePlate-Regular_uni00A2" d="M152 -91 32 52V378L152 521H270V690H314V521H553V339H314V91H553V-91ZM270 91V339H233L209 310V120L233 91Z"/></defs>
+<use href="#TorquePlate-Regular_uni00A2" transform="translate(119.00 845) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="201" y="754" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="206" y="774" font-family="sans-serif" font-size="13" fill="#53616d">00A3</text>
+<defs><path id="TorquePlate-Regular_uni00A3" d="M209 240V91H553V-91H32V779H553V597H209V435H481V275H503V240Z"/></defs>
+<use href="#TorquePlate-Regular_uni00A3" transform="translate(207.00 845) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="289" y="754" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="294" y="774" font-family="sans-serif" font-size="13" fill="#53616d">00A4</text>
+<defs><path id="TorquePlate-Regular_uni00A4" d="M479 252 457 222 431 195 400 174 366 158 330 148 292 145 255 148 219 158 185 174 154 195 128 222 106 252 90 286 81 323 78 360 81 397 90 434 106 467 128 498 154 525 177 541 137 581 156 599 202 554 219 562 255 572 279 574V665H306V574L330 572L366 562L383 554L429 599L448 581L408 541L431 525L457 498L479 468L495 434L504 397L508 360L504 323L495 286ZM405 425 392 444 376 460 358 473 345 478 311 445 420 337H421L422 360L421 383L415 404ZM337 238 358 247 376 260 392 276 405 295 411 308 306 413V231L315 232ZM306 489V477L317 488H315ZM193 276 209 260 228 247 248 238 270 232 279 231V413L174 308L180 295ZM268 488 279 477V489L270 488ZM209 460 193 444 180 425 170 404 164 383 162 360 164 337H165L274 445L240 478L227 473Z"/></defs>
+<use href="#TorquePlate-Regular_uni00A4" transform="translate(295.00 845) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="377" y="754" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="382" y="774" font-family="sans-serif" font-size="13" fill="#53616d">00A5</text>
+<defs><path id="TorquePlate-Regular_uni00A5" d="M213 317 200 340H82V376H180L32 639L165 737L293 512L420 737L553 639L405 376H491V340H385L372 317V266H491V230H372V0H213V230H82V266H213Z"/></defs>
+<use href="#TorquePlate-Regular_uni00A5" transform="translate(383.00 845) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="465" y="754" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="470" y="774" font-family="sans-serif" font-size="13" fill="#53616d">00A6</text>
+<defs><path id="TorquePlate-Regular_uni00A6" d="M275 260H310V0H275ZM275 780H310V500H275Z"/></defs>
+<use href="#TorquePlate-Regular_uni00A6" transform="translate(471.00 845) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="553" y="754" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="558" y="774" font-family="sans-serif" font-size="13" fill="#53616d">00A7</text>
+<defs><path id="TorquePlate-Regular_uni00A7" d="M338 861 430 573 330 464 342 444 442 268 542 244 516 136 517 134 516 133 477 -29H43V357L160 484L48 678ZM181 109H368L369 115L232 358L181 303ZM261 649 234 632 258 590 274 607Z"/></defs>
+<use href="#TorquePlate-Regular_uni00A7" transform="translate(559.00 845) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="641" y="754" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="646" y="774" font-family="sans-serif" font-size="13" fill="#53616d">00A8</text>
+<defs><path id="TorquePlate-Regular_uni00A8" d="M252 439 250 435 247 431 243 428 240 425 235 423 230 421H226H221L216 423L212 425L208 428L204 431L201 435L199 439L198 444V449V454L199 459L201 463L204 467L208 470L212 473L216 475L221 477H226H230L235 475L240 473L243 470L247 467L250 463L252 459L253 454L254 449L253 444ZM386 439 384 435 381 431 377 428 374 425 369 423 364 421H360H355L350 423L346 425L342 428L338 431L335 435L333 439L332 444V449V454L333 459L335 463L338 467L342 470L346 473L350 475L355 477H360H364L369 475L374 473L377 470L381 467L384 463L386 459L387 454L388 449L387 444Z"/></defs>
+<use href="#TorquePlate-Regular_uni00A8" transform="translate(647.00 845) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="729" y="754" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="734" y="774" font-family="sans-serif" font-size="13" fill="#53616d">00A9</text>
+<defs><path id="TorquePlate-Regular_uni00A9" d="M503 180 469 144 453 132V112H424L386 93L340 79L292 75L245 79L199 93L155 115L116 144L82 180L54 223L34 269L22 319L20 341V399L22 421L34 471L54 517L82 560L116 596L155 625L199 647L220 653L231 669H453V608L469 596L503 560L531 518L551 471L563 421L565 399V341L563 319L551 269L531 223ZM481 540 453 569V552H276L263 534V247L276 228H453V171L481 200L505 238L524 280L535 324L538 370L535 416L524 460L505 502ZM335 110 341 112H244L250 110L292 106ZM104 540 80 502 61 460 50 416 47 370 50 324 61 280 80 238 104 200 134 168 170 141 208 122 227 116 164 203V577L186 607L170 599L134 572Z"/></defs>
+<use href="#TorquePlate-Regular_uni00A9" transform="translate(735.00 845) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="817" y="754" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="822" y="774" font-family="sans-serif" font-size="13" fill="#53616d">00AA</text>
+<defs><path id="TorquePlate-Regular_uni00AA" d="M113 479 193 574H392L443 514H472V230H413V170H193L113 264ZM247 290H354V435L338 454H247L231 435V309Z"/></defs>
+<use href="#TorquePlate-Regular_uni00AA" transform="translate(823.00 845) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="905" y="754" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="910" y="774" font-family="sans-serif" font-size="13" fill="#53616d">00AB</text>
+<defs><path id="TorquePlate-Regular_uni00AB" d="M45 360 401 719 444 677 481 714 540 656 247 360 540 64 481 6 444 43 401 1Z"/></defs>
+<use href="#TorquePlate-Regular_uni00AB" transform="translate(911.00 845) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="993" y="754" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="998" y="774" font-family="sans-serif" font-size="13" fill="#53616d">00AC</text>
+<defs><path id="TorquePlate-Regular_uni00AC" d="M483 250V365H73V405H483H512V365V250Z"/></defs>
+<use href="#TorquePlate-Regular_uni00AC" transform="translate(999.00 845) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1081" y="754" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1086" y="774" font-family="sans-serif" font-size="13" fill="#53616d">00AD</text>
+
+<rect x="1169" y="754" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1174" y="774" font-family="sans-serif" font-size="13" fill="#53616d">00AE</text>
+<defs><path id="TorquePlate-Regular_uni00AE" d="M503 180 469 144 430 115 386 93 340 79 292 75 245 79 199 93 155 115 116 144 82 180 54 223 34 269 22 319 20 341V399L22 421L34 471L54 517L82 560L116 596L155 625L164 630V669H436L503 577V560L531 518L551 471L563 421L565 399V341L563 319L551 269L531 223ZM503 507V424L436 332H424L489 212L505 238L524 280L535 324L538 370L535 416L524 460L505 502ZM80 502 61 460 50 416 47 370 50 324 61 280 80 238 104 200 134 168 170 141 208 122 250 110 292 106 335 110 377 122 412 139 307 332H263V170H164V595L134 572L104 540ZM263 448H391L404 467V534L391 552H263ZM217 519 216 520H215L214 521H213H212L210 520H209L208 519L207 518V517L206 515V514V512V511V510L207 508V507L208 506L209 505H210L212 504H213H214L215 505H216L217 506L218 507L219 508V510L220 511V512V514L219 515V517L218 518Z"/></defs>
+<use href="#TorquePlate-Regular_uni00AE" transform="translate(1175.00 845) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1257" y="754" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1262" y="774" font-family="sans-serif" font-size="13" fill="#53616d">00AF</text>
+<defs><path id="TorquePlate-Regular_uni00AF" d="M376 421H210V477H376Z"/></defs>
+<use href="#TorquePlate-Regular_uni00AF" transform="translate(1263.00 845) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1345" y="754" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1350" y="774" font-family="sans-serif" font-size="13" fill="#53616d">00B0</text>
+<defs><path id="TorquePlate-Regular_uni00B0" d="M389 590 382 574 371 559 359 546 344 536 328 528 310 524 292 522 275 524 257 528 241 536 226 546 214 559 203 574 196 590 191 607 190 625 191 643 196 660 203 676 214 691 226 704 241 714 257 722 275 726 292 728 310 726 328 722 344 714 359 704 371 691 382 676 389 660 394 643 396 625 394 607ZM353 647 348 657 342 666 334 674 324 680 314 685 304 688 292 689 281 688 271 685 260 680 251 674 243 666 237 657 232 647 229 636 228 625 229 614 232 603 237 593 243 584 251 576 260 570 271 565 281 562 292 561 304 562 314 565 324 570 334 576 342 584 348 593 353 603 356 614V625V636Z"/></defs>
+<use href="#TorquePlate-Regular_uni00B0" transform="translate(1351.00 845) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="25" y="868" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="30" y="888" font-family="sans-serif" font-size="13" fill="#53616d">00B1</text>
+<defs><path id="TorquePlate-Regular_uni00B1" d="M362 125H223V283H94V421H223V580H362V421H491V283H362ZM105 110H480V80H105Z"/></defs>
+<use href="#TorquePlate-Regular_uni00B1" transform="translate(31.00 959) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="113" y="868" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="118" y="888" font-family="sans-serif" font-size="13" fill="#53616d">00B2</text>
+<defs><path id="TorquePlate-Regular_uni00B2" d="M484 611 325 449H438V351H103L101 357L391 653V707L378 722H269L245 693L175 757L227 821H421L484 743Z"/></defs>
+<use href="#TorquePlate-Regular_uni00B2" transform="translate(119.00 959) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="201" y="868" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="206" y="888" font-family="sans-serif" font-size="13" fill="#53616d">00B3</text>
+<defs><path id="TorquePlate-Regular_uni00B3" d="M148 449H325L339 465V511L295 537H228V635H295L339 660V707L325 722H148V821H370L437 743V604L406 586L437 568V428L370 351H148Z"/></defs>
+<use href="#TorquePlate-Regular_uni00B3" transform="translate(207.00 959) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="289" y="868" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="294" y="888" font-family="sans-serif" font-size="13" fill="#53616d">00B4</text>
+<defs><path id="TorquePlate-Regular_uni00B4" d="M345 481 283 403 240 437 302 515Z"/></defs>
+<use href="#TorquePlate-Regular_uni00B4" transform="translate(295.00 959) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="377" y="868" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="382" y="888" font-family="sans-serif" font-size="13" fill="#53616d">00B5</text>
+<defs><path id="TorquePlate-Regular_uni00B5" d="M55 11 20 52V430H200V120L225 91H435L460 120V430H565V-36L518 -91H142L101 -43V-172H55Z"/></defs>
+<use href="#TorquePlate-Regular_uni00B5" transform="translate(383.00 959) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="465" y="868" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="470" y="888" font-family="sans-serif" font-size="13" fill="#53616d">00B6</text>
+<defs><path id="TorquePlate-Regular_uni00B6" d="M285 4 296 171H222L211 -5L72 5L84 171H70V309H93L101 441H70V579H111L121 745L260 735L249 579H323L333 744L472 736L461 579H515V441H452L444 309H515V171H435L424 -4ZM314 441H240L231 309H305Z"/></defs>
+<use href="#TorquePlate-Regular_uni00B6" transform="translate(471.00 959) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="553" y="868" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="558" y="888" font-family="sans-serif" font-size="13" fill="#53616d">00B7</text>
+<defs><path id="TorquePlate-Regular_uni00B7" d="M344 569 402 627 475 553 366 445 475 337 402 263 344 321V215H241V321L183 263L110 337L219 445L110 553L183 627L241 569V665H344Z"/></defs>
+<use href="#TorquePlate-Regular_uni00B7" transform="translate(559.00 959) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="641" y="868" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="646" y="888" font-family="sans-serif" font-size="13" fill="#53616d">00B8</text>
+<defs><path id="TorquePlate-Regular_uni00B8" d="M376 386H210V442H376Z"/></defs>
+<use href="#TorquePlate-Regular_uni00B8" transform="translate(647.00 959) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="729" y="868" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="734" y="888" font-family="sans-serif" font-size="13" fill="#53616d">00B9</text>
+<defs><path id="TorquePlate-Regular_uni00B9" d="M258 449V671L218 640L158 717L357 872V449H427V351H188V449Z"/></defs>
+<use href="#TorquePlate-Regular_uni00B9" transform="translate(735.00 959) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="817" y="868" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="822" y="888" font-family="sans-serif" font-size="13" fill="#53616d">00BA</text>
+<defs><path id="TorquePlate-Regular_uni00BA" d="M169 574H416L496 479V264L416 170H169L89 264V479ZM378 435 362 454H223L207 435V309L223 290H362L378 309Z"/></defs>
+<use href="#TorquePlate-Regular_uni00BA" transform="translate(823.00 959) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="905" y="868" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="910" y="888" font-family="sans-serif" font-size="13" fill="#53616d">00BB</text>
+<defs><path id="TorquePlate-Regular_uni00BB" d="M48 69 336 360 48 651 117 719 154 682 187 714 537 360 187 6 154 38 117 1Z"/></defs>
+<use href="#TorquePlate-Regular_uni00BB" transform="translate(911.00 959) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="993" y="868" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="998" y="888" font-family="sans-serif" font-size="13" fill="#53616d">00BC</text>
+<defs><path id="TorquePlate-Regular_uni00BC" d="M228 314H57V386H113V551L81 528L33 585L191 699V386H248V380L322 636L362 624L204 79L164 91ZM542 275H552V0H503V67H298L512 299ZM468 140H503V177Z"/></defs>
+<use href="#TorquePlate-Regular_uni00BC" transform="translate(999.00 959) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1081" y="868" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1086" y="888" font-family="sans-serif" font-size="13" fill="#53616d">00BD</text>
+<defs><path id="TorquePlate-Regular_uni00BD" d="M228 314H57V386H113V551L81 528L33 585L191 699V386H248V380L322 636L362 624L204 79L164 91ZM552 36V-36H288L287 -32L518 187V227L508 239H421L402 217L345 265L387 312H542L552 299V119L465 36Z"/></defs>
+<use href="#TorquePlate-Regular_uni00BD" transform="translate(1087.00 959) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1169" y="868" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1174" y="888" font-family="sans-serif" font-size="13" fill="#53616d">00BE</text>
+<defs><path id="TorquePlate-Regular_uni00BE" d="M244 355 206 314H29V386H170L181 398V432L146 451H92V524H146L181 543V577L170 589H29V662H206L259 604V501L234 488L259 474V406L325 636L366 624L208 79L167 91ZM546 275H556V0H507V67H301L516 299ZM472 140H507V177Z"/></defs>
+<use href="#TorquePlate-Regular_uni00BE" transform="translate(1175.00 959) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1257" y="868" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1262" y="888" font-family="sans-serif" font-size="13" fill="#53616d">00BF</text>
+<defs><path id="TorquePlate-Regular_uni00BF" d="M228 475H366V285L235 126L257 59H349L369 172L505 148L465 -79H157L80 154L228 335ZM230 717 241 728 254 737 267 743 282 747 297 748 312 747 327 743 341 737 353 728 364 717 373 705 379 691 383 676 385 661 383 646 379 631 373 617 364 605 353 594 341 585 327 579 312 575 297 574 282 575 267 579 254 585 241 594 230 605 222 617 215 631 211 646 210 661 211 676 215 691 222 705Z"/></defs>
+<use href="#TorquePlate-Regular_uni00BF" transform="translate(1263.00 959) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1345" y="868" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1350" y="888" font-family="sans-serif" font-size="13" fill="#53616d">00C0</text>
+<defs><path id="TorquePlate-Regular_uni00C0" d="M275 926 318 960 354 916H366L374 891L380 882L377 880L652 28L479 -28L410 184H277L208 -28L35 28L310 881ZM343 392 335 366H352Z"/></defs>
+<use href="#TorquePlate-Regular_uni00C0" transform="translate(1351.00 959) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="25" y="982" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="30" y="1002" font-family="sans-serif" font-size="13" fill="#53616d">00C1</text>
+<defs><path id="TorquePlate-Regular_uni00C1" d="M307 882 313 891 321 916H333L369 960L412 926L377 881L652 28L479 -28L410 184H277L208 -28L35 28L310 880ZM343 392 335 366H352Z"/></defs>
+<use href="#TorquePlate-Regular_uni00C1" transform="translate(31.00 1073) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="113" y="982" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="118" y="1002" font-family="sans-serif" font-size="13" fill="#53616d">00C2</text>
+<defs><path id="TorquePlate-Regular_uni00C2" d="M276 835 237 875 344 977 450 875 411 835 383 862 652 28 479 -28 410 184H277L208 -28L35 28L304 862ZM343 392 335 366H352Z"/></defs>
+<use href="#TorquePlate-Regular_uni00C2" transform="translate(119.00 1073) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="201" y="982" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="206" y="1002" font-family="sans-serif" font-size="13" fill="#53616d">00C3</text>
+<defs><path id="TorquePlate-Regular_uni00C3" d="M308 877 279 857 248 903 307 943 352 916H366L367 912L410 935L437 885L384 857L652 28L479 -28L410 184H277L208 -28L35 28L309 876ZM343 392 335 366H352Z"/></defs>
+<use href="#TorquePlate-Regular_uni00C3" transform="translate(207.00 1073) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="289" y="982" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="294" y="1002" font-family="sans-serif" font-size="13" fill="#53616d">00C4</text>
+<defs><path id="TorquePlate-Regular_uni00C4" d="M366 916 652 28 479 -28 410 184H277L208 -28L35 28L321 916ZM343 392 335 366H352ZM294 873 290 870 286 868 281 866H276H272L267 868L262 870L259 873L255 876L252 880L250 884L249 889L248 894L249 899L250 904L252 908L255 912L259 915L262 918L267 920L272 922H276H281L286 920L290 918L294 915L298 912L301 908L303 904L304 899V894V889L303 884L301 880L298 876ZM428 873 424 870 420 868 415 866H410H406L401 868L396 870L393 873L389 876L386 880L384 884L383 889L382 894L383 899L384 904L386 908L389 912L393 915L396 918L401 920L406 922H410H415L420 920L424 918L428 915L432 912L435 908L437 904L438 899V894V889L437 884L435 880L432 876Z"/></defs>
+<use href="#TorquePlate-Regular_uni00C4" transform="translate(295.00 1073) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="377" y="982" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="382" y="1002" font-family="sans-serif" font-size="13" fill="#53616d">00C5</text>
+<defs><path id="TorquePlate-Regular_uni00C5" d="M293 849 286 858 281 868 279 880 278 891 279 902 281 914 286 924 293 933 301 942 310 948 321 953 332 956 344 957 355 956 366 953 376 948 386 942 394 933 401 924 406 914 408 902 410 891 408 880 406 868 401 858 394 849 389 843 652 28 479 -28 410 184H277L208 -28L35 28L298 843ZM378 878 380 885V891V897L378 904L376 910L372 915L367 919L362 923L356 926L350 927L344 928L337 927L331 926L325 923L320 919L315 915L311 910L309 904L307 897L306 891L307 885L309 878L321 916H366ZM343 392 335 366H352Z"/></defs>
+<use href="#TorquePlate-Regular_uni00C5" transform="translate(383.00 1073) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="465" y="982" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="470" y="1002" font-family="sans-serif" font-size="13" fill="#53616d">00C6</text>
+<defs><path id="TorquePlate-Regular_uni00C6" d="M391 91H563V-91H242V184H172L129 -28L22 28L199 916H227L254 779H563V597H351V435H519V253H359ZM213 392 208 366H218Z"/></defs>
+<use href="#TorquePlate-Regular_uni00C6" transform="translate(471.00 1073) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="553" y="982" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="558" y="1002" font-family="sans-serif" font-size="13" fill="#53616d">00C7</text>
+<defs><path id="TorquePlate-Regular_uni00C7" d="M388 -106V-112L387 -118L386 -124L385 -130L382 -136L380 -141L376 -146L373 -151L307 -227L210 -143L250 -98L247 -91H158L35 52V636L158 779H570V597H242L217 568V120L242 91H570V-91H386L387 -95L388 -100Z"/></defs>
+<use href="#TorquePlate-Regular_uni00C7" transform="translate(559.00 1073) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="641" y="982" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="646" y="1002" font-family="sans-serif" font-size="13" fill="#53616d">00C8</text>
+<defs><path id="TorquePlate-Regular_uni00C8" d="M217 91H570V-91H35V779H570V597H217V435H496V253H217ZM296 848 234 926 277 960 339 882Z"/></defs>
+<use href="#TorquePlate-Regular_uni00C8" transform="translate(647.00 1073) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="729" y="982" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="734" y="1002" font-family="sans-serif" font-size="13" fill="#53616d">00C9</text>
+<defs><path id="TorquePlate-Regular_uni00C9" d="M217 91H570V-91H35V779H570V597H217V435H496V253H217ZM266 882 328 960 371 926 309 848Z"/></defs>
+<use href="#TorquePlate-Regular_uni00C9" transform="translate(735.00 1073) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="817" y="982" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="822" y="1002" font-family="sans-serif" font-size="13" fill="#53616d">00CA</text>
+<defs><path id="TorquePlate-Regular_uni00CA" d="M217 91H570V-91H35V779H570V597H217V435H496V253H217ZM302 899 235 835 196 875 302 977 409 875 370 835Z"/></defs>
+<use href="#TorquePlate-Regular_uni00CA" transform="translate(823.00 1073) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="905" y="982" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="910" y="1002" font-family="sans-serif" font-size="13" fill="#53616d">00CB</text>
+<defs><path id="TorquePlate-Regular_uni00CB" d="M217 91H570V-91H35V779H570V597H217V435H496V253H217ZM253 873 250 870 245 868 240 866H236H231L226 868L222 870L218 873L214 876L211 880L209 884L208 889V894V899L209 904L211 908L214 912L218 915L222 918L226 920L231 922H236H240L245 920L250 918L253 915L257 912L260 908L262 904L263 899L264 894L263 889L262 884L260 880L257 876ZM387 873 384 870 379 868 374 866H370H365L360 868L356 870L352 873L348 876L345 880L343 884L342 889V894V899L343 904L345 908L348 912L352 915L356 918L360 920L365 922H370H374L379 920L384 918L387 915L391 912L394 908L396 904L397 899L398 894L397 889L396 884L394 880L391 876Z"/></defs>
+<use href="#TorquePlate-Regular_uni00CB" transform="translate(911.00 1073) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="993" y="982" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="998" y="1002" font-family="sans-serif" font-size="13" fill="#53616d">00CC</text>
+<defs><path id="TorquePlate-Regular_uni00CC" d="M166 597H35V779H479V597H348V91H479V-91H35V91H166ZM250 848 188 926 232 960 294 882Z"/></defs>
+<use href="#TorquePlate-Regular_uni00CC" transform="translate(999.00 1073) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1081" y="982" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1086" y="1002" font-family="sans-serif" font-size="13" fill="#53616d">00CD</text>
+<defs><path id="TorquePlate-Regular_uni00CD" d="M166 597H35V779H479V597H348V91H479V-91H35V91H166ZM220 882 282 960 326 926 264 848Z"/></defs>
+<use href="#TorquePlate-Regular_uni00CD" transform="translate(1087.00 1073) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1169" y="982" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1174" y="1002" font-family="sans-serif" font-size="13" fill="#53616d">00CE</text>
+<defs><path id="TorquePlate-Regular_uni00CE" d="M166 597H35V779H479V597H348V91H479V-91H35V91H166ZM257 899 189 835 151 875 257 977 363 875 325 835Z"/></defs>
+<use href="#TorquePlate-Regular_uni00CE" transform="translate(1175.00 1073) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1257" y="982" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1262" y="1002" font-family="sans-serif" font-size="13" fill="#53616d">00CF</text>
+<defs><path id="TorquePlate-Regular_uni00CF" d="M166 597H35V779H479V597H348V91H479V-91H35V91H166ZM208 873 204 870 200 868 195 866H190H185L180 868L176 870L172 873L169 876L166 880L164 884L162 889V894V899L164 904L166 908L169 912L172 915L176 918L180 920L185 922H190H195L200 920L204 918L208 915L211 912L214 908L216 904L218 899V894V889L216 884L214 880L211 876ZM342 873 338 870 334 868 329 866H324H319L314 868L310 870L306 873L303 876L300 880L298 884L296 889V894V899L298 904L300 908L303 912L306 915L310 918L314 920L319 922H324H329L334 920L338 918L342 915L345 912L348 908L350 904L352 899V894V889L350 884L348 880L345 876Z"/></defs>
+<use href="#TorquePlate-Regular_uni00CF" transform="translate(1263.00 1073) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1345" y="982" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1350" y="1002" font-family="sans-serif" font-size="13" fill="#53616d">00D0</text>
+<defs><path id="TorquePlate-Regular_uni00D0" d="M389 -91H32V779H389L553 550V138ZM183 91H319L402 206V360H183ZM183 597V398H402V482L319 597ZM114 545 112 546 110 547 109 548H107H105L103 547L101 546L100 545L98 543L97 542V539L96 537V535V533L97 531V528L98 527L100 525L101 524L103 523L105 522H107H109L110 523L112 524L114 525L115 527L116 528L117 531V533L118 535L117 537V539L116 542L115 543Z"/></defs>
+<use href="#TorquePlate-Regular_uni00D0" transform="translate(1351.00 1073) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="25" y="1096" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="30" y="1116" font-family="sans-serif" font-size="13" fill="#53616d">00D1</text>
+<defs><path id="TorquePlate-Regular_uni00D1" d="M661 688V-210L608 -226L217 379V0H35V898L88 914L479 309V688ZM441 885 365 845 313 877 284 857 252 903 311 943 367 909 415 935Z"/></defs>
+<use href="#TorquePlate-Regular_uni00D1" transform="translate(31.00 1187) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="113" y="1096" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="118" y="1116" font-family="sans-serif" font-size="13" fill="#53616d">00D2</text>
+<defs><path id="TorquePlate-Regular_uni00D2" d="M661 636V52L538 -91H158L35 52V636L158 779H538ZM242 597 217 568V120L242 91H454L479 120V568L454 597ZM133 545 131 546 129 547 127 548H125H123L120 547L118 546L116 545L115 543L114 542L113 539L112 537V535V533L113 531L114 528L115 527L116 525L118 524L120 523L123 522H125H127L129 523L131 524L133 525L135 527L136 528L137 531L138 533V535V537L137 539L136 542L135 543ZM341 848 279 926 323 960 385 882Z"/></defs>
+<use href="#TorquePlate-Regular_uni00D2" transform="translate(119.00 1187) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="201" y="1096" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="206" y="1116" font-family="sans-serif" font-size="13" fill="#53616d">00D3</text>
+<defs><path id="TorquePlate-Regular_uni00D3" d="M661 636V52L538 -91H158L35 52V636L158 779H538ZM242 597 217 568V120L242 91H454L479 120V568L454 597ZM133 545 131 546 129 547 127 548H125H123L120 547L118 546L116 545L115 543L114 542L113 539L112 537V535V533L113 531L114 528L115 527L116 525L118 524L120 523L123 522H125H127L129 523L131 524L133 525L135 527L136 528L137 531L138 533V535V537L137 539L136 542L135 543ZM311 882 373 960 417 926 355 848Z"/></defs>
+<use href="#TorquePlate-Regular_uni00D3" transform="translate(207.00 1187) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="289" y="1096" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="294" y="1116" font-family="sans-serif" font-size="13" fill="#53616d">00D4</text>
+<defs><path id="TorquePlate-Regular_uni00D4" d="M661 636V52L538 -91H158L35 52V636L158 779H538ZM242 597 217 568V120L242 91H454L479 120V568L454 597ZM133 545 131 546 129 547 127 548H125H123L120 547L118 546L116 545L115 543L114 542L113 539L112 537V535V533L113 531L114 528L115 527L116 525L118 524L120 523L123 522H125H127L129 523L131 524L133 525L135 527L136 528L137 531L138 533V535V537L137 539L136 542L135 543ZM348 899 280 835 242 875 348 977 454 875 416 835Z"/></defs>
+<use href="#TorquePlate-Regular_uni00D4" transform="translate(295.00 1187) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="377" y="1096" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="382" y="1116" font-family="sans-serif" font-size="13" fill="#53616d">00D5</text>
+<defs><path id="TorquePlate-Regular_uni00D5" d="M661 636V52L538 -91H158L35 52V636L158 779H538ZM242 597 217 568V120L242 91H454L479 120V568L454 597ZM133 545 131 546 129 547 127 548H125H123L120 547L118 546L116 545L115 543L114 542L113 539L112 537V535V533L113 531L114 528L115 527L116 525L118 524L120 523L123 522H125H127L129 523L131 524L133 525L135 527L136 528L137 531L138 533V535V537L137 539L136 542L135 543ZM441 885 365 845 313 877 284 857 252 903 311 943 367 909 415 935Z"/></defs>
+<use href="#TorquePlate-Regular_uni00D5" transform="translate(383.00 1187) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="465" y="1096" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="470" y="1116" font-family="sans-serif" font-size="13" fill="#53616d">00D6</text>
+<defs><path id="TorquePlate-Regular_uni00D6" d="M661 636V52L538 -91H158L35 52V636L158 779H538ZM242 597 217 568V120L242 91H454L479 120V568L454 597ZM133 545 131 546 129 547 127 548H125H123L120 547L118 546L116 545L115 543L114 542L113 539L112 537V535V533L113 531L114 528L115 527L116 525L118 524L120 523L123 522H125H127L129 523L131 524L133 525L135 527L136 528L137 531L138 533V535V537L137 539L136 542L135 543ZM299 873 295 870 291 868 286 866H281H276L271 868L267 870L263 873L260 876L257 880L255 884L253 889V894V899L255 904L257 908L260 912L263 915L267 918L271 920L276 922H281H286L291 920L295 918L299 915L302 912L305 908L307 904L309 899V894V889L307 884L305 880L302 876ZM433 873 429 870 425 868 420 866H415H410L405 868L401 870L397 873L394 876L391 880L389 884L387 889V894V899L389 904L391 908L394 912L397 915L401 918L405 920L410 922H415H420L425 920L429 918L433 915L436 912L439 908L441 904L443 899V894V889L441 884L439 880L436 876Z"/></defs>
+<use href="#TorquePlate-Regular_uni00D6" transform="translate(471.00 1187) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="553" y="1096" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="558" y="1116" font-family="sans-serif" font-size="13" fill="#53616d">00D7</text>
+<defs><path id="TorquePlate-Regular_uni00D7" d="M362 611 390 639 487 541 391 445 487 349 390 251 362 279V215H223V279L195 251L98 349L194 445L98 541L195 639L223 611V665H362Z"/></defs>
+<use href="#TorquePlate-Regular_uni00D7" transform="translate(559.00 1187) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="641" y="1096" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="646" y="1116" font-family="sans-serif" font-size="13" fill="#53616d">00D8</text>
+<defs><path id="TorquePlate-Regular_uni00D8" d="M543 636V52L444 -91H141L42 52V636L141 779H444ZM378 91 397 120V454L227 91ZM188 264 344 597H207L188 568ZM121 545 119 546 117 547 116 548H114H112L110 547L109 546L107 545L106 543L105 542L104 539V537L103 535L104 533V531L105 528L106 527L107 525L109 524L110 523L112 522H114H116L117 523L119 524L121 525L122 527L123 528L124 531V533V535V537V539L123 542L122 543Z"/></defs>
+<use href="#TorquePlate-Regular_uni00D8" transform="translate(647.00 1187) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="729" y="1096" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="734" y="1116" font-family="sans-serif" font-size="13" fill="#53616d">00D9</text>
+<defs><path id="TorquePlate-Regular_uni00D9" d="M479 688H661V52L538 -91H158L35 52V688H217V120L242 91H454L479 120ZM341 763 279 841 323 875 385 797Z"/></defs>
+<use href="#TorquePlate-Regular_uni00D9" transform="translate(735.00 1187) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="817" y="1096" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="822" y="1116" font-family="sans-serif" font-size="13" fill="#53616d">00DA</text>
+<defs><path id="TorquePlate-Regular_uni00DA" d="M479 688H661V52L538 -91H158L35 52V688H217V120L242 91H454L479 120ZM311 797 373 875 417 841 355 763Z"/></defs>
+<use href="#TorquePlate-Regular_uni00DA" transform="translate(823.00 1187) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="905" y="1096" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="910" y="1116" font-family="sans-serif" font-size="13" fill="#53616d">00DB</text>
+<defs><path id="TorquePlate-Regular_uni00DB" d="M479 688H661V52L538 -91H158L35 52V688H217V120L242 91H454L479 120ZM348 814 280 750 242 790 348 892 454 790 416 750Z"/></defs>
+<use href="#TorquePlate-Regular_uni00DB" transform="translate(911.00 1187) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="993" y="1096" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="998" y="1116" font-family="sans-serif" font-size="13" fill="#53616d">00DC</text>
+<defs><path id="TorquePlate-Regular_uni00DC" d="M479 688H661V52L538 -91H158L35 52V688H217V120L242 91H454L479 120ZM299 788 295 785 291 783 286 781H281H276L271 783L267 785L263 788L260 791L257 795L255 799L253 804V809V814L255 819L257 823L260 827L263 830L267 833L271 835L276 837H281H286L291 835L295 833L299 830L302 827L305 823L307 819L309 814V809V804L307 799L305 795L302 791ZM433 788 429 785 425 783 420 781H415H410L405 783L401 785L397 788L394 791L391 795L389 799L387 804V809V814L389 819L391 823L394 827L397 830L401 833L405 835L410 837H415H420L425 835L429 833L433 830L436 827L439 823L441 819L443 814V809V804L441 799L439 795L436 791Z"/></defs>
+<use href="#TorquePlate-Regular_uni00DC" transform="translate(999.00 1187) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1081" y="1096" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1086" y="1116" font-family="sans-serif" font-size="13" fill="#53616d">00DD</text>
+<defs><path id="TorquePlate-Regular_uni00DD" d="M334 512 479 737 632 639 424 317V0H242V317L35 639L188 737ZM297 847 359 925 402 890 340 812Z"/></defs>
+<use href="#TorquePlate-Regular_uni00DD" transform="translate(1087.00 1187) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1169" y="1096" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1174" y="1116" font-family="sans-serif" font-size="13" fill="#53616d">00DE</text>
+<defs><path id="TorquePlate-Regular_uni00DE" d="M450 253H183V0H32V779H450L553 636V396ZM381 597H183V435H381L402 464V568ZM115 543 114 545 112 546 110 547 109 548H107H105L103 547L101 546L100 545L98 543L97 542V539L96 537V535V533L97 531V528L98 527L100 525L101 524L103 523L105 522H107H109L110 523L112 524L114 525L115 527L116 528L117 531V533L118 535L117 537V539L116 542Z"/></defs>
+<use href="#TorquePlate-Regular_uni00DE" transform="translate(1175.00 1187) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1257" y="1096" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1262" y="1116" font-family="sans-serif" font-size="13" fill="#53616d">00DF</text>
+<defs><path id="TorquePlate-Regular_uni00DF" d="M32 779H374L553 654V378L505 344L553 310V34L374 -91H108V0H32ZM183 435H334L402 482V550L334 597H183ZM285 203 402 154V203ZM183 91H280L242 107L183 206ZM183 207 211 253H183ZM114 545 112 546 110 547 109 548H107H105L103 547L101 546L100 545L98 543L97 542V539L96 537V535V533L97 531V528L98 527L100 525L101 524L103 523L105 522H107H109L110 523L112 524L114 525L115 527L116 528L117 531V533L118 535L117 537V539L116 542L115 543Z"/></defs>
+<use href="#TorquePlate-Regular_uni00DF" transform="translate(1263.00 1187) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1345" y="1096" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1350" y="1116" font-family="sans-serif" font-size="13" fill="#53616d">00E0</text>
+<defs><path id="TorquePlate-Regular_uni00E0" d="M158 521H464L542 430H587V0H496V-91H158L35 52V378ZM405 91V310L380 339H242L217 310V120L242 91ZM304 596 242 674 286 708 348 630Z"/></defs>
+<use href="#TorquePlate-Regular_uni00E0" transform="translate(1351.00 1187) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="25" y="1210" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="30" y="1230" font-family="sans-serif" font-size="13" fill="#53616d">00E1</text>
+<defs><path id="TorquePlate-Regular_uni00E1" d="M158 521H464L542 430H587V0H496V-91H158L35 52V378ZM405 91V310L380 339H242L217 310V120L242 91ZM274 630 336 708 380 674 318 596Z"/></defs>
+<use href="#TorquePlate-Regular_uni00E1" transform="translate(31.00 1301) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="113" y="1210" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="118" y="1230" font-family="sans-serif" font-size="13" fill="#53616d">00E2</text>
+<defs><path id="TorquePlate-Regular_uni00E2" d="M158 521H464L542 430H587V0H496V-91H158L35 52V378ZM405 91V310L380 339H242L217 310V120L242 91ZM311 647 243 583 205 623 311 725 417 623 379 583Z"/></defs>
+<use href="#TorquePlate-Regular_uni00E2" transform="translate(119.00 1301) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="201" y="1210" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="206" y="1230" font-family="sans-serif" font-size="13" fill="#53616d">00E3</text>
+<defs><path id="TorquePlate-Regular_uni00E3" d="M158 521H464L542 430H587V0H496V-91H158L35 52V378ZM405 91V310L380 339H242L217 310V120L242 91ZM404 633 328 593 276 625 247 605 215 651 274 691 330 657 378 683Z"/></defs>
+<use href="#TorquePlate-Regular_uni00E3" transform="translate(207.00 1301) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="289" y="1210" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="294" y="1230" font-family="sans-serif" font-size="13" fill="#53616d">00E4</text>
+<defs><path id="TorquePlate-Regular_uni00E4" d="M158 521H464L542 430H587V0H496V-91H158L35 52V378ZM405 91V310L380 339H242L217 310V120L242 91ZM262 621 258 618 254 616 249 614H244H239L234 616L230 618L226 621L223 624L220 628L218 632L216 637V642V647L218 652L220 656L223 660L226 663L230 666L234 668L239 670H244H249L254 668L258 666L262 663L265 660L268 656L270 652L272 647V642V637L270 632L268 628L265 624ZM396 621 392 618 388 616 383 614H378H373L368 616L364 618L360 621L357 624L354 628L352 632L350 637V642V647L352 652L354 656L357 660L360 663L364 666L368 668L373 670H378H383L388 668L392 666L396 663L399 660L402 656L404 652L406 647V642V637L404 632L402 628L399 624Z"/></defs>
+<use href="#TorquePlate-Regular_uni00E4" transform="translate(295.00 1301) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="377" y="1210" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="382" y="1230" font-family="sans-serif" font-size="13" fill="#53616d">00E5</text>
+<defs><path id="TorquePlate-Regular_uni00E5" d="M158 521H464L542 430H587V0H496V-91H158L35 52V378ZM405 91V310L380 339H242L217 310V120L242 91ZM362 597 353 588 344 582 334 577 322 574 311 573 300 574 288 577 278 582 269 588 260 597 254 606 249 616 246 628 245 639 246 650 249 662 254 672 260 681 269 690 278 696 288 701 300 704 311 705 322 704 334 701 344 696 353 690 362 681 368 672 373 662 376 650 377 639 376 628 373 616 368 606ZM339 663 335 667 330 671 324 674 317 675 311 676 305 675 298 674 292 671 287 667 283 663 279 658 276 652 275 645 274 639 275 633 276 626 279 620 283 615 287 611 292 607 298 604 305 603 311 602 317 603 324 604 330 607 335 611 339 615 343 620 346 626 347 633 348 639 347 645 346 652 343 658Z"/></defs>
+<use href="#TorquePlate-Regular_uni00E5" transform="translate(383.00 1301) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="465" y="1210" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="470" y="1230" font-family="sans-serif" font-size="13" fill="#53616d">00E6</text>
+<defs><path id="TorquePlate-Regular_uni00E6" d="M91 521H263L276 494L289 521H496L563 378V124H332V96L335 91H513V-91H289L281 -74V-91H91L22 52V378ZM464 310 450 339H335L332 334V306H464ZM222 91V327L216 339H138L124 310V120L138 91Z"/></defs>
+<use href="#TorquePlate-Regular_uni00E6" transform="translate(471.00 1301) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="553" y="1210" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="558" y="1230" font-family="sans-serif" font-size="13" fill="#53616d">00E7</text>
+<defs><path id="TorquePlate-Regular_uni00E7" d="M388 -106V-112L387 -118L386 -124L385 -130L382 -136L380 -141L376 -146L373 -151L307 -227L210 -143L250 -98L247 -91H158L35 52V378L158 521H570V339H242L217 310V120L242 91H570V-91H386L387 -95L388 -100Z"/></defs>
+<use href="#TorquePlate-Regular_uni00E7" transform="translate(559.00 1301) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="641" y="1210" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="646" y="1230" font-family="sans-serif" font-size="13" fill="#53616d">00E8</text>
+<defs><path id="TorquePlate-Regular_uni00E8" d="M570 -91H158L35 52V378L158 521H538L661 378V124H217V120L242 91H570ZM242 339 217 310V306H479V310L454 339ZM341 596 279 674 323 708 385 630Z"/></defs>
+<use href="#TorquePlate-Regular_uni00E8" transform="translate(647.00 1301) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="729" y="1210" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="734" y="1230" font-family="sans-serif" font-size="13" fill="#53616d">00E9</text>
+<defs><path id="TorquePlate-Regular_uni00E9" d="M570 -91H158L35 52V378L158 521H538L661 378V124H217V120L242 91H570ZM242 339 217 310V306H479V310L454 339ZM311 630 373 708 417 674 355 596Z"/></defs>
+<use href="#TorquePlate-Regular_uni00E9" transform="translate(735.00 1301) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="817" y="1210" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="822" y="1230" font-family="sans-serif" font-size="13" fill="#53616d">00EA</text>
+<defs><path id="TorquePlate-Regular_uni00EA" d="M570 -91H158L35 52V378L158 521H538L661 378V124H217V120L242 91H570ZM242 339 217 310V306H479V310L454 339ZM348 647 280 583 242 623 348 725 454 623 416 583Z"/></defs>
+<use href="#TorquePlate-Regular_uni00EA" transform="translate(823.00 1301) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="905" y="1210" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="910" y="1230" font-family="sans-serif" font-size="13" fill="#53616d">00EB</text>
+<defs><path id="TorquePlate-Regular_uni00EB" d="M570 -91H158L35 52V378L158 521H538L661 378V124H217V120L242 91H570ZM242 339 217 310V306H479V310L454 339ZM299 621 295 618 291 616 286 614H281H276L271 616L267 618L263 621L260 624L257 628L255 632L253 637V642V647L255 652L257 656L260 660L263 663L267 666L271 668L276 670H281H286L291 668L295 666L299 663L302 660L305 656L307 652L309 647V642V637L307 632L305 628L302 624ZM433 621 429 618 425 616 420 614H415H410L405 616L401 618L397 621L394 624L391 628L389 632L387 637V642V647L389 652L391 656L394 660L397 663L401 666L405 668L410 670H415H420L425 668L429 666L433 663L436 660L439 656L441 652L443 647V642V637L441 632L439 628L436 624Z"/></defs>
+<use href="#TorquePlate-Regular_uni00EB" transform="translate(911.00 1301) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="993" y="1210" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="998" y="1230" font-family="sans-serif" font-size="13" fill="#53616d">00EC</text>
+<defs><path id="TorquePlate-Regular_uni00EC" d="M281 430V91H338V-91H42V91H99V430ZM183 505 121 583 165 617 227 539Z"/></defs>
+<use href="#TorquePlate-Regular_uni00EC" transform="translate(999.00 1301) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1081" y="1210" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1086" y="1230" font-family="sans-serif" font-size="13" fill="#53616d">00ED</text>
+<defs><path id="TorquePlate-Regular_uni00ED" d="M281 430V91H338V-91H42V91H99V430ZM153 539 215 617 259 583 197 505Z"/></defs>
+<use href="#TorquePlate-Regular_uni00ED" transform="translate(1087.00 1301) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1169" y="1210" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1174" y="1230" font-family="sans-serif" font-size="13" fill="#53616d">00EE</text>
+<defs><path id="TorquePlate-Regular_uni00EE" d="M281 430V91H338V-91H42V91H99V430ZM190 556 122 492 84 532 190 634 296 532 258 492Z"/></defs>
+<use href="#TorquePlate-Regular_uni00EE" transform="translate(1175.00 1301) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1257" y="1210" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1262" y="1230" font-family="sans-serif" font-size="13" fill="#53616d">00EF</text>
+<defs><path id="TorquePlate-Regular_uni00EF" d="M281 430V91H338V-91H42V91H99V430ZM141 530 137 527 133 525 128 523H123H118L113 525L109 527L105 530L102 533L99 537L97 541L95 546V551V556L97 561L99 565L102 569L105 572L109 575L113 577L118 579H123H128L133 577L137 575L141 572L144 569L147 565L149 561L151 556V551V546L149 541L147 537L144 533ZM275 530 271 527 267 525 262 523H257H252L247 525L243 527L239 530L236 533L233 537L231 541L229 546V551V556L231 561L233 565L236 569L239 572L243 575L247 577L252 579H257H262L267 577L271 575L275 572L278 569L281 565L283 561L285 556V551V546L283 541L281 537L278 533Z"/></defs>
+<use href="#TorquePlate-Regular_uni00EF" transform="translate(1263.00 1301) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1345" y="1210" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1350" y="1230" font-family="sans-serif" font-size="13" fill="#53616d">00F0</text>
+<defs><path id="TorquePlate-Regular_uni00F0" d="M135 521H374L402 502V688H553V0H505L374 -91H135L32 52V378ZM334 91 402 138V292L334 339H204L183 310V120L204 91Z"/></defs>
+<use href="#TorquePlate-Regular_uni00F0" transform="translate(1351.00 1301) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="25" y="1324" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="30" y="1344" font-family="sans-serif" font-size="13" fill="#53616d">00F1</text>
+<defs><path id="TorquePlate-Regular_uni00F1" d="M661 0H479V310L454 339H299L217 292V0H35V430H93L249 521H538L661 378ZM441 633 365 593 313 625 284 605 252 651 311 691 367 657 415 683Z"/></defs>
+<use href="#TorquePlate-Regular_uni00F1" transform="translate(31.00 1415) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="113" y="1324" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="118" y="1344" font-family="sans-serif" font-size="13" fill="#53616d">00F2</text>
+<defs><path id="TorquePlate-Regular_uni00F2" d="M538 521 661 378V52L538 -91H158L35 52V378L158 521ZM454 339H242L217 310V120L242 91H454L479 120V310ZM341 596 279 674 323 708 385 630Z"/></defs>
+<use href="#TorquePlate-Regular_uni00F2" transform="translate(119.00 1415) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="201" y="1324" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="206" y="1344" font-family="sans-serif" font-size="13" fill="#53616d">00F3</text>
+<defs><path id="TorquePlate-Regular_uni00F3" d="M538 521 661 378V52L538 -91H158L35 52V378L158 521ZM454 339H242L217 310V120L242 91H454L479 120V310ZM311 630 373 708 417 674 355 596Z"/></defs>
+<use href="#TorquePlate-Regular_uni00F3" transform="translate(207.00 1415) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="289" y="1324" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="294" y="1344" font-family="sans-serif" font-size="13" fill="#53616d">00F4</text>
+<defs><path id="TorquePlate-Regular_uni00F4" d="M538 521 661 378V52L538 -91H158L35 52V378L158 521ZM454 339H242L217 310V120L242 91H454L479 120V310ZM348 647 280 583 242 623 348 725 454 623 416 583Z"/></defs>
+<use href="#TorquePlate-Regular_uni00F4" transform="translate(295.00 1415) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="377" y="1324" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="382" y="1344" font-family="sans-serif" font-size="13" fill="#53616d">00F5</text>
+<defs><path id="TorquePlate-Regular_uni00F5" d="M538 521 661 378V52L538 -91H158L35 52V378L158 521ZM454 339H242L217 310V120L242 91H454L479 120V310ZM441 633 365 593 313 625 284 605 252 651 311 691 367 657 415 683Z"/></defs>
+<use href="#TorquePlate-Regular_uni00F5" transform="translate(383.00 1415) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="465" y="1324" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="470" y="1344" font-family="sans-serif" font-size="13" fill="#53616d">00F6</text>
+<defs><path id="TorquePlate-Regular_uni00F6" d="M538 521 661 378V52L538 -91H158L35 52V378L158 521ZM454 339H242L217 310V120L242 91H454L479 120V310ZM299 621 295 618 291 616 286 614H281H276L271 616L267 618L263 621L260 624L257 628L255 632L253 637V642V647L255 652L257 656L260 660L263 663L267 666L271 668L276 670H281H286L291 668L295 666L299 663L302 660L305 656L307 652L309 647V642V637L307 632L305 628L302 624ZM433 621 429 618 425 616 420 614H415H410L405 616L401 618L397 621L394 624L391 628L389 632L387 637V642V647L389 652L391 656L394 660L397 663L401 666L405 668L410 670H415H420L425 668L429 666L433 663L436 660L439 656L441 652L443 647V642V637L441 632L439 628L436 624Z"/></defs>
+<use href="#TorquePlate-Regular_uni00F6" transform="translate(471.00 1415) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="553" y="1324" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="558" y="1344" font-family="sans-serif" font-size="13" fill="#53616d">00F7</text>
+<defs><path id="TorquePlate-Regular_uni00F7" d="M468 356V320H117V356ZM324 154 321 148 318 144 314 140 309 136 304 134 298 133 292 132 287 133 281 134 276 136 271 140 267 144 264 148 261 154 260 159V165V171L261 176L264 182L267 186L271 190L276 194L281 196L287 197L292 198L298 197L304 196L309 194L314 190L318 186L321 182L324 176L325 171L326 165L325 159ZM321 494 318 489 314 485 309 481 304 479 298 478 292 477 287 478 281 479 276 481 271 485 267 489 264 494 261 499 260 504V510V516L261 521L264 526L267 531L271 535L276 539L281 541L287 542L292 543L298 542L304 541L309 539L314 535L318 531L321 526L324 521L325 516L326 510L325 504L324 499Z"/></defs>
+<use href="#TorquePlate-Regular_uni00F7" transform="translate(559.00 1415) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="641" y="1324" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="646" y="1344" font-family="sans-serif" font-size="13" fill="#53616d">00F8</text>
+<defs><path id="TorquePlate-Regular_uni00F8" d="M444 521 543 378V52L444 -91H141L42 52V378L141 521ZM244 91H378L397 120V294ZM188 198 294 339H207L188 310Z"/></defs>
+<use href="#TorquePlate-Regular_uni00F8" transform="translate(647.00 1415) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="729" y="1324" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="734" y="1344" font-family="sans-serif" font-size="13" fill="#53616d">00F9</text>
+<defs><path id="TorquePlate-Regular_uni00F9" d="M661 430V0H616L538 -91H158L35 52V430H217V120L242 91H454L479 120V430ZM341 505 279 583 323 617 385 539Z"/></defs>
+<use href="#TorquePlate-Regular_uni00F9" transform="translate(735.00 1415) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="817" y="1324" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="822" y="1344" font-family="sans-serif" font-size="13" fill="#53616d">00FA</text>
+<defs><path id="TorquePlate-Regular_uni00FA" d="M661 430V0H616L538 -91H158L35 52V430H217V120L242 91H454L479 120V430ZM311 539 373 617 417 583 355 505Z"/></defs>
+<use href="#TorquePlate-Regular_uni00FA" transform="translate(823.00 1415) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="905" y="1324" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="910" y="1344" font-family="sans-serif" font-size="13" fill="#53616d">00FB</text>
+<defs><path id="TorquePlate-Regular_uni00FB" d="M661 430V0H616L538 -91H158L35 52V430H217V120L242 91H454L479 120V430ZM348 556 280 492 242 532 348 634 454 532 416 492Z"/></defs>
+<use href="#TorquePlate-Regular_uni00FB" transform="translate(911.00 1415) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="993" y="1324" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="998" y="1344" font-family="sans-serif" font-size="13" fill="#53616d">00FC</text>
+<defs><path id="TorquePlate-Regular_uni00FC" d="M661 430V0H616L538 -91H158L35 52V430H217V120L242 91H454L479 120V430ZM299 530 295 527 291 525 286 523H281H276L271 525L267 527L263 530L260 533L257 537L255 541L253 546V551V556L255 561L257 565L260 569L263 572L267 575L271 577L276 579H281H286L291 577L295 575L299 572L302 569L305 565L307 561L309 556V551V546L307 541L305 537L302 533ZM433 530 429 527 425 525 420 523H415H410L405 525L401 527L397 530L394 533L391 537L389 541L387 546V551V556L389 561L391 565L394 569L397 572L401 575L405 577L410 579H415H420L425 577L429 575L433 572L436 569L439 565L441 561L443 556V551V546L441 541L439 537L436 533Z"/></defs>
+<use href="#TorquePlate-Regular_uni00FC" transform="translate(999.00 1415) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1081" y="1324" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1086" y="1344" font-family="sans-serif" font-size="13" fill="#53616d">00FD</text>
+<defs><path id="TorquePlate-Regular_uni00FD" d="M35 388 197 472 338 198 479 472 641 388 420 -39 330 -250H116V-81H204L237 -4ZM301 581 363 659 407 624 345 546Z"/></defs>
+<use href="#TorquePlate-Regular_uni00FD" transform="translate(1087.00 1415) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1169" y="1324" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1174" y="1344" font-family="sans-serif" font-size="13" fill="#53616d">00FE</text>
+<defs><path id="TorquePlate-Regular_uni00FE" d="M553 378V52L450 -91H211L183 -72V-172H32V430H80L211 521H450ZM402 120V310L381 339H251L183 292V138L251 91H381Z"/></defs>
+<use href="#TorquePlate-Regular_uni00FE" transform="translate(1175.00 1415) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1257" y="1324" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1262" y="1344" font-family="sans-serif" font-size="13" fill="#53616d">00FF</text>
+<defs><path id="TorquePlate-Regular_uni00FF" d="M35 388 197 472 338 198 479 472 641 388 420 -39 330 -250H116V-81H204L237 -4ZM289 571 285 568 281 566 276 565H271H266L261 566L257 568L253 571L250 575L247 579L245 583L243 588V593V598L245 602L247 607L250 611L253 614L257 617L261 619L266 620L271 621L276 620L281 619L285 617L289 614L292 611L295 607L297 602L299 598V593V588L297 583L295 579L292 575ZM423 571 419 568 415 566 410 565H405H400L395 566L391 568L387 571L384 575L381 579L379 583L377 588V593V598L379 602L381 607L384 611L387 614L391 617L395 619L400 620L405 621L410 620L415 619L419 617L423 614L426 611L429 607L431 602L433 598V593V588L431 583L429 579L426 575Z"/></defs>
+<use href="#TorquePlate-Regular_uni00FF" transform="translate(1263.00 1415) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1345" y="1324" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1350" y="1344" font-family="sans-serif" font-size="13" fill="#53616d">0152</text>
+<defs><path id="TorquePlate-Regular_uni0152" d="M333 779H563V597H409V435H519V253H409V91H563V-91H333H242H98L22 52V636L98 779H242ZM135 120 150 91H242V597H150L135 568ZM83 545 82 546 80 547 79 548H78H76L75 547L74 546L72 545L71 543V542L70 539V537V535V533V531L71 528V527L72 525L74 524L75 523L76 522H78H79L80 523L82 524L83 525L84 527L85 528V531L86 533V535V537L85 539V542L84 543Z"/></defs>
+<use href="#TorquePlate-Regular_uni0152" transform="translate(1351.00 1415) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="25" y="1438" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="30" y="1458" font-family="sans-serif" font-size="13" fill="#53616d">0153</text>
+<defs><path id="TorquePlate-Regular_uni0153" d="M289 521H305H496L563 378V124H374V91H513V-91H305H289H91L22 52V378L91 521ZM464 310 450 339H374V306H464ZM124 120 138 91H222V339H138L124 310Z"/></defs>
+<use href="#TorquePlate-Regular_uni0153" transform="translate(31.00 1529) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="113" y="1438" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="118" y="1458" font-family="sans-serif" font-size="13" fill="#53616d">0160</text>
+<defs><path id="TorquePlate-Regular_uni0160" d="M661 52 538 -91H126V91H454L479 120V196L35 368V636L158 779H570V597H242L217 568V492L661 320ZM348 818 248 919 288 959 348 898 408 959 448 919Z"/></defs>
+<use href="#TorquePlate-Regular_uni0160" transform="translate(119.00 1529) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="201" y="1438" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="206" y="1458" font-family="sans-serif" font-size="13" fill="#53616d">0161</text>
+<defs><path id="TorquePlate-Regular_uni0161" d="M567 -91H155V91H475L474 92L178 178L35 344L187 521H599V339H279L280 338L576 252L719 86ZM377 566 277 667 317 707 377 646 437 707 477 667Z"/></defs>
+<use href="#TorquePlate-Regular_uni0161" transform="translate(207.00 1529) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="289" y="1438" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="294" y="1458" font-family="sans-serif" font-size="13" fill="#53616d">0178</text>
+<defs><path id="TorquePlate-Regular_uni0178" d="M334 512 479 737 632 639 424 317V0H242V317L35 639L188 737ZM284 837 280 834 276 832 271 831 266 830 262 831 257 832 252 834 249 837 245 840 242 844 240 849 239 853 238 858 239 863 240 868 242 872 245 876 249 880 252 883 257 885 262 886H266H271L276 885L280 883L284 880L288 876L291 872L293 868L294 863V858V853L293 849L291 844L288 840ZM418 837 414 834 410 832 405 831 400 830 396 831 391 832 386 834 383 837 379 840 376 844 374 849 373 853 372 858 373 863 374 868 376 872 379 876 383 880 386 883 391 885 396 886H400H405L410 885L414 883L418 880L422 876L425 872L427 868L428 863V858V853L427 849L425 844L422 840Z"/></defs>
+<use href="#TorquePlate-Regular_uni0178" transform="translate(295.00 1529) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="377" y="1438" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="382" y="1458" font-family="sans-serif" font-size="13" fill="#53616d">017D</text>
+<defs><path id="TorquePlate-Regular_uni017D" d="M35 -91 479 597H202V779H813L369 91H646V-91ZM424 818 324 919 364 959 424 898 484 959 524 919Z"/></defs>
+<use href="#TorquePlate-Regular_uni017D" transform="translate(383.00 1529) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="465" y="1438" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="470" y="1458" font-family="sans-serif" font-size="13" fill="#53616d">017E</text>
+<defs><path id="TorquePlate-Regular_uni017E" d="M673 -91H39L35 -80L455 339H242V521H876L880 510L460 91H673ZM458 566 358 667 397 707 458 646 518 707 557 667Z"/></defs>
+<use href="#TorquePlate-Regular_uni017E" transform="translate(471.00 1529) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="553" y="1438" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="558" y="1458" font-family="sans-serif" font-size="13" fill="#53616d">0192</text>
+<defs><path id="TorquePlate-Regular_uni0192" d="M334 597 310 568V521H440V339H310V0H128V339H70V521H128V636L251 779H514V597Z"/></defs>
+<use href="#TorquePlate-Regular_uni0192" transform="translate(559.00 1529) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="641" y="1438" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="646" y="1458" font-family="sans-serif" font-size="13" fill="#53616d">02C6</text>
+<defs><path id="TorquePlate-Regular_uni02C6" d="M399 480 360 440 292 504 225 440 186 480 292 582Z"/></defs>
+<use href="#TorquePlate-Regular_uni02C6" transform="translate(647.00 1529) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="729" y="1438" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="734" y="1458" font-family="sans-serif" font-size="13" fill="#53616d">02DC</text>
+<defs><path id="TorquePlate-Regular_uni02DC" d="M313 514 361 540 387 490 311 450 259 482 230 462 198 508 257 548Z"/></defs>
+<use href="#TorquePlate-Regular_uni02DC" transform="translate(735.00 1529) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="817" y="1438" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="822" y="1458" font-family="sans-serif" font-size="13" fill="#53616d">2013</text>
+<defs><path id="TorquePlate-Regular_uni2013" d="M491 271H94V409H491Z"/></defs>
+<use href="#TorquePlate-Regular_uni2013" transform="translate(823.00 1529) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="905" y="1438" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="910" y="1458" font-family="sans-serif" font-size="13" fill="#53616d">2014</text>
+<defs><path id="TorquePlate-Regular_uni2014" d="M491 271H94V409H491Z"/></defs>
+<use href="#TorquePlate-Regular_uni2014" transform="translate(911.00 1529) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="993" y="1438" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="998" y="1458" font-family="sans-serif" font-size="13" fill="#53616d">2018</text>
+<defs><path id="TorquePlate-Regular_uni2018" d="M213 560 236 725 372 705 349 540Z"/></defs>
+<use href="#TorquePlate-Regular_uni2018" transform="translate(999.00 1529) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1081" y="1438" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1086" y="1458" font-family="sans-serif" font-size="13" fill="#53616d">2019</text>
+<defs><path id="TorquePlate-Regular_uni2019" d="M213 560 236 725 372 705 349 540Z"/></defs>
+<use href="#TorquePlate-Regular_uni2019" transform="translate(1087.00 1529) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1169" y="1438" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1174" y="1458" font-family="sans-serif" font-size="13" fill="#53616d">201A</text>
+<defs><path id="TorquePlate-Regular_uni201A" d="M213 560 236 725 372 705 349 540Z"/></defs>
+<use href="#TorquePlate-Regular_uni201A" transform="translate(1175.00 1529) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1257" y="1438" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1262" y="1458" font-family="sans-serif" font-size="13" fill="#53616d">201C</text>
+<defs><path id="TorquePlate-Regular_uni201C" d="M157 718 296 712 290 596 297 719 436 711 426 549 288 557V550L149 556Z"/></defs>
+<use href="#TorquePlate-Regular_uni201C" transform="translate(1263.00 1529) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1345" y="1438" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1350" y="1458" font-family="sans-serif" font-size="13" fill="#53616d">201D</text>
+<defs><path id="TorquePlate-Regular_uni201D" d="M157 718 296 712 290 596 297 719 436 711 426 549 288 557V550L149 556Z"/></defs>
+<use href="#TorquePlate-Regular_uni201D" transform="translate(1351.00 1529) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="25" y="1552" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="30" y="1572" font-family="sans-serif" font-size="13" fill="#53616d">201E</text>
+<defs><path id="TorquePlate-Regular_uni201E" d="M157 718 296 712 290 596 297 719 436 711 426 549 288 557V550L149 556Z"/></defs>
+<use href="#TorquePlate-Regular_uni201E" transform="translate(31.00 1643) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="113" y="1552" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="118" y="1572" font-family="sans-serif" font-size="13" fill="#53616d">2020</text>
+<defs><path id="TorquePlate-Regular_uni2020" d="M278 0V470H91V530H278V740H313V530H494V470H313V0Z"/></defs>
+<use href="#TorquePlate-Regular_uni2020" transform="translate(119.00 1643) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="201" y="1552" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="206" y="1572" font-family="sans-serif" font-size="13" fill="#53616d">2021</text>
+<defs><path id="TorquePlate-Regular_uni2021" d="M494 270H313V0H278V270H91V320H278V470H91V530H278V740H313V530H494V470H313V320H494Z"/></defs>
+<use href="#TorquePlate-Regular_uni2021" transform="translate(207.00 1643) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="289" y="1552" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="294" y="1572" font-family="sans-serif" font-size="13" fill="#53616d">2022</text>
+<defs><path id="TorquePlate-Regular_uni2022" d="M373 371 370 357 364 344 355 332 345 322 334 314 321 308 307 304 292 303 278 304 264 308 252 314 240 322 230 332 221 344 215 357 212 371 210 385 212 399 215 413 221 426 230 438 240 448 251 456 264 462 278 466 292 467 307 466 321 462 334 456 345 448 355 438 364 426 370 413 373 399 374 385Z"/></defs>
+<use href="#TorquePlate-Regular_uni2022" transform="translate(295.00 1643) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="377" y="1552" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="382" y="1572" font-family="sans-serif" font-size="13" fill="#53616d">2026</text>
+<defs><path id="TorquePlate-Regular_uni2026" d="M124 66 122 62 119 58 116 55 112 52 108 51 104 49H99H95L91 51L86 52L83 55L80 58L77 62L75 66L74 70L73 75L74 80L75 84L77 88L80 92L83 95L86 98L91 99L95 101H99H104L108 99L112 98L116 95L119 92L122 88L124 84L125 80V75V70ZM315 62 312 58 309 55 306 52 301 51 297 49H292H288L284 51L280 52L276 55L273 58L270 62L268 66L267 70L266 75L267 80L268 84L270 88L273 92L276 95L280 98L284 99L288 101H292H297L301 99L306 98L309 95L312 92L315 88L317 84L318 80V75V70L317 66ZM508 62 505 58 502 55 499 52 494 51 490 49H486H481L477 51L473 52L469 55L466 58L463 62L461 66L460 70V75V80L461 84L463 88L466 92L469 95L473 98L477 99L481 101H486H490L494 99L499 98L502 95L505 92L508 88L510 84L511 80L512 75L511 70L510 66Z"/></defs>
+<use href="#TorquePlate-Regular_uni2026" transform="translate(383.00 1643) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="465" y="1552" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="470" y="1572" font-family="sans-serif" font-size="13" fill="#53616d">2030</text>
+<defs><path id="TorquePlate-Regular_uni2030" d="M180 528 165 524 150 523 135 524 120 528 106 534 94 543 83 554 74 566 68 580 64 595 63 610 64 625 68 640 74 654 83 666 94 677 106 686 120 692 135 696 150 697 165 696 180 692 194 686 206 677 217 666 226 654 232 640 236 625 237 610 236 595 232 580 226 566 217 554 206 543 194 534ZM165 651 158 653 150 654 142 653 135 651 128 648 122 643 117 638 112 632 109 625 107 618 106 610 107 602 109 595 112 588 117 582 122 577 128 572 135 569 142 567 150 566 158 567 165 569 172 572 178 577 183 582 188 588 191 595 193 602V610V618L191 625L188 632L183 638L178 643L172 648ZM189 -9 64 49 386 734 511 676ZM513 50 508 45 503 41 497 38 490 37 483 36 477 37 470 38 464 41 458 45 455 48 443 43 428 39 413 38 398 39 383 43 370 49 357 58 346 69 338 81 331 95 327 110 326 125 327 140 331 155 338 169 346 181 357 192 370 201 383 207 398 211 413 212 428 211 443 207 457 201 469 192 480 181 489 169 495 155 499 140 501 125 499 110 503 109 508 105 513 100 517 95 520 88 522 82V75V68L520 62L517 56ZM435 163 428 166 421 168 413 169 406 168 398 166 391 163 385 158 380 153 376 147 372 140 370 133V125V117L372 110L376 103L380 97L385 92L391 87L398 84L406 82L413 81L421 82L428 84L435 87L441 92L447 97L451 103L454 110L456 117L457 125L456 133L454 140L451 147L447 153L441 158Z"/></defs>
+<use href="#TorquePlate-Regular_uni2030" transform="translate(471.00 1643) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="553" y="1552" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="558" y="1572" font-family="sans-serif" font-size="13" fill="#53616d">2039</text>
+<defs><path id="TorquePlate-Regular_uni2039" d="M527 84 428 -14 58 360 428 734 527 636 253 360Z"/></defs>
+<use href="#TorquePlate-Regular_uni2039" transform="translate(559.00 1643) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="641" y="1552" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="646" y="1572" font-family="sans-serif" font-size="13" fill="#53616d">203A</text>
+<defs><path id="TorquePlate-Regular_uni203A" d="M157 -14 58 84 332 360 58 636 157 734 527 360Z"/></defs>
+<use href="#TorquePlate-Regular_uni203A" transform="translate(647.00 1643) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="729" y="1552" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="734" y="1572" font-family="sans-serif" font-size="13" fill="#53616d">20AC</text>
+<defs><path id="TorquePlate-Regular_uni20AC" d="M209 240V120L233 91H553V-91H152L32 52V636L152 779H553V597H233L209 568V275H503V240Z"/></defs>
+<use href="#TorquePlate-Regular_uni20AC" transform="translate(735.00 1643) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="817" y="1552" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="822" y="1572" font-family="sans-serif" font-size="13" fill="#53616d">2122</text>
+<defs><path id="TorquePlate-Regular_uni2122" d="M227 749V662H166V375H81V662H20V749ZM565 806V375H485V588L428 514L371 588V375H292V806L302 810L428 648L555 810Z"/></defs>
+<use href="#TorquePlate-Regular_uni2122" transform="translate(823.00 1643) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="905" y="1552" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="910" y="1572" font-family="sans-serif" font-size="13" fill="#53616d">2190</text>
+<defs><path id="TorquePlate-Regular_uni2190" d="M520 327H155L221 175L153 145L65 350L153 559L221 531L154 372H520ZM145 350 146 348V352Z"/></defs>
+<use href="#TorquePlate-Regular_uni2190" transform="translate(911.00 1643) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="993" y="1552" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="998" y="1572" font-family="sans-serif" font-size="13" fill="#53616d">2191</text>
+<defs><path id="TorquePlate-Regular_uni2191" d="M275 140V633L176 511L117 559L263 739L266 742L268 744L271 747L274 748L275 749V750H278L281 751L285 752L289 753H292H296L300 752L304 751L307 750H310V749L311 748L314 747L317 744L319 742L322 739L468 559L409 511L310 633V140Z"/></defs>
+<use href="#TorquePlate-Regular_uni2191" transform="translate(999.00 1643) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1081" y="1552" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1086" y="1572" font-family="sans-serif" font-size="13" fill="#53616d">2192</text>
+<defs><path id="TorquePlate-Regular_uni2192" d="M65 372H431L364 531L432 559L520 350L432 145L364 175L430 327H65ZM440 350 439 352V348Z"/></defs>
+<use href="#TorquePlate-Regular_uni2192" transform="translate(1087.00 1643) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1169" y="1552" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1174" y="1572" font-family="sans-serif" font-size="13" fill="#53616d">2193</text>
+<defs><path id="TorquePlate-Regular_uni2193" d="M468 251 322 71 319 68 317 66 314 63 311 62 307 60 304 59 300 58 296 57H292H289L285 58L281 59L278 60L274 62L271 63L268 66L266 68L263 71L117 251L176 299L275 177V750H310V177L409 299Z"/></defs>
+<use href="#TorquePlate-Regular_uni2193" transform="translate(1175.00 1643) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1257" y="1552" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1262" y="1572" font-family="sans-serif" font-size="13" fill="#53616d">2260</text>
+<defs><path id="TorquePlate-Regular_uni2260" d="M415 181H85V319H415ZM85 391V529H415V391ZM333 643V587H167V643Z"/></defs>
+<use href="#TorquePlate-Regular_uni2260" transform="translate(1263.00 1643) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1345" y="1552" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1350" y="1572" font-family="sans-serif" font-size="13" fill="#53616d">2264</text>
+<defs><path id="TorquePlate-Regular_uni2264" d="M524 35H477L428 -14L380 35H138V65H350L58 360L428 734L527 636L253 360L527 84L508 65H524Z"/></defs>
+<use href="#TorquePlate-Regular_uni2264" transform="translate(1351.00 1643) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="25" y="1666" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="30" y="1686" font-family="sans-serif" font-size="13" fill="#53616d">2265</text>
+<defs><path id="TorquePlate-Regular_uni2265" d="M447 35H205L157 -14L108 35H61V65H77L58 84L332 360L58 636L157 734L527 360L235 65H447Z"/></defs>
+<use href="#TorquePlate-Regular_uni2265" transform="translate(31.00 1757) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="113" y="1666" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="118" y="1686" font-family="sans-serif" font-size="13" fill="#53616d">2500</text>
+<defs><path id="TorquePlate-Regular_uni2500" d="M585 354H0V396H585Z"/></defs>
+<use href="#TorquePlate-Regular_uni2500" transform="translate(119.00 1757) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="201" y="1666" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="206" y="1686" font-family="sans-serif" font-size="13" fill="#53616d">2502</text>
+<defs><path id="TorquePlate-Regular_uni2502" d="M314 -250H272V1000H314Z"/></defs>
+<use href="#TorquePlate-Regular_uni2502" transform="translate(207.00 1757) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="289" y="1666" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="294" y="1686" font-family="sans-serif" font-size="13" fill="#53616d">250C</text>
+<defs><path id="TorquePlate-Regular_uni250C" d="M272 -250V375H292V396H585V354H314V-250Z"/></defs>
+<use href="#TorquePlate-Regular_uni250C" transform="translate(295.00 1757) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="377" y="1666" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="382" y="1686" font-family="sans-serif" font-size="13" fill="#53616d">2510</text>
+<defs><path id="TorquePlate-Regular_uni2510" d="M314 -250H272V354H0V396H292V375H314Z"/></defs>
+<use href="#TorquePlate-Regular_uni2510" transform="translate(383.00 1757) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="465" y="1666" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="470" y="1686" font-family="sans-serif" font-size="13" fill="#53616d">2514</text>
+<defs><path id="TorquePlate-Regular_uni2514" d="M585 354H292V375H272V1000H314V396H585Z"/></defs>
+<use href="#TorquePlate-Regular_uni2514" transform="translate(471.00 1757) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="553" y="1666" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="558" y="1686" font-family="sans-serif" font-size="13" fill="#53616d">2518</text>
+<defs><path id="TorquePlate-Regular_uni2518" d="M0 354V396H272V1000H314V375H292V354Z"/></defs>
+<use href="#TorquePlate-Regular_uni2518" transform="translate(559.00 1757) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="641" y="1666" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="646" y="1686" font-family="sans-serif" font-size="13" fill="#53616d">251C</text>
+<defs><path id="TorquePlate-Regular_uni251C" d="M272 -250V375V1000H314V396H585V354H314V-250Z"/></defs>
+<use href="#TorquePlate-Regular_uni251C" transform="translate(647.00 1757) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="729" y="1666" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="734" y="1686" font-family="sans-serif" font-size="13" fill="#53616d">2524</text>
+<defs><path id="TorquePlate-Regular_uni2524" d="M272 -250V354H0V396H272V1000H314V375V-250Z"/></defs>
+<use href="#TorquePlate-Regular_uni2524" transform="translate(735.00 1757) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="817" y="1666" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="822" y="1686" font-family="sans-serif" font-size="13" fill="#53616d">252C</text>
+<defs><path id="TorquePlate-Regular_uni252C" d="M272 -250V354H0V396H292H585V354H314V-250Z"/></defs>
+<use href="#TorquePlate-Regular_uni252C" transform="translate(823.00 1757) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="905" y="1666" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="910" y="1686" font-family="sans-serif" font-size="13" fill="#53616d">2534</text>
+<defs><path id="TorquePlate-Regular_uni2534" d="M0 396H272V1000H314V396H585V354H292H0Z"/></defs>
+<use href="#TorquePlate-Regular_uni2534" transform="translate(911.00 1757) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="993" y="1666" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="998" y="1686" font-family="sans-serif" font-size="13" fill="#53616d">253C</text>
+<defs><path id="TorquePlate-Regular_uni253C" d="M272 -250V354H0V396H272V1000H314V396H585V354H314V-250Z"/></defs>
+<use href="#TorquePlate-Regular_uni253C" transform="translate(999.00 1757) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1081" y="1666" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1086" y="1686" font-family="sans-serif" font-size="13" fill="#53616d">2580</text>
+<defs><path id="TorquePlate-Regular_uni2580" d="M585 375H0V1000H585Z"/></defs>
+<use href="#TorquePlate-Regular_uni2580" transform="translate(1087.00 1757) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1169" y="1666" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1174" y="1686" font-family="sans-serif" font-size="13" fill="#53616d">2584</text>
+<defs><path id="TorquePlate-Regular_uni2584" d="M585 -250H0V375H585Z"/></defs>
+<use href="#TorquePlate-Regular_uni2584" transform="translate(1175.00 1757) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1257" y="1666" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1262" y="1686" font-family="sans-serif" font-size="13" fill="#53616d">2588</text>
+<defs><path id="TorquePlate-Regular_uni2588" d="M585 -250H0V1000H585Z"/></defs>
+<use href="#TorquePlate-Regular_uni2588" transform="translate(1263.00 1757) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1345" y="1666" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1350" y="1686" font-family="sans-serif" font-size="13" fill="#53616d">258C</text>
+<defs><path id="TorquePlate-Regular_uni258C" d="M292 -250H0V1000H292Z"/></defs>
+<use href="#TorquePlate-Regular_uni258C" transform="translate(1351.00 1757) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="25" y="1780" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="30" y="1800" font-family="sans-serif" font-size="13" fill="#53616d">2590</text>
+<defs><path id="TorquePlate-Regular_uni2590" d="M585 -250H292V1000H585Z"/></defs>
+<use href="#TorquePlate-Regular_uni2590" transform="translate(31.00 1871) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="113" y="1780" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="118" y="1800" font-family="sans-serif" font-size="13" fill="#53616d">2591</text>
+<defs><path id="TorquePlate-Regular_uni2591" d="M32 -250H0V-218H32ZM64 -154H32H0V-122H32H64ZM0 6V38H32V6ZM32 102H0V134H32H64V102ZM32 262H0V294H32ZM0 390H32H64V358H32H0ZM0 518V550H32V518ZM64 646V614H32H0V646H32ZM0 774V806H32V774ZM32 870H0V902H32H64V870ZM96 -26V-58H64H32V-26H64ZM64 198H32V230H64H96V198ZM32 486H64H96V454H64H32ZM96 742V710H64H32V742H64ZM64 998H96V966H64H32V998ZM128 -186V-218H96H64V-186H96ZM96 70H128V38H96H64V70ZM96 326H128V294H96H64V326ZM64 582H96H128V550H96H64ZM96 838H128V806H96H64V838ZM96 -90H128H160V-122H128H96ZM160 166V134H128H96V166H128ZM160 390H128H96V422H128H160ZM160 646H128H96V678H128H160ZM160 934V902H128H96V934H128ZM128 6H160H192V-26H160H128ZM160 230H128V262H160H192V230ZM192 486H160H128V518H160H192ZM160 774H192V742H160H128V774ZM128 1000H160H192V998H160H128ZM192 -186H160V-154H192H224V-186ZM160 102H192H224V70H192H160ZM192 326H160V358H192H224V326ZM160 614H192H224V582H192H160ZM160 838V870H192H224V838H192ZM256 -90H224H192V-58H224H256ZM256 198V166H224H192V198H224ZM224 422H192V454H224H256V422ZM256 678H224H192V710H224H256ZM192 966H224H256V934H224H192ZM256 -250H224V-218H256H288V-250ZM288 6H256H224V38H256H288ZM288 294V262H256H224V294H256ZM224 550H256H288V518H256H224ZM224 806H256H288V774H256H224ZM288 -122H320V-154H288H256V-122ZM288 102H256V134H288H320V102ZM256 390H288H320V358H288H256ZM320 646V614H288H256V646H288ZM320 870H288H256V902H288H320ZM352 -26V-58H320H288V-26H320ZM320 198H288V230H320H352V198ZM288 486H320H352V454H320H288ZM352 710H320H288V742H320H352ZM352 966H320H288V998H320H352ZM320 -186H352H384V-218H352H320ZM384 70V38H352H320V70H352ZM320 326H352H384V294H352H320ZM320 582H352H384V550H352H320ZM384 806H352H320V838H352H384ZM352 -90H384H416V-122H384H352ZM384 166H416V134H384H352V166ZM416 422V390H384H352V422H384ZM416 646H384H352V678H384H416ZM384 902H352V934H384H416V902ZM448 -26H416H384V6H416H448ZM416 262H448V230H416H384V262ZM416 486H384V518H416H448V486ZM416 742H384V774H416H448V742ZM448 1000V998H416H384V1000H416ZM448 -154H480V-186H448H416V-154ZM448 70H416V102H448H480V70ZM448 326H416V358H448H480V326ZM448 614H480V582H448H416V614ZM480 870V838H448H416V870H448ZM512 -90H480H448V-58H480H512ZM512 198V166H480H448V198H480ZM512 422H480H448V454H480H512ZM512 678H480H448V710H480H512ZM448 966H480H512V934H480H448ZM544 -250H512H480V-218H512H544ZM512 6H480V38H512H544V6ZM512 262H480V294H512H544V262ZM544 518H512H480V550H512H544ZM544 806V774H512H480V806H512ZM576 -154H544H512V-122H544H576ZM576 134V102H544H512V134H544ZM544 390H576V358H544H512V390ZM576 614H544H512V646H544H576ZM576 902V870H544H512V902H544ZM544 -26H576H585V-58H576H544ZM585 198H576H544V230H576H585ZM576 454H544V486H576H585V454ZM544 742H576H585V710H576H544ZM576 998H585V966H576H544V998ZM576 -218V-186H585V-218ZM576 38V70H585V38ZM585 294H576V326H585ZM576 550V582H585V550ZM576 806V838H585V806Z"/></defs>
+<use href="#TorquePlate-Regular_uni2591" transform="translate(119.00 1871) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="201" y="1780" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="206" y="1800" font-family="sans-serif" font-size="13" fill="#53616d">2592</text>
+<defs><path id="TorquePlate-Regular_uni2592" d="M160 -154H192V-122H224H256H288V-90H320H352H384V-58H416H448H480V-26H512H544H576V6H585V-26V-58H576H544H512V-90H480H448H416V-122H384H352H320V-154H288H256H224V-186H192H160H128V-218H96H64H32V-250H0V-218V-186H32H64H96V-154H128ZM128 -90V-58H160H192H224V-26H256H288H320V6H352H384H416V38H448H480H512V70H544H576H585V38H576H544V6H512H480H448V-26H416H384H352V-58H320H288H256V-90H224H192H160V-122H128H96H64V-154H32H0V-122H32V-90H64H96ZM64 6H96H128H160V38H192H224H256V70H288H320H352V102H384H416H448V134H480H512H544V166H576H585V134H576V102H544H512H480V70H448H416H384V38H352H320H288V6H256H224H192V-26H160H128H96V-58H64H32H0V-26H32H64ZM128 102H160H192V134H224H256H288V166H320H352H384V198H416H448H480V230H512H544H576V262H585V230V198H576H544H512V166H480H448H416V134H384H352H320V102H288H256H224V70H192H160H128V38H96H64H32V6H0V38V70H32H64H96V102ZM128 166V198H160H192H224V230H256H288H320V262H352H384H416V294H448H480H512V326H544H576H585V294H576H544V262H512H480H448V230H416H384H352V198H320H288H256V166H224H192H160V134H128H96H64V102H32H0V134H32V166H64H96ZM64 262H96H128H160V294H192H224H256V326H288H320H352V358H384H416H448V390H480H512H544V422H576H585V390H576V358H544H512H480V326H448H416H384V294H352H320H288V262H256H224H192V230H160H128H96V198H64H32H0V230H32H64ZM96 326V358H128H160H192V390H224H256H288V422H320H352H384V454H416H448H480V486H512H544H576V518H585V486V454H576H544H512V422H480H448H416V390H384H352H320V358H288H256H224V326H192H160H128V294H96H64H32V262H0V294V326H32H64ZM128 422V454H160H192H224V486H256H288H320V518H352H384H416V550H448H480H512V582H544H576H585V550H576H544V518H512H480H448V486H416H384H352V454H320H288H256V422H224H192H160V390H128H96H64V358H32H0V390H32V422H64H96ZM64 518H96H128H160V550H192H224H256V582H288H320H352V614H384H416H448V646H480H512H544V678H576H585V646H576V614H544H512H480V582H448H416H384V550H352H320H288V518H256H224H192V486H160H128H96V454H64H32H0V486H32H64ZM96 582V614H128H160H192V646H224H256H288V678H320H352H384V710H416H448H480V742H512H544H576V774H585V742V710H576H544H512V678H480H448H416V646H384H352H320V614H288H256H224V582H192H160H128V550H96H64H32V518H0V550V582H32H64ZM128 678V710H160H192H224V742H256H288H320V774H352H384H416V806H448H480H512V838H544H576H585V806H576H544V774H512H480H448V742H416H384H352V710H320H288H256V678H224H192H160V646H128H96H64V614H32H0V646H32V678H64H96ZM128 774H160V806H192H224H256V838H288H320H352V870H384H416H448V902H480H512H544V934H576H585V902H576V870H544H512H480V838H448H416H384V806H352H320H288V774H256H224H192V742H160H128H96V710H64H32H0V742H32H64V774H96ZM0 774V806V838H32H64H96V870H128H160H192V902H224H256H288V934H320H352H384V966H416H448H480V998H512H544H576V1000H585V998V966H576H544H512V934H480H448H416V902H384H352H320V870H288H256H224V838H192H160H128V806H96H64H32V774ZM128 934V966H160H192H224V998H256H288H320V1000H352H384H416H448V998H416H384H352V966H320H288H256V934H224H192H160V902H128H96H64V870H32H0V902H32V934H64H96ZM96 1000H128H160H192V998H160H128H96V966H64H32H0V998H32H64V1000ZM192 -218H224H256V-186H288H320H352V-154H384H416H448V-122H480H512H544V-90H576H585V-122H576V-154H544H512H480V-186H448H416H384V-218H352H320H288V-250H256H224H192H160V-218ZM512 -186H544H576H585V-218H576H544V-250H512H480H448H416V-218H448H480H512Z"/></defs>
+<use href="#TorquePlate-Regular_uni2592" transform="translate(207.00 1871) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="289" y="1780" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="294" y="1800" font-family="sans-serif" font-size="13" fill="#53616d">2593</text>
+<defs><path id="TorquePlate-Regular_uni2593" d="M32 -90H64V-58H32H0V-26V6V38V70H32V102H0V134V166H32H64V198H32H0V230V262V294V326H32V358H0V390V422H32H64V454H32H0V486V518V550V582H32V614H0V646V678H32H64V710H32H0V742V774V806V838H32V870H0V902V934H32H64V966H32H0V998V1000H32H64H96H128H160H192V998H224H256V1000H288H320H352H384H416H448V998H480H512V1000H544H576H585V998V966V934V902H576V870H585V838V806H576H544V774H576H585V742V710V678V646H576V614H585V582V550H576H544V518H576H585V486V454V422V390H576V358H585V326V294H576H544V262H576H585V230V198V166V134H576V102H585V70V38H576H544V6H576H585V-26V-58V-90V-122H576V-154H585V-186V-218H576H544V-250H512H480H448H416H384H352V-218H320H288V-250H256H224H192H160H128H96V-218H64H32V-250H0V-218V-186H32V-154H0V-122V-90ZM576 678V710H544H512V678H544ZM544 966H512V934H544H576V966ZM576 -58H544H512V-90H544H576ZM576 422V454H544H512V422H544ZM576 166V198H544H512V166H544ZM544 326V358H512H480V326H512ZM544 102H512H480V70H512H544ZM512 870H480V838H512H544V870ZM512 582H544V614H512H480V582ZM512 -154H480V-186H512H544V-154ZM512 230V262H480H448V230H480ZM480 742H512V774H480H448V742ZM480 486H512V518H480H448V486ZM480 -26H512V6H480H448V-26ZM416 390H448H480V422H448H416ZM416 -122H448H480V-90H448H416ZM448 646H480V678H448H416V646ZM480 902V934H448H416V902H448ZM448 134H480V166H448H416V134ZM416 806H448V838H416H384V806ZM416 -218H448V-186H416H384V-218ZM384 550H416H448V582H416H384ZM384 294H416H448V326H416H384ZM384 38H416H448V70H416H384ZM416 710V742H384H352V710H384ZM416 454V486H384H352V454H384ZM416 198V230H384H352V198H384ZM416 -58V-26H384H352V-58H384ZM384 966H416V998H384H352V966ZM384 870V902H352H320V870H352ZM352 -154H384V-122H352H320V-154ZM352 102H384V134H352H320V102ZM352 614H384V646H352H320V614ZM384 358V390H352H320V358H352ZM288 774H320H352V806H320H288ZM288 518H320H352V550H320H288ZM288 262H320H352V294H320H288ZM288 6H320H352V38H320H288ZM256 678H288H320V710H288H256ZM288 934H320V966H288H256V934ZM256 454V422H288H320V454H288ZM256 198V166H288H320V198H288ZM256 -90H288H320V-58H288H256ZM224 102V70H256H288V102H256ZM288 582V614H256H224V582H256ZM224 358V326H256H288V358H256ZM224 838H256H288V870H256H224ZM224 -154V-186H256H288V-154H256ZM256 -26V6H224H192V-26H224ZM224 230H256V262H224H192V230ZM256 486V518H224H192V486H224ZM256 742V774H224H192V742H224ZM192 902H224V934H192H160V902ZM224 -122V-90H192H160V-122H192ZM224 390V422H192H160V390H192ZM224 646V678H192H160V646H192ZM224 134V166H192H160V134H192ZM192 38V70H160H128V38H160ZM160 806H192V838H160H128V806ZM160 550H192V582H160H128V550ZM160 294H192V326H160H128V294ZM160 -218H192V-186H160H128V-218ZM160 998H128H96V966H128H160ZM96 710H128H160V742H128H96ZM96 -58H128H160V-26H128H96ZM96 454H128H160V486H128H96ZM96 198H128H160V230H128H96ZM128 -122H96H64V-154H96H128ZM64 102H96H128V134H96H64ZM64 870H96H128V902H96H64ZM128 390H96H64V358H96H128ZM128 646H96H64V614H96H128ZM96 518V550H64H32V518H64ZM64 774H96V806H64H32V774ZM64 262H96V294H64H32V262ZM64 6H96V38H64H32V6Z"/></defs>
+<use href="#TorquePlate-Regular_uni2593" transform="translate(295.00 1871) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="377" y="1780" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="382" y="1800" font-family="sans-serif" font-size="13" fill="#53616d">25A0</text>
+<defs><path id="TorquePlate-Regular_uni25A0" d="M94 95V675H491V95Z"/></defs>
+<use href="#TorquePlate-Regular_uni25A0" transform="translate(383.00 1871) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="465" y="1780" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="470" y="1800" font-family="sans-serif" font-size="13" fill="#53616d">25A1</text>
+<defs><path id="TorquePlate-Regular_uni25A1" d="M94 675H491V95H94ZM135 606V165H450V606Z"/></defs>
+<use href="#TorquePlate-Regular_uni25A1" transform="translate(471.00 1871) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="553" y="1780" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="558" y="1800" font-family="sans-serif" font-size="13" fill="#53616d">25B2</text>
+<defs><path id="TorquePlate-Regular_uni25B2" d="M526 70H58L292 775Z"/></defs>
+<use href="#TorquePlate-Regular_uni25B2" transform="translate(559.00 1871) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="641" y="1780" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="646" y="1800" font-family="sans-serif" font-size="13" fill="#53616d">25BA</text>
+<defs><path id="TorquePlate-Regular_uni25BA" d="M488 370 97 20V730Z"/></defs>
+<use href="#TorquePlate-Regular_uni25BA" transform="translate(647.00 1871) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="729" y="1780" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="734" y="1800" font-family="sans-serif" font-size="13" fill="#53616d">25BC</text>
+<defs><path id="TorquePlate-Regular_uni25BC" d="M526 710 292 0 58 710Z"/></defs>
+<use href="#TorquePlate-Regular_uni25BC" transform="translate(735.00 1871) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="817" y="1780" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="822" y="1800" font-family="sans-serif" font-size="13" fill="#53616d">25C4</text>
+<defs><path id="TorquePlate-Regular_uni25C4" d="M488 20 97 370 488 730Z"/></defs>
+<use href="#TorquePlate-Regular_uni25C4" transform="translate(823.00 1871) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="905" y="1780" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="910" y="1800" font-family="sans-serif" font-size="13" fill="#53616d">25CB</text>
+<defs><path id="TorquePlate-Regular_uni25CB" d="M546 293 526 250 499 211 466 178 428 151 385 131 339 119 292 115 246 119 200 131 158 151 119 178 86 211 59 250 39 293 27 338 22 385 27 432 39 477 59 520 86 559 119 592 157 619 200 639 246 651 292 655 339 651 385 639 428 619 466 592 499 559 526 520 546 477 558 432 562 385 558 338ZM486 455 471 488 450 517 425 543 396 563 363 579 328 588 292 591 257 588 222 579 189 563 160 543 135 517 114 488 99 455 90 421 86 385 90 349 99 315 114 282 135 253 160 227 190 207 222 191 257 182 292 179 328 182 363 191 396 207 425 227 450 253 471 282 486 315 495 349 498 385 495 421Z"/></defs>
+<use href="#TorquePlate-Regular_uni25CB" transform="translate(911.00 1871) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="993" y="1780" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="998" y="1800" font-family="sans-serif" font-size="13" fill="#53616d">25CF</text>
+<defs><path id="TorquePlate-Regular_uni25CF" d="M558 338 546 293 526 250 499 211 466 178 428 151 385 131 339 119 292 115 246 119 200 131 158 151 119 178 86 211 59 250 39 293 27 338 22 385 27 432 39 477 59 520 86 559 119 592 157 619 200 639 246 651 292 655 339 651 385 639 428 619 466 592 499 559 526 520 546 477 558 432 562 385Z"/></defs>
+<use href="#TorquePlate-Regular_uni25CF" transform="translate(999.00 1871) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1081" y="1780" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1086" y="1800" font-family="sans-serif" font-size="13" fill="#53616d">2713</text>
+<defs><path id="TorquePlate-Regular_uni2713" d="M461 710 537 670 263 130 260 127 258 123 255 120 252 117 248 114 245 112 241 110 237 109 233 108 228 107H224H220L216 108L211 109L207 110L203 112L200 115L196 117L193 120L190 123L188 127L48 347L120 393L220 237Z"/></defs>
+<use href="#TorquePlate-Regular_uni2713" transform="translate(1087.00 1871) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1169" y="1780" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1174" y="1800" font-family="sans-serif" font-size="13" fill="#53616d">2717</text>
+<defs><path id="TorquePlate-Regular_uni2717" d="M362 611 390 639 487 541 391 445 487 349 390 251 362 279V215H223V279L195 251L98 349L194 445L98 541L195 639L223 611V665H362Z"/></defs>
+<use href="#TorquePlate-Regular_uni2717" transform="translate(1175.00 1871) scale(0.0590 -0.0590)" fill="#172127"/>
+</svg>

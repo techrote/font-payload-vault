@@ -1,0 +1,1017 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1450" height="1924" viewBox="0 0 1450 1924" role="img"><title>Microslab complete glyph repertoire</title>
+<rect width="1450" height="1924" fill="#f5f3ed"/>
+<text x="35" y="38" font-family="sans-serif" font-size="23" fill="#53616d">Microslab / all 254 mapped characters</text>
+<rect x="25" y="70" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="30" y="90" font-family="sans-serif" font-size="13" fill="#53616d">0020</text>
+
+<rect x="113" y="70" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="118" y="90" font-family="sans-serif" font-size="13" fill="#53616d">0021</text>
+<defs><path id="Microslab-Regular_uni0021" d="M417 27 414 20 410 15 405 10 400 6 393 3 387 1H380H373L367 3L360 6L355 10L350 15L346 20L343 27L341 33V40V47L343 53L346 60L350 65L355 70L360 74L367 77L373 79H380H387L393 77L400 74L405 70L410 65L414 60L417 53L419 47V40V33ZM349 715H411V218H349Z"/></defs>
+<use href="#Microslab-Regular_uni0021" transform="translate(119.00 161) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="201" y="70" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="206" y="90" font-family="sans-serif" font-size="13" fill="#53616d">0022</text>
+<defs><path id="Microslab-Regular_uni0022" d="M279 717 341 713 333 551 271 555ZM419 717 481 713 471 551 409 555Z"/></defs>
+<use href="#Microslab-Regular_uni0022" transform="translate(207.00 161) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="289" y="70" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="294" y="90" font-family="sans-serif" font-size="13" fill="#53616d">0023</text>
+<defs><path id="Microslab-Regular_uni0023" d="M473 -2 411 2 424 209H274L260 -2L198 2L212 209H91V271H216L229 479H91V541H234L247 742L309 738L296 541H446L459 742L521 738L508 541H669V479H504L491 271H669V209H487ZM428 271 442 479H292L278 271Z"/></defs>
+<use href="#Microslab-Regular_uni0023" transform="translate(295.00 161) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="377" y="70" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="382" y="90" font-family="sans-serif" font-size="13" fill="#53616d">0024</text>
+<defs><path id="Microslab-Regular_uni0024" d="M411 718 584 680 571 620 411 654V394L633 229L495 -37L411 -13V-110H349V6L128 70L146 130L349 70V362L76 565L239 754L349 731V810H411ZM463 37 553 211 411 316V52ZM262 686 167 575 349 440V667Z"/></defs>
+<use href="#Microslab-Regular_uni0024" transform="translate(383.00 161) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="465" y="70" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="470" y="90" font-family="sans-serif" font-size="13" fill="#53616d">0025</text>
+<defs><path id="Microslab-Regular_uni0025" d="M148 36 566 721 619 689 201 4ZM235 585 231 580 225 576 219 573 212 571H205H198L192 573L186 576L180 580L175 585L171 590L168 597L166 603V610V617L168 623L171 630L175 635L180 640L186 644L192 647L198 649H205H212L219 647L225 644L231 640L235 635L239 630L242 623L244 617L245 610L244 603L242 597L239 590ZM220 623 218 625 215 627 212 628 209 629 205 630 202 629 198 628 195 627 193 625 190 623 188 620 187 617 186 613V610V607L187 603L188 600L190 597L193 595L195 593L198 592L202 591L205 590L209 591L212 592L215 593L218 595L220 597L222 600L224 603L225 607V610V613L224 617L222 620ZM581 105 577 100 573 95 567 91 561 88 554 86H547H540L534 88L528 91L522 95L517 100L513 105L510 112L508 118V125V132L510 138L513 145L517 150L522 155L528 159L534 162L540 164H547H554L561 162L567 159L573 155L577 150L581 145L584 138L586 132L587 125L586 118L584 112ZM564 135 562 138 560 140 557 142 554 143 551 144 547 145 544 144 540 143 537 142 535 140 532 138 530 135 529 132 528 128V125V122L529 118L530 115L532 112L535 110L537 108L540 107L544 106L547 105L551 106L554 107L557 108L560 110L562 112L564 115L566 118L567 122V125V128L566 132Z"/></defs>
+<use href="#Microslab-Regular_uni0025" transform="translate(471.00 161) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="553" y="70" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="558" y="90" font-family="sans-serif" font-size="13" fill="#53616d">0026</text>
+<defs><path id="Microslab-Regular_uni0026" d="M143 667 411 798 501 581 367 469 397 429 570 194 593 269 653 251 616 132 626 118 608 105 578 9H121V345L282 479ZM183 315V71H532L547 120L347 391L319 429ZM426 599 379 712 237 643 330 519Z"/></defs>
+<use href="#Microslab-Regular_uni0026" transform="translate(559.00 161) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="641" y="70" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="646" y="90" font-family="sans-serif" font-size="13" fill="#53616d">0027</text>
+<defs><path id="Microslab-Regular_uni0027" d="M337 554 360 719 422 711 399 546Z"/></defs>
+<use href="#Microslab-Regular_uni0027" transform="translate(647.00 161) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="729" y="70" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="734" y="90" font-family="sans-serif" font-size="13" fill="#53616d">0028</text>
+<defs><path id="Microslab-Regular_uni0028" d="M221 97 519 -104 484 -156 159 63V700L489 844L514 786L221 660Z"/></defs>
+<use href="#Microslab-Regular_uni0028" transform="translate(735.00 161) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="817" y="70" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="822" y="90" font-family="sans-serif" font-size="13" fill="#53616d">0029</text>
+<defs><path id="Microslab-Regular_uni0029" d="M601 63 276 -156 241 -104 539 97V660L246 786L271 844L601 700Z"/></defs>
+<use href="#Microslab-Regular_uni0029" transform="translate(823.00 161) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="905" y="70" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="910" y="90" font-family="sans-serif" font-size="13" fill="#53616d">002A</text>
+<defs><path id="Microslab-Regular_uni002A" d="M411 508 551 615 589 565 431 445 589 325 551 275 411 382V215H349V382L209 275L171 325L329 445L171 565L209 615L349 508V665H411Z"/></defs>
+<use href="#Microslab-Regular_uni002A" transform="translate(911.00 161) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="993" y="70" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="998" y="90" font-family="sans-serif" font-size="13" fill="#53616d">002B</text>
+<defs><path id="Microslab-Regular_uni002B" d="M411 321V125H349V321H122V383H349V580H411V383H638V321Z"/></defs>
+<use href="#Microslab-Regular_uni002B" transform="translate(999.00 161) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1081" y="70" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1086" y="90" font-family="sans-serif" font-size="13" fill="#53616d">002C</text>
+<defs><path id="Microslab-Regular_uni002C" d="M334 -66 365 81 425 69 394 -78Z"/></defs>
+<use href="#Microslab-Regular_uni002C" transform="translate(1087.00 161) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1169" y="70" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1174" y="90" font-family="sans-serif" font-size="13" fill="#53616d">002D</text>
+<defs><path id="Microslab-Regular_uni002D" d="M638 309H122V371H638Z"/></defs>
+<use href="#Microslab-Regular_uni002D" transform="translate(1175.00 161) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1257" y="70" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1262" y="90" font-family="sans-serif" font-size="13" fill="#53616d">002E</text>
+<defs><path id="Microslab-Regular_uni002E" d="M419 48 417 42 414 35 410 30 405 25 400 21 393 18 387 16H380H373L367 18L360 21L355 25L350 30L346 35L343 42L341 48V55V62L343 68L346 75L350 80L355 85L360 89L367 92L373 94H380H387L393 92L400 89L405 85L410 80L414 75L417 68L419 62V55Z"/></defs>
+<use href="#Microslab-Regular_uni002E" transform="translate(1263.00 161) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1345" y="70" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1350" y="90" font-family="sans-serif" font-size="13" fill="#53616d">002F</text>
+<defs><path id="Microslab-Regular_uni002F" d="M672 749 140 -106 88 -74 620 781Z"/></defs>
+<use href="#Microslab-Regular_uni002F" transform="translate(1351.00 161) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="25" y="184" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="30" y="204" font-family="sans-serif" font-size="13" fill="#53616d">0030</text>
+<defs><path id="Microslab-Regular_uni0030" d="M213 729H547L643 617V71L547 -41H213L117 71V617ZM561 587 509 647H251L199 587V101L251 41H509L561 101ZM416 324 411 318 406 313 400 308 394 305 387 304 380 303 373 304 366 305 360 308 354 313 349 318 344 324 341 330 340 337 339 344 340 351 341 358 344 364 349 370 354 375 360 380 366 383 373 384 380 385 387 384 394 383 400 380 406 375 411 370 416 364 419 358 420 351 421 344 420 337 419 330Z"/></defs>
+<use href="#Microslab-Regular_uni0030" transform="translate(31.00 275) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="113" y="184" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="118" y="204" font-family="sans-serif" font-size="13" fill="#53616d">0031</text>
+<defs><path id="Microslab-Regular_uni0031" d="M158 24V41H339V604L183 484L133 548L421 772V41H602V24H677V-24H602V-41H158V-24H83V24Z"/></defs>
+<use href="#Microslab-Regular_uni0031" transform="translate(119.00 275) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="201" y="184" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="206" y="204" font-family="sans-serif" font-size="13" fill="#53616d">0032</text>
+<defs><path id="Microslab-Regular_uni0032" d="M688 -24H613V-41H75L72 -36L572 447V587L520 647H261L200 575L137 629L224 729H557L654 617V413L270 41H613V24H688Z"/></defs>
+<use href="#Microslab-Regular_uni0032" transform="translate(207.00 275) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="289" y="184" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="294" y="204" font-family="sans-serif" font-size="13" fill="#53616d">0033</text>
+<defs><path id="Microslab-Regular_uni0033" d="M100 24H175V41H526L578 101V234L460 303H323V385H460L578 454V587L526 647H175V664H100V712H175V729H564L660 617V406L553 344L660 282V71L564 -41H175V-24H100Z"/></defs>
+<use href="#Microslab-Regular_uni0033" transform="translate(295.00 275) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="377" y="184" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="382" y="204" font-family="sans-serif" font-size="13" fill="#53616d">0034</text>
+<defs><path id="Microslab-Regular_uni0034" d="M497 -24V24H531V217H113L497 664V712H539L541 715L544 712H647V664H613V299H646V217H613V24H647V-24ZM531 577 292 299H531Z"/></defs>
+<use href="#Microslab-Regular_uni0034" transform="translate(383.00 275) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="465" y="184" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="470" y="204" font-family="sans-serif" font-size="13" fill="#53616d">0035</text>
+<defs><path id="Microslab-Regular_uni0035" d="M83 24H158V41H509L561 101V243L509 303H117V729H602V712H677V664H602V647H199V385H547L643 273V71L547 -41H158V-24H83Z"/></defs>
+<use href="#Microslab-Regular_uni0035" transform="translate(471.00 275) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="553" y="184" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="558" y="204" font-family="sans-serif" font-size="13" fill="#53616d">0036</text>
+<defs><path id="Microslab-Regular_uni0036" d="M626 273V71L530 -41H196L100 71V524L188 729H585V712H660V664H585V647H242L182 508V385H530ZM234 41H492L544 101V243L492 303H182V101Z"/></defs>
+<use href="#Microslab-Regular_uni0036" transform="translate(559.00 275) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="641" y="184" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="646" y="204" font-family="sans-serif" font-size="13" fill="#53616d">0037</text>
+<defs><path id="Microslab-Regular_uni0037" d="M387 -24H237V24H278L546 647H164V664H89V712H164V729H671L367 24H387Z"/></defs>
+<use href="#Microslab-Regular_uni0037" transform="translate(647.00 275) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="729" y="184" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="734" y="204" font-family="sans-serif" font-size="13" fill="#53616d">0038</text>
+<defs><path id="Microslab-Regular_uni0038" d="M117 617 213 729H547L643 617V415L582 344L643 273V71L547 -41H213L117 71V273L178 344L117 415ZM251 303 199 243V101L251 41H509L561 101V243L509 303ZM509 385 561 445V587L509 647H251L199 587V445L251 385Z"/></defs>
+<use href="#Microslab-Regular_uni0038" transform="translate(735.00 275) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="817" y="184" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="822" y="204" font-family="sans-serif" font-size="13" fill="#53616d">0039</text>
+<defs><path id="Microslab-Regular_uni0039" d="M100 24H175V41H518L578 180V303H230L134 415V617L230 729H564L660 617V164L572 -41H175V-24H100ZM526 647H268L216 587V445L268 385H578V587Z"/></defs>
+<use href="#Microslab-Regular_uni0039" transform="translate(823.00 275) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="905" y="184" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="910" y="204" font-family="sans-serif" font-size="13" fill="#53616d">003A</text>
+<defs><path id="Microslab-Regular_uni003A" d="M417 52 414 45 410 40 405 35 400 31 393 28 387 26H380H373L367 28L360 31L355 35L350 40L346 45L343 52L341 58V65V72L343 78L346 85L350 90L355 95L360 99L367 102L373 104H380H387L393 102L400 99L405 95L410 90L414 85L417 78L419 72V65V58ZM417 427 414 420 410 415 405 410 400 406 393 403 387 401H380H373L367 403L360 406L355 410L350 415L346 420L343 427L341 433V440V447L343 453L346 460L350 465L355 470L360 474L367 477L373 479H380H387L393 477L400 474L405 470L410 465L414 460L417 453L419 447V440V433Z"/></defs>
+<use href="#Microslab-Regular_uni003A" transform="translate(911.00 275) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="993" y="184" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="998" y="204" font-family="sans-serif" font-size="13" fill="#53616d">003B</text>
+<defs><path id="Microslab-Regular_uni003B" d="M364 86 426 74 399 -71 337 -59ZM417 422 414 415 410 410 405 405 400 401 393 398 387 396H380H373L367 398L360 401L355 405L350 410L346 415L343 422L341 428V435V442L343 448L346 455L350 460L355 465L360 469L367 472L373 474H380H387L393 472L400 469L405 465L410 460L414 455L417 448L419 442V435V428Z"/></defs>
+<use href="#Microslab-Regular_uni003B" transform="translate(999.00 275) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1081" y="184" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1086" y="204" font-family="sans-serif" font-size="13" fill="#53616d">003C</text>
+<defs><path id="Microslab-Regular_uni003C" d="M589 60 551 10 101 360 551 710 589 660 203 360Z"/></defs>
+<use href="#Microslab-Regular_uni003C" transform="translate(1087.00 275) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1169" y="184" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1174" y="204" font-family="sans-serif" font-size="13" fill="#53616d">003D</text>
+<defs><path id="Microslab-Regular_uni003D" d="M129 219V281H631V219ZM129 429V491H631V429Z"/></defs>
+<use href="#Microslab-Regular_uni003D" transform="translate(1175.00 275) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1257" y="184" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1262" y="204" font-family="sans-serif" font-size="13" fill="#53616d">003E</text>
+<defs><path id="Microslab-Regular_uni003E" d="M209 10 171 60 557 360 171 660 209 710 659 360Z"/></defs>
+<use href="#Microslab-Regular_uni003E" transform="translate(1263.00 275) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1345" y="184" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1350" y="204" font-family="sans-serif" font-size="13" fill="#53616d">003F</text>
+<defs><path id="Microslab-Regular_uni003F" d="M632 551 411 375V225H349V405L554 569L498 679H237L197 532L137 548L189 741H536ZM417 26 414 19 410 14 405 9 400 5 393 2 387 0H380H373L367 2L360 5L355 9L350 14L346 19L343 26L341 32V39V46L343 52L346 59L350 64L355 69L360 73L367 76L373 78H380H387L393 76L400 73L405 69L410 64L414 59L417 52L419 46V39V32Z"/></defs>
+<use href="#Microslab-Regular_uni003F" transform="translate(1351.00 275) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="25" y="298" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="30" y="318" font-family="sans-serif" font-size="13" fill="#53616d">0040</text>
+<defs><path id="Microslab-Regular_uni0040" d="M663 294 659 275 654 257 647 239 639 222 630 206 620 189 609 174 597 159 584 146 571 133 556 121 541 110 524 100 508 91 491 83 473 76 455 71 436 67 418 63 399 62 380 61 361 62 342 63 324 67 305 71 287 76 269 83 252 91 236 100 219 110 204 121 189 133 176 146 163 159 151 174 140 189 130 205 121 222 113 239 106 257 101 275 97 294 93 312 92 331 91 350 92 369 93 388 97 406 101 425 106 443 113 461 121 478 130 494 140 511 151 526 163 541 176 554 189 567 204 579 219 590 235 600 252 609 269 617 287 624 305 629 324 633 342 637 361 638 380 639 399 638 418 637 436 633 455 629 473 624 491 617 508 609 524 600 541 590 556 579 567 570H571V567L584 554L597 541L609 526L620 511L630 495L639 478L647 461L654 443L659 425L663 406L667 388L668 369L669 350L668 331L667 312ZM621 398 618 414 613 429 607 444 601 459 593 473 585 487 575 500 571 505V346L618 388L624 381V382ZM459 583 444 588 428 591 412 594 396 595 380 596 364 595 348 594 332 591 316 588 301 583 286 577 271 571 257 563 243 555 230 545 218 535 206 524 195 512 185 500 175 487 167 473 159 459 153 444 147 429 142 414 139 398 136 382 135 366 134 350 135 334 136 318 139 302 142 286 147 271 153 256 159 241 167 227 175 213 185 200 195 188 206 176 218 165 230 155 243 145 257 137 271 129 286 123 301 117 316 112 332 109 348 106 364 105 380 104 396 105 412 106 428 109 444 112 459 117 474 123 489 129 503 137 517 145 530 155 542 165 554 176 565 188 575 200 585 213 593 227 601 241 607 256 613 271 618 286 621 302 622 309 544 239 322 241 231 431 317 582 481 574 474 577ZM352 518 301 429 362 303 508 301V510Z"/></defs>
+<use href="#Microslab-Regular_uni0040" transform="translate(31.00 389) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="113" y="298" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="118" y="318" font-family="sans-serif" font-size="13" fill="#53616d">0041</text>
+<defs><path id="Microslab-Regular_uni0041" d="M233 -24H83V24H123L370 790H390L637 24H677V-24H527V24H551L494 200H266L209 24H233ZM468 282 380 554 292 282Z"/></defs>
+<use href="#Microslab-Regular_uni0041" transform="translate(119.00 389) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="201" y="298" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="206" y="318" font-family="sans-serif" font-size="13" fill="#53616d">0042</text>
+<defs><path id="Microslab-Regular_uni0042" d="M134 729H482L660 626V406L553 344L660 282V62L482 -41H175V-24H100V24H134ZM460 303H216V41H460L578 110V234ZM460 647H216V385H460L578 454V578Z"/></defs>
+<use href="#Microslab-Regular_uni0042" transform="translate(207.00 389) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="289" y="298" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="294" y="318" font-family="sans-serif" font-size="13" fill="#53616d">0043</text>
+<defs><path id="Microslab-Regular_uni0043" d="M660 -24H585V-41H196L100 71V617L196 729H585V712H660V664H585V647H234L182 587V101L234 41H585V24H660Z"/></defs>
+<use href="#Microslab-Regular_uni0043" transform="translate(295.00 389) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="377" y="298" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="382" y="318" font-family="sans-serif" font-size="13" fill="#53616d">0044</text>
+<defs><path id="Microslab-Regular_uni0044" d="M134 729H490L660 531V157L490 -41H134V-24H100V24H134ZM578 501 452 647H216V41H452L578 187Z"/></defs>
+<use href="#Microslab-Regular_uni0044" transform="translate(383.00 389) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="465" y="298" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="470" y="318" font-family="sans-serif" font-size="13" fill="#53616d">0045</text>
+<defs><path id="Microslab-Regular_uni0045" d="M660 -24H585V-41H100V729H585V712H660V664H585V647H182V385H511V303H182V41H585V24H660Z"/></defs>
+<use href="#Microslab-Regular_uni0045" transform="translate(471.00 389) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="553" y="298" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="558" y="318" font-family="sans-serif" font-size="13" fill="#53616d">0046</text>
+<defs><path id="Microslab-Regular_uni0046" d="M233 -24H83V24H117V729H602V712H677V664H602V647H199V385H528V303H199V24H233Z"/></defs>
+<use href="#Microslab-Regular_uni0046" transform="translate(559.00 389) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="641" y="298" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="646" y="318" font-family="sans-serif" font-size="13" fill="#53616d">0047</text>
+<defs><path id="Microslab-Regular_uni0047" d="M182 101 234 41H544V303H363V385H626V-41H196L100 71V617L196 729H585V712H660V664H585V647H234L182 587Z"/></defs>
+<use href="#Microslab-Regular_uni0047" transform="translate(647.00 389) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="729" y="298" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="734" y="318" font-family="sans-serif" font-size="13" fill="#53616d">0048</text>
+<defs><path id="Microslab-Regular_uni0048" d="M117 24V664H83V712H233V664H199V385H561V664H527V712H677V664H643V24H677V-24H527V24H561V303H199V24H233V-24H83V24Z"/></defs>
+<use href="#Microslab-Regular_uni0048" transform="translate(735.00 389) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="817" y="298" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="822" y="318" font-family="sans-serif" font-size="13" fill="#53616d">0049</text>
+<defs><path id="Microslab-Regular_uni0049" d="M158 24V41H339V647H158V664H83V712H158V729H602V712H677V664H602V647H421V41H602V24H677V-24H602V-41H158V-24H83V24Z"/></defs>
+<use href="#Microslab-Regular_uni0049" transform="translate(823.00 389) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="905" y="298" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="910" y="318" font-family="sans-serif" font-size="13" fill="#53616d">004A</text>
+<defs><path id="Microslab-Regular_uni004A" d="M542 187V664H508V712H658V664H624V157L454 -41H186L102 156L177 188L240 41H417Z"/></defs>
+<use href="#Microslab-Regular_uni004A" transform="translate(911.00 389) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="993" y="298" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="998" y="318" font-family="sans-serif" font-size="13" fill="#53616d">004B</text>
+<defs><path id="Microslab-Regular_uni004B" d="M117 24V306L91 325L117 346V664H83V712H233V664H199V413L527 680V712H567L576 720L582 712H677V664H622L628 656L225 328L626 33L620 24H677V-24H584L578 -33L565 -24H527V4L199 246V24H233V-24H83V24Z"/></defs>
+<use href="#Microslab-Regular_uni004B" transform="translate(999.00 389) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1081" y="298" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1086" y="318" font-family="sans-serif" font-size="13" fill="#53616d">004C</text>
+<defs><path id="Microslab-Regular_uni004C" d="M677 -24H602V-41H117V664H83V712H233V664H199V41H602V24H677Z"/></defs>
+<use href="#Microslab-Regular_uni004C" transform="translate(1087.00 389) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1169" y="298" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1174" y="318" font-family="sans-serif" font-size="13" fill="#53616d">004D</text>
+<defs><path id="Microslab-Regular_uni004D" d="M233 -24H83V24H117V782L128 786L380 493L632 786L643 782V24H677V-24H527V24H561V577L380 367L199 577V24H233Z"/></defs>
+<use href="#Microslab-Regular_uni004D" transform="translate(1175.00 389) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1257" y="298" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1262" y="318" font-family="sans-serif" font-size="13" fill="#53616d">004E</text>
+<defs><path id="Microslab-Regular_uni004E" d="M233 -24H83V24H117V783L141 790L561 139V664H527V712H677V664H643V-95L619 -102L199 549V24H233Z"/></defs>
+<use href="#Microslab-Regular_uni004E" transform="translate(1263.00 389) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1345" y="298" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1350" y="318" font-family="sans-serif" font-size="13" fill="#53616d">004F</text>
+<defs><path id="Microslab-Regular_uni004F" d="M117 71V617L213 729H547L643 617V71L547 -41H213ZM509 41 561 101V587L509 647H251L199 587V101L251 41Z"/></defs>
+<use href="#Microslab-Regular_uni004F" transform="translate(1351.00 389) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="25" y="412" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="30" y="432" font-family="sans-serif" font-size="13" fill="#53616d">0050</text>
+<defs><path id="Microslab-Regular_uni0050" d="M250 -24H100V24H134V729H564L660 617V415L564 303H216V24H250ZM578 445V587L526 647H216V385H526Z"/></defs>
+<use href="#Microslab-Regular_uni0050" transform="translate(31.00 503) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="113" y="412" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="118" y="432" font-family="sans-serif" font-size="13" fill="#53616d">0051</text>
+<defs><path id="Microslab-Regular_uni0051" d="M533 -20 515 -41H181L85 71V617L181 729H515L611 617V71L587 43L675 -59L613 -113ZM453 199 529 111V587L477 647H219L167 587V101L219 41H477L479 43L391 145Z"/></defs>
+<use href="#Microslab-Regular_uni0051" transform="translate(119.00 503) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="201" y="412" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="206" y="432" font-family="sans-serif" font-size="13" fill="#53616d">0052</text>
+<defs><path id="Microslab-Regular_uni0052" d="M233 -24H83V24H117V729H547L643 617V415L547 303H455L635 24H677V-24H527V24H538L358 303H199V24H233ZM509 647H199V385H509L561 445V587Z"/></defs>
+<use href="#Microslab-Regular_uni0052" transform="translate(207.00 503) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="289" y="412" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="294" y="432" font-family="sans-serif" font-size="13" fill="#53616d">0053</text>
+<defs><path id="Microslab-Regular_uni0053" d="M199 587V458L643 286V71L547 -41H158V41H509L561 101V230L117 402V617L213 729H602V647H251Z"/></defs>
+<use href="#Microslab-Regular_uni0053" transform="translate(295.00 503) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="377" y="412" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="382" y="432" font-family="sans-serif" font-size="13" fill="#53616d">0054</text>
+<defs><path id="Microslab-Regular_uni0054" d="M305 -24V24H339V647H158V664H83V712H158V729H602V712H677V664H602V647H421V24H455V-24Z"/></defs>
+<use href="#Microslab-Regular_uni0054" transform="translate(383.00 503) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="465" y="412" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="470" y="432" font-family="sans-serif" font-size="13" fill="#53616d">0055</text>
+<defs><path id="Microslab-Regular_uni0055" d="M509 41 561 101V664H527V712H677V664H643V71L547 -41H213L117 71V664H83V712H233V664H199V101L251 41Z"/></defs>
+<use href="#Microslab-Regular_uni0055" transform="translate(471.00 503) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="553" y="412" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="558" y="432" font-family="sans-serif" font-size="13" fill="#53616d">0056</text>
+<defs><path id="Microslab-Regular_uni0056" d="M527 664V712H677V664H637L390 -102H370L123 664H83V712H233V664H209L380 134L551 664Z"/></defs>
+<use href="#Microslab-Regular_uni0056" transform="translate(559.00 503) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="641" y="412" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="646" y="432" font-family="sans-serif" font-size="13" fill="#53616d">0057</text>
+<defs><path id="Microslab-Regular_uni0057" d="M388 532 507 187 558 664H527V712H677V664H641L559 -100L520 -104L380 304L240 -104L201 -100L119 664H83V712H233V664H202L253 187L372 532Z"/></defs>
+<use href="#Microslab-Regular_uni0057" transform="translate(647.00 503) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="729" y="412" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="734" y="432" font-family="sans-serif" font-size="13" fill="#53616d">0058</text>
+<defs><path id="Microslab-Regular_uni0058" d="M125 24 331 344 125 664H83V712H233V664H222L380 420L538 664H527V712H677V664H635L429 344L635 24H677V-24H527V24H538L380 268L222 24H233V-24H83V24Z"/></defs>
+<use href="#Microslab-Regular_uni0058" transform="translate(735.00 503) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="817" y="412" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="822" y="432" font-family="sans-serif" font-size="13" fill="#53616d">0059</text>
+<defs><path id="Microslab-Regular_uni0059" d="M305 -24V24H339V332L125 664H83V712H233V664H222L380 420L538 664H527V712H677V664H635L421 332V24H455V-24Z"/></defs>
+<use href="#Microslab-Regular_uni0059" transform="translate(823.00 503) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="905" y="412" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="910" y="432" font-family="sans-serif" font-size="13" fill="#53616d">005A</text>
+<defs><path id="Microslab-Regular_uni005A" d="M677 -24H602V-41H83L527 647H158V664H83V712H158V729H677L233 41H602V24H677Z"/></defs>
+<use href="#Microslab-Regular_uni005A" transform="translate(911.00 503) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="993" y="412" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="998" y="432" font-family="sans-serif" font-size="13" fill="#53616d">005B</text>
+<defs><path id="Microslab-Regular_uni005B" d="M214 -69H403V-131H151V841H403V779H214Z"/></defs>
+<use href="#Microslab-Regular_uni005B" transform="translate(999.00 503) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1081" y="412" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1086" y="432" font-family="sans-serif" font-size="13" fill="#53616d">005C</text>
+<defs><path id="Microslab-Regular_uni005C" d="M140 781 672 -74 620 -106 88 749Z"/></defs>
+<use href="#Microslab-Regular_uni005C" transform="translate(1087.00 503) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1169" y="412" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1174" y="432" font-family="sans-serif" font-size="13" fill="#53616d">005D</text>
+<defs><path id="Microslab-Regular_uni005D" d="M609 -131H357V-69H546V779H357V841H609Z"/></defs>
+<use href="#Microslab-Regular_uni005D" transform="translate(1175.00 503) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1257" y="412" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1262" y="432" font-family="sans-serif" font-size="13" fill="#53616d">005E</text>
+<defs><path id="Microslab-Regular_uni005E" d="M655 449 606 411 380 705 154 411 105 449 380 807Z"/></defs>
+<use href="#Microslab-Regular_uni005E" transform="translate(1263.00 503) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1345" y="412" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1350" y="432" font-family="sans-serif" font-size="13" fill="#53616d">005F</text>
+<defs><path id="Microslab-Regular_uni005F" d="M638 -31H122V31H638Z"/></defs>
+<use href="#Microslab-Regular_uni005F" transform="translate(1351.00 503) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="25" y="526" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="30" y="546" font-family="sans-serif" font-size="13" fill="#53616d">0060</text>
+<defs><path id="Microslab-Regular_uni0060" d="M337 554 360 719 422 711 399 546Z"/></defs>
+<use href="#Microslab-Regular_uni0060" transform="translate(31.00 617) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="113" y="526" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="118" y="546" font-family="sans-serif" font-size="13" fill="#53616d">0061</text>
+<defs><path id="Microslab-Regular_uni0061" d="M250 -41 154 71V359L250 471H510L545 430H606V0H565V-41ZM236 329V101L288 41H524V329L472 389H288Z"/></defs>
+<use href="#Microslab-Regular_uni0061" transform="translate(119.00 617) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="201" y="526" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="206" y="546" font-family="sans-serif" font-size="13" fill="#53616d">0062</text>
+<defs><path id="Microslab-Regular_uni0062" d="M643 359V71L547 -41H295L199 15V0H117V688H199V415L295 471H547ZM509 41 561 101V329L509 389H317L199 320V110L317 41Z"/></defs>
+<use href="#Microslab-Regular_uni0062" transform="translate(207.00 617) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="289" y="526" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="294" y="546" font-family="sans-serif" font-size="13" fill="#53616d">0063</text>
+<defs><path id="Microslab-Regular_uni0063" d="M220 329V101L271 41H622V-41H234L138 71V359L234 471H622V389H271Z"/></defs>
+<use href="#Microslab-Regular_uni0063" transform="translate(295.00 617) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="377" y="526" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="382" y="546" font-family="sans-serif" font-size="13" fill="#53616d">0064</text>
+<defs><path id="Microslab-Regular_uni0064" d="M213 -41 117 71V359L213 471H465L561 415V688H643V0H561V15L465 -41ZM199 329V101L251 41H443L561 110V320L443 389H251Z"/></defs>
+<use href="#Microslab-Regular_uni0064" transform="translate(383.00 617) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="465" y="526" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="470" y="546" font-family="sans-serif" font-size="13" fill="#53616d">0065</text>
+<defs><path id="Microslab-Regular_uni0065" d="M199 101 251 41H602V-41H213L117 71V359L213 471H547L643 359V174H199ZM561 256V329L509 389H251L199 329V256Z"/></defs>
+<use href="#Microslab-Regular_uni0065" transform="translate(471.00 617) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="553" y="526" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="558" y="546" font-family="sans-serif" font-size="13" fill="#53616d">0066</text>
+<defs><path id="Microslab-Regular_uni0066" d="M344 -24H194V24H228V389H120V471H228V617L324 729H564V712H640V664H564V647H361L310 587V471H490V389H310V24H344Z"/></defs>
+<use href="#Microslab-Regular_uni0066" transform="translate(559.00 617) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="641" y="526" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="646" y="546" font-family="sans-serif" font-size="13" fill="#53616d">0067</text>
+<defs><path id="Microslab-Regular_uni0067" d="M158 -213V-131H443L561 -62V15L465 -41H213L117 71V359L213 471H465L561 415V430H643V-110L465 -213ZM443 389H251L199 329V101L251 41H443L561 110V320Z"/></defs>
+<use href="#Microslab-Regular_uni0067" transform="translate(647.00 617) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="729" y="526" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="734" y="546" font-family="sans-serif" font-size="13" fill="#53616d">0068</text>
+<defs><path id="Microslab-Regular_uni0068" d="M117 24V664H83V712H233V664H199V415L295 471H547L643 359V24H677V-24H527V24H561V329L509 389H317L199 320V24H233V-24H83V24Z"/></defs>
+<use href="#Microslab-Regular_uni0068" transform="translate(735.00 617) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="817" y="526" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="822" y="546" font-family="sans-serif" font-size="13" fill="#53616d">0069</text>
+<defs><path id="Microslab-Regular_uni0069" d="M603 -24H528V-41H232V-24H157V24H232V41H339V430H421V41H528V24H603ZM455 664H305V712H455Z"/></defs>
+<use href="#Microslab-Regular_uni0069" transform="translate(823.00 617) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="905" y="526" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="910" y="546" font-family="sans-serif" font-size="13" fill="#53616d">006A</text>
+<defs><path id="Microslab-Regular_uni006A" d="M194 -131H398L450 -71V430H532V-101L435 -213H194ZM566 712V664H416V712Z"/></defs>
+<use href="#Microslab-Regular_uni006A" transform="translate(911.00 617) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="993" y="526" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="998" y="546" font-family="sans-serif" font-size="13" fill="#53616d">006B</text>
+<defs><path id="Microslab-Regular_uni006B" d="M127 24V189L73 215L127 241V664H93V712H243V664H209V280L594 467L629 393L262 215L629 37L623 24H687V-24H600L594 -37L567 -24H537V-9L209 150V24H243V-24H93V24Z"/></defs>
+<use href="#Microslab-Regular_uni006B" transform="translate(999.00 617) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1081" y="526" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1086" y="546" font-family="sans-serif" font-size="13" fill="#53616d">006C</text>
+<defs><path id="Microslab-Regular_uni006C" d="M603 -24H528V-41H191V664H157V712H307V664H273V41H528V24H603Z"/></defs>
+<use href="#Microslab-Regular_uni006C" transform="translate(1087.00 617) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1169" y="526" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1174" y="546" font-family="sans-serif" font-size="13" fill="#53616d">006D</text>
+<defs><path id="Microslab-Regular_uni006D" d="M117 24V430H178L213 471H325L380 407L435 471H547L643 359V24H677V-24H527V24H561V329L509 389H473L421 329V24H455V-24H305V24H339V329L287 389H251L199 329V24H233V-24H83V24Z"/></defs>
+<use href="#Microslab-Regular_uni006D" transform="translate(1175.00 617) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1257" y="526" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1262" y="546" font-family="sans-serif" font-size="13" fill="#53616d">006E</text>
+<defs><path id="Microslab-Regular_uni006E" d="M233 -24H83V24H117V430H199V415L295 471H547L643 359V24H677V-24H527V24H561V329L509 389H317L199 320V24H233Z"/></defs>
+<use href="#Microslab-Regular_uni006E" transform="translate(1263.00 617) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1345" y="526" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1350" y="546" font-family="sans-serif" font-size="13" fill="#53616d">006F</text>
+<defs><path id="Microslab-Regular_uni006F" d="M117 71V359L213 471H547L643 359V71L547 -41H213ZM509 41 561 101V329L509 389H251L199 329V101L251 41Z"/></defs>
+<use href="#Microslab-Regular_uni006F" transform="translate(1351.00 617) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="25" y="640" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="30" y="660" font-family="sans-serif" font-size="13" fill="#53616d">0070</text>
+<defs><path id="Microslab-Regular_uni0070" d="M199 415 295 471H547L643 359V71L547 -41H295L199 15V-172H117V430H199ZM317 41H509L561 101V329L509 389H317L199 320V110Z"/></defs>
+<use href="#Microslab-Regular_uni0070" transform="translate(31.00 731) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="113" y="640" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="118" y="660" font-family="sans-serif" font-size="13" fill="#53616d">0071</text>
+<defs><path id="Microslab-Regular_uni0071" d="M643 -172H561V15L465 -41H213L117 71V359L213 471H465L561 415V430H643ZM443 389H251L199 329V101L251 41H443L561 110V320Z"/></defs>
+<use href="#Microslab-Regular_uni0071" transform="translate(119.00 731) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="201" y="640" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="206" y="660" font-family="sans-serif" font-size="13" fill="#53616d">0072</text>
+<defs><path id="Microslab-Regular_uni0072" d="M308 -24H158V24H192V430H274V415L369 471H602V389H392L274 320V24H308Z"/></defs>
+<use href="#Microslab-Regular_uni0072" transform="translate(207.00 731) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="289" y="640" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="294" y="660" font-family="sans-serif" font-size="13" fill="#53616d">0073</text>
+<defs><path id="Microslab-Regular_uni0073" d="M212 344 255 294 551 208 656 86 547 -41H158V41H509L548 86L505 136L209 222L104 344L213 471H602V389H251Z"/></defs>
+<use href="#Microslab-Regular_uni0073" transform="translate(295.00 731) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="377" y="640" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="382" y="660" font-family="sans-serif" font-size="13" fill="#53616d">0074</text>
+<defs><path id="Microslab-Regular_uni0074" d="M640 -24H564V-41H324L228 71V389H120V471H228V602H310V471H564V389H310V101L361 41H564V24H640Z"/></defs>
+<use href="#Microslab-Regular_uni0074" transform="translate(383.00 731) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="465" y="640" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="470" y="660" font-family="sans-serif" font-size="13" fill="#53616d">0075</text>
+<defs><path id="Microslab-Regular_uni0075" d="M509 41 561 101V430H643V0H582L547 -41H213L117 71V430H199V101L251 41Z"/></defs>
+<use href="#Microslab-Regular_uni0075" transform="translate(471.00 731) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="553" y="640" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="558" y="660" font-family="sans-serif" font-size="13" fill="#53616d">0076</text>
+<defs><path id="Microslab-Regular_uni0076" d="M566 449 638 411 380 -89 122 411 194 449 380 89Z"/></defs>
+<use href="#Microslab-Regular_uni0076" transform="translate(559.00 731) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="641" y="640" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="646" y="660" font-family="sans-serif" font-size="13" fill="#53616d">0077</text>
+<defs><path id="Microslab-Regular_uni0077" d="M380 340 507 119 562 437 642 423 552 -100 539 -102 380 176 221 -102 208 -100 118 423 198 437 253 119Z"/></defs>
+<use href="#Microslab-Regular_uni0077" transform="translate(647.00 731) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="729" y="640" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="734" y="660" font-family="sans-serif" font-size="13" fill="#53616d">0078</text>
+<defs><path id="Microslab-Regular_uni0078" d="M380 158 187 -29 129 29 321 215 129 401 187 459 380 272 573 459 631 401 439 215 631 29 573 -29Z"/></defs>
+<use href="#Microslab-Regular_uni0078" transform="translate(735.00 731) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="817" y="640" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="822" y="660" font-family="sans-serif" font-size="13" fill="#53616d">0079</text>
+<defs><path id="Microslab-Regular_uni0079" d="M455 -24H414L333 -213H158V-131H279L325 -24H305V24H321L122 411L194 449L380 89L566 449L638 411L439 24H455Z"/></defs>
+<use href="#Microslab-Regular_uni0079" transform="translate(823.00 731) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="905" y="640" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="910" y="660" font-family="sans-serif" font-size="13" fill="#53616d">007A</text>
+<defs><path id="Microslab-Regular_uni007A" d="M698 466 259 41H602V-41H64L62 -36L501 389H158V471H696Z"/></defs>
+<use href="#Microslab-Regular_uni007A" transform="translate(911.00 731) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="993" y="640" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="998" y="660" font-family="sans-serif" font-size="13" fill="#53616d">007B</text>
+<defs><path id="Microslab-Regular_uni007B" d="M381 485 544 361 381 225V-28L504 -71L484 -129L318 -72V255L444 359L318 455V774L486 820L502 760L381 726Z"/></defs>
+<use href="#Microslab-Regular_uni007B" transform="translate(999.00 731) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1081" y="640" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1086" y="660" font-family="sans-serif" font-size="13" fill="#53616d">007C</text>
+<defs><path id="Microslab-Regular_uni007C" d="M411 825V-160H349V825Z"/></defs>
+<use href="#Microslab-Regular_uni007C" transform="translate(1087.00 731) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1169" y="640" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1174" y="660" font-family="sans-serif" font-size="13" fill="#53616d">007D</text>
+<defs><path id="Microslab-Regular_uni007D" d="M442 455 316 359 442 255V-72L276 -129L256 -71L379 -28V225L216 361L379 485V726L258 760L274 820L442 774Z"/></defs>
+<use href="#Microslab-Regular_uni007D" transform="translate(1175.00 731) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1257" y="640" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1262" y="660" font-family="sans-serif" font-size="13" fill="#53616d">007E</text>
+<defs><path id="Microslab-Regular_uni007E" d="M488 370 625 433 651 377 485 300 265 420 134 362 109 418 267 490Z"/></defs>
+<use href="#Microslab-Regular_uni007E" transform="translate(1263.00 731) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1345" y="640" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1350" y="660" font-family="sans-serif" font-size="13" fill="#53616d">00A0</text>
+
+<rect x="25" y="754" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="30" y="774" font-family="sans-serif" font-size="13" fill="#53616d">00A1</text>
+<defs><path id="Microslab-Regular_uni00A1" d="M350 685 355 690 360 694 367 697 373 699H380H387L393 697L400 694L405 690L410 685L414 680L417 673L419 667V660V653L417 647L414 640L410 635L405 630L400 626L393 623L387 621H380H373L367 623L360 626L355 630L350 635L346 640L343 647L341 653V660V667L343 673L346 680ZM349 482H411V-15H349Z"/></defs>
+<use href="#Microslab-Regular_uni00A1" transform="translate(31.00 845) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="113" y="754" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="118" y="774" font-family="sans-serif" font-size="13" fill="#53616d">00A2</text>
+<defs><path id="Microslab-Regular_uni00A2" d="M622 41V-41H234L138 71V359L234 471H358V690H402V471H622V389H402V85H358V389H271L220 329V101L271 41Z"/></defs>
+<use href="#Microslab-Regular_uni00A2" transform="translate(119.00 845) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="201" y="754" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="206" y="774" font-family="sans-serif" font-size="13" fill="#53616d">00A3</text>
+<defs><path id="Microslab-Regular_uni00A3" d="M183 240V41H586V24H661V-24H586V-41H101V240H99V275H101V729H586V712H661V664H586V647H183V385H512V303H183V275H654V240Z"/></defs>
+<use href="#Microslab-Regular_uni00A3" transform="translate(207.00 845) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="289" y="754" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="294" y="774" font-family="sans-serif" font-size="13" fill="#53616d">00A4</text>
+<defs><path id="Microslab-Regular_uni00A4" d="M566 252 545 222 518 195 488 174 454 158 417 148 380 145 343 148 306 158 273 174 242 195 215 222 194 252 178 286 168 323 165 360 168 397 178 434 194 467 215 498 242 525 248 529 182 579 198 601 271 545 272 546 306 562 343 572 367 574V665H393V574L417 572L454 562L488 546L489 545L562 601L578 579L512 529L518 525L545 498L566 468L582 434L592 397L595 360L592 323L582 286ZM493 425 480 444 464 460 445 473 441 475 402 445 510 363 508 383 502 404ZM424 238 445 247 464 260 480 276 493 295 502 316 506 332 393 418V231L403 232ZM393 489V472L411 486L403 488ZM267 295 280 276 296 260 315 247 336 238 357 232 367 231V418L254 332L258 316ZM349 486 367 472V489L357 488ZM296 460 280 444 267 425 258 404 252 383 250 363 358 445 319 475 315 473Z"/></defs>
+<use href="#Microslab-Regular_uni00A4" transform="translate(295.00 845) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="377" y="754" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="382" y="774" font-family="sans-serif" font-size="13" fill="#53616d">00A5</text>
+<defs><path id="Microslab-Regular_uni00A5" d="M339 332 334 340H106V376H311L125 664H83V712H233V664H222L380 420L538 664H527V712H677V664H635L449 376H638V340H426L421 332V266H638V230H421V24H455V-24H305V24H339V230H106V266H339Z"/></defs>
+<use href="#Microslab-Regular_uni00A5" transform="translate(383.00 845) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="465" y="754" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="470" y="774" font-family="sans-serif" font-size="13" fill="#53616d">00A6</text>
+<defs><path id="Microslab-Regular_uni00A6" d="M357 260H403V0H357ZM357 780H403V500H357Z"/></defs>
+<use href="#Microslab-Regular_uni00A6" transform="translate(471.00 845) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="553" y="754" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="558" y="774" font-family="sans-serif" font-size="13" fill="#53616d">00A7</text>
+<defs><path id="Microslab-Regular_uni00A7" d="M404 798 494 581 360 469 391 429 563 194 587 269 646 251 609 132 619 118 601 105 571 9H114V345L275 479L136 667ZM176 71H525L540 120L340 391L312 429L176 315ZM372 712 231 643 323 519 419 599Z"/></defs>
+<use href="#Microslab-Regular_uni00A7" transform="translate(559.00 845) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="641" y="754" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="646" y="774" font-family="sans-serif" font-size="13" fill="#53616d">00A8</text>
+<defs><path id="Microslab-Regular_uni00A8" d="M339 439 337 435 334 431 331 428 327 425 323 423 318 421H313H308L303 423L299 425L295 428L292 431L289 435L287 439L285 444V449V454L287 459L289 463L292 467L295 470L299 473L303 475L308 477H313H318L323 475L327 473L331 470L334 467L337 463L339 459L341 454V449V444ZM473 439 471 435 468 431 465 428 461 425 457 423 452 421H447H442L437 423L433 425L429 428L426 431L423 435L421 439L419 444V449V454L421 459L423 463L426 467L429 470L433 473L437 475L442 477H447H452L457 475L461 473L465 470L468 467L471 463L473 459L475 454V449V444Z"/></defs>
+<use href="#Microslab-Regular_uni00A8" transform="translate(647.00 845) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="729" y="754" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="734" y="774" font-family="sans-serif" font-size="13" fill="#53616d">00A9</text>
+<defs><path id="Microslab-Regular_uni00A9" d="M606 180 570 144 528 115 481 93 431 79 380 75 329 79 279 93 233 115 190 144 154 180 125 223 103 269 89 319 85 370 89 421 103 471 125 517 154 560 190 596 232 625 279 647 329 661 380 665 431 661 481 647 504 637H514V632L527 626H558V604L570 596L606 560L635 518L657 471L671 421L675 370L671 319L657 269L635 223ZM582 540 550 572 517 595H514V584H310L280 546V235L310 196H514V185H558V176L582 200L609 238L628 280L640 324L644 370L640 416L628 460L609 502ZM178 540 151 502 132 460 120 416 116 370 120 324 132 280 151 238 178 200 210 168 248 141 290 122 334 110 380 106 426 110 470 122 512 141 531 155H514V144H289L233 215V565L265 607L248 599L210 572Z"/></defs>
+<use href="#Microslab-Regular_uni00A9" transform="translate(735.00 845) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="817" y="754" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="822" y="774" font-family="sans-serif" font-size="13" fill="#53616d">00AA</text>
+<defs><path id="Microslab-Regular_uni00AA" d="M233 467 296 541H464L487 514H527V230H500V203H296L233 277ZM320 257H474V447L440 487H320L286 447V297Z"/></defs>
+<use href="#Microslab-Regular_uni00AA" transform="translate(823.00 845) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="905" y="754" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="910" y="774" font-family="sans-serif" font-size="13" fill="#53616d">00AB</text>
+<defs><path id="Microslab-Regular_uni00AB" d="M550 18 110 360 550 702 577 668 181 360 577 52ZM627 20 190 360 627 700 650 670 251 360 650 50Z"/></defs>
+<use href="#Microslab-Regular_uni00AB" transform="translate(911.00 845) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="993" y="754" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="998" y="774" font-family="sans-serif" font-size="13" fill="#53616d">00AC</text>
+<defs><path id="Microslab-Regular_uni00AC" d="M627 250V365H95V405H627H665V365V250Z"/></defs>
+<use href="#Microslab-Regular_uni00AC" transform="translate(999.00 845) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1081" y="754" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1086" y="774" font-family="sans-serif" font-size="13" fill="#53616d">00AD</text>
+
+<rect x="1169" y="754" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1174" y="774" font-family="sans-serif" font-size="13" fill="#53616d">00AE</text>
+<defs><path id="Microslab-Regular_uni00AE" d="M606 180 570 144 528 115 481 93 431 79 380 75 329 79 279 93 233 115 190 144 154 180 125 223 103 269 89 319 85 370 89 421 103 471 125 517 154 560 190 596 232 625 243 630V637H256L279 647L329 661L380 665L431 661L481 647L528 625L570 596L606 560L635 518L657 471L671 421L675 370L671 319L657 269L635 223ZM582 540 550 572 533 584 548 565V435L492 364H439L543 185H567L582 200L609 238L628 280L640 324L644 370L640 416L628 460L609 502ZM334 110 380 106 426 110 470 122 512 141 531 155H480V185H487L382 364H290V185H310V155H229L248 141L290 122ZM470 416 500 455V546L470 584H290V416ZM151 502 132 460 120 416 116 370 120 324 132 280 151 238 178 200 210 168 223 159V185H243V595L210 572L178 540Z"/></defs>
+<use href="#Microslab-Regular_uni00AE" transform="translate(1175.00 845) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1257" y="754" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1262" y="774" font-family="sans-serif" font-size="13" fill="#53616d">00AF</text>
+<defs><path id="Microslab-Regular_uni00AF" d="M463 421H297V477H463Z"/></defs>
+<use href="#Microslab-Regular_uni00AF" transform="translate(1263.00 845) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1345" y="754" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1350" y="774" font-family="sans-serif" font-size="13" fill="#53616d">00B0</text>
+<defs><path id="Microslab-Regular_uni00B0" d="M477 590 469 574 459 559 446 546 432 536 415 528 398 524 380 522 362 524 345 528 328 536 314 546 301 559 291 574 283 590 279 607 277 625 279 643 283 660 291 676 301 691 314 704 328 714 345 722 362 726 380 728 398 726 415 722 432 714 446 704 459 691 469 676 477 660 481 643 483 625 481 607ZM440 647 435 657 429 666 421 674 412 680 402 685 391 688 380 689 369 688 358 685 348 680 339 674 331 666 325 657 320 647 317 636 316 625 317 614 320 603 325 593 331 584 339 576 348 570 358 565 369 562 380 561 391 562 402 565 412 570 421 576 429 584 435 593 440 603 443 614 444 625 443 636Z"/></defs>
+<use href="#Microslab-Regular_uni00B0" transform="translate(1351.00 845) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="25" y="868" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="30" y="888" font-family="sans-serif" font-size="13" fill="#53616d">00B1</text>
+<defs><path id="Microslab-Regular_uni00B1" d="M411 125H349V321H122V383H349V580H411V383H638V321H411ZM137 110H623V80H137Z"/></defs>
+<use href="#Microslab-Regular_uni00B1" transform="translate(31.00 959) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="113" y="868" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="118" y="888" font-family="sans-serif" font-size="13" fill="#53616d">00B2</text>
+<defs><path id="Microslab-Regular_uni00B2" d="M506 378H215L214 381L483 642V717L455 749H316L283 711L249 740L296 794H476L528 733V623L320 422H506V413H546V387H506Z"/></defs>
+<use href="#Microslab-Regular_uni00B2" transform="translate(119.00 959) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="201" y="868" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="206" y="888" font-family="sans-serif" font-size="13" fill="#53616d">00B3</text>
+<defs><path id="Microslab-Regular_uni00B3" d="M269 422H459L487 455V527L423 564H349V608H423L487 645V717L459 749H269V759H229V784H269V794H479L531 733V619L473 586L531 552V438L479 378H269V387H229V413H269Z"/></defs>
+<use href="#Microslab-Regular_uni00B3" transform="translate(207.00 959) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="289" y="868" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="294" y="888" font-family="sans-serif" font-size="13" fill="#53616d">00B4</text>
+<defs><path id="Microslab-Regular_uni00B4" d="M433 481 371 403 327 437 389 515Z"/></defs>
+<use href="#Microslab-Regular_uni00B4" transform="translate(295.00 959) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="377" y="868" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="382" y="888" font-family="sans-serif" font-size="13" fill="#53616d">00B5</text>
+<defs><path id="Microslab-Regular_uni00B5" d="M104 145H130V430H212V101L264 41H522L574 101V430H656V0H595L560 -41H226L165 30V-172H104Z"/></defs>
+<use href="#Microslab-Regular_uni00B5" transform="translate(383.00 959) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="465" y="868" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="470" y="888" font-family="sans-serif" font-size="13" fill="#53616d">00B6</text>
+<defs><path id="Microslab-Regular_uni00B6" d="M411 2 424 209H274L260 -2L198 2L212 209H91V271H216L229 479H91V541H234L247 742L309 738L296 541H446L459 742L521 738L508 541H669V479H504L491 271H669V209H487L473 -2ZM442 479H292L278 271H428Z"/></defs>
+<use href="#Microslab-Regular_uni00B6" transform="translate(471.00 959) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="553" y="868" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="558" y="888" font-family="sans-serif" font-size="13" fill="#53616d">00B7</text>
+<defs><path id="Microslab-Regular_uni00B7" d="M403 492 556 609 584 571 419 445 584 319 556 281 403 398V215H357V398L204 281L176 319L341 445L176 571L204 609L357 492V665H403Z"/></defs>
+<use href="#Microslab-Regular_uni00B7" transform="translate(559.00 959) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="641" y="868" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="646" y="888" font-family="sans-serif" font-size="13" fill="#53616d">00B8</text>
+<defs><path id="Microslab-Regular_uni00B8" d="M463 386H297V442H463Z"/></defs>
+<use href="#Microslab-Regular_uni00B8" transform="translate(647.00 959) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="729" y="868" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="734" y="888" font-family="sans-serif" font-size="13" fill="#53616d">00B9</text>
+<defs><path id="Microslab-Regular_uni00B9" d="M358 422V726L274 661L247 696L402 817V422H500V413H540V387H500V378H260V387H220V413H260V422Z"/></defs>
+<use href="#Microslab-Regular_uni00B9" transform="translate(735.00 959) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="817" y="868" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="822" y="888" font-family="sans-serif" font-size="13" fill="#53616d">00BA</text>
+<defs><path id="Microslab-Regular_uni00BA" d="M272 541H488L551 467V277L488 203H272L209 277V467ZM498 447 464 487H296L262 447V297L296 257H464L498 297Z"/></defs>
+<use href="#Microslab-Regular_uni00BA" transform="translate(823.00 959) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="905" y="868" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="910" y="888" font-family="sans-serif" font-size="13" fill="#53616d">00BB</text>
+<defs><path id="Microslab-Regular_uni00BB" d="M112 52 507 360 112 668 138 702 579 360 138 18ZM188 50 588 360 188 670 211 700 648 360 211 20Z"/></defs>
+<use href="#Microslab-Regular_uni00BB" transform="translate(911.00 959) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="993" y="868" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="998" y="888" font-family="sans-serif" font-size="13" fill="#53616d">00BC</text>
+<defs><path id="Microslab-Regular_uni00BC" d="M107 543 85 569 209 659V366H287V360H319V340H287V334H96V340H64V360H96V366H174V592ZM490 637 529 623 324 78 284 92ZM647 87H467L632 266V285H650L651 286L652 285H696V266H682V120H696V87H682V10H696V-10H632V10H647ZM647 231 543 120H647Z"/></defs>
+<use href="#Microslab-Regular_uni00BC" transform="translate(999.00 959) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1081" y="868" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1086" y="888" font-family="sans-serif" font-size="13" fill="#53616d">00BD</text>
+<defs><path id="Microslab-Regular_uni00BD" d="M98 543 76 569 200 659V366H278V360H310V340H278V334H87V340H55V360H87V366H165V592ZM481 637 520 623 315 78 276 92ZM441 -16V-14L655 179V235L633 259H522L495 230L469 251L506 292H649L690 247V165L525 16H673V10H705V-10H673V-16Z"/></defs>
+<use href="#Microslab-Regular_uni00BD" transform="translate(1087.00 959) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1169" y="868" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1174" y="888" font-family="sans-serif" font-size="13" fill="#53616d">00BE</text>
+<defs><path id="Microslab-Regular_uni00BE" d="M273 390V444L222 471H163V504H222L273 531V585L251 609H100V616H67V635H100V642H267L308 597V513L262 488L308 463V378L267 334H100V340H67V360H100V366H251ZM486 637 525 623 320 78 281 92ZM643 87H463L628 266V285H646L647 286L649 285H693V266H678V120H692V87H678V10H693V-10H628V10H643ZM643 231 540 120H643Z"/></defs>
+<use href="#Microslab-Regular_uni00BE" transform="translate(1175.00 959) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1257" y="868" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1262" y="888" font-family="sans-serif" font-size="13" fill="#53616d">00BF</text>
+<defs><path id="Microslab-Regular_uni00BF" d="M353 475H416V295L211 131L267 21H528L567 168L627 152L576 -41H229L133 149L353 325ZM354 686 359 691 365 695 371 698 378 700H385H391L398 698L404 695L410 691L415 686L419 681L422 674L423 668L424 661L423 654L422 648L419 641L415 636L410 631L404 627L398 624L391 622H385H378L371 624L365 627L359 631L354 636L350 641L348 648L346 654L345 661L346 668L348 674L350 681Z"/></defs>
+<use href="#Microslab-Regular_uni00BF" transform="translate(1263.00 959) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1345" y="868" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1350" y="888" font-family="sans-serif" font-size="13" fill="#53616d">00C0</text>
+<defs><path id="Microslab-Regular_uni00C0" d="M123 24 370 790H390L637 24H677V-24H527V24H551L494 200H266L209 24H233V-24H83V24ZM468 282 380 554 292 282ZM373 848 311 926 355 960 417 882Z"/></defs>
+<use href="#Microslab-Regular_uni00C0" transform="translate(1351.00 959) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="25" y="982" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="30" y="1002" font-family="sans-serif" font-size="13" fill="#53616d">00C1</text>
+<defs><path id="Microslab-Regular_uni00C1" d="M123 24 370 790H390L637 24H677V-24H527V24H551L494 200H266L209 24H233V-24H83V24ZM468 282 380 554 292 282ZM343 882 405 960 449 926 387 848Z"/></defs>
+<use href="#Microslab-Regular_uni00C1" transform="translate(31.00 1073) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="113" y="982" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="118" y="1002" font-family="sans-serif" font-size="13" fill="#53616d">00C2</text>
+<defs><path id="Microslab-Regular_uni00C2" d="M123 24 370 790H390L637 24H677V-24H527V24H551L494 200H266L209 24H233V-24H83V24ZM468 282 380 554 292 282ZM380 899 312 835 274 875 380 977 486 875 448 835Z"/></defs>
+<use href="#Microslab-Regular_uni00C2" transform="translate(119.00 1073) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="201" y="982" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="206" y="1002" font-family="sans-serif" font-size="13" fill="#53616d">00C3</text>
+<defs><path id="Microslab-Regular_uni00C3" d="M123 24 370 790H390L637 24H677V-24H527V24H551L494 200H266L209 24H233V-24H83V24ZM468 282 380 554 292 282ZM473 885 397 845 345 877 316 857 284 903 343 943 399 909 447 935Z"/></defs>
+<use href="#Microslab-Regular_uni00C3" transform="translate(207.00 1073) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="289" y="982" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="294" y="1002" font-family="sans-serif" font-size="13" fill="#53616d">00C4</text>
+<defs><path id="Microslab-Regular_uni00C4" d="M123 24 370 790H390L637 24H677V-24H527V24H551L494 200H266L209 24H233V-24H83V24ZM468 282 380 554 292 282ZM331 873 327 870 323 868 318 866H313H308L303 868L299 870L295 873L292 876L289 880L287 884L285 889V894V899L287 904L289 908L292 912L295 915L299 918L303 920L308 922H313H318L323 920L327 918L331 915L334 912L337 908L339 904L341 899V894V889L339 884L337 880L334 876ZM465 873 461 870 457 868 452 866H447H442L437 868L433 870L429 873L426 876L423 880L421 884L419 889V894V899L421 904L423 908L426 912L429 915L433 918L437 920L442 922H447H452L457 920L461 918L465 915L468 912L471 908L473 904L475 899V894V889L473 884L471 880L468 876Z"/></defs>
+<use href="#Microslab-Regular_uni00C4" transform="translate(295.00 1073) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="377" y="982" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="382" y="1002" font-family="sans-serif" font-size="13" fill="#53616d">00C5</text>
+<defs><path id="Microslab-Regular_uni00C5" d="M123 24 370 790H390L637 24H677V-24H527V24H551L494 200H266L209 24H233V-24H83V24ZM468 282 380 554 292 282ZM431 849 422 840 413 834 403 829 391 826 380 825 369 826 357 829 347 834 338 840 329 849 323 858 318 868 315 880 314 891 315 902 318 914 323 924 329 933 338 942 347 948 357 953 369 956 380 957 391 956 403 953 413 948 422 942 431 933 437 924 442 914 445 902 446 891 445 880 442 868 437 858ZM408 915 404 919 398 923 393 926 386 927 380 928 374 927 367 926 362 923 356 919 352 915 348 910 345 904 344 897 343 891 344 885 345 878 348 872 352 867 356 863 362 859 367 856 374 855 380 854 386 855 393 856 398 859 404 863 408 867 412 872 415 878 416 885 417 891 416 897 415 904 412 910Z"/></defs>
+<use href="#Microslab-Regular_uni00C5" transform="translate(383.00 1073) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="465" y="982" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="470" y="1002" font-family="sans-serif" font-size="13" fill="#53616d">00C6</text>
+<defs><path id="Microslab-Regular_uni00C6" d="M357 -41V-24H340V24H355L319 200H172L136 24H151V-24H55V24H81L239 790H252L357 279V729H658V712H705V664H658V647H408V385H612V303H408V41H658V24H705V-24H658V-41ZM302 282 245 554 189 282Z"/></defs>
+<use href="#Microslab-Regular_uni00C6" transform="translate(471.00 1073) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="553" y="982" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="558" y="1002" font-family="sans-serif" font-size="13" fill="#53616d">00C7</text>
+<defs><path id="Microslab-Regular_uni00C7" d="M430 -105 431 -108V-111L430 -113V-116L429 -119L428 -121L427 -123L425 -126L424 -128L358 -204L314 -166L368 -104L341 -42L342 -41H196L100 71V617L196 729H585V712H660V664H585V647H234L182 587V101L234 41H585V24H660V-24H585V-41H403L428 -97L429 -100L430 -103Z"/></defs>
+<use href="#Microslab-Regular_uni00C7" transform="translate(559.00 1073) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="641" y="982" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="646" y="1002" font-family="sans-serif" font-size="13" fill="#53616d">00C8</text>
+<defs><path id="Microslab-Regular_uni00C8" d="M100 -41V729H585V712H660V664H585V647H182V385H511V303H182V41H585V24H660V-24H585V-41ZM373 804 311 882 355 916 417 838Z"/></defs>
+<use href="#Microslab-Regular_uni00C8" transform="translate(647.00 1073) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="729" y="982" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="734" y="1002" font-family="sans-serif" font-size="13" fill="#53616d">00C9</text>
+<defs><path id="Microslab-Regular_uni00C9" d="M100 -41V729H585V712H660V664H585V647H182V385H511V303H182V41H585V24H660V-24H585V-41ZM343 838 405 916 449 882 387 804Z"/></defs>
+<use href="#Microslab-Regular_uni00C9" transform="translate(735.00 1073) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="817" y="982" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="822" y="1002" font-family="sans-serif" font-size="13" fill="#53616d">00CA</text>
+<defs><path id="Microslab-Regular_uni00CA" d="M100 -41V729H585V712H660V664H585V647H182V385H511V303H182V41H585V24H660V-24H585V-41ZM380 855 312 791 274 831 380 933 486 831 448 791Z"/></defs>
+<use href="#Microslab-Regular_uni00CA" transform="translate(823.00 1073) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="905" y="982" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="910" y="1002" font-family="sans-serif" font-size="13" fill="#53616d">00CB</text>
+<defs><path id="Microslab-Regular_uni00CB" d="M100 -41V729H585V712H660V664H585V647H182V385H511V303H182V41H585V24H660V-24H585V-41ZM331 829 327 826 323 824 318 822H313H308L303 824L299 826L295 829L292 832L289 836L287 840L285 845V850V855L287 860L289 864L292 868L295 871L299 874L303 876L308 878H313H318L323 876L327 874L331 871L334 868L337 864L339 860L341 855V850V845L339 840L337 836L334 832ZM465 829 461 826 457 824 452 822H447H442L437 824L433 826L429 829L426 832L423 836L421 840L419 845V850V855L421 860L423 864L426 868L429 871L433 874L437 876L442 878H447H452L457 876L461 874L465 871L468 868L471 864L473 860L475 855V850V845L473 840L471 836L468 832Z"/></defs>
+<use href="#Microslab-Regular_uni00CB" transform="translate(911.00 1073) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="993" y="982" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="998" y="1002" font-family="sans-serif" font-size="13" fill="#53616d">00CC</text>
+<defs><path id="Microslab-Regular_uni00CC" d="M339 647H158V664H83V712H158V729H602V712H677V664H602V647H421V41H602V24H677V-24H602V-41H158V-24H83V24H158V41H339ZM373 804 311 882 355 916 417 838Z"/></defs>
+<use href="#Microslab-Regular_uni00CC" transform="translate(999.00 1073) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1081" y="982" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1086" y="1002" font-family="sans-serif" font-size="13" fill="#53616d">00CD</text>
+<defs><path id="Microslab-Regular_uni00CD" d="M339 647H158V664H83V712H158V729H602V712H677V664H602V647H421V41H602V24H677V-24H602V-41H158V-24H83V24H158V41H339ZM343 838 405 916 449 882 387 804Z"/></defs>
+<use href="#Microslab-Regular_uni00CD" transform="translate(1087.00 1073) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1169" y="982" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1174" y="1002" font-family="sans-serif" font-size="13" fill="#53616d">00CE</text>
+<defs><path id="Microslab-Regular_uni00CE" d="M339 647H158V664H83V712H158V729H602V712H677V664H602V647H421V41H602V24H677V-24H602V-41H158V-24H83V24H158V41H339ZM380 855 312 791 274 831 380 933 486 831 448 791Z"/></defs>
+<use href="#Microslab-Regular_uni00CE" transform="translate(1175.00 1073) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1257" y="982" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1262" y="1002" font-family="sans-serif" font-size="13" fill="#53616d">00CF</text>
+<defs><path id="Microslab-Regular_uni00CF" d="M339 647H158V664H83V712H158V729H602V712H677V664H602V647H421V41H602V24H677V-24H602V-41H158V-24H83V24H158V41H339ZM331 829 327 826 323 824 318 822H313H308L303 824L299 826L295 829L292 832L289 836L287 840L285 845V850V855L287 860L289 864L292 868L295 871L299 874L303 876L308 878H313H318L323 876L327 874L331 871L334 868L337 864L339 860L341 855V850V845L339 840L337 836L334 832ZM465 829 461 826 457 824 452 822H447H442L437 824L433 826L429 829L426 832L423 836L421 840L419 845V850V855L421 860L423 864L426 868L429 871L433 874L437 876L442 878H447H452L457 876L461 874L465 871L468 868L471 864L473 860L475 855V850V845L473 840L471 836L468 832Z"/></defs>
+<use href="#Microslab-Regular_uni00CF" transform="translate(1263.00 1073) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1345" y="982" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1350" y="1002" font-family="sans-serif" font-size="13" fill="#53616d">00D0</text>
+<defs><path id="Microslab-Regular_uni00D0" d="M668 398H676V360H668V157L497 -41H142V-24H108V24H142V360H84V398H142V729H497L668 531ZM224 398H586V501L460 647H224ZM586 187V360H224V41H460Z"/></defs>
+<use href="#Microslab-Regular_uni00D0" transform="translate(1351.00 1073) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="25" y="1096" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="30" y="1116" font-family="sans-serif" font-size="13" fill="#53616d">00D1</text>
+<defs><path id="Microslab-Regular_uni00D1" d="M117 24V783L141 790L561 139V664H527V712H677V664H643V-95L619 -102L199 549V24H233V-24H83V24ZM473 885 397 845 345 877 316 857 284 903 343 943 399 909 447 935Z"/></defs>
+<use href="#Microslab-Regular_uni00D1" transform="translate(31.00 1187) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="113" y="1096" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="118" y="1116" font-family="sans-serif" font-size="13" fill="#53616d">00D2</text>
+<defs><path id="Microslab-Regular_uni00D2" d="M547 729 643 617V71L547 -41H213L117 71V617L213 729ZM509 647H251L199 587V101L251 41H509L561 101V587ZM373 804 311 882 355 916 417 838Z"/></defs>
+<use href="#Microslab-Regular_uni00D2" transform="translate(119.00 1187) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="201" y="1096" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="206" y="1116" font-family="sans-serif" font-size="13" fill="#53616d">00D3</text>
+<defs><path id="Microslab-Regular_uni00D3" d="M547 729 643 617V71L547 -41H213L117 71V617L213 729ZM509 647H251L199 587V101L251 41H509L561 101V587ZM343 838 405 916 449 882 387 804Z"/></defs>
+<use href="#Microslab-Regular_uni00D3" transform="translate(207.00 1187) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="289" y="1096" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="294" y="1116" font-family="sans-serif" font-size="13" fill="#53616d">00D4</text>
+<defs><path id="Microslab-Regular_uni00D4" d="M547 729 643 617V71L547 -41H213L117 71V617L213 729ZM509 647H251L199 587V101L251 41H509L561 101V587ZM380 855 312 791 274 831 380 933 486 831 448 791Z"/></defs>
+<use href="#Microslab-Regular_uni00D4" transform="translate(295.00 1187) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="377" y="1096" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="382" y="1116" font-family="sans-serif" font-size="13" fill="#53616d">00D5</text>
+<defs><path id="Microslab-Regular_uni00D5" d="M547 729 643 617V71L547 -41H213L117 71V617L213 729ZM509 647H251L199 587V101L251 41H509L561 101V587ZM473 841 397 801 345 833 316 813 284 859 343 899 399 865 447 891Z"/></defs>
+<use href="#Microslab-Regular_uni00D5" transform="translate(383.00 1187) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="465" y="1096" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="470" y="1116" font-family="sans-serif" font-size="13" fill="#53616d">00D6</text>
+<defs><path id="Microslab-Regular_uni00D6" d="M547 729 643 617V71L547 -41H213L117 71V617L213 729ZM509 647H251L199 587V101L251 41H509L561 101V587ZM331 829 327 826 323 824 318 822H313H308L303 824L299 826L295 829L292 832L289 836L287 840L285 845V850V855L287 860L289 864L292 868L295 871L299 874L303 876L308 878H313H318L323 876L327 874L331 871L334 868L337 864L339 860L341 855V850V845L339 840L337 836L334 832ZM465 829 461 826 457 824 452 822H447H442L437 824L433 826L429 829L426 832L423 836L421 840L419 845V850V855L421 860L423 864L426 868L429 871L433 874L437 876L442 878H447H452L457 876L461 874L465 871L468 868L471 864L473 860L475 855V850V845L473 840L471 836L468 832Z"/></defs>
+<use href="#Microslab-Regular_uni00D6" transform="translate(471.00 1187) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="553" y="1096" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="558" y="1116" font-family="sans-serif" font-size="13" fill="#53616d">00D7</text>
+<defs><path id="Microslab-Regular_uni00D7" d="M411 508 551 615 589 565 431 445 589 325 551 275 411 382V215H349V382L209 275L171 325L329 445L171 565L209 615L349 508V665H411Z"/></defs>
+<use href="#Microslab-Regular_uni00D7" transform="translate(559.00 1187) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="641" y="1096" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="646" y="1116" font-family="sans-serif" font-size="13" fill="#53616d">00D8</text>
+<defs><path id="Microslab-Regular_uni00D8" d="M547 729 643 617V71L547 -41H213L117 71V617L213 729ZM553 596 230 65 251 41H509L561 101V587ZM199 587V110L520 635L509 647H251Z"/></defs>
+<use href="#Microslab-Regular_uni00D8" transform="translate(647.00 1187) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="729" y="1096" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="734" y="1116" font-family="sans-serif" font-size="13" fill="#53616d">00D9</text>
+<defs><path id="Microslab-Regular_uni00D9" d="M527 664V712H677V664H643V71L547 -41H213L117 71V664H83V712H233V664H199V101L251 41H509L561 101V664ZM373 787 311 865 355 899 417 821Z"/></defs>
+<use href="#Microslab-Regular_uni00D9" transform="translate(735.00 1187) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="817" y="1096" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="822" y="1116" font-family="sans-serif" font-size="13" fill="#53616d">00DA</text>
+<defs><path id="Microslab-Regular_uni00DA" d="M527 664V712H677V664H643V71L547 -41H213L117 71V664H83V712H233V664H199V101L251 41H509L561 101V664ZM343 821 405 899 449 865 387 787Z"/></defs>
+<use href="#Microslab-Regular_uni00DA" transform="translate(823.00 1187) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="905" y="1096" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="910" y="1116" font-family="sans-serif" font-size="13" fill="#53616d">00DB</text>
+<defs><path id="Microslab-Regular_uni00DB" d="M527 664V712H677V664H643V71L547 -41H213L117 71V664H83V712H233V664H199V101L251 41H509L561 101V664ZM380 838 312 774 274 814 380 916 486 814 448 774Z"/></defs>
+<use href="#Microslab-Regular_uni00DB" transform="translate(911.00 1187) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="993" y="1096" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="998" y="1116" font-family="sans-serif" font-size="13" fill="#53616d">00DC</text>
+<defs><path id="Microslab-Regular_uni00DC" d="M527 664V712H677V664H643V71L547 -41H213L117 71V664H83V712H233V664H199V101L251 41H509L561 101V664ZM331 812 327 809 323 807 318 805H313H308L303 807L299 809L295 812L292 815L289 819L287 823L285 828V833V838L287 843L289 847L292 851L295 854L299 857L303 859L308 861H313H318L323 859L327 857L331 854L334 851L337 847L339 843L341 838V833V828L339 823L337 819L334 815ZM465 812 461 809 457 807 452 805H447H442L437 807L433 809L429 812L426 815L423 819L421 823L419 828V833V838L421 843L423 847L426 851L429 854L433 857L437 859L442 861H447H452L457 859L461 857L465 854L468 851L471 847L473 843L475 838V833V828L473 823L471 819L468 815Z"/></defs>
+<use href="#Microslab-Regular_uni00DC" transform="translate(999.00 1187) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1081" y="1096" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1086" y="1116" font-family="sans-serif" font-size="13" fill="#53616d">00DD</text>
+<defs><path id="Microslab-Regular_uni00DD" d="M339 332 125 664H83V712H233V664H222L380 420L538 664H527V712H677V664H635L421 332V24H455V-24H305V24H339ZM343 821 405 899 449 865 387 787Z"/></defs>
+<use href="#Microslab-Regular_uni00DD" transform="translate(1087.00 1187) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1169" y="1096" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1174" y="1116" font-family="sans-serif" font-size="13" fill="#53616d">00DE</text>
+<defs><path id="Microslab-Regular_uni00DE" d="M100 24H134V729H564L660 617V415L564 303H216V24H250V-24H100ZM526 647H216V385H526L578 445V587Z"/></defs>
+<use href="#Microslab-Regular_uni00DE" transform="translate(1175.00 1187) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1257" y="1096" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1262" y="1116" font-family="sans-serif" font-size="13" fill="#53616d">00DF</text>
+<defs><path id="Microslab-Regular_uni00DF" d="M482 -41H175V-24H100V24H134V729H482L660 626V406L553 344L660 282V62L547 -3L532 -25H510ZM460 385 578 454V578L460 647H216V385ZM555 96 578 110V234L559 245V233H384L364 206L386 176L534 125ZM310 206 365 283H495L460 303H216V41H460L516 74L511 82L363 133Z"/></defs>
+<use href="#Microslab-Regular_uni00DF" transform="translate(1263.00 1187) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1345" y="1096" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1350" y="1116" font-family="sans-serif" font-size="13" fill="#53616d">00E0</text>
+<defs><path id="Microslab-Regular_uni00E0" d="M250 471H510L545 430H606V0H565V-41H250L154 71V359ZM524 41V329L472 389H288L236 329V101L288 41ZM373 546 311 624 355 658 417 580Z"/></defs>
+<use href="#Microslab-Regular_uni00E0" transform="translate(1351.00 1187) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="25" y="1210" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="30" y="1230" font-family="sans-serif" font-size="13" fill="#53616d">00E1</text>
+<defs><path id="Microslab-Regular_uni00E1" d="M250 471H510L545 430H606V0H565V-41H250L154 71V359ZM524 41V329L472 389H288L236 329V101L288 41ZM343 580 405 658 449 624 387 546Z"/></defs>
+<use href="#Microslab-Regular_uni00E1" transform="translate(31.00 1301) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="113" y="1210" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="118" y="1230" font-family="sans-serif" font-size="13" fill="#53616d">00E2</text>
+<defs><path id="Microslab-Regular_uni00E2" d="M250 471H510L545 430H606V0H565V-41H250L154 71V359ZM524 41V329L472 389H288L236 329V101L288 41ZM380 597 312 533 274 573 380 675 486 573 448 533Z"/></defs>
+<use href="#Microslab-Regular_uni00E2" transform="translate(119.00 1301) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="201" y="1210" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="206" y="1230" font-family="sans-serif" font-size="13" fill="#53616d">00E3</text>
+<defs><path id="Microslab-Regular_uni00E3" d="M250 471H510L545 430H606V0H565V-41H250L154 71V359ZM524 41V329L472 389H288L236 329V101L288 41ZM473 583 397 543 345 575 316 555 284 601 343 641 399 607 447 633Z"/></defs>
+<use href="#Microslab-Regular_uni00E3" transform="translate(207.00 1301) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="289" y="1210" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="294" y="1230" font-family="sans-serif" font-size="13" fill="#53616d">00E4</text>
+<defs><path id="Microslab-Regular_uni00E4" d="M250 471H510L545 430H606V0H565V-41H250L154 71V359ZM524 41V329L472 389H288L236 329V101L288 41ZM331 571 327 568 323 566 318 564H313H308L303 566L299 568L295 571L292 574L289 578L287 582L285 587V592V597L287 602L289 606L292 610L295 613L299 616L303 618L308 620H313H318L323 618L327 616L331 613L334 610L337 606L339 602L341 597V592V587L339 582L337 578L334 574ZM465 571 461 568 457 566 452 564H447H442L437 566L433 568L429 571L426 574L423 578L421 582L419 587V592V597L421 602L423 606L426 610L429 613L433 616L437 618L442 620H447H452L457 618L461 616L465 613L468 610L471 606L473 602L475 597V592V587L473 582L471 578L468 574Z"/></defs>
+<use href="#Microslab-Regular_uni00E4" transform="translate(295.00 1301) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="377" y="1210" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="382" y="1230" font-family="sans-serif" font-size="13" fill="#53616d">00E5</text>
+<defs><path id="Microslab-Regular_uni00E5" d="M250 471H510L545 430H606V0H565V-41H250L154 71V359ZM524 41V329L472 389H288L236 329V101L288 41ZM431 547 422 538 413 532 403 527 391 524 380 523 369 524 357 527 347 532 338 538 329 547 323 556 318 566 315 578 314 589 315 600 318 612 323 622 329 631 338 640 347 646 357 651 369 654 380 655 391 654 403 651 413 646 422 640 431 631 437 622 442 612 445 600 446 589 445 578 442 566 437 556ZM408 613 404 617 398 621 393 624 386 625 380 626 374 625 367 624 362 621 356 617 352 613 348 608 345 602 344 595 343 589 344 583 345 576 348 570 352 565 356 561 362 557 367 554 374 553 380 552 386 553 393 554 398 557 404 561 408 565 412 570 415 576 416 583 417 589 416 595 415 602 412 608Z"/></defs>
+<use href="#Microslab-Regular_uni00E5" transform="translate(383.00 1301) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="465" y="1210" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="470" y="1230" font-family="sans-serif" font-size="13" fill="#53616d">00E6</text>
+<defs><path id="Microslab-Regular_uni00E6" d="M145 471H311L334 430H373V401L410 471H617L677 359V174H401V101L433 41H651V-41H410L373 29V0H346V-41H145L83 71V359ZM433 389 401 329V256H626V329L594 389ZM320 41V329L287 389H169L136 329V101L169 41Z"/></defs>
+<use href="#Microslab-Regular_uni00E6" transform="translate(471.00 1301) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="553" y="1210" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="558" y="1230" font-family="sans-serif" font-size="13" fill="#53616d">00E7</text>
+<defs><path id="Microslab-Regular_uni00E7" d="M430 -105 431 -108V-111L430 -113V-116L429 -119L428 -121L427 -123L425 -126L424 -128L358 -204L314 -166L368 -104L341 -42L342 -41H234L138 71V359L234 471H622V389H271L220 329V101L271 41H622V-41H403L428 -97L429 -100L430 -103Z"/></defs>
+<use href="#Microslab-Regular_uni00E7" transform="translate(559.00 1301) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="641" y="1210" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="646" y="1230" font-family="sans-serif" font-size="13" fill="#53616d">00E8</text>
+<defs><path id="Microslab-Regular_uni00E8" d="M602 -41H213L117 71V359L213 471H547L643 359V174H199V101L251 41H602ZM251 389 199 329V256H561V329L509 389ZM373 546 311 624 355 658 417 580Z"/></defs>
+<use href="#Microslab-Regular_uni00E8" transform="translate(647.00 1301) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="729" y="1210" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="734" y="1230" font-family="sans-serif" font-size="13" fill="#53616d">00E9</text>
+<defs><path id="Microslab-Regular_uni00E9" d="M602 -41H213L117 71V359L213 471H547L643 359V174H199V101L251 41H602ZM251 389 199 329V256H561V329L509 389ZM343 580 405 658 449 624 387 546Z"/></defs>
+<use href="#Microslab-Regular_uni00E9" transform="translate(735.00 1301) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="817" y="1210" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="822" y="1230" font-family="sans-serif" font-size="13" fill="#53616d">00EA</text>
+<defs><path id="Microslab-Regular_uni00EA" d="M602 -41H213L117 71V359L213 471H547L643 359V174H199V101L251 41H602ZM251 389 199 329V256H561V329L509 389ZM380 597 312 533 274 573 380 675 486 573 448 533Z"/></defs>
+<use href="#Microslab-Regular_uni00EA" transform="translate(823.00 1301) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="905" y="1210" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="910" y="1230" font-family="sans-serif" font-size="13" fill="#53616d">00EB</text>
+<defs><path id="Microslab-Regular_uni00EB" d="M602 -41H213L117 71V359L213 471H547L643 359V174H199V101L251 41H602ZM251 389 199 329V256H561V329L509 389ZM331 571 327 568 323 566 318 564H313H308L303 566L299 568L295 571L292 574L289 578L287 582L285 587V592V597L287 602L289 606L292 610L295 613L299 616L303 618L308 620H313H318L323 618L327 616L331 613L334 610L337 606L339 602L341 597V592V587L339 582L337 578L334 574ZM465 571 461 568 457 566 452 564H447H442L437 566L433 568L429 571L426 574L423 578L421 582L419 587V592V597L421 602L423 606L426 610L429 613L433 616L437 618L442 620H447H452L457 618L461 616L465 613L468 610L471 606L473 602L475 597V592V587L473 582L471 578L468 574Z"/></defs>
+<use href="#Microslab-Regular_uni00EB" transform="translate(911.00 1301) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="993" y="1210" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="998" y="1230" font-family="sans-serif" font-size="13" fill="#53616d">00EC</text>
+<defs><path id="Microslab-Regular_uni00EC" d="M232 -24H157V24H232V41H339V430H421V41H528V24H603V-24H528V-41H232ZM373 505 311 583 355 617 417 539Z"/></defs>
+<use href="#Microslab-Regular_uni00EC" transform="translate(999.00 1301) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1081" y="1210" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1086" y="1230" font-family="sans-serif" font-size="13" fill="#53616d">00ED</text>
+<defs><path id="Microslab-Regular_uni00ED" d="M232 -24H157V24H232V41H339V430H421V41H528V24H603V-24H528V-41H232ZM343 539 405 617 449 583 387 505Z"/></defs>
+<use href="#Microslab-Regular_uni00ED" transform="translate(1087.00 1301) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1169" y="1210" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1174" y="1230" font-family="sans-serif" font-size="13" fill="#53616d">00EE</text>
+<defs><path id="Microslab-Regular_uni00EE" d="M232 -24H157V24H232V41H339V430H421V41H528V24H603V-24H528V-41H232ZM380 556 312 492 274 532 380 634 486 532 448 492Z"/></defs>
+<use href="#Microslab-Regular_uni00EE" transform="translate(1175.00 1301) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1257" y="1210" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1262" y="1230" font-family="sans-serif" font-size="13" fill="#53616d">00EF</text>
+<defs><path id="Microslab-Regular_uni00EF" d="M232 -24H157V24H232V41H339V430H421V41H528V24H603V-24H528V-41H232ZM331 530 327 527 323 525 318 523H313H308L303 525L299 527L295 530L292 533L289 537L287 541L285 546V551V556L287 561L289 565L292 569L295 572L299 575L303 577L308 579H313H318L323 577L327 575L331 572L334 569L337 565L339 561L341 556V551V546L339 541L337 537L334 533ZM465 530 461 527 457 525 452 523H447H442L437 525L433 527L429 530L426 533L423 537L421 541L419 546V551V556L421 561L423 565L426 569L429 572L433 575L437 577L442 579H447H452L457 577L461 575L465 572L468 569L471 565L473 561L475 556V551V546L473 541L471 537L468 533Z"/></defs>
+<use href="#Microslab-Regular_uni00EF" transform="translate(1263.00 1301) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1345" y="1210" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1350" y="1230" font-family="sans-serif" font-size="13" fill="#53616d">00F0</text>
+<defs><path id="Microslab-Regular_uni00F0" d="M125 360H84V398H158L221 471H473L569 415V688H651V398H676V360H651V0H569V15L473 -41H221L125 71V359ZM451 41 569 110V320L500 360H233L207 329V101L258 41Z"/></defs>
+<use href="#Microslab-Regular_uni00F0" transform="translate(1351.00 1301) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="25" y="1324" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="30" y="1344" font-family="sans-serif" font-size="13" fill="#53616d">00F1</text>
+<defs><path id="Microslab-Regular_uni00F1" d="M117 24V430H199V415L295 471H547L643 359V24H677V-24H527V24H561V329L509 389H317L199 320V24H233V-24H83V24ZM473 583 397 543 345 575 316 555 284 601 343 641 399 607 447 633Z"/></defs>
+<use href="#Microslab-Regular_uni00F1" transform="translate(31.00 1415) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="113" y="1324" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="118" y="1344" font-family="sans-serif" font-size="13" fill="#53616d">00F2</text>
+<defs><path id="Microslab-Regular_uni00F2" d="M547 471 643 359V71L547 -41H213L117 71V359L213 471ZM509 389H251L199 329V101L251 41H509L561 101V329ZM373 546 311 624 355 658 417 580Z"/></defs>
+<use href="#Microslab-Regular_uni00F2" transform="translate(119.00 1415) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="201" y="1324" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="206" y="1344" font-family="sans-serif" font-size="13" fill="#53616d">00F3</text>
+<defs><path id="Microslab-Regular_uni00F3" d="M547 471 643 359V71L547 -41H213L117 71V359L213 471ZM509 389H251L199 329V101L251 41H509L561 101V329ZM343 580 405 658 449 624 387 546Z"/></defs>
+<use href="#Microslab-Regular_uni00F3" transform="translate(207.00 1415) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="289" y="1324" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="294" y="1344" font-family="sans-serif" font-size="13" fill="#53616d">00F4</text>
+<defs><path id="Microslab-Regular_uni00F4" d="M547 471 643 359V71L547 -41H213L117 71V359L213 471ZM509 389H251L199 329V101L251 41H509L561 101V329ZM380 597 312 533 274 573 380 675 486 573 448 533Z"/></defs>
+<use href="#Microslab-Regular_uni00F4" transform="translate(295.00 1415) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="377" y="1324" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="382" y="1344" font-family="sans-serif" font-size="13" fill="#53616d">00F5</text>
+<defs><path id="Microslab-Regular_uni00F5" d="M547 471 643 359V71L547 -41H213L117 71V359L213 471ZM509 389H251L199 329V101L251 41H509L561 101V329ZM473 583 397 543 345 575 316 555 284 601 343 641 399 607 447 633Z"/></defs>
+<use href="#Microslab-Regular_uni00F5" transform="translate(383.00 1415) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="465" y="1324" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="470" y="1344" font-family="sans-serif" font-size="13" fill="#53616d">00F6</text>
+<defs><path id="Microslab-Regular_uni00F6" d="M547 471 643 359V71L547 -41H213L117 71V359L213 471ZM509 389H251L199 329V101L251 41H509L561 101V329ZM331 571 327 568 323 566 318 564H313H308L303 566L299 568L295 571L292 574L289 578L287 582L285 587V592V597L287 602L289 606L292 610L295 613L299 616L303 618L308 620H313H318L323 618L327 616L331 613L334 610L337 606L339 602L341 597V592V587L339 582L337 578L334 574ZM465 571 461 568 457 566 452 564H447H442L437 566L433 568L429 571L426 574L423 578L421 582L419 587V592V597L421 602L423 606L426 610L429 613L433 616L437 618L442 620H447H452L457 618L461 616L465 613L468 610L471 606L473 602L475 597V592V587L473 582L471 578L468 574Z"/></defs>
+<use href="#Microslab-Regular_uni00F6" transform="translate(471.00 1415) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="553" y="1324" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="558" y="1344" font-family="sans-serif" font-size="13" fill="#53616d">00F7</text>
+<defs><path id="Microslab-Regular_uni00F7" d="M608 356V320H152V356ZM411 154 409 148 405 144 401 140 396 136 391 134 386 133 380 132 374 133 369 134 364 136 359 140 355 144 351 148 349 154 348 159 347 165 348 171 349 176 351 182 355 186 359 190 364 194 369 196 374 197 380 198 386 197 391 196 396 194 401 190 405 186 409 182 411 176 412 171 413 165 412 159ZM409 494 405 489 401 485 396 481 391 479 386 478 380 477 374 478 369 479 364 481 359 485 355 489 351 494 349 499 348 504 347 510 348 516 349 521 351 526 355 531 359 535 364 539 369 541 374 542 380 543 386 542 391 541 396 539 401 535 405 531 409 526 411 521 412 516 413 510 412 504 411 499Z"/></defs>
+<use href="#Microslab-Regular_uni00F7" transform="translate(559.00 1415) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="641" y="1324" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="646" y="1344" font-family="sans-serif" font-size="13" fill="#53616d">00F8</text>
+<defs><path id="Microslab-Regular_uni00F8" d="M547 471 643 359V71L547 -41H213L117 71V359L213 471ZM530 364 233 61 251 41H509L561 101V329ZM199 101 201 99 486 389H251L199 329Z"/></defs>
+<use href="#Microslab-Regular_uni00F8" transform="translate(647.00 1415) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="729" y="1324" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="734" y="1344" font-family="sans-serif" font-size="13" fill="#53616d">00F9</text>
+<defs><path id="Microslab-Regular_uni00F9" d="M643 430V0H582L547 -41H213L117 71V430H199V101L251 41H509L561 101V430ZM373 505 311 583 355 617 417 539Z"/></defs>
+<use href="#Microslab-Regular_uni00F9" transform="translate(735.00 1415) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="817" y="1324" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="822" y="1344" font-family="sans-serif" font-size="13" fill="#53616d">00FA</text>
+<defs><path id="Microslab-Regular_uni00FA" d="M643 430V0H582L547 -41H213L117 71V430H199V101L251 41H509L561 101V430ZM343 539 405 617 449 583 387 505Z"/></defs>
+<use href="#Microslab-Regular_uni00FA" transform="translate(823.00 1415) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="905" y="1324" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="910" y="1344" font-family="sans-serif" font-size="13" fill="#53616d">00FB</text>
+<defs><path id="Microslab-Regular_uni00FB" d="M643 430V0H582L547 -41H213L117 71V430H199V101L251 41H509L561 101V430ZM380 556 312 492 274 532 380 634 486 532 448 492Z"/></defs>
+<use href="#Microslab-Regular_uni00FB" transform="translate(911.00 1415) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="993" y="1324" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="998" y="1344" font-family="sans-serif" font-size="13" fill="#53616d">00FC</text>
+<defs><path id="Microslab-Regular_uni00FC" d="M643 430V0H582L547 -41H213L117 71V430H199V101L251 41H509L561 101V430ZM331 530 327 527 323 525 318 523H313H308L303 525L299 527L295 530L292 533L289 537L287 541L285 546V551V556L287 561L289 565L292 569L295 572L299 575L303 577L308 579H313H318L323 577L327 575L331 572L334 569L337 565L339 561L341 556V551V546L339 541L337 537L334 533ZM465 530 461 527 457 525 452 523H447H442L437 525L433 527L429 530L426 533L423 537L421 541L419 546V551V556L421 561L423 565L426 569L429 572L433 575L437 577L442 579H447H452L457 577L461 575L465 572L468 569L471 565L473 561L475 556V551V546L473 541L471 537L468 533Z"/></defs>
+<use href="#Microslab-Regular_uni00FC" transform="translate(999.00 1415) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1081" y="1324" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1086" y="1344" font-family="sans-serif" font-size="13" fill="#53616d">00FD</text>
+<defs><path id="Microslab-Regular_uni00FD" d="M158 -213V-131H279L325 -24H305V24H321L122 411L194 449L380 89L566 449L638 411L439 24H455V-24H414L333 -213ZM343 558 405 636 449 601 387 523Z"/></defs>
+<use href="#Microslab-Regular_uni00FD" transform="translate(1087.00 1415) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1169" y="1324" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1174" y="1344" font-family="sans-serif" font-size="13" fill="#53616d">00FE</text>
+<defs><path id="Microslab-Regular_uni00FE" d="M547 471 643 359V71L547 -41H295L199 15V-172H117V430H199V415L295 471ZM561 101V329L509 389H317L199 320V110L317 41H509Z"/></defs>
+<use href="#Microslab-Regular_uni00FE" transform="translate(1175.00 1415) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1257" y="1324" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1262" y="1344" font-family="sans-serif" font-size="13" fill="#53616d">00FF</text>
+<defs><path id="Microslab-Regular_uni00FF" d="M158 -213V-131H279L325 -24H305V24H321L122 411L194 449L380 89L566 449L638 411L439 24H455V-24H414L333 -213ZM331 548 327 546 323 543 318 542H313H308L303 543L299 546L295 548L292 552L289 556L287 560L285 565V570V575L287 579L289 584L292 588L295 591L299 594L303 596L308 597L313 598L318 597L323 596L327 594L331 591L334 588L337 584L339 579L341 575V570V565L339 560L337 556L334 552ZM465 548 461 546 457 543 452 542H447H442L437 543L433 546L429 548L426 552L423 556L421 560L419 565V570V575L421 579L423 584L426 588L429 591L433 594L437 596L442 597L447 598L452 597L457 596L461 594L465 591L468 588L471 584L473 579L475 575V570V565L473 560L471 556L468 552Z"/></defs>
+<use href="#Microslab-Regular_uni00FF" transform="translate(1263.00 1415) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1345" y="1324" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1350" y="1344" font-family="sans-serif" font-size="13" fill="#53616d">0152</text>
+<defs><path id="Microslab-Regular_uni0152" d="M341 729 347 719V729H647V712H694V664H647V647H397V627L403 617V385H601V303H403V71L397 61V41H647V24H694V-24H647V-41H347V-31L341 -41H128L66 71V617L128 729ZM317 647H152L119 587V101L152 41H317L347 94V594Z"/></defs>
+<use href="#Microslab-Regular_uni0152" transform="translate(1351.00 1415) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="25" y="1438" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="30" y="1458" font-family="sans-serif" font-size="13" fill="#53616d">0153</text>
+<defs><path id="Microslab-Regular_uni0153" d="M347 471 385 401 422 471H629L688 359V174H413V101L445 41H663V-41H422L385 29L347 -41H133L72 71V359L133 471ZM445 389 413 329V256H638V329L606 389ZM323 389H157L124 329V101L157 41H323L356 101V329Z"/></defs>
+<use href="#Microslab-Regular_uni0153" transform="translate(31.00 1529) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="113" y="1438" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="118" y="1458" font-family="sans-serif" font-size="13" fill="#53616d">0160</text>
+<defs><path id="Microslab-Regular_uni0160" d="M643 71 547 -41H158V41H509L561 101V230L117 402V617L213 729H602V647H251L199 587V458L643 286ZM380 774 280 875 320 915 380 854 440 915 480 875Z"/></defs>
+<use href="#Microslab-Regular_uni0160" transform="translate(119.00 1529) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="201" y="1438" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="206" y="1458" font-family="sans-serif" font-size="13" fill="#53616d">0161</text>
+<defs><path id="Microslab-Regular_uni0161" d="M656 86 547 -41H158V41H509L548 86L505 136L209 222L104 344L213 471H602V389H251L212 344L255 294L551 208ZM380 516 280 617 320 657 380 596 440 657 480 617Z"/></defs>
+<use href="#Microslab-Regular_uni0161" transform="translate(207.00 1529) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="289" y="1438" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="294" y="1458" font-family="sans-serif" font-size="13" fill="#53616d">0178</text>
+<defs><path id="Microslab-Regular_uni0178" d="M339 332 125 664H83V712H233V664H222L380 420L538 664H527V712H677V664H635L421 332V24H455V-24H305V24H339ZM331 812 327 809 323 807 318 805H313H308L303 807L299 809L295 812L292 815L289 819L287 823L285 828V833V838L287 843L289 847L292 851L295 854L299 857L303 859L308 861H313H318L323 859L327 857L331 854L334 851L337 847L339 843L341 838V833V828L339 823L337 819L334 815ZM465 812 461 809 457 807 452 805H447H442L437 807L433 809L429 812L426 815L423 819L421 823L419 828V833V838L421 843L423 847L426 851L429 854L433 857L437 859L442 861H447H452L457 859L461 857L465 854L468 851L471 847L473 843L475 838V833V828L473 823L471 819L468 815Z"/></defs>
+<use href="#Microslab-Regular_uni0178" transform="translate(295.00 1529) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="377" y="1438" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="382" y="1458" font-family="sans-serif" font-size="13" fill="#53616d">017D</text>
+<defs><path id="Microslab-Regular_uni017D" d="M83 -41 527 647H158V664H83V712H158V729H677L233 41H602V24H677V-24H602V-41ZM380 774 280 875 320 915 380 854 440 915 480 875Z"/></defs>
+<use href="#Microslab-Regular_uni017D" transform="translate(383.00 1529) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="465" y="1438" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="470" y="1458" font-family="sans-serif" font-size="13" fill="#53616d">017E</text>
+<defs><path id="Microslab-Regular_uni017E" d="M602 -41H64L62 -36L501 389H158V471H696L698 466L259 41H602ZM380 516 280 617 320 657 380 596 440 657 480 617Z"/></defs>
+<use href="#Microslab-Regular_uni017E" transform="translate(471.00 1529) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="553" y="1438" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="558" y="1458" font-family="sans-serif" font-size="13" fill="#53616d">0192</text>
+<defs><path id="Microslab-Regular_uni0192" d="M194 24H228V389H120V471H228V617L324 729H564V712H640V664H564V647H361L310 587V471H490V389H310V24H344V-24H194Z"/></defs>
+<use href="#Microslab-Regular_uni0192" transform="translate(559.00 1529) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="641" y="1438" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="646" y="1458" font-family="sans-serif" font-size="13" fill="#53616d">02C6</text>
+<defs><path id="Microslab-Regular_uni02C6" d="M486 480 448 440 380 504 312 440 274 480 380 582Z"/></defs>
+<use href="#Microslab-Regular_uni02C6" transform="translate(647.00 1529) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="729" y="1438" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="734" y="1458" font-family="sans-serif" font-size="13" fill="#53616d">02DC</text>
+<defs><path id="Microslab-Regular_uni02DC" d="M400 514 448 540 474 490 398 450 346 482 317 462 286 508 344 548Z"/></defs>
+<use href="#Microslab-Regular_uni02DC" transform="translate(735.00 1529) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="817" y="1438" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="822" y="1458" font-family="sans-serif" font-size="13" fill="#53616d">2013</text>
+<defs><path id="Microslab-Regular_uni2013" d="M638 309H122V371H638Z"/></defs>
+<use href="#Microslab-Regular_uni2013" transform="translate(823.00 1529) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="905" y="1438" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="910" y="1458" font-family="sans-serif" font-size="13" fill="#53616d">2014</text>
+<defs><path id="Microslab-Regular_uni2014" d="M638 309H122V371H638Z"/></defs>
+<use href="#Microslab-Regular_uni2014" transform="translate(911.00 1529) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="993" y="1438" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="998" y="1458" font-family="sans-serif" font-size="13" fill="#53616d">2018</text>
+<defs><path id="Microslab-Regular_uni2018" d="M338 554 361 719 422 711 399 546Z"/></defs>
+<use href="#Microslab-Regular_uni2018" transform="translate(999.00 1529) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1081" y="1438" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1086" y="1458" font-family="sans-serif" font-size="13" fill="#53616d">2019</text>
+<defs><path id="Microslab-Regular_uni2019" d="M338 554 361 719 422 711 399 546Z"/></defs>
+<use href="#Microslab-Regular_uni2019" transform="translate(1087.00 1529) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1169" y="1438" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1174" y="1458" font-family="sans-serif" font-size="13" fill="#53616d">201A</text>
+<defs><path id="Microslab-Regular_uni201A" d="M338 554 361 719 422 711 399 546Z"/></defs>
+<use href="#Microslab-Regular_uni201A" transform="translate(1175.00 1529) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1257" y="1438" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1262" y="1458" font-family="sans-serif" font-size="13" fill="#53616d">201C</text>
+<defs><path id="Microslab-Regular_uni201C" d="M283 717 345 713 337 551 275 555ZM423 717 485 713 475 551 413 555Z"/></defs>
+<use href="#Microslab-Regular_uni201C" transform="translate(1263.00 1529) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1345" y="1438" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1350" y="1458" font-family="sans-serif" font-size="13" fill="#53616d">201D</text>
+<defs><path id="Microslab-Regular_uni201D" d="M283 717 345 713 337 551 275 555ZM423 717 485 713 475 551 413 555Z"/></defs>
+<use href="#Microslab-Regular_uni201D" transform="translate(1351.00 1529) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="25" y="1552" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="30" y="1572" font-family="sans-serif" font-size="13" fill="#53616d">201E</text>
+<defs><path id="Microslab-Regular_uni201E" d="M283 717 345 713 337 551 275 555ZM423 717 485 713 475 551 413 555Z"/></defs>
+<use href="#Microslab-Regular_uni201E" transform="translate(31.00 1643) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="113" y="1552" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="118" y="1572" font-family="sans-serif" font-size="13" fill="#53616d">2020</text>
+<defs><path id="Microslab-Regular_uni2020" d="M361 0V470H118V530H361V740H407V530H642V470H407V0Z"/></defs>
+<use href="#Microslab-Regular_uni2020" transform="translate(119.00 1643) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="201" y="1552" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="206" y="1572" font-family="sans-serif" font-size="13" fill="#53616d">2021</text>
+<defs><path id="Microslab-Regular_uni2021" d="M642 270H407V0H361V270H118V320H361V470H118V530H361V740H407V530H642V470H407V320H642Z"/></defs>
+<use href="#Microslab-Regular_uni2021" transform="translate(207.00 1643) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="289" y="1552" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="294" y="1572" font-family="sans-serif" font-size="13" fill="#53616d">2022</text>
+<defs><path id="Microslab-Regular_uni2022" d="M461 371 457 357 451 344 443 332 433 322 421 314 408 308 394 304 380 303 366 304 352 308 339 314 327 322 317 332 309 344 303 357 299 371 298 385 299 399 303 413 309 426 317 438 327 448 339 456 352 462 366 466 380 467 394 466 408 462 421 456 433 448 443 438 451 426 457 413 461 399 462 385Z"/></defs>
+<use href="#Microslab-Regular_uni2022" transform="translate(295.00 1643) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="377" y="1552" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="382" y="1572" font-family="sans-serif" font-size="13" fill="#53616d">2026</text>
+<defs><path id="Microslab-Regular_uni2026" d="M154 66 152 62 149 58 146 55 142 52 138 51 134 49H129H125L120 51L116 52L112 55L109 58L107 62L105 66L104 70L103 75L104 80L105 84L107 88L109 92L112 95L116 98L120 99L125 101H129H134L138 99L142 98L146 95L149 92L152 88L154 84L155 80V75V70ZM403 62 400 58 397 55 393 52 389 51 385 49H380H375L371 51L367 52L363 55L360 58L357 62L356 66L354 70V75V80L356 84L357 88L360 92L363 95L367 98L371 99L375 101H380H385L389 99L393 98L397 95L400 92L403 88L404 84L406 80V75V70L404 66ZM653 62 651 58 648 55 644 52 640 51 635 49H631H626L622 51L618 52L614 55L611 58L608 62L606 66L605 70V75V80L606 84L608 88L611 92L614 95L618 98L622 99L626 101H631H635L640 99L644 98L648 95L651 92L653 88L655 84L656 80L657 75L656 70L655 66Z"/></defs>
+<use href="#Microslab-Regular_uni2026" transform="translate(383.00 1643) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="465" y="1552" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="470" y="1572" font-family="sans-serif" font-size="13" fill="#53616d">2030</text>
+<defs><path id="Microslab-Regular_uni2030" d="M169 4 115 36 533 721 587 689ZM186 573 179 571H172H166L159 573L153 576L147 580L142 585L138 590L135 597L134 603L133 610L134 617L135 623L138 630L142 635L147 640L153 644L159 647L166 649H172H179L186 647L192 644L198 640L203 635L206 630L209 623L211 617L212 610L211 603L209 597L206 590L203 585L198 580L192 576ZM179 628 176 629 172 630 169 629 166 628 163 627 160 625 157 623 155 620 154 617 153 613V610V607L154 603L155 600L157 597L160 595L163 593L166 592L169 591L172 590L176 591L179 592L182 593L185 595L187 597L189 600L191 603L192 607V610V613L191 617L189 620L187 623L185 625L182 627ZM534 91 528 88 521 86H514H508L501 88L495 91L489 95L484 100L480 105L477 112L476 118L475 125L476 132L477 138L480 145L484 150L489 155L495 159L501 162L508 164H514H521L528 162L534 159L540 155L545 150L548 145L551 138L553 132L554 125L553 118L551 112L548 105L545 100L540 95ZM524 142 521 143 518 144 514 145 511 144 508 143 505 142 502 140 499 138 497 135 496 132 495 128V125V122L496 118L497 115L499 112L502 110L505 108L508 107L511 106L514 105L518 106L521 107L524 108L527 110L529 112L531 115L533 118L534 122V125V128L533 132L531 135L529 138L527 140ZM635 50 631 45 625 41 619 38 612 37 606 36 599 37 592 38 586 41 581 45 576 50 572 56 569 62 567 68V75V82L569 88L572 94L576 100L581 105L586 109L592 112L599 113L606 114L612 113L619 112L625 109L631 105L635 100L639 95L642 88L644 82L645 75L644 68L642 62L639 56Z"/></defs>
+<use href="#Microslab-Regular_uni2030" transform="translate(471.00 1643) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="553" y="1552" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="558" y="1572" font-family="sans-serif" font-size="13" fill="#53616d">2039</text>
+<defs><path id="Microslab-Regular_uni2039" d="M624 60 586 10 136 360 586 710 624 660 238 360Z"/></defs>
+<use href="#Microslab-Regular_uni2039" transform="translate(559.00 1643) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="641" y="1552" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="646" y="1572" font-family="sans-serif" font-size="13" fill="#53616d">203A</text>
+<defs><path id="Microslab-Regular_uni203A" d="M174 10 136 60 522 360 136 660 174 710 624 360Z"/></defs>
+<use href="#Microslab-Regular_uni203A" transform="translate(647.00 1643) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="729" y="1552" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="734" y="1572" font-family="sans-serif" font-size="13" fill="#53616d">20AC</text>
+<defs><path id="Microslab-Regular_uni20AC" d="M183 240V101L234 41H586V24H661V-24H586V-41H197L101 71V240H99V275H101V617L197 729H586V712H661V664H586V647H234L183 587V275H654V240Z"/></defs>
+<use href="#Microslab-Regular_uni20AC" transform="translate(735.00 1643) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="817" y="1552" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="822" y="1572" font-family="sans-serif" font-size="13" fill="#53616d">2122</text>
+<defs><path id="Microslab-Regular_uni2122" d="M188 686H101V694H65V717H101V725H314V717H350V694H314V686H227V387H244V363H172V387H188ZM443 387V750L448 752L561 612L675 752L680 750V387H695V363H627V387H643V652L561 551L480 652V387H495V363H428V387Z"/></defs>
+<use href="#Microslab-Regular_uni2122" transform="translate(823.00 1643) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="905" y="1552" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="910" y="1572" font-family="sans-serif" font-size="13" fill="#53616d">2190</text>
+<defs><path id="Microslab-Regular_uni2190" d="M671 327H187L270 178L205 142L89 350L205 563L270 527L185 372H671ZM174 350 185 331V370Z"/></defs>
+<use href="#Microslab-Regular_uni2190" transform="translate(911.00 1643) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="993" y="1552" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="998" y="1572" font-family="sans-serif" font-size="13" fill="#53616d">2191</text>
+<defs><path id="Microslab-Regular_uni2191" d="M357 140V641L216 507L164 563L354 743L357 745V750H365L367 751L370 752L374 753H378H382H386L390 752L393 751L395 750H403V745L406 743L596 563L544 507L403 641V140Z"/></defs>
+<use href="#Microslab-Regular_uni2191" transform="translate(999.00 1643) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1081" y="1552" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1086" y="1572" font-family="sans-serif" font-size="13" fill="#53616d">2192</text>
+<defs><path id="Microslab-Regular_uni2192" d="M89 372H575L490 527L555 563L671 350L555 142L490 178L573 327H89ZM586 350 575 370V331Z"/></defs>
+<use href="#Microslab-Regular_uni2192" transform="translate(1087.00 1643) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1169" y="1552" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1174" y="1572" font-family="sans-serif" font-size="13" fill="#53616d">2193</text>
+<defs><path id="Microslab-Regular_uni2193" d="M596 247 406 67 403 65 400 63 397 61 393 59 390 58 386 57H382H378H374L370 58L367 59L363 61L360 63L357 65L354 67L164 247L216 303L357 169V750H403V169L544 303Z"/></defs>
+<use href="#Microslab-Regular_uni2193" transform="translate(1175.00 1643) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1257" y="1552" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1262" y="1572" font-family="sans-serif" font-size="13" fill="#53616d">2260</text>
+<defs><path id="Microslab-Regular_uni2260" d="M631 219H129V281H631ZM129 429V491H631V429ZM463 605V549H297V605Z"/></defs>
+<use href="#Microslab-Regular_uni2260" transform="translate(1263.00 1643) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1345" y="1552" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1350" y="1572" font-family="sans-serif" font-size="13" fill="#53616d">2264</text>
+<defs><path id="Microslab-Regular_uni2264" d="M645 35H584L565 10L533 35H143V65H495L115 360L565 710L603 660L217 360L596 65H645Z"/></defs>
+<use href="#Microslab-Regular_uni2264" transform="translate(1351.00 1643) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="25" y="1666" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="30" y="1686" font-family="sans-serif" font-size="13" fill="#53616d">2265</text>
+<defs><path id="Microslab-Regular_uni2265" d="M617 35H227L195 10L176 35H115V65H164L543 360L157 660L195 710L645 360L265 65H617Z"/></defs>
+<use href="#Microslab-Regular_uni2265" transform="translate(31.00 1757) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="113" y="1666" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="118" y="1686" font-family="sans-serif" font-size="13" fill="#53616d">2500</text>
+<defs><path id="Microslab-Regular_uni2500" d="M760 354H0V396H760Z"/></defs>
+<use href="#Microslab-Regular_uni2500" transform="translate(119.00 1757) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="201" y="1666" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="206" y="1686" font-family="sans-serif" font-size="13" fill="#53616d">2502</text>
+<defs><path id="Microslab-Regular_uni2502" d="M401 -250H359V1000H401Z"/></defs>
+<use href="#Microslab-Regular_uni2502" transform="translate(207.00 1757) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="289" y="1666" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="294" y="1686" font-family="sans-serif" font-size="13" fill="#53616d">250C</text>
+<defs><path id="Microslab-Regular_uni250C" d="M359 -250V375H380V396H760V354H401V-250Z"/></defs>
+<use href="#Microslab-Regular_uni250C" transform="translate(295.00 1757) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="377" y="1666" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="382" y="1686" font-family="sans-serif" font-size="13" fill="#53616d">2510</text>
+<defs><path id="Microslab-Regular_uni2510" d="M401 -250H359V354H0V396H380V375H401Z"/></defs>
+<use href="#Microslab-Regular_uni2510" transform="translate(383.00 1757) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="465" y="1666" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="470" y="1686" font-family="sans-serif" font-size="13" fill="#53616d">2514</text>
+<defs><path id="Microslab-Regular_uni2514" d="M760 354H380V375H359V1000H401V396H760Z"/></defs>
+<use href="#Microslab-Regular_uni2514" transform="translate(471.00 1757) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="553" y="1666" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="558" y="1686" font-family="sans-serif" font-size="13" fill="#53616d">2518</text>
+<defs><path id="Microslab-Regular_uni2518" d="M0 354V396H359V1000H401V375H380V354Z"/></defs>
+<use href="#Microslab-Regular_uni2518" transform="translate(559.00 1757) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="641" y="1666" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="646" y="1686" font-family="sans-serif" font-size="13" fill="#53616d">251C</text>
+<defs><path id="Microslab-Regular_uni251C" d="M359 -250V375V1000H401V396H760V354H401V-250Z"/></defs>
+<use href="#Microslab-Regular_uni251C" transform="translate(647.00 1757) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="729" y="1666" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="734" y="1686" font-family="sans-serif" font-size="13" fill="#53616d">2524</text>
+<defs><path id="Microslab-Regular_uni2524" d="M359 -250V354H0V396H359V1000H401V375V-250Z"/></defs>
+<use href="#Microslab-Regular_uni2524" transform="translate(735.00 1757) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="817" y="1666" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="822" y="1686" font-family="sans-serif" font-size="13" fill="#53616d">252C</text>
+<defs><path id="Microslab-Regular_uni252C" d="M359 -250V354H0V396H380H760V354H401V-250Z"/></defs>
+<use href="#Microslab-Regular_uni252C" transform="translate(823.00 1757) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="905" y="1666" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="910" y="1686" font-family="sans-serif" font-size="13" fill="#53616d">2534</text>
+<defs><path id="Microslab-Regular_uni2534" d="M0 396H359V1000H401V396H760V354H380H0Z"/></defs>
+<use href="#Microslab-Regular_uni2534" transform="translate(911.00 1757) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="993" y="1666" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="998" y="1686" font-family="sans-serif" font-size="13" fill="#53616d">253C</text>
+<defs><path id="Microslab-Regular_uni253C" d="M359 -250V354H0V396H359V1000H401V396H760V354H401V-250Z"/></defs>
+<use href="#Microslab-Regular_uni253C" transform="translate(999.00 1757) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1081" y="1666" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1086" y="1686" font-family="sans-serif" font-size="13" fill="#53616d">2580</text>
+<defs><path id="Microslab-Regular_uni2580" d="M760 375H0V1000H760Z"/></defs>
+<use href="#Microslab-Regular_uni2580" transform="translate(1087.00 1757) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1169" y="1666" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1174" y="1686" font-family="sans-serif" font-size="13" fill="#53616d">2584</text>
+<defs><path id="Microslab-Regular_uni2584" d="M760 -250H0V375H760Z"/></defs>
+<use href="#Microslab-Regular_uni2584" transform="translate(1175.00 1757) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1257" y="1666" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1262" y="1686" font-family="sans-serif" font-size="13" fill="#53616d">2588</text>
+<defs><path id="Microslab-Regular_uni2588" d="M760 -250H0V1000H760Z"/></defs>
+<use href="#Microslab-Regular_uni2588" transform="translate(1263.00 1757) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1345" y="1666" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1350" y="1686" font-family="sans-serif" font-size="13" fill="#53616d">258C</text>
+<defs><path id="Microslab-Regular_uni258C" d="M380 -250H0V1000H380Z"/></defs>
+<use href="#Microslab-Regular_uni258C" transform="translate(1351.00 1757) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="25" y="1780" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="30" y="1800" font-family="sans-serif" font-size="13" fill="#53616d">2590</text>
+<defs><path id="Microslab-Regular_uni2590" d="M760 -250H380V1000H760Z"/></defs>
+<use href="#Microslab-Regular_uni2590" transform="translate(31.00 1871) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="113" y="1780" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="118" y="1800" font-family="sans-serif" font-size="13" fill="#53616d">2591</text>
+<defs><path id="Microslab-Regular_uni2591" d="M32 -250H0V-218H32ZM32 -154H0V-122H32H64V-154ZM0 6V38H32V6ZM32 102H0V134H32H64V102ZM0 262V294H32V262ZM32 358H0V390H32H64V358ZM0 518V550H32V518ZM32 646H64V614H32H0V646ZM0 774V806H32V774ZM32 870H0V902H32H64V870ZM64 -58H32V-26H64H96V-58ZM96 230V198H64H32V230H64ZM64 454H32V486H64H96V454ZM64 710H32V742H64H96V710ZM32 998H64H96V966H64H32ZM96 -186H128V-218H96H64V-186ZM96 70H128V38H96H64V70ZM96 294H64V326H96H128V294ZM64 582H96H128V550H96H64ZM96 806H64V838H96H128V806ZM128 -90H160V-122H128H96V-90ZM160 134H128H96V166H128H160ZM128 422H160V390H128H96V422ZM160 646H128H96V678H128H160ZM128 902H96V934H128H160V902ZM192 -26H160H128V6H160H192ZM160 230H128V262H160H192V230ZM192 486H160H128V518H160H192ZM192 742H160H128V774H160H192ZM192 998H160H128V1000H160H192ZM192 -154H224V-186H192H160V-154ZM160 102H192H224V70H192H160ZM224 358V326H192H160V358H192ZM192 614H224V582H192H160V614ZM160 838V870H192H224V838H192ZM224 -90H192V-58H224H256V-90ZM224 166H192V198H224H256V166ZM256 454V422H224H192V454H224ZM256 678H224H192V710H224H256ZM256 966V934H224H192V966H224ZM256 -250H224V-218H256H288V-250ZM256 38H288V6H256H224V38ZM288 262H256H224V294H256H288ZM256 550H288V518H256H224V550ZM256 806H288V774H256H224V806ZM288 -122H320V-154H288H256V-122ZM320 102H288H256V134H288H320ZM320 358H288H256V390H288H320ZM256 646H288H320V614H288H256ZM256 902H288H320V870H288H256ZM352 -58H320H288V-26H320H352ZM352 198H320H288V230H320H352ZM288 486H320H352V454H320H288ZM288 742H320H352V710H320H288ZM288 998H320H352V966H320H288ZM352 -218H320V-186H352H384V-218ZM352 70H384V38H352H320V70ZM384 326V294H352H320V326H352ZM352 582H384V550H352H320V582ZM352 838H384V806H352H320V838ZM416 -90V-122H384H352V-90H384ZM384 166H416V134H384H352V166ZM384 422H416V390H384H352V422ZM384 678H416V646H384H352V678ZM384 902H352V934H384H416V902ZM448 6V-26H416H384V6H416ZM448 230H416H384V262H416H448ZM448 518V486H416H384V518H416ZM416 774H448V742H416H384V774ZM416 998H384V1000H416H448V998ZM480 -186H448H416V-154H448H480ZM416 102H448H480V70H448H416ZM416 358H448H480V326H448H416ZM480 582H448H416V614H448H480ZM480 838H448H416V870H448H480ZM448 -58H480H512V-90H480H448ZM480 198H512V166H480H448V198ZM480 454H512V422H480H448V454ZM512 678H480H448V710H480H512ZM512 934H480H448V966H480H512ZM512 -250H480V-218H512H544V-250ZM512 6H480V38H512H544V6ZM512 262H480V294H512H544V262ZM544 518H512H480V550H512H544ZM512 806H544V774H512H480V806ZM544 -154H512V-122H544H576V-154ZM544 102H512V134H544H576V102ZM544 390H576V358H544H512V390ZM576 614H544H512V646H544H576ZM576 902V870H544H512V902H544ZM576 -58H544V-26H576H608V-58ZM576 198H544V230H576H608V198ZM576 454H544V486H576H608V454ZM576 710H544V742H576H608V710ZM608 998V966H576H544V998H576ZM608 -218H576V-186H608H640V-218ZM640 38H608H576V70H608H640ZM640 326V294H608H576V326H608ZM640 550H608H576V582H608H640ZM640 806H608H576V838H608H640ZM608 -90H640H672V-122H640H608ZM640 166H672V134H640H608V166ZM640 390H608V422H640H672V390ZM608 678H640H672V646H640H608ZM672 902H640H608V934H640H672ZM672 6H704V-26H672H640V6ZM704 230H672H640V262H672H704ZM672 486H640V518H672H704V486ZM672 774H704V742H672H640V774ZM672 998H640V1000H672H704V998ZM704 -186H672V-154H704H736V-186ZM736 70H704H672V102H704H736ZM704 326H672V358H704H736V326ZM704 582H672V614H704H736V582ZM736 838H704H672V870H704H736ZM760 -58V-90H736H704V-58H736ZM736 198H760V166H736H704V198ZM736 422H704V454H736H760V422ZM736 710H760V678H736H704V710ZM736 966H760V934H736H704V966ZM736 -250V-218H760V-250ZM736 6V38H760V6ZM736 262V294H760V262ZM736 518V550H760V518ZM736 774V806H760V774Z"/></defs>
+<use href="#Microslab-Regular_uni2591" transform="translate(119.00 1871) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="201" y="1780" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="206" y="1800" font-family="sans-serif" font-size="13" fill="#53616d">2592</text>
+<defs><path id="Microslab-Regular_uni2592" d="M160 -154H192V-122H224H256H288V-90H320H352H384V-58H416H448H480V-26H512H544H576V6H608H640H672V38H704H736H760V6H736H704V-26H672H640H608V-58H576H544H512V-90H480H448H416V-122H384H352H320V-154H288H256H224V-186H192H160H128V-218H96H64H32V-250H0V-218V-186H32H64H96V-154H128ZM64 -90H96H128V-58H160H192H224V-26H256H288H320V6H352H384H416V38H448H480H512V70H544H576H608V102H640H672H704V134H736H760V102H736V70H704H672H640V38H608H576H544V6H512H480H448V-26H416H384H352V-58H320H288H256V-90H224H192H160V-122H128H96H64V-154H32H0V-122H32V-90ZM96 6H128H160V38H192H224H256V70H288H320H352V102H384H416H448V134H480H512H544V166H576H608H640V198H672H704H736V230H760V198V166H736H704H672V134H640H608H576V102H544H512H480V70H448H416H384V38H352H320H288V6H256H224H192V-26H160H128H96V-58H64H32H0V-26H32H64V6ZM96 70V102H128H160H192V134H224H256H288V166H320H352H384V198H416H448H480V230H512H544H576V262H608H640H672V294H704H736H760V262H736H704V230H672H640H608V198H576H544H512V166H480H448H416V134H384H352H320V102H288H256H224V70H192H160H128V38H96H64H32V6H0V38V70H32H64ZM128 166V198H160H192H224V230H256H288H320V262H352H384H416V294H448H480H512V326H544H576H608V358H640H672H704V390H736H760V358H736V326H704H672H640V294H608H576H544V262H512H480H448V230H416H384H352V198H320H288H256V166H224H192H160V134H128H96H64V102H32H0V134H32V166H64H96ZM0 198V230H32H64V262H96H128H160V294H192H224H256V326H288H320H352V358H384H416H448V390H480H512H544V422H576H608H640V454H672H704H736V486H760V454V422H736H704H672V390H640H608H576V358H544H512H480V326H448H416H384V294H352H320H288V262H256H224H192V230H160H128H96V198H64H32ZM32 326H64H96V358H128H160H192V390H224H256H288V422H320H352H384V454H416H448H480V486H512H544H576V518H608H640H672V550H704H736H760V518H736H704V486H672H640H608V454H576H544H512V422H480H448H416V390H384H352H320V358H288H256H224V326H192H160H128V294H96H64H32V262H0V294V326ZM64 422H96H128V454H160H192H224V486H256H288H320V518H352H384H416V550H448H480H512V582H544H576H608V614H640H672H704V646H736H760V614H736V582H704H672H640V550H608H576H544V518H512H480H448V486H416H384H352V454H320H288H256V422H224H192H160V390H128H96H64V358H32H0V390H32V422ZM0 454V486H32H64V518H96H128H160V550H192H224H256V582H288H320H352V614H384H416H448V646H480H512H544V678H576H608H640V710H672H704H736V742H760V710V678H736H704H672V646H640H608H576V614H544H512H480V582H448H416H384V550H352H320H288V518H256H224H192V486H160H128H96V454H64H32ZM64 582H96V614H128H160H192V646H224H256H288V678H320H352H384V710H416H448H480V742H512H544H576V774H608H640H672V806H704H736H760V774H736H704V742H672H640H608V710H576H544H512V678H480H448H416V646H384H352H320V614H288H256H224V582H192H160H128V550H96H64H32V518H0V550V582H32ZM0 614V646H32V678H64H96H128V710H160H192H224V742H256H288H320V774H352H384H416V806H448H480H512V838H544H576H608V870H640H672H704V902H736H760V870H736V838H704H672H640V806H608H576H544V774H512H480H448V742H416H384H352V710H320H288H256V678H224H192H160V646H128H96H64V614H32ZM64 710H32H0V742H32H64V774H96H128H160V806H192H224H256V838H288H320H352V870H384H416H448V902H480H512H544V934H576H608H640V966H672H704H736V998H760V966V934H736H704H672V902H640H608H576V870H544H512H480V838H448H416H384V806H352H320H288V774H256H224H192V742H160H128H96V710ZM96 870H128H160H192V902H224H256H288V934H320H352H384V966H416H448H480V998H512H544H576V1000H608H640H672H704V998H672H640H608V966H576H544H512V934H480H448H416V902H384H352H320V870H288H256H224V838H192H160H128V806H96H64H32V774H0V806V838H32H64H96ZM96 934H128V966H160H192H224V998H256H288H320V1000H352H384H416H448V998H416H384H352V966H320H288H256V934H224H192H160V902H128H96H64V870H32H0V902H32V934H64ZM64 1000H96H128H160H192V998H160H128H96V966H64H32H0V998H32H64ZM160 -218H192H224H256V-186H288H320H352V-154H384H416H448V-122H480H512H544V-90H576H608H640V-58H672H704H736V-26H760V-58V-90H736H704H672V-122H640H608H576V-154H544H512H480V-186H448H416H384V-218H352H320H288V-250H256H224H192H160ZM416 -218H448H480H512V-186H544H576H608V-154H640H672H704V-122H736H760V-154H736V-186H704H672H640V-218H608H576H544V-250H512H480H448H416ZM736 -218H760V-250H736H704H672V-218H704Z"/></defs>
+<use href="#Microslab-Regular_uni2592" transform="translate(207.00 1871) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="289" y="1780" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="294" y="1800" font-family="sans-serif" font-size="13" fill="#53616d">2593</text>
+<defs><path id="Microslab-Regular_uni2593" d="M32 -90H64V-58H32H0V-26V6V38V70H32V102H0V134V166H32H64V198H32H0V230V262V294V326H32V358H0V390V422H32H64V454H32H0V486V518V550V582H32V614H0V646V678H32H64V710H32H0V742V774V806V838H32V870H0V902V934H32H64V966H32H0V998V1000H32H64H96H128H160H192V998H224H256V1000H288H320H352H384H416H448V998H480H512V1000H544H576H608H640H672H704V998H736H760V966V934V902V870H736V838H760V806V774H736H704V742H736H760V710V678V646V614H736V582H760V550V518H736H704V486H736H760V454V422V390V358H736V326H760V294V262H736H704V230H736H760V198V166V134V102H736V70H760V38V6H736H704V-26H736H760V-58V-90V-122V-154H736V-186H760V-218V-250H736H704H672H640H608V-218H576H544V-250H512H480H448H416H384H352V-218H320H288V-250H256H224H192H160H128H96V-218H64H32V-250H0V-218V-186H32V-154H0V-122V-90ZM736 678H704H672V646H704H736ZM736 390V422H704H672V390H704ZM736 166H704H672V134H704H736ZM736 -122V-90H704H672V-122H704ZM704 934H672V902H704H736V934ZM704 38V70H672H640V38H672ZM704 -218V-186H672H640V-218H672ZM704 294V326H672H640V294H672ZM704 550V582H672H640V550H672ZM704 806V838H672H640V806H672ZM672 998H640H608V966H640H672ZM672 742H640H608V710H640H672ZM672 198V230H640H608V198H640ZM672 -58V-26H640H608V-58H640ZM640 486H608V454H640H672V486ZM640 870V902H608H576V870H608ZM608 102H640V134H608H576V102ZM640 -154V-122H608H576V-154H608ZM640 358V390H608H576V358H608ZM640 614V646H608H576V614H608ZM576 806H544V774H576H608V806ZM576 518H608V550H576H544V518ZM576 262H608V294H576H544V262ZM544 6H576H608V38H576H544ZM576 934V966H544H512V934H544ZM576 198H544H512V166H544H576ZM512 -90H544H576V-58H544H512ZM512 422H544H576V454H544H512ZM512 678H544H576V710H544H512ZM544 326V358H512H480V326H512ZM544 -186V-154H512H480V-186H512ZM544 70V102H512H480V70H512ZM544 614H512H480V582H512H544ZM512 838H544V870H512H480V838ZM512 518H480H448V486H480H512ZM512 6H480H448V-26H480H512ZM480 230H512V262H480H448V230ZM448 742H480H512V774H480H448ZM480 902V934H448H416V902H448ZM480 646V678H448H416V646H448ZM448 -122H480V-90H448H416V-122ZM448 390H480V422H448H416V390ZM448 134H480V166H448H416V134ZM448 550V582H416H384V550H416ZM384 294H416H448V326H416H384ZM384 38H416H448V70H416H384ZM384 -218H416H448V-186H416H384ZM448 806V838H416H384V806H416ZM352 230V198H384H416V230H384ZM352 -26V-58H384H416V-26H384ZM416 710V742H384H352V710H384ZM384 454H416V486H384H352V454ZM384 966H416V998H384H352V966ZM384 102V134H352H320V102H352ZM384 -154V-122H352H320V-154H352ZM352 614H384V646H352H320V614ZM384 390H352H320V358H352H384ZM320 870H352H384V902H352H320ZM288 550V518H320H352V550H320ZM288 806V774H320H352V806H320ZM352 262V294H320H288V262H320ZM352 6V38H320H288V6H320ZM320 166V198H288H256V166H288ZM256 710V678H288H320V710H288ZM256 966V934H288H320V966H288ZM320 -90V-58H288H256V-90H288ZM320 454H288H256V422H288H320ZM288 582V614H256H224V582H256ZM288 326V358H256H224V326H256ZM288 102H256H224V70H256H288ZM288 838V870H256H224V838H256ZM256 -186H288V-154H256H224V-186ZM256 742V774H224H192V742H224ZM256 518H224H192V486H224H256ZM256 230V262H224H192V230H224ZM256 -26V6H224H192V-26H224ZM224 134V166H192H160V134H192ZM192 390H224V422H192H160V390ZM192 902H224V934H192H160V902ZM224 646V678H192H160V646H192ZM224 -90H192H160V-122H192H224ZM192 -218V-186H160H128V-218H160ZM128 806H160H192V838H160H128ZM128 550H160H192V582H160H128ZM128 294H160H192V326H160H128ZM128 38H160H192V70H160H128ZM160 -26H128H96V-58H128H160ZM96 198H128H160V230H128H96ZM96 454H128H160V486H128H96ZM96 710H128H160V742H128H96ZM96 966H128H160V998H128H96ZM128 102V134H96H64V102H96ZM128 -122H96H64V-154H96H128ZM128 390H96H64V358H96H128ZM128 614V646H96H64V614H96ZM128 902H96H64V870H96H128ZM96 518V550H64H32V518H64ZM64 774H96V806H64H32V774ZM64 262H96V294H64H32V262ZM64 6H96V38H64H32V6Z"/></defs>
+<use href="#Microslab-Regular_uni2593" transform="translate(295.00 1871) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="377" y="1780" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="382" y="1800" font-family="sans-serif" font-size="13" fill="#53616d">25A0</text>
+<defs><path id="Microslab-Regular_uni25A0" d="M122 95V675H638V95Z"/></defs>
+<use href="#Microslab-Regular_uni25A0" transform="translate(383.00 1871) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="465" y="1780" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="470" y="1800" font-family="sans-serif" font-size="13" fill="#53616d">25A1</text>
+<defs><path id="Microslab-Regular_uni25A1" d="M122 675H638V95H122ZM175 606V165H585V606Z"/></defs>
+<use href="#Microslab-Regular_uni25A1" transform="translate(471.00 1871) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="553" y="1780" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="558" y="1800" font-family="sans-serif" font-size="13" fill="#53616d">25B2</text>
+<defs><path id="Microslab-Regular_uni25B2" d="M684 70H76L380 775Z"/></defs>
+<use href="#Microslab-Regular_uni25B2" transform="translate(559.00 1871) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="641" y="1780" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="646" y="1800" font-family="sans-serif" font-size="13" fill="#53616d">25BA</text>
+<defs><path id="Microslab-Regular_uni25BA" d="M635 370 125 20V730Z"/></defs>
+<use href="#Microslab-Regular_uni25BA" transform="translate(647.00 1871) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="729" y="1780" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="734" y="1800" font-family="sans-serif" font-size="13" fill="#53616d">25BC</text>
+<defs><path id="Microslab-Regular_uni25BC" d="M684 710 380 0 76 710Z"/></defs>
+<use href="#Microslab-Regular_uni25BC" transform="translate(735.00 1871) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="817" y="1780" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="822" y="1800" font-family="sans-serif" font-size="13" fill="#53616d">25C4</text>
+<defs><path id="Microslab-Regular_uni25C4" d="M635 20 125 370 635 730Z"/></defs>
+<use href="#Microslab-Regular_uni25C4" transform="translate(823.00 1871) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="905" y="1780" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="910" y="1800" font-family="sans-serif" font-size="13" fill="#53616d">25CB</text>
+<defs><path id="Microslab-Regular_uni25CB" d="M634 293 614 250 587 211 554 178 515 151 472 131 427 119 380 115 333 119 288 131 245 151 206 178 173 211 146 250 126 293 114 338 110 385 114 432 126 477 146 520 173 559 206 592 245 619 288 639 333 651 380 655 427 651 472 639 515 619 554 592 587 559 614 520 634 477 646 432 650 385 646 338ZM574 455 558 488 538 517 512 543 483 563 450 579 416 588 380 591 344 588 310 579 277 563 248 543 222 517 202 488 186 455 177 421 174 385 177 349 186 315 202 282 222 253 248 227 277 207 310 191 344 182 380 179 416 182 450 191 483 207 512 227 538 253 558 282 574 315 583 349 586 385 583 421Z"/></defs>
+<use href="#Microslab-Regular_uni25CB" transform="translate(911.00 1871) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="993" y="1780" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="998" y="1800" font-family="sans-serif" font-size="13" fill="#53616d">25CF</text>
+<defs><path id="Microslab-Regular_uni25CF" d="M646 338 634 293 614 250 587 211 554 178 515 151 472 131 427 119 380 115 333 119 288 131 245 151 206 178 173 211 146 250 126 293 114 338 110 385 114 432 126 477 146 520 173 559 206 592 245 619 288 639 333 651 380 655 427 651 472 639 515 619 554 592 587 559 614 520 634 477 646 432 650 385Z"/></defs>
+<use href="#Microslab-Regular_uni25CF" transform="translate(999.00 1871) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1081" y="1780" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1086" y="1800" font-family="sans-serif" font-size="13" fill="#53616d">2713</text>
+<defs><path id="Microslab-Regular_uni2713" d="M613 714 684 666 327 126 325 123 322 120 319 117 315 114 312 112 308 110 304 109 300 108 296 107H291H287L283 108L279 109L275 110L271 112L268 114L264 117L261 119L258 123L76 343L142 397L287 222Z"/></defs>
+<use href="#Microslab-Regular_uni2713" transform="translate(1087.00 1871) scale(0.0590 -0.0590)" fill="#172127"/>
+<rect x="1169" y="1780" width="86" height="108" fill="none" stroke="#c5cccb"/>
+<text x="1174" y="1800" font-family="sans-serif" font-size="13" fill="#53616d">2717</text>
+<defs><path id="Microslab-Regular_uni2717" d="M411 508 551 615 589 565 431 445 589 325 551 275 411 382V215H349V382L209 275L171 325L329 445L171 565L209 615L349 508V665H411Z"/></defs>
+<use href="#Microslab-Regular_uni2717" transform="translate(1175.00 1871) scale(0.0590 -0.0590)" fill="#172127"/>
+</svg>
