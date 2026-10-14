@@ -99,7 +99,7 @@ def tester(c):
     return TEMPLATE.replace('__TITLE__',html.escape(c['family'])).replace('__STYLE__',c['style']).replace('__TAGLINE__',html.escape(c['tagline'])).replace('__TRIAL__',str(c['trial'][0])+'–'+str(c['trial'][1])+' px').replace('__CONFIG__',json.dumps(cfg,ensure_ascii=True).replace('</','<\\/'))
 
 def outputs():
-    out={};overview=['<rect width="1570" height="2820" fill="#f6f4ed"/>',label('FONT PAYLOAD VAULT / FOURTH COHORT / TWELVE FACES, SIX NEW LINEAGES',38,43,20)]
+    out={};overview=['<rect width="1570" height="2820" fill="#f6f4ed"/>',label('FONT PAYLOAD VAULT / FIFTH COHORT / TWELVE FACES, SIX NEW LINEAGES',38,43,20)]
     for i,rel in enumerate(FAMILIES):
         p=Proof(rel);c=p.cfg
         out[rel+'/specimen/specimen.svg']=sheet(p)
