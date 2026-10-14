@@ -1,0 +1,124 @@
+{
+  "schema": 1,
+  "successful": true,
+  "tests": 14,
+  "failures": 0,
+  "errors": 0,
+  "skipped": [],
+  "ots_required": true,
+  "paired_raster_comparisons": 4572,
+  "versions": {
+    "fonttools": "4.63.0",
+    "shapely": "2.1.2",
+    "Brotli": "1.2.0",
+    "freetype-py": "2.5.1"
+  },
+  "font_manifest": {
+    "schema": 1,
+    "version": "1.000",
+    "families": [
+      {
+        "family": "Collet Sans",
+        "style": "Regular",
+        "codepoints": 254,
+        "glyphs": 255,
+        "fixed_pitch": false,
+        "files": {
+          "cmd-font-container/collet-sans/fonts/ColletSans-Regular.ttf": {
+            "sha256": "b440f1afd94a67000ca126a04423a0814a987a9de0f33c9f0dd4bf00310b142a",
+            "bytes": 55564
+          },
+          "cmd-font-container/collet-sans/fonts/ColletSans-Regular.woff2": {
+            "sha256": "46ef0f6a7b07d927a87402f626300d8034f2d4fc7c840f06f8568c53550049e2",
+            "bytes": 18216
+          }
+        }
+      },
+      {
+        "family": "Detent Slab",
+        "style": "Regular",
+        "codepoints": 254,
+        "glyphs": 255,
+        "fixed_pitch": true,
+        "files": {
+          "cmd-font-container/detent-slab/fonts/DetentSlab-Regular.ttf": {
+            "sha256": "be78f13917de6ca80293f48a0624ba442451920d8c5271f5c329460f21c4dcad",
+            "bytes": 38832
+          },
+          "cmd-font-container/detent-slab/fonts/DetentSlab-Regular.woff2": {
+            "sha256": "e89bab4556b1e01c3c4d1612d714807ae86edc4d4e038f688bb4f4934ecc26a4",
+            "bytes": 12904
+          }
+        }
+      },
+      {
+        "family": "Flypress",
+        "style": "Regular",
+        "codepoints": 254,
+        "glyphs": 255,
+        "fixed_pitch": false,
+        "files": {
+          "hot-font-box/flypress/fonts/Flypress-Regular.ttf": {
+            "sha256": "5b86ae4b795759d1d8ba30e5735b9b79c49e944869de76823b983038df2b167b",
+            "bytes": 35996
+          },
+          "hot-font-box/flypress/fonts/Flypress-Regular.woff2": {
+            "sha256": "c75d7e82833530487da3c949fcf750e429ea50e130ad8b090054ddf635c53704",
+            "bytes": 12864
+          }
+        }
+      },
+      {
+        "family": "Ribbon Torque",
+        "style": "Oblique",
+        "codepoints": 254,
+        "glyphs": 255,
+        "fixed_pitch": false,
+        "files": {
+          "hot-font-box/ribbon-torque/fonts/RibbonTorque-Oblique.ttf": {
+            "sha256": "d8f118866dde8458bd243e86f33427df7f219b44472b175803c53c75926478c9",
+            "bytes": 143668
+          },
+          "hot-font-box/ribbon-torque/fonts/RibbonTorque-Oblique.woff2": {
+            "sha256": "6bdb2895efa6f263f6840324787cbd627191deca3ae381652f5198098ac1a3f3",
+            "bytes": 39140
+          }
+        }
+      },
+      {
+        "family": "Anode Bloom",
+        "style": "Regular",
+        "codepoints": 254,
+        "glyphs": 255,
+        "fixed_pitch": true,
+        "files": {
+          "cachemonic/anode-bloom/fonts/AnodeBloom-Regular.ttf": {
+            "sha256": "f9357e24c52df88117b3d21d70935372c3084216adabada0b4f48f7e3f736755",
+            "bytes": 1081864
+          },
+          "cachemonic/anode-bloom/fonts/AnodeBloom-Regular.woff2": {
+            "sha256": "fcd843c6ba7d90ae7941a2e44f7932162f3e7392728432965405950a0b52d40b",
+            "bytes": 22000
+          }
+        }
+      },
+      {
+        "family": "Null Cartridge",
+        "style": "Regular",
+        "codepoints": 254,
+        "glyphs": 255,
+        "fixed_pitch": true,
+        "files": {
+          "cachemonic/null-cartridge/fonts/NullCartridge-Regular.ttf": {
+            "sha256": "3c30cb93fe4ac3bf20317dc1733321668ae363059e9e9a9cc44b70660572db45",
+            "bytes": 47504
+          },
+          "cachemonic/null-cartridge/fonts/NullCartridge-Regular.woff2": {
+            "sha256": "7d39af256c77a9c6ccd877a25465f7e8c400af7dddd0422142cbc416aa5b315f",
+            "bytes": 13004
+          }
+        }
+      }
+    ]
+  }
+}

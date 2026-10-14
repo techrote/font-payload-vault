@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Detent Slab — local specimen</title>
+<style>
+:root{color-scheme:light dark}body{margin:0;padding:24px;background:#f6f4ee;color:#182024;font:16px system-ui,sans-serif}body.dark{background:#101417;color:#f4f0e8}main{max-width:1400px;margin:auto}h1{font-size:28px}textarea{box-sizing:border-box;width:100%;min-height:130px;font:18px monospace;padding:12px}fieldset{margin:18px 0;display:flex;flex-wrap:wrap;gap:20px;border:1px solid #88949b}label{display:block}output{display:block;padding:18px 0;white-space:pre-wrap;overflow-wrap:anywhere;font-synthesis:none}#status,#missing{padding:8px 0}#missing{color:#a53d29}body.dark #missing{color:#ffaa8e}.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(86px,1fr));gap:6px}.cell{border:1px solid #8b969e;text-align:center;padding:5px;overflow:hidden}.cell span{display:block;font-size:38px;line-height:1.5;font-synthesis:none}.cell small{font:11px monospace}button{font:inherit;padding:5px 12px}
+</style></head><body><main>
+<h1>Detent Slab</h1><p>Every column lands in a positive stop.</p><p>Open this file from a local checkout; it loads only the adjacent WOFF2. Trial range: 20–30 px. No Windows or human-factors acceptance is implied.</p>
+<p id="status" role="status">Loading font…</p>
+<label for="input">Your text</label><textarea id="input" spellcheck="false"></textarea>
+<fieldset><legend>Preview controls</legend>
+<label>Size <input id="size" type="range" min="12" max="120" value="48"><span id="sizeValue"></span></label>
+<label>Line height <input id="line" type="range" min="1" max="2" step="0.05" value="1.25"></label>
+<label>Tracking <input id="tracking" type="range" min="0" max="8" step="0.25" value="0"></label>
+<label><input id="polarity" type="checkbox"> Dark background</label><button id="reset" type="button">Reset sample</button>
+</fieldset><p id="missing" role="status"></p><output id="preview" aria-live="polite"></output>
+<h2>Complete repertoire — 254 codepoints</h2><div id="grid" class="grid"></div>
+<p>Sources, design rationale and limitations are in the parent README.md and DESIGN.md. Unsupported characters are shown by fallback and warned above. No ligatures or pair kerning are present in these first releases.</p>
+<script>
+'use strict';
+const cfg={"family": "Detent Slab", "style": "normal", "label": "Regular", "url": "../fonts/DetentSlab-Regular.woff2", "coverage": [32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 338, 339, 352, 353, 376, 381, 382, 402, 710, 732, 8211, 8212, 8216, 8217, 8218, 8220, 8221, 8222, 8224, 8225, 8226, 8230, 8240, 8249, 8250, 8364, 8482, 8592, 8593, 8594, 8595, 8596, 8722, 8800, 8804, 8805, 9472, 9474, 9484, 9488, 9492, 9496, 9500, 9508, 9516, 9524, 9532, 9600, 9604, 9608, 9612, 9616, 9617, 9618, 9619, 9632, 9633, 9650, 9654, 9660, 9664, 10003, 10005], "sample": "DETENT / REGISTER 07\nSlabs, stops and fixed-pitch records.\nIl1| O0 Qq  B8  rn m   0123456789"};
+const el=id=>document.getElementById(id);const supported=new Set(cfg.coverage);let ready=false;
+const style=node=>{node.style.fontFamily='"'+cfg.family+'", monospace';node.style.fontStyle=cfg.style;};
+function update(){
+ const text=el('input').value;el('preview').textContent=text;
+ el('preview').style.fontSize=el('size').value+'px';el('preview').style.lineHeight=el('line').value;el('preview').style.letterSpacing=el('tracking').value+'px';el('sizeValue').textContent=el('size').value+' px';
+ document.body.classList.toggle('dark',el('polarity').checked);
+ const missing=[...new Set(Array.from(text).map(c=>c.codePointAt(0)).filter(c=>!supported.has(c)&&![9,10,13].includes(c)))];
+ el('missing').textContent=missing.length?'Not in this font: '+missing.map(c=>'U+'+c.toString(16).toUpperCase().padStart(4,'0')).join(', '):'';
+}
+style(el('preview'));el('input').value=cfg.sample;
+for(const id of ['input','size','line','tracking','polarity'])el(id).addEventListener('input',update);
+el('reset').addEventListener('click',()=>{el('input').value=cfg.sample;update();});
+for(const cp of cfg.coverage){const cell=document.createElement('div');cell.className='cell';const small=document.createElement('small');small.textContent='U+'+cp.toString(16).toUpperCase().padStart(4,'0');const glyph=document.createElement('span');glyph.textContent=String.fromCodePoint(cp);style(glyph);cell.append(small,glyph);el('grid').append(cell);}
+update();
+const face=new FontFace(cfg.family,'url('+cfg.url+')',{style:cfg.style});
+face.load().then(font=>{document.fonts.add(font);ready=true;el('status').textContent='Font loaded: '+cfg.family+' / '+cfg.label;el('status').dataset.loaded='true';}).catch(()=>{el('status').textContent='FONT LOAD FAILED — keep specimen and fonts folders together. Display is fallback, not the specimen font.';el('status').dataset.loaded='false';});
+</script></main></body></html>
