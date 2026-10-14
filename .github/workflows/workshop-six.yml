@@ -1,0 +1,106 @@
+name: Workshop Six initial publication
+
+on:
+  push:
+    branches: [font/workshop-six]
+    paths:
+      - '.bootstrap/**'
+      - '.github/workflows/workshop-six.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: workshop-six-initial-publication
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    if: github.repository == 'techrote/font-payload-vault' && github.ref == 'refs/heads/font/workshop-six'
+    runs-on: ubuntu-24.04
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          ref: ${{ github.sha }}
+      - uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5
+        with:
+          python-version: '3.12'
+      - name: Expand checksummed original source text
+        shell: bash
+        run: |
+          python - <<'PY'
+          import base64, hashlib, json, lzma, os, shutil
+          from pathlib import Path, PurePosixPath
+          parts = sorted(Path('.bootstrap').glob('workshop-six.*.b64'))
+          assert len(parts) == 9, 'Missing source transport part'
+          encoded = ''.join(p.read_text(encoding='ascii').strip() for p in parts)
+          packed = base64.b64decode(encoded, validate=True)
+          assert hashlib.sha256(packed).hexdigest() == '2f3d8480a37e5d000246c7f09962764aebf8f94ab6784639de4bca2b75497679', 'Source transport checksum mismatch'
+          payload = json.loads(lzma.decompress(packed))
+          sources = payload['sources']
+          assert len(sources) == 29
+          families = ('cmd-font-container/collet-sans', 'cmd-font-container/detent-slab', 'hot-font-box/flypress', 'hot-font-box/ribbon-torque', 'cachemonic/anode-bloom', 'cachemonic/null-cartridge')
+          exact = {'README.md', 'cmd-font-container/README.md', 'hot-font-box/README.md', 'cachemonic/README.md', 'requirements-workshop-six.txt', 'docs/WORKSHOP-SIX-WORKFLOW.md'}
+          prefixes = tuple(p + '/' for p in families) + ('tools/workshop_six/',)
+          for name, text in sources.items():
+              path = PurePosixPath(name)
+              assert not path.is_absolute() and '..' not in path.parts
+              assert name in exact or name.startswith(prefixes), name
+              assert path.suffix in ('.py', '.md', '.txt')
+              assert '/fonts/' not in name and '/specimen/' not in name and isinstance(text, str)
+              target = Path(name)
+              target.parent.mkdir(parents=True, exist_ok=True)
+              target.write_text(text, encoding='utf-8')
+          expected = Path(os.environ['RUNNER_TEMP']) / 'workshop-six-expected.json'
+          expected.write_text(json.dumps(payload['expected_font_manifest']), encoding='utf-8')
+          for folder in (*families, 'tools/workshop_six'):
+              shutil.copyfile('tools/original_trio/OFL.txt', Path(folder) / 'OFL.txt')
+          print('Expanded 29 original UTF-8 source/documentation files; no font binaries imported.')
+          PY
+      - name: Install pinned build and browser dependencies
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y --no-install-recommends libfreetype6 opentype-sanitizer
+          python -m pip install -r requirements-workshop-six.txt
+          python -m playwright install --with-deps chromium
+      - name: Compile six font families on hosted runner
+        run: python tools/workshop_six/build.py
+      - name: Require the locally reviewed design identity
+        run: |
+          python - <<'PY'
+          import json, os
+          from pathlib import Path
+          expected = json.loads((Path(os.environ['RUNNER_TEMP']) / 'workshop-six-expected.json').read_text())
+          actual = json.loads(Path('docs/workshop-six-manifest.json').read_text())
+          if actual != expected:
+              print('Expected:', json.dumps(expected, indent=2))
+              print('Actual:', json.dumps(actual, indent=2))
+              raise SystemExit('Hosted font identities differ from reviewed source build')
+          print('All twelve hosted exports match the reviewed SHA-256 manifest.')
+          PY
+      - name: Qualify all twelve exports with mandatory OTS
+        run: python tools/workshop_six/verify.py --require-ots --report docs/workshop-six-verification.json
+      - name: Generate and verify nineteen specimens
+        run: |
+          python tools/workshop_six/specimen.py
+          python tools/workshop_six/specimen.py --check
+      - name: Exercise all six HTTP and file-URL browser testers
+        run: python tools/workshop_six/browser_smoke.py --report docs/workshop-six-browser-verification.json
+      - name: Confirm the original trio still qualifies
+        run: |
+          python tools/original_trio/verify.py --require-ots
+          python tools/original_trio/specimen.py --check
+      - name: Commit qualified sources and hosted-generated payloads
+        shell: bash
+        run: |
+          git add README.md requirements-workshop-six.txt tools/workshop_six
+          git add cmd-font-container/README.md cmd-font-container/collet-sans cmd-font-container/detent-slab
+          git add hot-font-box/README.md hot-font-box/flypress hot-font-box/ribbon-torque
+          git add cachemonic/README.md cachemonic/anode-bloom cachemonic/null-cartridge
+          git add docs/WORKSHOP-SIX-WORKFLOW.md docs/workshop-six-*.json docs/workshop-six-overview.svg
+          git rm -- .bootstrap/workshop-six.*.b64
+          test -z "$(git diff --name-only HEAD -- cmd-font-container/knurled-swarf cmd-font-container/latchline-mono hot-font-box/diecast-relay cachemonic/cache-rattle tools/original_trio abandonware docs/subfolder-name-ideadump-refonly.md)"
+          git diff --cached --check
+          git -c user.name='github-actions[bot]' -c user.email='41898282+github-actions[bot]@users.noreply.github.com' commit -m 'Add six original typefaces, editable masters, specimens and hosted qualification'
+          git push origin HEAD:refs/heads/font/workshop-six
