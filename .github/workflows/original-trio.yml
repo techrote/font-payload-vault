@@ -1,83 +1,61 @@
-name: Original Trio initial publication
+name: Original Trio verification
 
 on:
-  push:
-    branches: [font/original-trio]
+  pull_request:
     paths:
-      - '.bootstrap/**'
       - '.github/workflows/original-trio.yml'
+      - 'requirements-original-trio*.txt'
+      - 'tools/original_trio/**'
+      - 'cmd-font-container/latchline-mono/**'
+      - 'hot-font-box/diecast-relay/**'
+      - 'cachemonic/cache-rattle/**'
+      - 'docs/ORIGINAL-TRIO-WORKFLOW.md'
+      - 'docs/original-trio-*'
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/original-trio.yml'
+      - 'requirements-original-trio*.txt'
+      - 'tools/original_trio/**'
+      - 'cmd-font-container/latchline-mono/**'
+      - 'hot-font-box/diecast-relay/**'
+      - 'cachemonic/cache-rattle/**'
+      - 'docs/ORIGINAL-TRIO-WORKFLOW.md'
+      - 'docs/original-trio-*'
+  workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: read
 
 concurrency:
-  group: original-trio-initial-publication
-  cancel-in-progress: false
+  group: original-trio-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: true
 
 jobs:
-  publish:
-    if: github.repository == 'techrote/font-payload-vault' && github.ref == 'refs/heads/font/original-trio'
+  verify:
     runs-on: ubuntu-24.04
     timeout-minutes: 20
     steps:
       - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
         with:
-          ref: ${{ github.sha }}
+          persist-credentials: false
       - uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5
         with:
           python-version: '3.12'
-      - name: Expand checksummed original text sources
-        shell: bash
-        run: |
-          python - <<'PY'
-          import base64, hashlib, json, lzma
-          from pathlib import Path, PurePosixPath
-          parts = sorted(Path('.bootstrap').glob('original-trio.*.b64'))
-          assert len(parts) == 6, 'Missing source transport part'
-          encoded = ''.join(p.read_text(encoding='ascii').strip() for p in parts)
-          packed = base64.b64decode(encoded, validate=True)
-          assert hashlib.sha256(packed).hexdigest() == 'bb2dc1e1c0d823dbeb42077d7dd3024b1cfcbd65f9cc5f870ddfd63412910278', 'Source transport checksum mismatch'
-          sources = json.loads(lzma.decompress(packed))
-          assert len(sources) == 27
-          exact = {'.gitignore', 'README.md', 'requirements-original-trio.txt', 'requirements-original-trio-browser.txt', 'cmd-font-container/README.md', 'hot-font-box/README.md', 'cachemonic/README.md', 'docs/ORIGINAL-TRIO-WORKFLOW.md'}
-          prefixes = ('cmd-font-container/latchline-mono/', 'hot-font-box/diecast-relay/', 'cachemonic/cache-rattle/', 'tools/original_trio/')
-          for name, text in sources.items():
-              path = PurePosixPath(name)
-              assert not path.is_absolute() and '..' not in path.parts
-              assert name in exact or name.startswith(prefixes), name
-              assert path.suffix in ('.py', '.md', '.txt') or name == '.gitignore'
-              assert '/fonts/' not in name and isinstance(text, str)
-              target = Path(name)
-              target.parent.mkdir(parents=True, exist_ok=True)
-              target.write_text(text, encoding='utf-8')
-          print('Expanded 27 original UTF-8 source/documentation files; no font binaries imported.')
-          PY
-      - name: Install build and sanitizer dependencies
+      - name: Install pinned build and browser dependencies
         run: |
           sudo apt-get update -qq
           sudo apt-get install -y --no-install-recommends libfreetype6 opentype-sanitizer
           python -m pip install -r requirements-original-trio.txt -r requirements-original-trio-browser.txt
           python -m playwright install --with-deps chromium
-      - name: Generate font payloads on hosted runner
-        run: python tools/original_trio/build.py
-      - name: Qualify all six exports including mandatory OTS
-        run: python tools/original_trio/verify.py --require-ots --report docs/original-trio-verification.json
-      - name: Generate and check specimens
-        run: |
-          python tools/original_trio/specimen.py
-          python tools/original_trio/specimen.py --check
+      # Do not rebuild before verification: stale committed exports must fail.
+      - name: Verify committed fonts, reproducibility and mandatory OTS
+        run: python tools/original_trio/verify.py --require-ots --report "$RUNNER_TEMP/original-trio-verification.json"
+      - name: Reject stale specimens
+        run: python tools/original_trio/specimen.py --check
       - name: Exercise offline browser testers
-        run: python tools/original_trio/browser_smoke.py --report docs/original-trio-browser-verification.json
-      - name: Commit qualified sources and generated payloads
-        shell: bash
+        run: python tools/original_trio/browser_smoke.py --report "$RUNNER_TEMP/original-trio-browser-verification.json"
+      - name: Confirm verification left the checkout unchanged
         run: |
-          git add .gitignore README.md requirements-original-trio*.txt tools/original_trio
-          git add cmd-font-container/README.md cmd-font-container/latchline-mono
-          git add hot-font-box/README.md hot-font-box/diecast-relay
-          git add cachemonic/README.md cachemonic/cache-rattle
-          git add docs/ORIGINAL-TRIO-WORKFLOW.md docs/original-trio-*.json docs/original-trio-overview.svg
-          git rm -- .bootstrap/original-trio.*.b64
-          test -z "$(git diff --name-only HEAD -- cmd-font-container/knurled-swarf abandonware docs/subfolder-name-ideadump-refonly.md)"
-          git diff --cached --check
-          git -c user.name='github-actions[bot]' -c user.email='41898282+github-actions[bot]@users.noreply.github.com' commit -m 'Add three original typefaces, sources, specimens and hosted qualification'
-          git push origin HEAD:refs/heads/font/original-trio
+          git diff --exit-code
+          test -z "$(git ls-files --others --exclude-standard)"
