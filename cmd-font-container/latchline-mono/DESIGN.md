@@ -47,7 +47,7 @@ removed before the accent is positioned; it is not left underneath the accent.
 
 | Pair or group | Actual drawing decision | Intended utility |
 |---|---|---|
-| `I l 1 |` | `I` has top/bottom bars; `l` has a hooked lower exit; `1` has a diagonal flag and foot; the pipe is a plain taller stem. | Reduce ambiguity in identifiers and transcribed values. |
+| `I l 1 \|` | `I` has top/bottom bars; `l` has a hooked lower exit; `1` has a diagonal flag and foot; the pipe is a plain taller stem. | Reduce ambiguity in identifiers and transcribed values. |
 | `O 0 Ø` | `0` is narrower and slashed; `O` is an unslashed bowl; `Ø` uses the alphabetic bowl and a different slash. | Separate letters, numbers and the Scandinavian letter. |
 | `B 8` | `B` has a left spine; `8` is two independent rounded bowls. | Keep numeric diagnostics distinct from hexadecimal letters. |
 | `g q` | `g` has a returning descender; `q` has a straight right descender. | Avoid relying on context in short identifiers. |
