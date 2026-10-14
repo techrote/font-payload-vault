@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Contour Ripple — offline type tester</title>
+<style>
+@font-face { font-family: "Contour Ripple"; src: url("../fonts/ContourRipple-Regular.woff2") format("woff2"); }
+:root { color-scheme: light dark; --ink:#15171a; --paper:#f7f5ef; --muted:#5d6168; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --ink:#ecebe6; --paper:#17191c; --muted:#a3a7ae; } }
+:root[data-theme="dark"] { --ink:#ecebe6; --paper:#17191c; --muted:#a3a7ae; }
+body { margin:0; background:var(--paper); color:var(--ink); font:16px/1.5 system-ui, sans-serif; }
+main { max-width:960px; margin:0 auto; padding:16px; }
+textarea { width:100%; box-sizing:border-box; font:inherit; min-height:5em; background:transparent; color:var(--ink); border:1px solid var(--muted); padding:8px; }
+#sample { font-family:"Contour Ripple", monospace; white-space:pre-wrap; overflow-wrap:anywhere; margin:16px 0; }
+label { display:block; margin:8px 0; }
+#status { color:var(--muted); font-size:14px; }
+</style></head>
+<body><main>
+<p>FONT PAYLOAD VAULT / SIXTH COHORT 06</p>
+<h1>Contour Ripple</h1>
+<p>Local font only. Nothing is sent off this page.</p>
+<label>Text <textarea id="input" spellcheck="false">Contour Ripple
+ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 0123456789 !?&amp;@#%</textarea></label>
+<label>Size <input id="size" type="range" min="16" max="120" value="48"> <span id="sizeOut">48</span>px</label>
+<div id="sample"></div>
+<p id="status"></p>
+</main>
+<script>
+const SUPPORTED = new Set(" !\"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~\u00a0\u00a1\u00a2\u00a3\u00a4\u00a5\u00a6\u00a7\u00a8\u00a9\u00aa\u00ab\u00ac\u00ad\u00ae\u00af\u00b0\u00b1\u00b2\u00b3\u00b4\u00b5\u00b6\u00b7\u00b8\u00b9\u00ba\u00bb\u00bc\u00bd\u00be\u00bf\u00c0\u00c1\u00c2\u00c3\u00c4\u00c5\u00c6\u00c7\u00c8\u00c9\u00ca\u00cb\u00cc\u00cd\u00ce\u00cf\u00d0\u00d1\u00d2\u00d3\u00d4\u00d5\u00d6\u00d7\u00d8\u00d9\u00da\u00db\u00dc\u00dd\u00de\u00df\u00e0\u00e1\u00e2\u00e3\u00e4\u00e5\u00e6\u00e7\u00e8\u00e9\u00ea\u00eb\u00ec\u00ed\u00ee\u00ef\u00f0\u00f1\u00f2\u00f3\u00f4\u00f5\u00f6\u00f7\u00f8\u00f9\u00fa\u00fb\u00fc\u00fd\u00fe\u00ff\u0152\u0153\u0160\u0161\u0178\u017d\u017e\u0192\u02c6\u02dc\u2013\u2014\u2018\u2019\u201a\u201c\u201d\u201e\u2020\u2021\u2022\u2026\u2030\u2039\u203a\u20ac\u2122\u2190\u2191\u2192\u2193\u2194\u2212\u2260\u2264\u2265\u2500\u2502\u250c\u2510\u2514\u2518\u251c\u2524\u252c\u2534\u253c\u2580\u2584\u2588\u258c\u2590\u2591\u2592\u2593\u25a0\u25a1\u25b2\u25b6\u25bc\u25c0\u2713\u2715");
+const $ = id => document.getElementById(id);
+const sample = $('sample'), input = $('input'), size = $('size'), status = $('status');
+function render() {
+  sample.textContent = input.value;
+  sample.style.fontSize = size.value + 'px';
+  $('sizeOut').textContent = size.value;
+  const missing = [...new Set([...input.value].filter(c => c.codePointAt(0) > 32 && !SUPPORTED.has(c)))];
+  status.textContent = missing.length ? 'Not in this font: ' + missing.join(' ') : 'All characters are in this font.';
+}
+input.addEventListener('input', render); size.addEventListener('input', render);
+document.fonts.load('48px "Contour Ripple"').then(render, () => { status.textContent = 'Font failed to load; text is shown in fallback type.'; render(); });
+render();
+</script></body></html>

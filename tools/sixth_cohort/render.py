@@ -25,15 +25,22 @@ EXTRA = tuple((n, f"{p}/{n.lower().replace(' ', '-')}/fonts/{n.replace(' ', '')}
     ('Bobbin Outline', 'hot-font-box'), ('Ingot Shadow', 'hot-font-box'), ('Slab Brick', 'hot-font-box'),
     ('Raster Slit', 'cachemonic'), ('Band Slip', 'cachemonic'), ('Punch Card', 'cachemonic'),
     ('Quantum Step', 'cachemonic'), ('Hatch Block', 'cachemonic')))
+MORE = tuple((n, f"{p}/{n.lower().replace(' ', '-')}/fonts/{n.replace(' ', '')}-Regular.ttf") for n, p in (
+    ('Ferrule Regular', 'cmd-font-container'), ('Tallow Condensed', 'cmd-font-container'),
+    ('Pillow Block', 'hot-font-box'), ('Contour Ripple', 'hot-font-box'),
+    ('Comb Cut', 'cachemonic'), ('Wave Warp', 'cachemonic')))
 
 if __name__ == '__main__':
     p = argparse.ArgumentParser()
     p.add_argument('out', nargs='?', type=Path, default=None)
     p.add_argument('--size', type=int, default=44)
     p.add_argument('--extra', action='store_true', help='render the twelve later additions')
+    p.add_argument('--more', action='store_true', help='render the six latest additions')
     a = p.parse_args()
     if a.extra:
         base.FONTS = EXTRA
-    a.out = a.out or base.ROOT / 'docs' / ('sixth-cohort-render-2.png' if a.extra else 'sixth-cohort-render.png')
+    if a.more:
+        base.FONTS = MORE
+    a.out = a.out or base.ROOT / 'docs' / ('sixth-cohort-render-3.png' if a.more else 'sixth-cohort-render-2.png' if a.extra else 'sixth-cohort-render.png')
     base.sheet(a.out.resolve(), a.size)
     print('wrote', a.out)

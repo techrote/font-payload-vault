@@ -306,6 +306,108 @@
           "bytes": 27856
         }
       }
+    },
+    {
+      "family": "Ferrule Regular",
+      "version": "1.000",
+      "codepoints": 254,
+      "glyphs": 255,
+      "fixed_pitch": false,
+      "files": {
+        "cmd-font-container/ferrule-regular/fonts/FerruleRegular-Regular.ttf": {
+          "sha256": "f80e467a9c9c420c195d893f4a0118cd543dda3e9e481579a064de26cb5a6ecf",
+          "bytes": 73292
+        },
+        "cmd-font-container/ferrule-regular/fonts/FerruleRegular-Regular.woff2": {
+          "sha256": "c489313d8e4873957f3667a7482329b9626cf4a0a25efdd2c94d7d7f2608516e",
+          "bytes": 19552
+        }
+      }
+    },
+    {
+      "family": "Tallow Condensed",
+      "version": "1.000",
+      "codepoints": 254,
+      "glyphs": 255,
+      "fixed_pitch": false,
+      "files": {
+        "cmd-font-container/tallow-condensed/fonts/TallowCondensed-Regular.ttf": {
+          "sha256": "531653f78a3d3220c212b4aa3e8268dbcac4ec36c311ccb2a03f5d59cceba7cf",
+          "bytes": 58680
+        },
+        "cmd-font-container/tallow-condensed/fonts/TallowCondensed-Regular.woff2": {
+          "sha256": "b07ab0d83714a544a8a9f01488f26b278d99a153dabc5d5f2189529e7518ee55",
+          "bytes": 13988
+        }
+      }
+    },
+    {
+      "family": "Pillow Block",
+      "version": "1.000",
+      "codepoints": 254,
+      "glyphs": 255,
+      "fixed_pitch": false,
+      "files": {
+        "hot-font-box/pillow-block/fonts/PillowBlock-Regular.ttf": {
+          "sha256": "eda45e88488a84447821907e340ddc12ff2d652c322ca902d2c4b72ce3a0463c",
+          "bytes": 69200
+        },
+        "hot-font-box/pillow-block/fonts/PillowBlock-Regular.woff2": {
+          "sha256": "a0107881bc078b009adbd01f7844dfabd8137aed959fecae299b0f4fc7345fc2",
+          "bytes": 14812
+        }
+      }
+    },
+    {
+      "family": "Contour Ripple",
+      "version": "1.000",
+      "codepoints": 254,
+      "glyphs": 255,
+      "fixed_pitch": false,
+      "files": {
+        "hot-font-box/contour-ripple/fonts/ContourRipple-Regular.ttf": {
+          "sha256": "aaab38b5f7c66b51d791dd13b38d83b3e4d3ebd4981708333b744b959b462f29",
+          "bytes": 502028
+        },
+        "hot-font-box/contour-ripple/fonts/ContourRipple-Regular.woff2": {
+          "sha256": "b6716d450cb90f98f3db7589f7ac739a1f0857f858d90f3706006aa86fbad460",
+          "bytes": 99832
+        }
+      }
+    },
+    {
+      "family": "Comb Cut",
+      "version": "1.000",
+      "codepoints": 254,
+      "glyphs": 255,
+      "fixed_pitch": false,
+      "files": {
+        "cachemonic/comb-cut/fonts/CombCut-Regular.ttf": {
+          "sha256": "18356482074e396c99961bace194845acdae1987b79078f28cf2fd398be29517",
+          "bytes": 42192
+        },
+        "cachemonic/comb-cut/fonts/CombCut-Regular.woff2": {
+          "sha256": "a149e6a28c1bf45eaac402118f5f7da0956d90b2edbc2cba0ada32f71549f4da",
+          "bytes": 15452
+        }
+      }
+    },
+    {
+      "family": "Wave Warp",
+      "version": "1.000",
+      "codepoints": 254,
+      "glyphs": 255,
+      "fixed_pitch": false,
+      "files": {
+        "cachemonic/wave-warp/fonts/WaveWarp-Regular.ttf": {
+          "sha256": "6260c06117dfa042d66952cabad16cb0fee035261ff9177a1496fe91fba3ab0a",
+          "bytes": 126672
+        },
+        "cachemonic/wave-warp/fonts/WaveWarp-Regular.woff2": {
+          "sha256": "6e4528807d22c0a20bcbab8dcee1c5514c0df76efe3e4f559a7c57fd8bcb3a60",
+          "bytes": 31896
+        }
+      }
     }
   ]
 }

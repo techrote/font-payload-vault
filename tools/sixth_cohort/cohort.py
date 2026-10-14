@@ -36,6 +36,12 @@ base.FAMILIES = (
     'cachemonic/punch-card',
     'cachemonic/quantum-step',
     'cachemonic/hatch-block',
+    'cmd-font-container/ferrule-regular',
+    'cmd-font-container/tallow-condensed',
+    'hot-font-box/pillow-block',
+    'hot-font-box/contour-ripple',
+    'cachemonic/comb-cut',
+    'cachemonic/wave-warp',
 )
 base.VERSION = '1.000'
 base.trio.VERSION = base.VERSION
