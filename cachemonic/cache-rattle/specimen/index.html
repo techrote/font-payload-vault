@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Cache Rattle — offline type tester</title>
+<style>
+@font-face{font-family:Proof;src:url('../fonts/CacheRattle-Regular.woff2') format('woff2'),url('../fonts/CacheRattle-Regular.ttf') format('truetype');font-weight:400;font-style:normal;font-display:swap;}
+:root{color-scheme:light dark;--paper:#f3f0e8;--ink:#172829;--line:#abb7b3}
+body{margin:0;background:var(--paper);color:var(--ink);font:16px/1.55 system-ui,sans-serif}
+main{max-width:1240px;margin:auto;padding:24px}
+h1{font-size:26px} a{color:inherit} .panel{border:1px solid var(--line);padding:20px;margin:20px 0}
+.controls{display:flex;gap:20px;flex-wrap:wrap} label{display:block} textarea{width:100%;box-sizing:border-box;min-height:150px;font:17px/1.6 ui-monospace,monospace;padding:12px;background:var(--paper);color:var(--ink)}
+#proof,.font{font-family:Proof,monospace;font-weight:400;font-synthesis:none;font-variant-ligatures:none;overflow-wrap:anywhere}
+#proof{white-space:pre-wrap;font-size:42px;line-height:1.25;min-height:240px}
+.font{font-size:28px;letter-spacing:0} #coverage{display:grid;grid-template-columns:repeat(auto-fill,minmax(74px,1fr));gap:8px} .cell{text-align:center;padding:8px;border:1px solid var(--line)} .cp{font:11px system-ui,sans-serif} #status{font-weight:600} .warning{font-size:14px;max-width:95ch}
+body.dark{--paper:#172829;--ink:#f3f0e8;--line:#647775}
+button,input{font:inherit} summary{cursor:pointer} @media(prefers-reduced-motion:reduce){*{scroll-behavior:auto}}
+</style>
+<main><p>FONT PAYLOAD VAULT / ORIGINAL TRIO 01</p><h1>Cache Rattle</h1>
+<p><a href="../README.md">Readme</a> · <a href="../DESIGN.md">Design &amp; limitations</a> · <a href="specimen.svg">Static proof</a> · <a href="character-map.svg">Character map</a></p>
+<p id="status" role="status">Loading local font…</p>
+<div class="controls"><label>Size <output id="sizeValue">42</output> px<br><input id="size" type="range" min="12" max="112" value="42"></label>
+<label>Line height <output id="lineValue">1.25</output><br><input id="line" type="range" min="100" max="190" value="125"></label>
+<label>Tracking <output id="trackValue">0</output> em<br><input id="track" type="range" min="0" max="15" value="0"></label>
+<label><input id="kern" type="checkbox" checked> Kerning</label><button id="polarity" type="button">Invert polarity</button></div>
+<label for="input">Your text (text stays in this page; no analytics or storage)</label>
+<textarea id="input" spellcheck="false">CACHE MISBEHAVING
+Sphinx of black quartz, judge my vow.
+Il1| O0 gq rn m 0123456789
+£42.00  ±0.25  node_01 != null → [OK]</textarea>
+<p id="missing" class="warning" role="status"></p><div id="proof" class="panel" aria-live="polite"></div>
+<p class="warning">No measured accessibility or fatigue benefit is claimed. Latchline Mono targets readable technical text; Diecast Relay and Cache Rattle are display experiments. These are unhinted outlines, not hand-tuned bitmap strikes. Unsupported characters use your system fallback. Decomposed accents are unsupported; NFC text is required.</p>
+<details><summary>All 254 encoded characters</summary><div id="coverage"></div></details></main>
+<script>
+'use strict';
+const supported = new Set(Array.from(" !\"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~\u00a0\u00a1\u00a2\u00a3\u00a4\u00a5\u00a6\u00a7\u00a8\u00a9\u00aa\u00ab\u00ac\u00ad\u00ae\u00af\u00b0\u00b1\u00b2\u00b3\u00b4\u00b5\u00b6\u00b7\u00b8\u00b9\u00ba\u00bb\u00bc\u00bd\u00be\u00bf\u00c0\u00c1\u00c2\u00c3\u00c4\u00c5\u00c6\u00c7\u00c8\u00c9\u00ca\u00cb\u00cc\u00cd\u00ce\u00cf\u00d0\u00d1\u00d2\u00d3\u00d4\u00d5\u00d6\u00d7\u00d8\u00d9\u00da\u00db\u00dc\u00dd\u00de\u00df\u00e0\u00e1\u00e2\u00e3\u00e4\u00e5\u00e6\u00e7\u00e8\u00e9\u00ea\u00eb\u00ec\u00ed\u00ee\u00ef\u00f0\u00f1\u00f2\u00f3\u00f4\u00f5\u00f6\u00f7\u00f8\u00f9\u00fa\u00fb\u00fc\u00fd\u00fe\u00ff\u0152\u0153\u0160\u0161\u0178\u017d\u017e\u0192\u02c6\u02dc\u2013\u2014\u2018\u2019\u201a\u201c\u201d\u201e\u2020\u2021\u2022\u2026\u2030\u2039\u203a\u20ac\u2122\u2190\u2191\u2192\u2193\u2194\u2212\u2260\u2264\u2265\u2500\u2502\u250c\u2510\u2514\u2518\u251c\u2524\u252c\u2534\u253c\u2580\u2584\u2588\u258c\u2590\u2591\u2592\u2593\u25a0\u25a1\u25b2\u25b6\u25bc\u25c0\u2713\u2715"));
+const $ = id => document.getElementById(id);
+function update() {
+  const value=$('input').value;
+  $('proof').textContent=value;
+  $('proof').style.fontSize=$('size').value+'px';
+  $('proof').style.lineHeight=Number($('line').value)/100;
+  $('proof').style.letterSpacing=Number($('track').value)/100+'em';
+  $('proof').style.fontKerning=$('kern').checked?'normal':'none';
+  $('sizeValue').value=$('size').value;
+  $('lineValue').value=(Number($('line').value)/100).toFixed(2);
+  $('trackValue').value=(Number($('track').value)/100).toFixed(2);
+  const missing=[...new Set(Array.from(value).filter(c=>!supported.has(c)&&!['\n','\r','\t'].includes(c)))];
+  $('missing').textContent=missing.length?'Fallback characters: '+missing.map(c=>'U+'+c.codePointAt(0).toString(16).toUpperCase().padStart(4,'0')+' '+c).join(' · '):'All non-control characters in this sample are encoded in this font.';
+}
+for(const id of ['input','size','line','track','kern']) $(id).addEventListener('input',update);
+$('polarity').addEventListener('click',()=>document.body.classList.toggle('dark'));
+for(const c of supported) {
+  const cell=document.createElement('div');cell.className='cell';
+  const glyph=document.createElement('div');glyph.className='font';glyph.textContent=c;
+  const cp=document.createElement('div');cp.className='cp';cp.textContent='U+'+c.codePointAt(0).toString(16).toUpperCase().padStart(4,'0');
+  cell.append(glyph,cp);$('coverage').append(cell);
+}
+update();
+document.fonts.load('24px Proof','Ag0123').then(faces=>{
+  if(!faces.length)throw new Error('No local font face loaded');
+  $('status').textContent='Local Cache Rattle loaded. Nothing is sent off this page.';
+}).catch(()=>{$('status').textContent='FONT NOT LOADED — displaying fallback. Keep this page beside ../fonts, or serve the repository locally.';});
+</script></html>
