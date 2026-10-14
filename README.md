@@ -2,6 +2,8 @@
 
 ## Fourth Cohort / 04 — three new fonts
 
+![Fourth Cohort render](docs/fourth-cohort-render.png)
+
 | Family | Intended use | Construction |
 |---|---|---|
 | [Gasket Sans](cmd-font-container/gasket-sans/) | Proportional UI labels and status text | Angular octagonal forms; bevelled polyline strokes |
