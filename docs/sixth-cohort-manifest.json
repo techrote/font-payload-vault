@@ -9,12 +9,12 @@
       "fixed_pitch": false,
       "files": {
         "cmd-font-container/lathe-round/fonts/LatheRound-Regular.ttf": {
-          "sha256": "bd5536112d56378ddd9c74a99acafc149f637014dccfc920ce0150fd21562130",
-          "bytes": 95616
+          "sha256": "4fec31599e6d92454dbbba5bad1f839aa47c560b21c5e3a478bc49e427dd90a8",
+          "bytes": 95612
         },
         "cmd-font-container/lathe-round/fonts/LatheRound-Regular.woff2": {
-          "sha256": "df58123f227612990ba6a439649a5745ac9858b380f7c943ef4592d7ab263815",
-          "bytes": 20564
+          "sha256": "f98f9f5107b5b361596170de8ce2be7ed2e48063b2ecec83a59284a750752495",
+          "bytes": 20624
         }
       }
     },
@@ -77,12 +77,12 @@
       "fixed_pitch": false,
       "files": {
         "cachemonic/slip-echo/fonts/SlipEcho-Regular.ttf": {
-          "sha256": "4dbeb3d4ed238c109403f706cb400ebcf4b8a3ab9619010dc607950cc5b8fadf",
-          "bytes": 178196
+          "sha256": "0adfa7362d5f2caeea19d60bbe8ecc412eaee827b3d6d8f52219e9380070ea08",
+          "bytes": 178188
         },
         "cachemonic/slip-echo/fonts/SlipEcho-Regular.woff2": {
-          "sha256": "25d638b7b6442f5537b05361aeb11d84b1f257112e35dc7b9f12853e21ab2580",
-          "bytes": 34984
+          "sha256": "a9b4eb27dde438ac1fa129eaf21119db533345730a62970f636342b0494c7ea2",
+          "bytes": 34908
         }
       }
     },
@@ -111,12 +111,12 @@
       "fixed_pitch": false,
       "files": {
         "cmd-font-container/skiff-slant/fonts/SkiffSlant-Regular.ttf": {
-          "sha256": "5503cfcdc5b1a0a39b7df20e5f2cf8c5009e8e7f96a8fb96997a6ded8e874f53",
+          "sha256": "f14c37697f7b6f109a100683534a9882107892108d672da506d11216d74f848f",
           "bytes": 95796
         },
         "cmd-font-container/skiff-slant/fonts/SkiffSlant-Regular.woff2": {
-          "sha256": "15fb5a24091c33cd4643eb11c99490af6f10b8239fe61040c835254b4ff971f9",
-          "bytes": 23528
+          "sha256": "c616673e8e068491371938d3847dd2165e75b37f208b91d037d414f2276cf6c9",
+          "bytes": 23512
         }
       }
     },
@@ -128,12 +128,12 @@
       "fixed_pitch": false,
       "files": {
         "cmd-font-container/pebble-bold/fonts/PebbleBold-Regular.ttf": {
-          "sha256": "c4f06d0550a8bbfdc35dbfecb4502b4ba1547eee346d6a31c40fd798fa597d9f",
-          "bytes": 92788
+          "sha256": "aee97e2a1443f4a901d4ee81b1485253b6581279f85453a1e894980964414db1",
+          "bytes": 92792
         },
         "cmd-font-container/pebble-bold/fonts/PebbleBold-Regular.woff2": {
-          "sha256": "50cdd4b60cb003e9f7c75663c5c7d5d7e23e2cd25a30b869732a823c95032996",
-          "bytes": 23056
+          "sha256": "803735f8242d7c954e356e4ac9785742118ff79339ac61b1017105798dadae0e",
+          "bytes": 23060
         }
       }
     },
@@ -366,12 +366,12 @@
       "fixed_pitch": false,
       "files": {
         "hot-font-box/contour-ripple/fonts/ContourRipple-Regular.ttf": {
-          "sha256": "aaab38b5f7c66b51d791dd13b38d83b3e4d3ebd4981708333b744b959b462f29",
-          "bytes": 502028
+          "sha256": "c734afe7ab186a0f7462a8a52371afebc23c5dbbd52d0b33b32f847c611c214a",
+          "bytes": 502036
         },
         "hot-font-box/contour-ripple/fonts/ContourRipple-Regular.woff2": {
-          "sha256": "b6716d450cb90f98f3db7589f7ac739a1f0857f858d90f3706006aa86fbad460",
-          "bytes": 99832
+          "sha256": "fb9ed81f9f244b8bf6b821e27b6159bfdeabbd480217e3304d6f1f9a21fb2cf6",
+          "bytes": 100304
         }
       }
     },
@@ -400,12 +400,12 @@
       "fixed_pitch": false,
       "files": {
         "cachemonic/wave-warp/fonts/WaveWarp-Regular.ttf": {
-          "sha256": "6260c06117dfa042d66952cabad16cb0fee035261ff9177a1496fe91fba3ab0a",
-          "bytes": 126672
+          "sha256": "e9a0e91fa3990734020ef3eaeac67e9d197506644ebbb2706f7dbb201cfd1119",
+          "bytes": 126668
         },
         "cachemonic/wave-warp/fonts/WaveWarp-Regular.woff2": {
-          "sha256": "6e4528807d22c0a20bcbab8dcee1c5514c0df76efe3e4f559a7c57fd8bcb3a60",
-          "bytes": 31896
+          "sha256": "3bc3961a810032d4e34449e5e29df9f17f94978cdf41bf560cf4f86763b1c22a",
+          "bytes": 31784
         }
       }
     },
@@ -553,12 +553,12 @@
       "fixed_pitch": false,
       "files": {
         "cachemonic/gravel-grit/fonts/GravelGrit-Regular.ttf": {
-          "sha256": "d8dde04dad1d3c45b50422eafe76a3e6cadff87591bcf09f51c9a529ceeba5f0",
-          "bytes": 441960
+          "sha256": "1e980412fc7dde8e7435c0727ca53acc80fc1a71a18f2dae264a331b6db665e7",
+          "bytes": 441964
         },
         "cachemonic/gravel-grit/fonts/GravelGrit-Regular.woff2": {
-          "sha256": "1c905d87b6e86d46a66e3a5e627eb5e2d1217d9de3964099e17ca6eff9f85d88",
-          "bytes": 77864
+          "sha256": "6aec9526ec3f13150172e45d137190bb4dde9cd926a4ac804503143abc0ef947",
+          "bytes": 78032
         }
       }
     },
