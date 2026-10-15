@@ -1,0 +1,86 @@
+name: Fourth and Sixth Cohort verification
+
+on:
+  pull_request:
+    paths:
+      - '.github/workflows/fourth-sixth-cohorts.yml'
+      - 'requirements-original-trio.txt'
+      - 'tools/fourth_cohort/**'
+      - 'tools/sixth_cohort/**'
+      - 'docs/fourth-cohort-*'
+      - 'docs/sixth-cohort-*'
+  push:
+    branches: [main, 'fourth-cohort-*', 'sixth-cohort-*']
+    paths:
+      - '.github/workflows/fourth-sixth-cohorts.yml'
+      - 'requirements-original-trio.txt'
+      - 'tools/fourth_cohort/**'
+      - 'tools/sixth_cohort/**'
+      - 'docs/fourth-cohort-*'
+      - 'docs/sixth-cohort-*'
+      - 'cachemonic/**'
+      - 'cmd-font-container/**'
+      - 'hot-font-box/**'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: fourth-sixth-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  verify:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 30
+    strategy:
+      fail-fast: false
+      matrix:
+        cohort: [fourth, sixth]
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5
+        with:
+          python-version: '3.12'
+      - name: Install pinned build dependencies and OTS
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y --no-install-recommends libfreetype6 opentype-sanitizer
+          python -m pip install -r requirements-original-trio.txt
+      # Do not rebuild before verification: stale committed exports must fail.
+      - name: Verify committed fonts, reproducibility and mandatory OTS
+        run: python tools/fourth_cohort/verify.py --cohort ${{ matrix.cohort }} --require-ots --report "$RUNNER_TEMP/${{ matrix.cohort }}-verification.json"
+      - name: Confirm verification left the checkout unchanged
+        run: |
+          git diff --exit-code
+          test -z "$(git ls-files --others --exclude-standard)"
+
+  # Hosted Ubuntu output is the reference: curve geometry can differ by a unit between
+  # operating systems, so committed fonts are taken from this artifact.
+  build:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5
+        with:
+          python-version: '3.12'
+      - name: Install pinned build dependencies
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y --no-install-recommends libfreetype6
+          python -m pip install -r requirements-original-trio.txt
+      - name: Build both cohorts into a separate directory
+        run: |
+          python tools/fourth_cohort/cohort.py --output "$RUNNER_TEMP/built"
+          python tools/sixth_cohort/cohort.py --output "$RUNNER_TEMP/built"
+      - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4.6.2
+        with:
+          name: built-fonts
+          path: ${{ runner.temp }}/built
+          if-no-files-found: error

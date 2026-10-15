@@ -1,0 +1,617 @@
+{
+  "schema": 1,
+  "families": [
+    {
+      "family": "Lathe Round",
+      "version": "1.000",
+      "codepoints": 254,
+      "glyphs": 255,
+      "fixed_pitch": false,
+      "files": {
+        "cmd-font-container/lathe-round/fonts/LatheRound-Regular.ttf": {
+          "sha256": "4fec31599e6d92454dbbba5bad1f839aa47c560b21c5e3a478bc49e427dd90a8",
+          "bytes": 95612
+        },
+        "cmd-font-container/lathe-round/fonts/LatheRound-Regular.woff2": {
+          "sha256": "f98f9f5107b5b361596170de8ce2be7ed2e48063b2ecec83a59284a750752495",
+          "bytes": 20624
+        }
+      }
+    },
+    {
+      "family": "Rivet Condensed",
+      "version": "1.000",
+      "codepoints": 254,
+      "glyphs": 255,
+      "fixed_pitch": false,
+      "files": {
+        "cmd-font-container/rivet-condensed/fonts/RivetCondensed-Regular.ttf": {
+          "sha256": "694705b1e213a87eb3ce0872b1a36b57475cb6faf6d1a4daea29017de6958738",
+          "bytes": 28092
+        },
+        "cmd-font-container/rivet-condensed/fonts/RivetCondensed-Regular.woff2": {
+          "sha256": "0b573498b2aceb6a85a15f6e8a87127d535c6187cd7af325c0afcca2fb85f211",
+          "bytes": 10180
+        }
+      }
+    },
+    {
+      "family": "Spindle Stencil",
+      "version": "1.000",
+      "codepoints": 254,
+      "glyphs": 255,
+      "fixed_pitch": false,
+      "files": {
+        "hot-font-box/spindle-stencil/fonts/SpindleStencil-Regular.ttf": {
+          "sha256": "e5479b29c8234a9c931bc53b073e2b80a5c29a9ba1e20dd36d73c5f15b7dacc3",
+          "bytes": 72056
+        },
+        "hot-font-box/spindle-stencil/fonts/SpindleStencil-Regular.woff2": {
+          "sha256": "d3ca0a86ae554f49014b747e77417a28cde69d9836340763196f0f36b6169b78",
+          "bytes": 19912
+        }
+      }
+    },
+    {
+      "family": "Cleat Inline",
+      "version": "1.000",
+      "codepoints": 254,
+      "glyphs": 255,
+      "fixed_pitch": false,
+      "files": {
+        "hot-font-box/cleat-inline/fonts/CleatInline-Regular.ttf": {
+          "sha256": "d22fb8bd83c6e01965dd8160cc6039e009b6d10ab314be8759abd5db5d64ae4c",
+          "bytes": 37960
+        },
+        "hot-font-box/cleat-inline/fonts/CleatInline-Regular.woff2": {
+          "sha256": "bc1ee1bcc62fa4c6b2efc0c45eb33582468db7018228429834ce03fcff899dd9",
+          "bytes": 14300
+        }
+      }
+    },
+    {
+      "family": "Slip Echo",
+      "version": "1.000",
+      "codepoints": 254,
+      "glyphs": 255,
+      "fixed_pitch": false,
+      "files": {
+        "cachemonic/slip-echo/fonts/SlipEcho-Regular.ttf": {
+          "sha256": "0adfa7362d5f2caeea19d60bbe8ecc412eaee827b3d6d8f52219e9380070ea08",
+          "bytes": 178188
+        },
+        "cachemonic/slip-echo/fonts/SlipEcho-Regular.woff2": {
+          "sha256": "a9b4eb27dde438ac1fa129eaf21119db533345730a62970f636342b0494c7ea2",
+          "bytes": 34908
+        }
+      }
+    },
+    {
+      "family": "Fault Line",
+      "version": "1.000",
+      "codepoints": 254,
+      "glyphs": 255,
+      "fixed_pitch": false,
+      "files": {
+        "cachemonic/fault-line/fonts/FaultLine-Regular.ttf": {
+          "sha256": "4f06830c48e5b123178cefecc2e2d5582bf1708ff7886ca98fb207f14152e1aa",
+          "bytes": 32996
+        },
+        "cachemonic/fault-line/fonts/FaultLine-Regular.woff2": {
+          "sha256": "bf2cacc03263664576346d525ec9495d8a1a3c5954c47b1b7a5b502bf66bd4de",
+          "bytes": 12152
+        }
+      }
+    },
+    {
+      "family": "Skiff Slant",
+      "version": "1.000",
+      "codepoints": 254,
+      "glyphs": 255,
+      "fixed_pitch": false,
+      "files": {
+        "cmd-font-container/skiff-slant/fonts/SkiffSlant-Regular.ttf": {
+          "sha256": "f14c37697f7b6f109a100683534a9882107892108d672da506d11216d74f848f",
+          "bytes": 95796
+        },
+        "cmd-font-container/skiff-slant/fonts/SkiffSlant-Regular.woff2": {
+          "sha256": "c616673e8e068491371938d3847dd2165e75b37f208b91d037d414f2276cf6c9",
+          "bytes": 23512
+        }
+      }
+    },
+    {
+      "family": "Pebble Bold",
+      "version": "1.000",
+      "codepoints": 254,
+      "glyphs": 255,
+      "fixed_pitch": false,
+      "files": {
+        "cmd-font-container/pebble-bold/fonts/PebbleBold-Regular.ttf": {
+          "sha256": "aee97e2a1443f4a901d4ee81b1485253b6581279f85453a1e894980964414db1",
+          "bytes": 92792
+        },
+        "cmd-font-container/pebble-bold/fonts/PebbleBold-Regular.woff2": {
+          "sha256": "803735f8242d7c954e356e4ac9785742118ff79339ac61b1017105798dadae0e",
+          "bytes": 23060
+        }
+      }
+    },
+    {
+      "family": "Gantry Light",
+      "version": "1.000",
+      "codepoints": 254,
+      "glyphs": 255,
+      "fixed_pitch": false,
+      "files": {
+        "cmd-font-container/gantry-light/fonts/GantryLight-Regular.ttf": {
+          "sha256": "3200d965257690bb258ec086c50ce1c92d2b697c06c068c1677b4ff28c594549",
+          "bytes": 28656
+        },
+        "cmd-font-container/gantry-light/fonts/GantryLight-Regular.woff2": {
+          "sha256": "a792b59a2aba5872a622c52a3d0572571f8276d6f3a1c19410f406de1edd7127",
+          "bytes": 10408
+        }
+      }
+    },
+    {
+      "family": "Girder Mono",
+      "version": "1.000",
+      "codepoints": 254,
+      "glyphs": 255,
+      "fixed_pitch": true,
+      "files": {
+        "cmd-font-container/girder-mono/fonts/GirderMono-Regular.ttf": {
+          "sha256": "415efc6195fff4111c7c27223b8ce7478cf2e089bc51073c4a3356b9013ff222",
+          "bytes": 26240
+        },
+        "cmd-font-container/girder-mono/fonts/GirderMono-Regular.woff2": {
+          "sha256": "50da225f94bf2f12322e38b51a5a2d500bec1742005b25ebea90344a0e48314b",
+          "bytes": 8772
+        }
+      }
+    },
+    {
+      "family": "Bobbin Outline",
+      "version": "1.000",
+      "codepoints": 254,
+      "glyphs": 255,
+      "fixed_pitch": false,
+      "files": {
+        "hot-font-box/bobbin-outline/fonts/BobbinOutline-Regular.ttf": {
+          "sha256": "aa0c72cb225639b8df776502e9fb21c8b905ba67c5c9e11e30d6352c3b9e995a",
+          "bytes": 197120
+        },
+        "hot-font-box/bobbin-outline/fonts/BobbinOutline-Regular.woff2": {
+          "sha256": "14123cb53a0e76bd15524bf52c5d4530ee7f6036d129f8fa669bccc3e29ccaf6",
+          "bytes": 43192
+        }
+      }
+    },
+    {
+      "family": "Ingot Shadow",
+      "version": "1.000",
+      "codepoints": 254,
+      "glyphs": 255,
+      "fixed_pitch": false,
+      "files": {
+        "hot-font-box/ingot-shadow/fonts/IngotShadow-Regular.ttf": {
+          "sha256": "7f2389beffb8008c4379665b8b45df21ae87516c2f0ab76882a1f03b760d9d54",
+          "bytes": 55684
+        },
+        "hot-font-box/ingot-shadow/fonts/IngotShadow-Regular.woff2": {
+          "sha256": "218fa7b719d9a5b6ca6bcae350b24dd8942be79b95b6b8a6ba24f4fa9a5b9c63",
+          "bytes": 17964
+        }
+      }
+    },
+    {
+      "family": "Slab Brick",
+      "version": "1.000",
+      "codepoints": 254,
+      "glyphs": 255,
+      "fixed_pitch": false,
+      "files": {
+        "hot-font-box/slab-brick/fonts/SlabBrick-Regular.ttf": {
+          "sha256": "f66b2709f8848b3371b155549105c941a347efaa353c324c9ae0ac823edfdaa7",
+          "bytes": 26468
+        },
+        "hot-font-box/slab-brick/fonts/SlabBrick-Regular.woff2": {
+          "sha256": "dff104f63425d51205ccc094e068055efd1e0276241da030082a5e899a7267cc",
+          "bytes": 9296
+        }
+      }
+    },
+    {
+      "family": "Raster Slit",
+      "version": "1.000",
+      "codepoints": 254,
+      "glyphs": 255,
+      "fixed_pitch": false,
+      "files": {
+        "cachemonic/raster-slit/fonts/RasterSlit-Regular.ttf": {
+          "sha256": "3cdd3d7d59325a3885d64d301e5c22fade3bbd4352c1251e672eb47ad91e6f53",
+          "bytes": 124912
+        },
+        "cachemonic/raster-slit/fonts/RasterSlit-Regular.woff2": {
+          "sha256": "aed5e3f5aca5cb529aeb551632c6c48b8b973a6f509446d38188260aae81292d",
+          "bytes": 31992
+        }
+      }
+    },
+    {
+      "family": "Band Slip",
+      "version": "1.000",
+      "codepoints": 254,
+      "glyphs": 255,
+      "fixed_pitch": false,
+      "files": {
+        "cachemonic/band-slip/fonts/BandSlip-Regular.ttf": {
+          "sha256": "9023b3f118cb69991e94d234b377647b02a3c905e364d98b90421813f59f4fd9",
+          "bytes": 45412
+        },
+        "cachemonic/band-slip/fonts/BandSlip-Regular.woff2": {
+          "sha256": "6e4168ab97db1469ec36d9f839b6fcdbaafb6ba5761da551e2507dce13b290af",
+          "bytes": 14720
+        }
+      }
+    },
+    {
+      "family": "Punch Card",
+      "version": "1.000",
+      "codepoints": 254,
+      "glyphs": 255,
+      "fixed_pitch": false,
+      "files": {
+        "cachemonic/punch-card/fonts/PunchCard-Regular.ttf": {
+          "sha256": "f309e4d1017d3a8b88d45ae3bb5a6bc2b3e1f78d34c35009d3bc497f621da033",
+          "bytes": 1585356
+        },
+        "cachemonic/punch-card/fonts/PunchCard-Regular.woff2": {
+          "sha256": "fe3e97d41b8dcc1564c52ca4d8da23a7f7ee66e368bf8621f81dde5f8686c910",
+          "bytes": 49480
+        }
+      }
+    },
+    {
+      "family": "Quantum Step",
+      "version": "1.000",
+      "codepoints": 254,
+      "glyphs": 255,
+      "fixed_pitch": false,
+      "files": {
+        "cachemonic/quantum-step/fonts/QuantumStep-Regular.ttf": {
+          "sha256": "3753b631dfb6bbcefb04e022104ace69cb8efc669958cdd96c6575a8f92f5483",
+          "bytes": 32448
+        },
+        "cachemonic/quantum-step/fonts/QuantumStep-Regular.woff2": {
+          "sha256": "48dbccf511023953e04d98c3b23f987d78a5ad63ab32015e6f65220471d816b6",
+          "bytes": 9104
+        }
+      }
+    },
+    {
+      "family": "Hatch Block",
+      "version": "1.000",
+      "codepoints": 254,
+      "glyphs": 255,
+      "fixed_pitch": false,
+      "files": {
+        "cachemonic/hatch-block/fonts/HatchBlock-Regular.ttf": {
+          "sha256": "3117fb0719bc85bb3162cbea4a6944b9ef54a61a8af2a6c5d30a21913376de43",
+          "bytes": 101732
+        },
+        "cachemonic/hatch-block/fonts/HatchBlock-Regular.woff2": {
+          "sha256": "6d94b918fbcb771f5a4d9bbf562d68bc53cf11e549fd9814eff36b67650e23d8",
+          "bytes": 27856
+        }
+      }
+    },
+    {
+      "family": "Ferrule Regular",
+      "version": "1.000",
+      "codepoints": 254,
+      "glyphs": 255,
+      "fixed_pitch": false,
+      "files": {
+        "cmd-font-container/ferrule-regular/fonts/FerruleRegular-Regular.ttf": {
+          "sha256": "f80e467a9c9c420c195d893f4a0118cd543dda3e9e481579a064de26cb5a6ecf",
+          "bytes": 73292
+        },
+        "cmd-font-container/ferrule-regular/fonts/FerruleRegular-Regular.woff2": {
+          "sha256": "c489313d8e4873957f3667a7482329b9626cf4a0a25efdd2c94d7d7f2608516e",
+          "bytes": 19552
+        }
+      }
+    },
+    {
+      "family": "Tallow Condensed",
+      "version": "1.000",
+      "codepoints": 254,
+      "glyphs": 255,
+      "fixed_pitch": false,
+      "files": {
+        "cmd-font-container/tallow-condensed/fonts/TallowCondensed-Regular.ttf": {
+          "sha256": "531653f78a3d3220c212b4aa3e8268dbcac4ec36c311ccb2a03f5d59cceba7cf",
+          "bytes": 58680
+        },
+        "cmd-font-container/tallow-condensed/fonts/TallowCondensed-Regular.woff2": {
+          "sha256": "b07ab0d83714a544a8a9f01488f26b278d99a153dabc5d5f2189529e7518ee55",
+          "bytes": 13988
+        }
+      }
+    },
+    {
+      "family": "Pillow Block",
+      "version": "1.000",
+      "codepoints": 254,
+      "glyphs": 255,
+      "fixed_pitch": false,
+      "files": {
+        "hot-font-box/pillow-block/fonts/PillowBlock-Regular.ttf": {
+          "sha256": "eda45e88488a84447821907e340ddc12ff2d652c322ca902d2c4b72ce3a0463c",
+          "bytes": 69200
+        },
+        "hot-font-box/pillow-block/fonts/PillowBlock-Regular.woff2": {
+          "sha256": "a0107881bc078b009adbd01f7844dfabd8137aed959fecae299b0f4fc7345fc2",
+          "bytes": 14812
+        }
+      }
+    },
+    {
+      "family": "Contour Ripple",
+      "version": "1.000",
+      "codepoints": 254,
+      "glyphs": 255,
+      "fixed_pitch": false,
+      "files": {
+        "hot-font-box/contour-ripple/fonts/ContourRipple-Regular.ttf": {
+          "sha256": "c734afe7ab186a0f7462a8a52371afebc23c5dbbd52d0b33b32f847c611c214a",
+          "bytes": 502036
+        },
+        "hot-font-box/contour-ripple/fonts/ContourRipple-Regular.woff2": {
+          "sha256": "fb9ed81f9f244b8bf6b821e27b6159bfdeabbd480217e3304d6f1f9a21fb2cf6",
+          "bytes": 100304
+        }
+      }
+    },
+    {
+      "family": "Comb Cut",
+      "version": "1.000",
+      "codepoints": 254,
+      "glyphs": 255,
+      "fixed_pitch": false,
+      "files": {
+        "cachemonic/comb-cut/fonts/CombCut-Regular.ttf": {
+          "sha256": "18356482074e396c99961bace194845acdae1987b79078f28cf2fd398be29517",
+          "bytes": 42192
+        },
+        "cachemonic/comb-cut/fonts/CombCut-Regular.woff2": {
+          "sha256": "a149e6a28c1bf45eaac402118f5f7da0956d90b2edbc2cba0ada32f71549f4da",
+          "bytes": 15452
+        }
+      }
+    },
+    {
+      "family": "Wave Warp",
+      "version": "1.000",
+      "codepoints": 254,
+      "glyphs": 255,
+      "fixed_pitch": false,
+      "files": {
+        "cachemonic/wave-warp/fonts/WaveWarp-Regular.ttf": {
+          "sha256": "e9a0e91fa3990734020ef3eaeac67e9d197506644ebbb2706f7dbb201cfd1119",
+          "bytes": 126668
+        },
+        "cachemonic/wave-warp/fonts/WaveWarp-Regular.woff2": {
+          "sha256": "3bc3961a810032d4e34449e5e29df9f17f94978cdf41bf560cf4f86763b1c22a",
+          "bytes": 31784
+        }
+      }
+    },
+    {
+      "family": "Plinth Slab",
+      "version": "1.000",
+      "codepoints": 254,
+      "glyphs": 255,
+      "fixed_pitch": false,
+      "files": {
+        "cmd-font-container/plinth-slab/fonts/PlinthSlab-Regular.ttf": {
+          "sha256": "cfafbb7e700ad88de4f2f379a03658b2f391441517feeee0b797024c5a41e4f9",
+          "bytes": 56352
+        },
+        "cmd-font-container/plinth-slab/fonts/PlinthSlab-Regular.woff2": {
+          "sha256": "11f8a118a11d1a2566b6dbd404b6078369439e6ece4a4bf18673c1f7042ca680",
+          "bytes": 17836
+        }
+      }
+    },
+    {
+      "family": "Plinth Mono",
+      "version": "1.000",
+      "codepoints": 254,
+      "glyphs": 255,
+      "fixed_pitch": true,
+      "files": {
+        "cmd-font-container/plinth-mono/fonts/PlinthMono-Regular.ttf": {
+          "sha256": "c4fd96912feddc3655031b27c27f6ba2edcce721aedebb3edadc25bc62bd21bb",
+          "bytes": 55836
+        },
+        "cmd-font-container/plinth-mono/fonts/PlinthMono-Regular.woff2": {
+          "sha256": "b9897f4c52296445ff5733bf94a93e2efc1feee230b4b934a4cb677dd7c364fb",
+          "bytes": 16560
+        }
+      }
+    },
+    {
+      "family": "Stride Wide",
+      "version": "1.000",
+      "codepoints": 254,
+      "glyphs": 255,
+      "fixed_pitch": false,
+      "files": {
+        "cmd-font-container/stride-wide/fonts/StrideWide-Regular.ttf": {
+          "sha256": "01387075f1523c1868f3ef9fbf05c7027cc330dd5a09492e6267521586de3012",
+          "bytes": 95580
+        },
+        "cmd-font-container/stride-wide/fonts/StrideWide-Regular.woff2": {
+          "sha256": "3d0bad446df2c9f56629ded676610f3e800f5f7d335d0e4c87cc1631688a8de2",
+          "bytes": 23196
+        }
+      }
+    },
+    {
+      "family": "Tendon Backslant",
+      "version": "1.000",
+      "codepoints": 254,
+      "glyphs": 255,
+      "fixed_pitch": false,
+      "files": {
+        "cmd-font-container/tendon-backslant/fonts/TendonBackslant-Regular.ttf": {
+          "sha256": "ab7e1b40f6993ccfb8dc3162b7ba168dde296027f0582079738566c1ad72798f",
+          "bytes": 28944
+        },
+        "cmd-font-container/tendon-backslant/fonts/TendonBackslant-Regular.woff2": {
+          "sha256": "e330ac1523dc82590274d252c181d2930b7ccbf75accc0e8b3291c168aa7ffdd",
+          "bytes": 10508
+        }
+      }
+    },
+    {
+      "family": "Anvil Slab",
+      "version": "1.000",
+      "codepoints": 254,
+      "glyphs": 255,
+      "fixed_pitch": false,
+      "files": {
+        "hot-font-box/anvil-slab/fonts/AnvilSlab-Regular.ttf": {
+          "sha256": "b08bc855528b42aee811124ceac8b0bd95842ff695552797ee4e11d0c1b961e1",
+          "bytes": 55348
+        },
+        "hot-font-box/anvil-slab/fonts/AnvilSlab-Regular.woff2": {
+          "sha256": "d294a729ce61bbb52fb098b5f45bcf4ac2f079c2bda4c3940513560698f1b072",
+          "bytes": 18528
+        }
+      }
+    },
+    {
+      "family": "Anvil Twin",
+      "version": "1.000",
+      "codepoints": 254,
+      "glyphs": 255,
+      "fixed_pitch": false,
+      "files": {
+        "hot-font-box/anvil-twin/fonts/AnvilTwin-Regular.ttf": {
+          "sha256": "ceedfc57b7406f85c1b18104a9a1cf187c5c6527029a3ae0a9eef725d3977bda",
+          "bytes": 99780
+        },
+        "hot-font-box/anvil-twin/fonts/AnvilTwin-Regular.woff2": {
+          "sha256": "ae85eda9364ae3e4ab4b9f0e6b656253cc23b67e1df92aee2d49c2b0abad6314",
+          "bytes": 31696
+        }
+      }
+    },
+    {
+      "family": "Cantilever Shadow",
+      "version": "1.000",
+      "codepoints": 254,
+      "glyphs": 255,
+      "fixed_pitch": false,
+      "files": {
+        "hot-font-box/cantilever-shadow/fonts/CantileverShadow-Regular.ttf": {
+          "sha256": "209aa657302e7f88535bea28ab0b20dea6e8f19789950abe7dd30ae71567ea57",
+          "bytes": 36480
+        },
+        "hot-font-box/cantilever-shadow/fonts/CantileverShadow-Regular.woff2": {
+          "sha256": "08fb06a0ee29592384a7862fcf73a5b653794bb622a2195f9cc4336a612cec93",
+          "bytes": 13636
+        }
+      }
+    },
+    {
+      "family": "Girth Block",
+      "version": "1.000",
+      "codepoints": 254,
+      "glyphs": 255,
+      "fixed_pitch": false,
+      "files": {
+        "hot-font-box/girth-block/fonts/GirthBlock-Regular.ttf": {
+          "sha256": "5e12d0cd0f2abd0b8dcb7afcc6f9361adb368ed025dc0325659b2f91f9e3d339",
+          "bytes": 26592
+        },
+        "hot-font-box/girth-block/fonts/GirthBlock-Regular.woff2": {
+          "sha256": "a8a86c6a8158e3d8399a381d44b8f318a8d5dfc55a03f07723534f4c6edd0942",
+          "bytes": 9340
+        }
+      }
+    },
+    {
+      "family": "Gravel Grit",
+      "version": "1.000",
+      "codepoints": 254,
+      "glyphs": 255,
+      "fixed_pitch": false,
+      "files": {
+        "cachemonic/gravel-grit/fonts/GravelGrit-Regular.ttf": {
+          "sha256": "1e980412fc7dde8e7435c0727ca53acc80fc1a71a18f2dae264a331b6db665e7",
+          "bytes": 441964
+        },
+        "cachemonic/gravel-grit/fonts/GravelGrit-Regular.woff2": {
+          "sha256": "6aec9526ec3f13150172e45d137190bb4dde9cd926a4ac804503143abc0ef947",
+          "bytes": 78032
+        }
+      }
+    },
+    {
+      "family": "Misprint Duo",
+      "version": "1.000",
+      "codepoints": 254,
+      "glyphs": 255,
+      "fixed_pitch": false,
+      "files": {
+        "cachemonic/misprint-duo/fonts/MisprintDuo-Regular.ttf": {
+          "sha256": "eab7a27089327b0708e55eef6da5a413586e42dd13073daec33f076fe8c0a911",
+          "bytes": 106272
+        },
+        "cachemonic/misprint-duo/fonts/MisprintDuo-Regular.woff2": {
+          "sha256": "fa9ce7082165245242ff403359df5bb8544cf3424041c5ded451ade5128de55c",
+          "bytes": 30192
+        }
+      }
+    },
+    {
+      "family": "Saw Warp",
+      "version": "1.000",
+      "codepoints": 254,
+      "glyphs": 255,
+      "fixed_pitch": false,
+      "files": {
+        "cachemonic/saw-warp/fonts/SawWarp-Regular.ttf": {
+          "sha256": "cf2dfe8ec7870eac7fad106331771b3ed1f1c7554525b8736c41b84ec32a773c",
+          "bytes": 115764
+        },
+        "cachemonic/saw-warp/fonts/SawWarp-Regular.woff2": {
+          "sha256": "0ae3842175d5e4ce956679beb7735b3d55e528942bf7e80807619f3756bfaaab",
+          "bytes": 28324
+        }
+      }
+    },
+    {
+      "family": "Pixel Cell",
+      "version": "1.000",
+      "codepoints": 254,
+      "glyphs": 255,
+      "fixed_pitch": false,
+      "files": {
+        "cachemonic/pixel-cell/fonts/PixelCell-Regular.ttf": {
+          "sha256": "1109b94550f45ad87632c72130283290704df311c01acbf25cb056a33c67bd95",
+          "bytes": 40828
+        },
+        "cachemonic/pixel-cell/fonts/PixelCell-Regular.woff2": {
+          "sha256": "19858633a4a02bb8affc0eabd05f8985b54c17f4732bd9221ec821504c375cc4",
+          "bytes": 9252
+        }
+      }
+    }
+  ]
+}
