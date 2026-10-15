@@ -1,0 +1,3 @@
+# Fifth Cohort inherits the existing pinned font and browser toolchain.
+-r requirements-original-trio.txt
+-r requirements-original-trio-browser.txt

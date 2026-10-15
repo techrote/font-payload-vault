@@ -19,3 +19,12 @@ A demonic cache is the right home for things you can't stop poking at.
 - [eddy-notch](eddy-notch/) — original source, two compiled formats, specimen, design and utility notes.
 - [carbon-check](carbon-check/) — original source, two compiled formats, specimen, design and utility notes.
 - [checksum-haze](checksum-haze/) — original source, two compiled formats, specimen, design and utility notes.
+
+## Fifth Cohort / 05
+
+| Family | Intent |
+|---|---|
+| [Orbit Hatch](orbit-hatch/) | Continuous letter edges enclosing diagonal engraving. |
+| [Punchloom](punchloom/) | Alternating cut modules make the letter grid look woven. |
+| [Flux Stitch](flux-stitch/) | Arclength dashes follow looped curves, not scan rows. |
+| [Phase Cairn](phase-cairn/) | Separated tangent-aligned stones; readable fragmentation. |
