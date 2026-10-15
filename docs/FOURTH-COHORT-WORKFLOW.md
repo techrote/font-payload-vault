@@ -49,10 +49,36 @@ Found in the 1.000 render and changed:
 - Version, name table and `head.fontRevision` are 1.100. `render.py` produces the
   proof image in the README.
 
+## Verification (Fourth and Sixth Cohorts)
+
+`tools/fourth_cohort/verify.py --cohort fourth|sixth --require-ots` ports the
+family-independent Original Trio checks: exact 254-character repertoire, outlines
+equal to the quantized master, metrics and bounds, names, FreeType TTF-versus-WOFF2
+raster parity at 16, 24 and 48 px, OTS on every TTF and WOFF2, and rebuilds under two
+hash seeds that must equal the committed bytes. The Latchline- and Diecast-specific
+tests do not apply. `.github/workflows/fourth-sixth-cohorts.yml` runs it on Ubuntu 24.04
+with OTS required, for both cohorts, and uploads an Ubuntu build as an artifact.
+
+Results at commit `44c925f`:
+
+- **Original Trio suite** (`tools/original_trio/verify.py --require-ots`): 12 tests pass,
+  including OTS. It covers only the original three families.
+- **CI:** both cohorts pass on Ubuntu 24.04 (all 7 tests, OTS required).
+- **Windows 11, GDI+:** all 39 TTFs load from a private font collection (no installation)
+  and render; see `docs/windows-gdi-render.png`.
+- **Windows 11, Chromium (DirectWrite):** all 39 WOFF2 files load through the FontFace API and
+  five offline testers report all characters present. Visual inspection was not scripted.
+
+**Byte reproducibility is per operating system.** Seven curve-based families (Lathe Round, Slip
+Echo, Skiff Slant, Pebble Bold, Contour Ripple, Wave Warp, Gravel Grit) rebuild a unit or two
+differently on Windows than on Linux, so their committed fonts, SVG proofs and the Sixth
+manifest come from the hosted Ubuntu build. Running `verify.py` on Windows therefore reports
+stale-output failures for those seven; the Ubuntu CI run is the reference.
+
 ## Not yet done
 
-- The Original Trio verification suite (`tools/original_trio/verify.py`) and its
-  browser smoke test are not extended to these families, and no CI workflow was
-  added for them. Their FreeType, OTS and reproducibility checks have not been run.
-- No Windows installation or DirectWrite/GDI acceptance, no hinting, no legibility
-  or accessibility study.
+- No installed-font Windows test (fonts were loaded privately, not installed), no
+  DirectWrite/GDI hinting comparison, and no automated browser smoke test like the
+  Original Trio's (the testers were checked with a script, not a test suite).
+- No legibility or accessibility study. In the heavy condensed families the single-storey
+  `a` is easy to read as `o` at small sizes.
